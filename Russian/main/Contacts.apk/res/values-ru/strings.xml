@@ -370,7 +370,7 @@
   <string name="menu_new_favorite_action_bar">Новый</string>
   <string name="menu_new_group_action_bar">Новая группа</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
-  <string name="menu_removeStar">Удалить из избранных</string>
+  <string name="menu_removeStar">Убрать из избранных</string>
   <string name="menu_search">Поиск</string>
   <string name="menu_sendSMS">Отправить SMS/MMS</string>
   <string name="menu_send_to_desktop">Создать ярлык</string>

@@ -70,7 +70,7 @@
   <string formatted="false" name="confirm_delete_folders_including">%s папок (включая %s)</string>
   <string name="confirm_delete_including_null">0 штук</string>
   <string name="confirm_delete_pictures">%s фотографий</string>
-  <string name="confirm_delete_system_album">%s - это системный альбом, вы уверены, что хотите удалить его?</string>
+  <string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить его?</string>
   <string name="confirm_delete_videos">%s видео</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Фото контакта</string>
