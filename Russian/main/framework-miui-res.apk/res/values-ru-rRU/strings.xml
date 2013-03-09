@@ -665,5 +665,7 @@
   <string name="experimental_validate_thanks">Спасибо!</string>
   <string name="v5_select_all">Выбрать все</string>
   <string name="experimental_validate_username">Логин Xiaomi</string>
+  <string name="emergency_call_string">Экстренные</string>
+  <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
 
 </resources>

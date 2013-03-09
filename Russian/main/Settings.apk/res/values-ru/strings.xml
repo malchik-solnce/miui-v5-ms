@@ -790,9 +790,9 @@
   <string name="error_apn_empty">Необходимо указать APN</string>
   <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры</string>
   <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
-  <string name="error_name_empty">Необходимо указать название.</string>
+  <string name="error_name_empty">Необходимо указать название</string>
   <string name="error_title">Предупреждение</string>
-  <string name="external_code_size_label">на USB-накопителе</string>
+  <string name="external_code_size_label">USB-накопитель</string>
   <string name="external_data_size_label">SD-карта</string>
   <string name="factory_reset_summary">Вы можете удалить ваши личные данные в Восстановление и сброс, или выбрать установленные приложения для удаления и отформатировать SD-карту до заводских настроек</string>
   <string name="failed_to_open_app_settings_toast">Ошибка открытия настроек для %1$s</string>
@@ -810,7 +810,7 @@
   <string name="font_size_medium">Средний</string>
   <string name="font_size_normal">Нормальный</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">Miui V4 by MS</string>
+  <string name="font_size_preview_text">Miui V5 by MS</string>
   <string name="font_size_save">ОК</string>
   <string name="font_size_small">Маленький</string>
   <string name="font_size_summary">Настройка размера шрифта в приложениях (Телефон, Сообщения, Контакты и других)</string>
@@ -2088,7 +2088,7 @@
   <string name="perm_app">Приложения</string>
   <string name="perm">Разрешения</string>
   <string name="perm_header_disabled">Управление правами отключено</string>
-  <string name="finish_application">End</string>
+  <string name="finish_application">Закрыть</string>
   <string name="device_name">Имя устройства</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
   <string name="perm_hips_phoneid_number">obtain your phone number</string>
@@ -2291,7 +2291,11 @@
   <string name="perm_version">Версия: %1$s</string>
   <string name="perm_hips_end_call">отключить текущий вызов</string>
   <string name="perm_hips_send_sms_desc">Send SMS directly</string>
-  
+  <string name="preferred_launcher_title">Рабочий стол</string>
+  <string name="preferred_launcher_warning_title">Замена рабочего стола</string>
+  <string name="preferred_launcher_warning_message">После смены рабочего стола по умолчанию, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать системный рабочий стол.</string>
+  <string name="preferred_launcher_warning_replace">Заменить</string>
+  <string name="preferred_launcher_warning_use_system">Исполь. системный</string>
   <string name="msd_install_status_done">Драйвер уже установлен</string>
   <string name="msd_install_status_undo">Установить драйвер</string>
   <string name="security_relative">Вопросы безопасности</string>
