@@ -667,5 +667,8 @@
   <string name="experimental_validate_username">Логин Xiaomi</string>
   <string name="emergency_call_string">Экстренные</string>
   <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
+  <string name="yesterday">"Вчера "</string>
+  <string name="today">"Сегодня "</string>
+  <string name="tomorrow">"Завтра "</string>
 
 </resources>

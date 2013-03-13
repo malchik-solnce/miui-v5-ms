@@ -2221,7 +2221,7 @@
   <string name="bluetooth_dun_request">DUN request</string>
   <string name="perm_hips_security_prompt_title">%1$s пытается %2$s</string>
   <string name="perm_hips">Управление правами</string>
-  <string name="perm_auto_start">Управление автозагрузкой</string>
+  <string name="perm_auto_start">Автозапуск</string>
   <string name="filter_apps_cached">Кэш</string>
   <string name="perm_clean">Очистить</string>
   <string name="perm_hips_action_reject_count">Запрещено: %1$d</string>
@@ -2301,7 +2301,7 @@
   <string name="security_relative">Вопросы безопасности</string>
   <string name="data_usage_limit_dialog_mobile">Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут.\n\nИспользование данных измеряется с помощью телефона, а Ваш оператор может объяснить использование по разному, рассмотрите возможность использования консервативного предела.</string>
   <string name="miui_device_default_name">MIUI Android</string>
-  <string name="perm_app_name">Менеджер разрешений</string>
+  <string name="perm_app_name">Суперпользователь</string>
   <string name="perm_notice">Оповещение безопасности</string>
   <string name="perm_privacy_app_trust_summary">Доверенное</string>
   <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск</string>

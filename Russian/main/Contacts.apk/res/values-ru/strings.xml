@@ -34,7 +34,7 @@
   <string name="caching_vcard_title">Кэширование</string>
   <string name="callBack">Перезвонить</string>
   <string name="callDetailTitle">Сведения о вызове</string>
-  <string formatted="false" name="callDetailsDurationFormat">%s:%s</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
   <string name="callNoAnswerTimeFormat">%s звонков</string>
   <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
   <string name="call_assistant">Вызов: %s</string>

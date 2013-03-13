@@ -74,6 +74,7 @@
   <string name="low_battery_message_title">Низкий заряд батареи</string>
   <string name="low_battery_warning">Неожиданное отключение может привести к потере записи. Рекомендуется записывать при полной зарядке.</string>
   <string name="status_bar_recording">Запись...</string>
+  <string name="status_bar_recording_pause">Запись остановлена</string>
   <string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
   <string name="record_loading">Загрузка записей. Пожалуйста, подождите...</string>
 

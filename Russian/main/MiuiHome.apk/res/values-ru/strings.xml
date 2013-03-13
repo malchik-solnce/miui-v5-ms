@@ -238,7 +238,7 @@
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_ring">Звонок</string>
   <string name="status_bar_toggle_ringtone">Мелодия</string>
-  <string name="status_bar_toggle_rotate">Переворот</string>
+  <string name="status_bar_toggle_rotate">Поворот</string>
   <string name="status_bar_toggle_screen_button">Кнопки</string>
   <string name="status_bar_toggle_screenshot">Скриншот</string>
   <string name="status_bar_toggle_shutdown">Выключение</string>
@@ -251,7 +251,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
   <string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
-  <string name="uninstall_dialog_message">Удаление удалит все данные</string>
+  <string name="uninstall_dialog_message">Вы уверены, что хотите удалить это приложение?</string>
   <string name="uninstall_dialog_title_format">Удаление \"%s\"</string>
 
 </resources>
