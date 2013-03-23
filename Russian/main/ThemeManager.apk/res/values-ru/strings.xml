@@ -37,8 +37,8 @@
   <string name="long_ringtone_resource">Длинные</string>
   <string name="menu_refresh">Обновить</string>
   <string name="play_all_audio_effect">Воспроизведение аудио (всего: %1$s)</string>
-  <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
-  <string name="resource_comment_count">Рейтинг: %1$s и Комментарии: %2$s (Версия: %3$s)</string>
+  <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
+  <string name="resource_comment_count">Рейтинг: %1$s Комм.: %2$s (версия: %3$s)</string>
   <string name="resource_comment_description">%1$s комментарий %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Добавить комментарий</string>
   <string name="resource_comment_edit_comment_waiting">Проверка ваших ответов к этой теме</string>
@@ -77,17 +77,17 @@
   <string name="theme_component_title_font">Шрифты</string>
   <string name="theme_component_title_framework">Система</string>
   <string name="theme_component_title_icon">Иконки</string>
-  <string name="theme_component_title_launcher">Лаунчер</string>
+  <string name="theme_component_title_launcher">Лончер</string>
   <string name="theme_component_title_lockstyle">Локскрин</string>
   <string name="theme_component_title_lockwallpaper">Обои локскрина</string>
-  <string name="theme_component_title_mms">Стиль переписки</string>
+  <string name="theme_component_title_mms">Сообщения</string>
   <string name="theme_component_title_notification">Уведомление</string>
   <string name="theme_component_title_others">Прочее</string>
   <string name="theme_component_title_photo_frame">Фоторамка</string>
   <string name="theme_component_title_ringtone">Рингтон</string>
-  <string name="theme_component_title_statusbar">Статус-бар</string>
+  <string name="theme_component_title_statusbar">Панель</string>
   <string name="theme_component_title_wallpaper">Обои</string>
-  <string name="theme_description_title_customized">Пользователя</string>
+  <string name="theme_description_title_customized">Пользов.</string>
   <string name="theme_description_title_default">По умолчанию</string>
   <string name="theme_format_wrong_content">Неверный формат темы</string>
   <string name="theme_import">Импорт</string>
@@ -151,7 +151,7 @@
   <string name="resource_importing">Импортирование</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
   <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-  <string name="mi_wallpaper_title">Обои Mi</string>
+  <string name="mi_wallpaper_title">Mi обои</string>
   <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
   <string name="description_designer">Дизайнер:</string>
   <string name="loading_resource_detail_info">Загрузка сведений...</string>
@@ -162,4 +162,7 @@
   <string name="download_failed">Ошибка скачивания</string>
   <string name="resource_select">Выбрать</string>
   <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
+  <string name="theme_component_title_alarmstyle">Будильник</string>
+  <string name="resource_list_title">Последние темы</string>
+  <string name="resource_notification_default">Уведомл.</string>
 </resources>

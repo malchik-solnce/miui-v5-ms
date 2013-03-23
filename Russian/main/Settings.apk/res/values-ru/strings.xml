@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="about_settings">Сведения о телефоне</string>
+  <string name="about_settings">О телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
   <string name="ac_privacy_mode_sum">Введите пароль доступа для отключения защищенного режима</string>
@@ -41,7 +41,7 @@
   <string name="accessibility_service_state_off">Отключено</string>
   <string name="accessibility_service_state_on">Включено</string>
   <string name="accessibility_services_title">Службы</string>
-  <string name="accessibility_settings">Специальные возможности</string>
+  <string name="accessibility_settings">Спец. возможности</string>
   <string name="accessibility_settings_title">Настройки специальных возможностей</string>
   <string name="accessibility_speak_password_title">Озвучивать пароли</string>
   <string name="accessibility_sync_disabled">Синхронизация отключена</string>
@@ -1925,7 +1925,7 @@
   <string name="wifi_p2p_wps_setup">WPS</string>
   <string name="wifi_password">Пароль</string>
   <string name="wifi_poor_network_detection">Избегать плохой связи</string>
-  <string name="wifi_poor_network_detection_summary">"Не использовать Wi-Fi сеть пока будет стабильного соединения с Интернет"</string>
+  <string name="wifi_poor_network_detection_summary">"Не использовать Wi-Fi сеть пока не будет стабильного соединения с Интернет"</string>
   <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Сохранено</string>
@@ -2313,5 +2313,8 @@
   <string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность.\nВы уверены, что хотите отключить?</string>
   <string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически. Возможны потребления траффика и батареи.\nРазрешить автозапуск/</string>
   <string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
-  
+  <string name="device_name_input_hint">Введите имя вашего устройства</string>
+  <string name="device_edit_title">Сменить имя устройства</string>
+  <string name="device_name_usage_point">Показывать имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
+  <string name="bluetooth_device_searchable">Включено обнаружение</string>
 </resources>

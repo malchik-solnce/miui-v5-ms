@@ -20,7 +20,7 @@
   <string name="sim_card_detection_label">Поиск SIM-карты</string>
   <string name="sim_card_detection_status_absent">SIM-карта не доступна. Пожалуйста, вставьте SIM-карту и перезагрузитесь или продолжите.</string>
   <string name="traffic_protection_label">Регулировка трафика</string>
-  <string name="traffic_protection_summary">Регулировка трафика напомнит Вам, когда трафик в вашем тарифном плане закончился</string>
+  <string name="traffic_protection_summary">Регулировка трафика напомнит Вам, когда трафик в Вашем тарифном плане закончился</string>
   <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика</string>
   <string name="traffic_protection_unknown">Я не знаю. Введу потом.</string>
   
@@ -28,5 +28,10 @@
   <string name="data_usage_summary">Если Вы еще не настроили предел трафика, рекомендуется отключить использование данных. В противном случаи, Ваш оператор может взимать дополнительные денежные расходы.</string>
   <string name="input_method_category">Выберите метод ввода по умолчанию</string>
   <string name="input_method">Метод ввода</string>
-  
+  <string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг</string>
+  <string name="other_service_google_location_use">Местоположение и поиск Google</string>
+  <string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
+  <string name="other_service_google_location">Сервис местоположения Google</string>
+  <string name="other_service_permission_manager">Управление правами приложений</string>
+
 </resources>

@@ -3,8 +3,8 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about">О программе</string>
-  <string name="adjust_traffic_auto_adjust_hint">Система регулярно запрашивает и регулирует Передачу данных от операторов. Вам необходимо ввести информацию о операторах</string>
-  <string name="adjust_traffic_auto_adjust_open_hint">Автокорректировка трафика включена, и будет автоматически регулярно регулировать трафик</string>
+  <string name="adjust_traffic_auto_adjust_hint">Система регулярно запрашивает и регулирует Передачу данных от операторов. Вам необходимо ввести информацию о операторах.</string>
+  <string name="adjust_traffic_auto_adjust_open_hint">Автокорректировка трафика включена и будет автоматически регулярно регулировать трафик</string>
   <string name="adjust_traffic_auto_adjust_title">Авторегулировка трафика</string>
   <string name="adjust_traffic_carrier_adjust">Получить от оператора</string>
   <string name="adjust_traffic_carrier_adjusting">Настройка трафика…</string>
@@ -95,7 +95,7 @@
   <string name="plate_traffic_already_used">Использовано (%s)</string>
   <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="plate_traffic_remain">Осталось</string>
-  <string name="powered_by">Техподдержка: miui.com</string>
+  <string name="powered_by">Техническая поддержка: ROMZ.bz</string>
   <string name="pref_category_adjust_traffic">Настройка трафика</string>
   <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети, когда приложение работает в фоновом режиме</string>
@@ -133,21 +133,21 @@
   <string name="sync_traffic_success">Данные оператора синхронизированны, трафик успешно регулируется</string>
   <string name="this_month">Месяц</string>
   <string name="today">Сегодня</string>
-  <string name="traffic_none">0MB</string>
+  <string name="traffic_none">Нет данных</string>
   <string name="traffic_package_widget_name">Виджет Монитор (1x4)</string>
   <string name="unknown">Нет данных</string>
   <string name="traffic_remain">Осталось</string>
   <string name="traffic_settings_error">Eсть ошибка в настройках вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
   <string name="traffic_suffix">Трафик</string>
   <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
-  <string name="traffic_total">Всего: %s</string>
-  <string name="traffic_used_status">Использовано: %s</string>
+  <string name="traffic_total">всего</string>
+  <string name="traffic_used_status">использовано</string>
   <string name="traffic_widget_name">Виджет Монитор (1x2)</string>
   <string name="unknown_free_traffic_hint">Если вы не знаете свой обьем трафика, пожалуйста обратитесь за помощью к оператору</string>
   <string name="unknown_free_traffic_text">Я не знаю свой обьем трафика</string>
   <string name="unknown_free_traffic_title">Неизвестный разрешенный трафик</string>
   <string name="unknown_location">Неизвестное местоположение</string>
-  <string name="unknown_traffic_hint">Лимит трафика не установлен, хотите установить прямо сейчас?</string>
+  <string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
   <string name="unknown_version">Неизвестная версия</string>
   <string name="update_fail">Ошибка обновления</string>
   <string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>

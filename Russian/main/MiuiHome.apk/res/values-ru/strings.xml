@@ -148,7 +148,8 @@
   <string name="mi_wallpaper_preference">Настройки Mi-обоев</string>
   <string name="wallpaper_scrolling">все</string>
   <string name="mi_wallpaper_title">Обои Mi</string>
-  <string name="pref_keep_layout_title">Держать текущую раскладку</string>
+  <string name="pref_keep_layout_title">Держать раскладку</string>
+  <string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
   <string name="free_style_edit_move_tip">Длительным нажатием можно переместить</string>
   <string name="free_style_edit_bottom_empty_tip">Нажмите на прямоугольник для изменения</string>
   <string name="mi_wallpaper_summary">Активируйте Ваш рабочий стол</string>
@@ -215,7 +216,7 @@
   <string name="resource_title_select_ringtone">Выбор мелодии</string>
   <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
   <string name="resource_update">Обновление</string>
-  <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\"</string>
+  <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
   <string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
   <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
   <string name="status_bar_toggle_ac">Контроль доступа</string>

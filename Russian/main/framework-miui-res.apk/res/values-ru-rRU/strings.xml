@@ -47,7 +47,7 @@
     <string name="lockscreen_call_bottom_hint">Сдвиньте, чтобы открыть Телефон</string>
     <string name="lockscreen_sms_bottom_hint">Сдвиньте, чтобы открыть SMS</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="lockscreen_unlock_sim_via_puk">Используйте PUK чтобы разблокировать SIM-карту</string>
+    <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
     <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
     <string name="miui_copyright_title">Авторское право</string>
 	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
@@ -490,7 +490,7 @@
     <string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
     <string name="perm_use_find_device">Обнаружение устройства</string>
     <string name="find_device_sim_change_instructions">Ваше устройство заблокировано.
-Вставьте SIM-карту или введите ваш пароль для аккаунта Xiaomi</string>
+Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi.</string>
     <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
     <string name="check_phone_io_error">Ошибка сети</string>
     <string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
@@ -644,7 +644,7 @@
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="twelve_hour_time_format">h:mm a</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
-    <string name="wifi_tether_configure_ssid_default">MIUI v4 MS</string>
+    <string name="wifi_tether_configure_ssid_default">MIUI v5 MS</string>
     <string name="android_date_time_set">@*android:string/date_time_set</string>
     <string name="resource_get_auth_failed">Ошибка получения авторизации</string>
     <string name="resources_importing">Импорт ресурсов</string>
@@ -652,7 +652,7 @@
 	
   <string name="unknown_caller">Неизвестный абонент</string>
   <string name="volume_icon_description_media">Медиа</string>
-  <string name="alwaysUsePrompt">Установить по умолчанию (без запроса в следующий раз)</string>
+  <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
   <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
   <string name="experimental_validate_progress">Проверка. Пожалуйста, подождтите...</string>
   <string name="volume_icon_description_notification">Уведомления</string>
@@ -670,5 +670,14 @@
   <string name="yesterday">"Вчера "</string>
   <string name="today">"Сегодня "</string>
   <string name="tomorrow">"Завтра "</string>
+  <string name="perm_data_update_dspt">Разрешить обновления данных</string>
+  <string name="perm_data_update_lab">Обновление данных</string>
+  <string name="input_pin_code">Введите PIN</string>
+  <string name="input_puk_code">Введите PUK</string>
+  <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
+  <string name="incorrect_pincode">Неверный PIN-код</string>
+  <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
+  <string name="incorrect_pukcode">Неверный PUK-код</string>
+  <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
 
 </resources>
