@@ -950,7 +950,7 @@
   <string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-коды не совпадают</string>
   <string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
-  <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
+  <string name="lockpassword_confirm_your_pattern_header">Подтвердите ключ</string>
   <string name="lockpassword_confirm_your_pin_header">Подтвердите ПИН-код</string>
   <string name="lockpassword_continue_label">Продолжить</string>
   <string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
@@ -2077,7 +2077,7 @@
   <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="perm_hips_reject_all">Запретить все</string>
-  <string name="permission_manage_title">%s permission details</string>
+  <string name="permission_manage_title">Подробности о разрешениях %s</string>
   <string name="perm_hips_action_reject_colored">Deny</string>
   <string name="privacy_relative">Безопасность</string>
   <string name="perm_hips_answer_call">answer current ringing call</string>
@@ -2106,7 +2106,7 @@
   <string name="perm_hips_call_monitor_hint">%1$s apps are allowed to monitor incoming, outgoing calls and control ringer volume.</string>
   <string name="perm_canceling">Отмена...</string>
   <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
-  <string name="enable_drive_mode">Enable Drive mode</string>
+  <string name="enable_drive_mode">Включить режим вождения</string>
   <string name="perm_hips_get_call_state">get current call status</string>
   <string name="set_voice_error">Error in set voice subscription. Subscription not active.</string>
   <string name="perm_hips_location_cellinfo">obtain cellular location</string>
@@ -2123,7 +2123,7 @@
   <string name="permission_detail_info">Vew permission details</string>
   <string name="perm_hips_network_accept">accept connection from %1$s</string>
   <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
-  <string name="private_sms_recording_intro_header">Draw pattern to create password lock</string>
+  <string name="private_sms_recording_intro_header">Нарисуйте шаблон для создания блокировки</string>
   <string name="perm_hips_calllog">Журнал вызовов</string>
   <string name="perm_loading">Загрузка...</string>
   <string name="perm_hips_phoneid_iccid">obtain SIM Card SN</string>
@@ -2145,7 +2145,7 @@
   <string name="perm_hips_phoneid">Phone ID</string>
   <string name="perm_hips_root_desc_stable">Не доступно на стабильных версиях MIUI</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI не будет спрашивать Вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
-  <string name="private_sms_need_to_unlock">Please enter private SMS password</string>
+  <string name="private_sms_need_to_unlock">Введите личный SMS пароль</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
   <string name="perm_hips_sms">SMS</string>
   <string name="perm_hips_root_hint">%1$s приложений имеют Root права</string>

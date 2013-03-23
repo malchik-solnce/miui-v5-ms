@@ -675,9 +675,9 @@
     <string name="auto_answer_setting_title_miui">Настройки автоответа</string>
     <string name="auto_country_code_miui">Автоматический код города</string>
     <string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
-    <string name="autoip_miui">Интел-ный набор</string>
+    <string name="autoip_miui">Интел. набор</string>
     <string name="auto_ip_summary_not_enabled">Не включено</string>
-    <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
+    <string name="auto_ip_setting_miui">Интел. набор</string>
     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
 	<string name="back_miui">Назад</string>
     <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
@@ -1135,7 +1135,7 @@
   <string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
   <string name="card_title_outgoing_barred">Outgoing Calls Barred</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-  <string name="dial_related_setting_catory_miui">Набор</string>
+  <string name="dial_related_setting_catory_miui">Настройки набора</string>
   <string name="new_cards_available">Доступна новая карта. Пожалуйста, настройте подписку.</string>
   <string name="delete">Удалить</string>
   <string name="xdivert_title">X-Divert</string>

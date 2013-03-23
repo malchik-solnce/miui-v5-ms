@@ -510,16 +510,16 @@
   <string name="hint_search_sms">%d смс</string>
   <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s
 Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
-  <string name="private_settings">Приватные настройки</string>
+  <string name="private_settings">Настройки</string>
   <string name="importing_progress_private_message">Импорт сообщений в приватный ящик сообщений...</string>
-  <string name="private_message">Приватное сообщение</string>
+  <string name="private_message">Приватные сообщения</string>
   <string name="search_show_more_results">Больше</string>
-  <string name="confirm_export_dialog_title">Удалить приватный контакт</string>
-  <string name="confirm_export_dialog_description">Необходимо удалить 1 выбранный приватный контакт и разговор восстановится в нормальный режим SMS. Продолжить?</string>
+  <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
+  <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
   <string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик сообщений...</string>
   <string name="private_protect">Защита привата</string>
   <string name="unstick">Отменить</string>
-  <string name="add_private_contact">Добавить приватный контакт</string>
+  <string name="add_private_contact">Добавить контакт</string>
   <string name="pref_system_title">Системные</string>
   <string name="stick_conversation">Закрепить текущую цепочку</string>
   <string name="sticked_conversation">Текущая цепочка уже закреплена</string>
