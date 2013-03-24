@@ -1385,8 +1385,8 @@
   <string name="perms_show_all">Показать все</string>
   <string name="permlab_setScreenCompatibility">установить совместимость экрана</string>
   <string name="progress_unmounting_internal">Отключение внутреннего хранилища…</string>
-  <string name="permdesc_setKeyboardLayout">Приложение сможет изменить раскладку клавиатуры. Не потребуется для обычных приложений.</string>
-  <string name="permdesc_sdcardRead">Приложение сможет проверить разрешение на хранение USB, который будет доступен на будущих устройствах.</string>
+  <string name="permdesc_setKeyboardLayout">Приложение сможет изменить раскладку клавиатуры. Не потребуется для обычных приложений</string>
+  <string name="permdesc_sdcardRead">Приложение сможет проверить разрешение на хранение USB, который будет доступен на будущих устройствах</string>
   <string name="keyguard_password_wrong_puk_code">Неверный PUK-код!</string>
   <string name="permdesc_readCallLog">Приложение сможет считывать ваш журнал вызовов, включая данные о входящих и исходящих звонках. Это разрешение позволяет приложениям сохранять данные журнала вызовов, и вредоносные программы могут совместно использовать данные журнала вызовов без вашего ведома.</string>
   <string name="permdesc_setScreenCompatibility">Приложение сможет контролировать режим совместимости других приложений. Вредоносные программы могут нарушить работу других приложений.</string>

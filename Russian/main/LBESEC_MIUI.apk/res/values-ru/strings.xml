@@ -32,9 +32,9 @@
     <string name="HIPS_Action_Accept">Разрешить</string>
     <string name="HIPS_Action_Prompt">Спрашивать</string>
     <string name="HIPS_Action_Reject">Запретить</string>
-    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Разрешено&lt;/font></string>
-    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Запрос&lt;/font></string>
-    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Запрещено&lt;/font></string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>разрешено&lt;/font></string>
+    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>запрос&lt;/font></string>
+    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>запрещено&lt;/font></string>
     <string name="HIPS_Action_Accept_Count">Разрешенные: %1$d</string>
     <string name="HIPS_Action_Reject_Count">Запрещенные: %1$d</string>
     <string name="HIPS_Group_Expense">Безопасность</string>
