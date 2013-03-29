@@ -972,5 +972,6 @@
   <string name="resource_see_more">Подробнее</string>
   <string name="resource_mute">Без звука</string>
   <string name="resource_title">Сведения</string>
+  <string name="call_log_provider_label">Журнал вызовов</string>
 
 </resources>

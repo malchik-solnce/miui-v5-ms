@@ -157,7 +157,7 @@
   <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
   <string name="music_browser_label">Музыка</string>
   <string name="music_filter">Фильтрация музыкальных файлов</string>
-  <string name="music_filter_helper">Скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800K применяется, чтобы скрыть эти файлы от отображения. Порог можно настроить в меню Настройки/Файловый фильтр</string>
+  <string name="music_filter_helper">Для скрытия файлов, которые не связаны с музыкой, применяется размер фильтра 800K, чтобы скрыть эти файлы от отображения. Порог можно настроить в меню Настройки-Файловый фильтр.</string>
   <string name="music_picker_title">Выберите трек</string>
   <string name="music_settings">Настройки</string>
   <string name="musicbrowserlabel">Музыка</string>
@@ -297,5 +297,7 @@
   <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
   <string name="load_album_artist_in_process">Загрузка альбома и списка исполнителей...</string>
   <string name="load_album_artist_failed">Не удалось загрузить альбом и список исполнителей. Пожалуйста, попробуйте еще раз.</string>
+  <string name="dirac_disabled">Dirac включен</string>
+  <string name="dirac_enabled">Dirac выключен</string>
 
 </resources>

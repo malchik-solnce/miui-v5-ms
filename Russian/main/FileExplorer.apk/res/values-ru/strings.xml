@@ -233,7 +233,7 @@
   <string name="storage_usb">Устойство USB</string>
   <string name="storage_warning">Внешний носитель не доступен</string>
   <string name="tab_category">Обзор</string>
-  <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_networkdisk">МойДиск</string>
   <string name="tab_phone">Телефон</string>
   <string name="tab_remote">Обмен</string>
   <string name="tab_sd">SD-карта</string>
@@ -312,4 +312,27 @@
   <string name="user_guide_upload_to_kuaipan">С телефона,\nпросто скопируйте и вставьте в Kuaipan</string>
   <string name="user_guide_download_other_version">Вы всегда можете скачать Kuaipan\nна Ваш PC или Mac</string>
   <string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
+  <string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nВаш аккаунт временно будет недоступен. Пожалуйста подождите…</string>
+  <string name="cancel_cleanup">Отменить очистку</string>
+  <string name="clean_complete">Очистка завершена</string>
+  <string name="cleanup_help">Очистка мусорных файлов в системе\nОсвободите место на диске</string>
+  <string name="cleanup_tab_app">Очистка приложений</string>
+  <string name="cleanup_tab_garbage">Очистка от мусора</string>
+  <string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
+  <string name="menu_item_cleanup">Очистка файлов</string>
+  <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, Вы можете привязать его в настройках и получить доступ к данным</string>
+  <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
+  <string name="name_illegal">Имя не может быть пустым</string>
+  <string name="no_more_space">Не хватает места на диске</string>
+  <string name="operation_copying">Копирование…</string>
+  <string name="operation_copying_detail">Копирование файлов (%1$d/%2$d)</string>
+  <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
+  <string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
+  <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
+  <string name="scanning">Сканирование...</string>
+  <string name="sd_full">SD-карта полна</string>
+  <string name="start_cleanup">Очистка</string>
+  <string name="wait_net">Ожидание сети</string>
+  <string name="wait_sdcard">Ожидание подключения SD-карты</string>
+  <string name="wait_wifi">Ожидание Wi-Fi</string>
 </resources>

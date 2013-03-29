@@ -172,7 +172,7 @@
   <string name="automatic_brightness">Автонастройка яркости</string>
   <string name="available_size">%s</string>
   <string name="awake">Время включения устройства</string>
-  <string name="back_long_press">Кнопка НАЗАД</string>
+  <string name="back_long_press">Кнопка \"Назад\"</string>
   <string name="back_long_press_timeout">Задержка нажатия</string>
   <string name="background_data">Фоновый режим</string>
   <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
@@ -660,7 +660,7 @@
   <string name="device_internal_data">Данные:</string>
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_internal_partition">Данные/SD-карта:</string>
-  <string name="device_memory">RAM:</string>
+  <string name="device_memory">Память RAM:</string>
   <string name="device_miui_version">MIUI:</string>
   <string name="device_picker">Выбор устройства Bluetooth</string>
   <string name="device_sd_memory">SD-карта:</string>
@@ -867,7 +867,7 @@
   <string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений.</string>
   <string name="install_applications">Неизвестные источники</string>
   <string name="install_unknown_applications">Разрешить установку приложений, полученных не из Маркета</string>
-  <string name="insufficient_storage">Недостаточно места.</string>
+  <string name="insufficient_storage">Недостаточно места</string>
   <string name="intent_sender_account_label">Аккаунт:</string>
   <string name="intent_sender_action_label">Действие:</string>
   <string name="intent_sender_data_label">Данные:</string>
@@ -1098,7 +1098,7 @@
   <string name="multi_touch_points_category_title">Точки мултитач</string>
   <string name="multi_touch_points_preference">Перезагрузить для применения</string>
   <string name="musicfx_title">Эквалайзер</string>
-  <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
+  <string name="nearby_wifi">Доступные сети Wi-Fi</string>
   <string name="network_detail">Свойства сети %s</string>
   <string name="network_settings_title">Мобильная сеть</string>
   <string name="network_state_label">"Состояние Сети: "</string>
@@ -2317,4 +2317,5 @@
   <string name="device_edit_title">Смена имени устройства</string>
   <string name="device_name_usage_point">Показывать имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
   <string name="bluetooth_device_searchable">Включено обнаружение</string>
+  <string name="dirac_control">Управление Dirac</string>
 </resources>

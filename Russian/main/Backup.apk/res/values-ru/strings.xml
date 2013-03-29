@@ -12,7 +12,7 @@
   <string name="auto_backup_choose">Выбранные элементы</string>
   <string name="auto_backup_choose_empty">Нет резервных копий</string>
   <string name="auto_backup_choose_title">Выберите приложения</string>
-  <string name="auto_backup_date">Интервал бэкапа (в днях)</string>
+  <string name="auto_backup_date">Частота копирования</string>
   <string name="auto_backup_interval">Частота резервного копирования</string>
   <string name="auto_backup_interval_hint">%d дней</string>
   <string name="auto_backup_interval_max">30 дней</string>
@@ -22,7 +22,7 @@
   <string name="auto_backup_progress">Выполнение автобэкапа, пожалуйста, подождите...</string>
   <string name="auto_backup_select_user_apps">Выбор приложений</string>
   <string name="auto_backup_selected_user_apps">Выбранные приложения</string>
-  <string name="auto_backup_setting">Настройка автобэкапа</string>
+  <string name="auto_backup_setting">Настройки автобэкапа</string>
   <string name="auto_backup_setting_title">Настройки автоматического бэкапа</string>
   <string name="auto_backup_system_data">Система</string>
   <string name="auto_backup_time">Запланировать копирование</string>

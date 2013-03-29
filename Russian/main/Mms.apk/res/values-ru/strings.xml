@@ -511,12 +511,12 @@
   <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s
 Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
   <string name="private_settings">Настройки</string>
-  <string name="importing_progress_private_message">Импорт сообщений в приватный ящик сообщений...</string>
+  <string name="importing_progress_private_message">Импорт сообщений в приватный ящик...</string>
   <string name="private_message">Приватные сообщения</string>
   <string name="search_show_more_results">Больше</string>
   <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
   <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
-  <string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик сообщений...</string>
+  <string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик...</string>
   <string name="private_protect">Защита привата</string>
   <string name="unstick">Отменить</string>
   <string name="add_private_contact">Добавить контакт</string>
@@ -525,4 +525,8 @@
   <string name="sticked_conversation">Текущая цепочка уже закреплена</string>
   <string name="unstick_conversation">Открепить текущую цепочку</string>
   <string name="unsticked_conversation">Текущая цепочка уже не закреплена</string>
+  <string name="enable_visible_pattern_title">Сделать шаблон видимым</string>
+  <string name="menu_new_manual">Ввести номер вручную</string>
+  <string name="menu_pick_from_contact">Выбрать из контактов</string>
+  <string name="number_add_hint">Введите номер, чтобы добавить к приватным контактам</string>
 </resources>
