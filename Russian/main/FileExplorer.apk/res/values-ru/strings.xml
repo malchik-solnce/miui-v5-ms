@@ -222,7 +222,7 @@
   <string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
   <string name="slide_left_text">Сдвиньте влево</string>
   <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
-  <string name="space_usage">Использование облачного хранилища</string>
+  <string name="space_usage">Использование хранилища</string>
   <string name="start_server">Запустить</string>
   <string name="start_use_xiaomi_account">Войти</string>
   <string name="stay_awake_summary">Не переводить экран в режим сна при использовании FTP</string>
@@ -230,7 +230,7 @@
   <string name="stop_server">Остановить</string>
   <string name="storage_internal">Внутренняя память</string>
   <string name="storage_sd_card">SD-карта</string>
-  <string name="storage_usb">Устойство USB</string>
+  <string name="storage_usb">USB-накопитель</string>
   <string name="storage_warning">Внешний носитель не доступен</string>
   <string name="tab_category">Обзор</string>
   <string name="tab_networkdisk">МойДиск</string>
@@ -270,7 +270,7 @@
   <string name="ui_main_menu_option_help">Обратная связь</string>
   <string name="ui_main_menu_option_new">Новый</string>
   <string name="ui_main_menu_option_setting">Параметры</string>
-  <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
+  <string name="ui_main_menu_option_task_manage">Обмен файлами</string>
   <string name="ui_main_menu_option_upload">Выгрузить</string>
   <string name="ui_main_progress_txt_open_file">Загрузка...</string>
   <string name="ui_main_toast_favorite_removed">Избранных удалено</string>
@@ -286,7 +286,7 @@
   <string name="ui_task_menu_clean">Очистить все задачи</string>
   <string name="ui_task_menu_goon">Продолжить все задачи</string>
   <string name="ui_task_menu_pause">Приостановить все задачи</string>
-  <string name="ui_task_title">Управление обменом файлов</string>
+  <string name="ui_task_title">Обмен файлами</string>
   <string name="ui_task_toast_file_not_exist">Файл “%1$s” не существует</string>
   <string name="upload_failed">Ошибка загрузки</string>
   <string name="upload_file_toolarge_message">"%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами"</string>

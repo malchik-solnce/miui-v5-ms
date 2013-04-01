@@ -351,5 +351,8 @@
   <string name="mdb_entering">Вход</string>
   <string name="usb_debugging_message">"Ключ RSA компьютера:\n%1$s"</string>
   <string name="usb_debugging_always">Всегда разрешать с этого компьютера</string>
+  <string name="ext_media_mountable_notification_title">USB-накопитель подключен</string>
+  <string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
+  <string name="ext_media_safe_remove">Безопасное извлечение</string>
 
 </resources>

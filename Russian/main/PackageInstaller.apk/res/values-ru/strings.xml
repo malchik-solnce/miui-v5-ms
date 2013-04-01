@@ -67,7 +67,7 @@
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
   
-  <string name="auto_startup_dialog_msg">MIUI позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
+  <string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
   <string name="high_risk_perms">Разрешения высокого риска</string>
   <string name="low_risk_perms">Разрешения низкого риска</string>
   <string name="uninstall_confirm_question">Вы действительно хотите удалить это приложение?</string>
@@ -78,10 +78,10 @@
   <string name="perm_privacy_app_installed">Установка завершена!</string>
   <string name="perm_privacy_app_finish">Закрыть</string>
   <string name="perm_privacy_app_launch">Открыть</string>
-  <string name="perm_privacy_app_trust">Я доверяю приложению</string>
-  <string name="perm_privacy_app_trust_summary">MIUI будет следить за этим приложением</string>
-  <string name="perm_sysopt_boost_auto_start">Разрешение автозапуска</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Это приложение будет запускаться автоматически!</string>
-  <string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
+  <string name="perm_privacy_app_trust">Доверять приложению</string>
+  <string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
+  <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
+  <string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
 
 </resources>

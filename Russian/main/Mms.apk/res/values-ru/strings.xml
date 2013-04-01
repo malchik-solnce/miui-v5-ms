@@ -265,7 +265,7 @@
   <string name="new_phrase_hint">Введите фразу</string>
   <string name="nickname_placeholder">Имя</string>
   <string name="no">Отмена</string>
-  <string name="no_conversations">Пока ничего нет</string>
+  <string name="no_conversations">Нет сообщений</string>
   <string name="no_sim">SIM-карта недоступна, облачные сообщения недоступны</string>
   <string name="no_subject">(Без темы)</string>
   <string name="no_subject_view">(Без темы)</string>
@@ -525,7 +525,7 @@
   <string name="sticked_conversation">Текущая цепочка уже закреплена</string>
   <string name="unstick_conversation">Открепить текущую цепочку</string>
   <string name="unsticked_conversation">Текущая цепочка уже не закреплена</string>
-  <string name="enable_visible_pattern_title">Сделать шаблон видимым</string>
+  <string name="enable_visible_pattern_title">Сделать ключ видимым</string>
   <string name="menu_new_manual">Ввести номер вручную</string>
   <string name="menu_pick_from_contact">Выбрать из контактов</string>
   <string name="number_add_hint">Введите номер, чтобы добавить к приватным контактам</string>

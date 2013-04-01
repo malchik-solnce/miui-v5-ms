@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="toast_fm_not_played">Невозможно включить Радио</string>
-    <string name="headset_disconnect">Наушники отключены. Радио будет выключено</string>
+    <string name="toast_fm_not_played">Невозможно включить радио</string>
+    <string name="headset_disconnect">Наушники отключены. Радио будет выключено.</string>
     <string name="toast_tap_to_rename">Нажмите чтобы переименовать</string>
     <string name="toast_channel_invalid">Неверная частота</string>
     <string name="toast_tune">Настройка на %1$d.%2$d MHz...</string>
     <string name="toast_tap_to_remove">Нажмите, чтобы удалить частоты</string>
-    <string name="toast_busy_tunning">Заната. Настройки...</string>
+    <string name="toast_busy_tunning">Занята. Настройки...</string>
     <string name="toast_no_fav_channel">Нет сохраненных любимых каналов</string>
     <string name="toast_already_scan">Еще сканирую...</string>
     <string name="toast_rename_error">Невозможно переименовать</string>
@@ -17,13 +17,13 @@
     <string name="alarm_text2">Радио отключится через 1 час</string>
     <string name="alarm_text3">Радио отключится через %1$d часов</string>
     <string name="toast_already_added">Эта частота уже существует</string>
-    <string name="dialog_channel_found">%1$d.%2$d MHz канал найден. Всего найдено каналов %3$d</string>
-    <string name="dialog_channel_one_found">%1$d.%2$d MHz канал найден. Всего найден 1 канал</string>
-    <string name="dialog_channel_found_south_region">%1$s MHz канал найден. Всего найдено каналов %2$d</string>
-    <string name="dialog_channel_one_found_south_region">%1$s MHz канал найден. Всего найден 1 канал</string>
-    <string name="toast_channel_found">%1$d %1$d.%2$d MHz канал найден. Всего найдено каналов %3$d</string>
-    <string name="toast_one_channel_found">1 канал найден при сканировании</string>
-    <string name="toast_on_alert">Включите Радио</string>
+    <string name="dialog_channel_found">%1$d.%2$d MHz канал найден. Всего найдено каналов %3$d.</string>
+    <string name="dialog_channel_one_found">%1$d.%2$d MHz канал найден. Всего найден 1 канал.</string>
+    <string name="dialog_channel_found_south_region">%1$s MHz канал найден. Всего найдено каналов %2$d.</string>
+    <string name="dialog_channel_one_found_south_region">%1$s MHz канал найден. Всего найден 1 канал.</string>
+    <string name="toast_channel_found">%1$d %1$d.%2$d MHz канал найден. Всего найдено каналов %3$d.</string>
+    <string name="toast_one_channel_found">Найден один канал</string>
+    <string name="toast_on_alert">Включите радио</string>
     <string name="app_name">Радио</string>
 	<string name="channels">Все каналы</string>
     <string name="record">Запись</string>
@@ -44,12 +44,12 @@
 	<string name="mhz">MHz</string>
     <string name="setting_region">Регион</string>
     <string name="setting_backgroud_playing">Воспроизведение в фоне</string>
-    <string name="setting_sationid">Показывать ID станции</string>
-    <string name="setting_af">Альтернативные частоты</string>
+    <string name="setting_sationid">Показ. ID станции</string>
+    <string name="setting_af">Альтер. частоты</string>
     <string name="setting_autooff">Автовыключение</string>
     <string name="setting_bgplaying_summary">Работа приложения в фоновом режиме после закрытия</string>
-    <string name="setting_stationid_summary">Будет отображаться информация о станции</string>
-    <string name="setting_af_summary">Вкл/выкл альтернативных частот</string>
+    <string name="setting_stationid_summary">Отображать дополнительную информацию о станции</string>
+    <string name="setting_af_summary">Включить альтернативные частоты</string>
 	<string name="setting_autooff_summary">FM Radio auto on/off</string>
     <string name="setting_setregion">Выберите регион</string>
     <string name="setting_europe">Европа</string>
@@ -82,7 +82,7 @@
     <string name="scan_channels">Сканирование каналов</string>
     <string name="selectall">Выбрать все</string>
     <string name="no_channel_selected">Выберите хотя бы один пункт</string>
-    <string name="toast_airplane_mode">Нельзя использовать FM радио в Автономном режиме</string>
+    <string name="toast_airplane_mode">Нельзя использовать радио в автономном режиме</string>
     <string name="dialog_tts_confirm">Установка голосовых данных, необходимых для синтеза речи</string>
     <string name="RSSI">Выбрать Seek RSSI (int)</string>
     <string name="SNR">Выбрать Seek SNR (int)</string>
@@ -92,8 +92,8 @@
     <string name="Current_Threshold">Получить текущий порог (int)</string>
     <string name="speaker">Динамик</string>
     <string name="af_switching">Переключение AF</string>
-    <string name="af_switching_msg">AF переключение в процессе. Нажмите кнопку Назад для отмены</string>
-    <string name="toast_battery_low">Не удается запустить приложение. Низкий уровень заряда батареи</string>
+    <string name="af_switching_msg">AF переключение в процессе. Нажмите кнопку Назад для отмены.</string>
+    <string name="toast_battery_low">Не удается запустить приложение. Низкий уровень заряда батареи.</string>
     <string name="toast_af_success">AF включен и обнаружил %1$d.%2$d MHz частоты</string>
 	<string name="toast_af_fail">AF не найден</string>
     <string name="toast_disabled">%1$s отключен</string>
@@ -102,7 +102,7 @@
 	<string name="mute">Беззвука</string>
     <string name="seeking">Поиск...</string>
     <string name="via_earphone">Наушники</string>
-    <string name="via_speaker">Громкоговоритель</string>
+    <string name="via_speaker">Динамик</string>
     <string name="normal_frequency">Нормальная частота</string>
 	<string name="tag">Тег</string>
     <string name="stop">Стоп</string>
@@ -177,12 +177,12 @@
     <string name="no_stations_tap_button_to_scan">Нажмите кнопку в верхней части экрана для сканирования станций</string>
     <string name="toast_saved">Сохранено</string>
     <string name="recorded_files">Записанные файлы</string>
-    <string name="no_recorded_files_guide">После записи радио, записанные файлы будут отображаться здесь</string>
-    <string name="no_recorded_files_msg">Нет записанных файлов</string>
+    <string name="no_recorded_files_guide">После записи радио, все файлы будут отображаться здесь</string>
+    <string name="no_recorded_files_msg">Нет файлов</string>
     <string name="no_recorded_files">"После записи радио,
-записанные файлы будут отображаться здесь"</string>
+все файлы будут отображаться здесь"</string>
     <string name="dialog_processing">Обработка, подождите...</string>
-    <string name="toast_up_to_n_characters">Доступно до %d символов</string>
+    <string name="toast_up_to_n_characters">Доступно %d символов</string>
     <string name="toast_invalid_character">недопустимый символ</string>
     <string name="dialog_new_file_name">Новое имя файла</string>
     <string name="dialog_selected_recorded_file_deleted">Выбранный записанный файл будет удален</string>
@@ -201,13 +201,13 @@
     <string name="tag_button_disable">Кнопка тег включена только тогда, когда информация транслируется на станции</string>
     <string name="notification_barge_in">"Вы можете управлять радио с помощью следующих голосовых команд: 'Следующая', 'Предыдущая', 'Стоп' and 'Играть'"</string>
     <string name="notification_barge_in_args">Вы можете управлять радио с помощью голосовых команд, таких как %1$s, %2$s, %3$s, %4$s, %5$s, и %6$s</string>
-    <string name="recording_will_be_cancelled">Запись будет отменена, и файл не будет сохранен</string>
+    <string name="recording_will_be_cancelled">Запись будет отменена и файл не будет сохранен</string>
     <string name="unable_to_play_radio_during_call">Не удается воспроизвести радио во время вызова</string>
     <string name="dialog_one_item_deleted">Этот элемент будет удален</string>
     <string name="dialog_multiple_items_deleted">%1$d элементов будут удалено</string>
     <string name="dialog_all_items_deleted">Все элементы будут удалены</string>
     <string name="turning_on">Включение...</string>
-    <string name="not_enough_memory_recording_will_stop">Не хватает памяти. Запись будет остановлена через %d секунд</string>
+    <string name="not_enough_memory_recording_will_stop">Не хватает памяти. Запись будет остановлена через %d секунд.</string>
     <string name="low_batt_msg">Низкий уровень заряда батареи</string>
     <string name="no_play_during_call">Не удается воспроизвести во время вызова</string>
     <string name="unable_delete">Не удается удалить</string>

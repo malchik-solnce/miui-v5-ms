@@ -57,7 +57,7 @@
   <string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
   <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
   <string name="resource_comment_upload_success">Комментарий отправлен!</string>
-  <string name="resource_comment_version_name">(Версия: %1$s)</string>
+  <string name="resource_comment_version_name">(версия: %1$s)</string>
   <string name="resource_fail_to_show">Тема не содержит соответствующий ресурс</string>
   <string name="resource_preview">Просмотр</string>
   <string name="short_ringtone_resource">Короткие</string>
@@ -96,7 +96,7 @@
   <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
   <string name="theme_import_importing">Обновление... осталось %1$d</string>
   <string name="theme_import_item_delete_request_button">Удалить</string>
-  <string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
+  <string name="theme_import_item_delete_request_content">Тема не обновлена. Вы можете использовать ее после полного обновления или удалите ее.</string>
   <string name="theme_import_item_delete_request_title">Тема не обновлена</string>
   <string name="theme_import_item_importing">Обновление</string>
   <string name="theme_import_item_not_upgraded">Не обновлено</string>
@@ -151,14 +151,14 @@
   <string name="resource_importing">Импортирование</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
   <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-  <string name="mi_wallpaper_title">Mi обои</string>
+  <string name="mi_wallpaper_title">Обои MI</string>
   <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
   <string name="description_designer">Дизайнер:</string>
   <string name="loading_resource_detail_info">Загрузка сведений...</string>
   <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
   <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
   <string name="resource_switch_account">Переключить</string>
-  <string name="resource_price_unit">кредиты MI</string>
+  <string name="resource_price_unit">MI кредит</string>
   <string name="download_failed">Ошибка скачивания</string>
   <string name="resource_select">Выбрать</string>
   <string name="resource_comment_expand_full_text">Показать весь текст▼</string>

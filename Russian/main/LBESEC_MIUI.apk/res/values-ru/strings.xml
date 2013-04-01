@@ -150,7 +150,7 @@
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен на стабильных версиях MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"ROOT разрешения могут привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. 
 
- Пожалуйста, переключитесь на версию MIUI от разработчика, чтобы включить ROOT разрешения"</string>
+ Пожалуйста, переключитесь на версию MIUI от разработчика, чтобы включить ROOT разрешения."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://dimonvideo.ru/smart/uploader/390680</string>
     <string name="Dashboard_Perm_HIPS_Switch">Управление разрешениями</string>
@@ -184,7 +184,7 @@
     <string name="Privacy_App_Finish">Закрыть</string>
     <string name="Privacy_App_Launch">Открыть</string>
     <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
-    <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
+    <string name="Privacy_App_TrustDialog_Content">Система не будет спрашивать Вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
     <string name="SysOpt_Boost_Boot">Загрузка</string>
     <string name="SysOpt_Boost_Receiver">Фоновые</string>
     <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>

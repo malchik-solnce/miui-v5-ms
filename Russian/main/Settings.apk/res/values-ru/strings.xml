@@ -160,7 +160,7 @@
   <string name="auto_caps">Заглавные автоматически</string>
   <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений</string>
   <string name="auto_launch_disable_text">Значения по умолчанию не установлены.</string>
-  <string name="auto_launch_enable_text">Это приложение по умолчанию используется для некоторых действий.</string>
+  <string name="auto_launch_enable_text">Это приложение по умолчанию используется для некоторых действий</string>
   <string name="auto_launch_label">Запуск по умолчанию</string>
   <string name="auto_launch_label_generic">По умолчанию</string>
   <string name="auto_punctuate">Автопунктуация</string>
@@ -2186,7 +2186,7 @@
   <string name="sync_enable">Включить синхронизацию</string>
   <string name="perm_hips_risky">Разрешения с риском (%1$d)</string>
   <string name="permission_detail_info_summary">безопасные %1$d，приватные %2$d，прочие %3$d</string>
-  <string name="application_forbid_auto_startup">Отключить автозапуск в фоне</string>
+  <string name="application_forbid_auto_startup">Отключить автозапуск в фоне?</string>
   <string name="perm_hips_action_prompt_colored">Спрашивать</string>
   <string name="device_default_name">Xiaomi</string>
   <string name="perm_invalid_input">Неверный ввод</string>
@@ -2198,7 +2198,7 @@
   <string name="perm_hips_calllog_desc">Доступ к журналу вызовов</string>
   <string name="perm_hips_root_desc">Запрос прав суперпользователя</string>
   <string name="perm_hips_root_title">получение прав суперпользователя</string>
-  <string name="perm_privacy_app_trust_summary_off">Система будет контролировать это приложение</string>
+  <string name="perm_privacy_app_trust_summary_off">Система не будет контролировать это приложение</string>
   <string name="perm_privacy_app_count_trust">%1$d разрешения - доверенные</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="perm_summary_enabled">Включено</string>
@@ -2262,7 +2262,6 @@
   <string name="bluetooth_dun_profile_summary_not_connected">Not connected to DUN Server</string>
   <string name="perm_hips_mobile_network">Мобильная сеть</string>
   <string name="perm_copyright">Разработано LBE Privacy Guard</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="perm_disable">Запретить</string>
   <string name="perm_hips_action_accept_colored">Разрешить</string>
   <string name="perm_configuration">Параметры</string>
@@ -2309,10 +2308,10 @@
   <string name="perm_su_disabled_desc">Разрешение прав администратора может привести к нестабильности системы, потери личных и системных данных или повреждению оборудования. Пожалуйста, включайте с осторожностью.</string>
   <string name="perm_su_disabled_in_stable_desc">Разрешение прав администратора может привести к нестабильности системы, потери личных и системных данных или повреждению оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков.</string>
   <string name="perm_su_enable_content">Включение позволит приложениям запрашивать доступ от суперпользователя.\nВнимание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?</string>
-  <string name="perm_hips_desc1">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
+  <string name="perm_hips_desc1">Мониторинг разрешений приложений</string>
   <string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность.\nВы уверены, что хотите отключить?</string>
-  <string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически. Возможны потребления траффика и батареи.\nРазрешить автозапуск/</string>
-  <string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
+  <string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
+  <string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
   <string name="device_name_input_hint">Введите имя вашего устройства</string>
   <string name="device_edit_title">Смена имени устройства</string>
   <string name="device_name_usage_point">Показывать имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
