@@ -472,7 +472,5 @@
   <string name="pref_setting_title">Настройки страницы</string>
   <string name="pref_general_setting_title">Основные настройки</string>
   <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
-  <string name="pref_video_preload_title">Загрузка видео</string>
-  <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
 
 </resources>

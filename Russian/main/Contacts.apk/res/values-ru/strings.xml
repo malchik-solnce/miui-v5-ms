@@ -973,5 +973,9 @@
   <string name="resource_mute">Без звука</string>
   <string name="resource_title">Сведения</string>
   <string name="call_log_provider_label">Журнал вызовов</string>
+  <string name="cloud_antispam_summary">Определение спам-номеров из базы Xiaomi</string>
+  <string name="cloud_antispam_title">Определять спам номера</string>
+  <string name="other_contacts">Другие</string>
+  <string name="starred_contacts">Избранные</string>
 
 </resources>

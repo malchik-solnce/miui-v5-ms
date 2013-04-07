@@ -170,7 +170,7 @@
   <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
   <string name="auto_restore_title">Автовосстановление</string>
   <string name="automatic_brightness">Автонастройка яркости</string>
-  <string name="available_size">%s</string>
+  <string name="available_size">%s (доступно)</string>
   <string name="awake">Время включения устройства</string>
   <string name="back_long_press">Кнопка \"Назад\"</string>
   <string name="back_long_press_timeout">Задержка нажатия</string>
@@ -658,9 +658,9 @@
   <string name="device_info_not_available">Недоступно</string>
   <string name="device_info_settings">Состояние телефона</string>
   <string name="device_internal_data">Данные:</string>
-  <string name="device_internal_memory">Внутренняя память:</string>
+  <string name="device_internal_memory">Память:</string>
   <string name="device_internal_partition">Данные/SD-карта:</string>
-  <string name="device_memory">Память RAM:</string>
+  <string name="device_memory">RAM:</string>
   <string name="device_miui_version">MIUI:</string>
   <string name="device_picker">Выбор устройства Bluetooth</string>
   <string name="device_sd_memory">SD-карта:</string>
@@ -908,7 +908,7 @@
   <string name="large_font">Большой</string>
   <string name="last_synced">Последняя синхронизация %1$s</string>
   <string name="launch_count_label">Подсчет</string>
-  <string name="launcher_settings_title">Лаунчер</string>
+  <string name="launcher_settings_title">Рабочий стол</string>
   <string name="led_colors_summary">Цвет уведомлений</string>
   <string name="led_frequence_summary">Интервал между миганиями</string>
   <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
@@ -2317,4 +2317,9 @@
   <string name="device_name_usage_point">Показывать имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
   <string name="bluetooth_device_searchable">Включено обнаружение</string>
   <string name="dirac_control">Управление Dirac</string>
+  <string name="msd_driver_download">Скачать драйвер</string>
+  <string name="msd_driver_mac_download">Используя ваш Mac，скачайте драйвер и откройте AndroidFileTransfer.dmg для установки\nСсылка для скачки:http://miui.com/mac</string>
+  <string name="msd_driver_windows_xp_download">Используя ваш компьютер，скачайте драйвер и выполните Setup.exe для установки\nСсылка для скачки:http://miui.com/win</string>
+  <string name="app_floating_window_dlg">Разрешить \"%1$s\" показывать всплывающие окна?</string>
+  <string name="floating_window_switch_label">Показать всплывающее окно</string>
 </resources>

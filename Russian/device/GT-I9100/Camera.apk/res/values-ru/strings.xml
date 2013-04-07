@@ -46,7 +46,7 @@
     <string name="SM_SHOOTANDSHARE">Обмен фотографиями</string>
     <string name="SM_HDR">HDR</string>
 	<string name="SM_BURST">Серийная съемка</string>
-    <string name="SM_BUDDY_PHOTOSHARING">Buddy photo share</string>
+    <string name="SM_BUDDY_PHOTOSHARING">Обмен фотографиями с друзьями</string>
     <string name="SM_MULTI_FRAME">Множество снимков</string>
     <string name="SM_LOW_LIGHT">Низкая освещенность</string>
     <string name="NORMAL">Обычный</string>
@@ -254,17 +254,17 @@ Direct connected"</string>
     <string name="editable_shortcut_helptext_title">Совет</string>
     <string name="editable_shortcut_helptext_message">Нажмите и удерживайте ярлыки для редактирования</string>
     <string name="editable_shortcut_helptext">Нажмите и удерживайте значок, а затем перетащите его на нужное место</string>
-    <string name="singleshotburst_capture_helptext">Нажмите и удерживайте кнопку камеры, чтобы сделать серию снимков</string>
-    <string name="singleshotburst_storage_helptext">Burst shot images are saved with the quality set as fine</string>
+    <string name="singleshotburst_capture_helptext">Для непрерывной съемки нажмите и удерживайте кнопку камеры</string>
+    <string name="singleshotburst_storage_helptext">Фотографии, полученные при непрерывной съемке, сохраняются с отличным качеством</string>
     <string name="sbeam_helptext">Делайте и делитесь своими фотографиями с другими устройствами. Поднесите устройства друг к другу, чтобы добавить устройства, с которыми Вы хотите поделиться с помощью S Beam</string>
     <string name="storage_setting_dialog_title">Место хранения</string>
     <string name="storage_setting_dialog_message">"Обнаружена SD-карта.
 Изменить место хранения на карту памяти?"</string>
     <string name="storage_setting_dialog_burstshot_message">Одиночные снимки будут сохраняться на SD-карту. Снимки серийной съемки будут сохранены на устройстве хранения.</string>
     <string name="do_not_ask_again">Больше не показывать</string>
-    <string name="shutter">Shutter</string>
-    <string name="record">Record</string>
-    <string name="bestpic">Best photo</string>
+    <string name="shutter">Затвор</string>
+    <string name="record">Запись</string>
+    <string name="bestpic">Лучшее фото</string>
     <string name="bestpic_on">Вкл.</string>
     <string name="bestpic_off">Выкл.</string>
     <string name="bestgroup">Лучшее лицо</string>
@@ -274,7 +274,7 @@ Direct connected"</string>
     <string name="face_zoom_helptext">Дважды нажмите на лице, чтобы увеличить или уменьшить масштаб</string>
     <string name="burst_shot_guidetext">Снимки серийной съемки будут сохранены в память устройства</string>
     <string name="continuous_shot_guidetext">Снимки непрерывные съемки будут сохранены в память устройства</string>
-    <string name="best_photo_guidetext">Лучшие фотографии будут сохранены в память устройства</string>
+    <string name="best_photo_guidetext">Лучшие фотографии будут сохраняться в памяти устройства</string>
     <string name="snap_shot_limitation_dialog">Невозможно использовать функцию снимка при записи, если включена Анти-тряска</string>
     <string name="voicecommand_helptext">Вы можете делать снимки с помощью голосовых команд, таких как %1$s, %2$s, %3$s, и %4$s</string>
     <string name="on_device_help_focus">Вы можете нажать, чтобы установить фокус камеры</string>

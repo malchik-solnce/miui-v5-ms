@@ -203,4 +203,8 @@
   <string name="unit_piece">" записей"</string>
   <string name="unknown_hint">Неизвестно</string>
   <string name="wifi_title">Настройки Wi-Fi</string>
+  <string name="task_running_backup_dialog">Резервное копирование в процессе. Нажмите кнопку OK для просмотра.</string>
+  <string name="task_running_backup_hint">Сервис запущен в фоне. Попробуйте снова сделать резервное копирование!</string>
+  <string name="task_running_restore_dialog">Восстановление в процессе. Нажмите кнопку OK для просмотра.</string>
+  <string name="task_running_restore_hint">Сервис запущен в фоне. Попробуйте снова сделать восстановление!</string>
 </resources>
