@@ -489,7 +489,7 @@
     <string name="voicemail_settings">Настройки голосовой почты</string>
     <string name="voicemail_number_not_set">&lt;не задано></string>
     <string name="voicemail_provider">Служба голосовой почты</string>
-    <string name="voicemail_settings_for">Настройки для %s</string>
+    <string name="voicemail_settings_for">Настройки %s</string>
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="dial_button_label">Набор номера</string>
     <string name="calling_via_template">Звонок через %s</string>
@@ -640,8 +640,7 @@
     <string name="description_target_decline">Отклонить</string>
     <string name="voicemail_notification_vibrate_when_title">Вибрация</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибрировать</string>
-    <string name="voicemail_notification_vibrate_when_default">Никогда</string>
-    <string name="undefined_miui">Неопределено</string>
+    <string name="undefined_miui">Не назначено</string>
     <string name="add_button_miui">Добавить</string>
     <string name="add_zero_prefix">Добавить префикс 0 при наборе сотового номера</string>
     <string name="always_enable_mms_miui">Всегда получать MMS</string>
@@ -675,9 +674,9 @@
     <string name="auto_answer_setting_title_miui">Настройки автоответа</string>
     <string name="auto_country_code_miui">Автоматический код города</string>
     <string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
-    <string name="autoip_miui">Интел. набор</string>
+    <string name="autoip_miui">Умный набор</string>
     <string name="auto_ip_summary_not_enabled">Не включено</string>
-    <string name="auto_ip_setting_miui">Интел. набор</string>
+    <string name="auto_ip_setting_miui">Умный набор</string>
     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
 	<string name="back_miui">Назад</string>
     <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>

@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="continues">Продолжить</string>
+  <string name="default_gprs_sim_name">Введите \"%s\" пределы тарифного плана</string>
   <string name="next">Далее</string>
   <string name="other_service_label">Другие сервисы</string>
   <string name="other_service_location">Местоположение</string>

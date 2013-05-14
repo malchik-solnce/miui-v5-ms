@@ -4,6 +4,7 @@
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="alphabet">Алфавит</string>
   <string name="app_name">Инструменты SIM-карты</string>
+  <string name="app_name2">Инструменты SIM-карты</string>
   <string name="button_cancel">Отмена</string>
   <string name="button_no">Нет</string>
   <string name="button_ok">ОК</string>
@@ -18,9 +19,8 @@
   <string name="service_name">Название службы</string>
   <string name="stk_app_state">Состояние приложения</string>
   <string name="stk_no_service">Вне зоны обслуживания</string>
-  
   <string name="stk_dialog_title">Инструменты SIM-карты</string>
-  <string name="default_setup_call_msg">Посылка вызова...</string>
+  <string name="default_setup_call_msg">Настройка вызова...</string>
   <string name="default_open_channel_msg">Открыть канал?</string>
   <string name="app_name2">Инструменты SIM-карты 2</string>
   <string name="default_receive_data_msg">Прием данных...</string>

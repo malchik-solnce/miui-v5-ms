@@ -495,7 +495,7 @@
   <string name="credentials_install_summary">Установить сертификаты с SD-карты</string>
   <string name="credentials_not_erased">Не удалось очистить хранилище</string>
   <string name="credentials_old_password">Текущий пароль:</string>
-  <string name="credentials_password_too_short">В пароле должно быть не менее 8 символов</string>
+  <string name="credentials_password_too_short">Не менее 8 символов</string>
   <string name="credentials_reset">Удалить сертификаты</string>
   <string name="credentials_reset_hint">Удалить весь контент?</string>
   <string name="credentials_reset_summary">Удаление всех сертификатов</string>
@@ -669,10 +669,13 @@
   <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
   <string name="dialog_title_entryvalues_dolby_control">Параметры Dolby</string>
   <string name="dialog_title_font_size">Размер шрифта</string>
+  <string name="dirac_mode_earbuds">Гарнитура</string>
+  <string name="dirac_mode_earphones">Наушники</string>
+  <string name="dirac_mode_off">Отключено</string>
   <string name="disableNetwork">Отключить Сеть</string>
   <string name="disable_overlays">Отключить HW оверлеи</string>
   <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
-  <string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
+  <string name="disable_power_key_long_press_under_keyguard">Отключить кнопку питания</string>
   <string name="disable_text">Отключить</string>
   <string name="disabled">Отключено</string>
   <string name="disconnect">отключить</string>
@@ -848,6 +851,7 @@
   <string name="help_label">Помощь</string>
   <string name="hidden_ssid_label">Скрытый SSID:</string>
   <string name="history_details_title">Подробная история</string>
+  <string name="home_key">Кнопка \"Домой\"</string>
   <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
   <string name="immediately_destroy_activities">Не сохранять действия</string>
   <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
@@ -962,8 +966,8 @@
   <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру</string>
   <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ</string>
   <string name="lockpassword_password_set_toast">Пароль был установлен</string>
-  <string name="lockpassword_password_too_long">В пароле должно быть не более %d символов</string>
-  <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
+  <string name="lockpassword_password_too_long">Не более %d символов</string>
+  <string name="lockpassword_password_too_short">Не менее %d символов</string>
   <string name="lockpassword_pattern_set_toast">Ключ был установлен</string>
   <string name="lockpassword_pin_contains_non_digits">ПИН-код должен состоять только из цифр от 0 до 9</string>
   <string name="lockpassword_pin_recently_used">Администратор устройства запрещает использование последнего PIN-кода</string>
@@ -1317,6 +1321,9 @@
   <string name="screen_color_temperature_adjust">Цветовая температура</string>
   <string name="screen_compatibility_label">Совместимость с экраном</string>
   <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
+  <string name="screen_key_long_press">Долгое нажатие наэкранных кнопок</string>
+  <string name="screen_key_long_press_action">Переключатель функций</string>
+  <string name="screen_key_long_press_timeout">Время нажатия</string>
   <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, когда он в кармане (при помощи датчика)</string>
   <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
   <string name="screen_saturation_adjust">Насыщенность</string>
@@ -1614,6 +1621,7 @@
   <string name="tts_settings_title">Синтез речи</string>
   <string name="turn_off_radio">Отключить радио</string>
   <string name="turn_on_radio">Включить радио</string>
+  <string name="under_keyguard">На экране блокировки</string>
   <string name="uninstall_text">Удалить</string>
   <string name="unknown">Неизвестно</string>
   <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана</string>
@@ -2143,7 +2151,7 @@
   <string name="perm_hips_root">Права суперпользователя</string>
   <string name="mdb_restore_info1">"Will restore your phone's data"</string>
   <string name="mdb_restore_info2">"Please don't break usb connection"</string>
-  <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
+  <string name="vpn_dns_servers_hint">например 8.8.8.8</string>
   <string name="perm_hips_call_monitor_desc">Monitor incoming and outgoing calls, control volume, etc</string>
   <string name="perm_hips_phoneid">Phone ID</string>
   <string name="perm_hips_root_desc_stable">Не доступно на стабильных версиях MIUI</string>

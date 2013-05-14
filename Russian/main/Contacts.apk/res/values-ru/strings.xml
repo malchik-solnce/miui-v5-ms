@@ -975,5 +975,6 @@
   <string name="cloud_antispam_title">Определять спам номера</string>
   <string name="other_contacts">Другие</string>
   <string name="starred_contacts">Избранные</string>
+  <string name="set_photo_failed_msg">Ошибка установки аватара</string>
 
 </resources>

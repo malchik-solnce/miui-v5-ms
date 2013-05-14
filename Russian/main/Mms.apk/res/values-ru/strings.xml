@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activity_not_found">Не удается открыть вложение</string>
   <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
   <string name="add_attachment">Прикрепить файл</string>
@@ -235,6 +233,9 @@
   <string name="multi_select_title_message_init">Пожалуйста, выберите сообщение(я)</string>
   <string name="multimedia_message">Мультимедийное сообщение</string>
   <string name="multimedia_notification">Уведомление о MMS</string>
+  <string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
+  <string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
+  <string name="mx_activate_int_hint_sim_change">SIM-карта изменилась. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
   <string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
   <string name="mx_activate_error_malformed_info">Ваши личные данные повреждены. Необходимо повторить активацию облачных сообщений.</string>
   <string name="mx_activate_error_server">Отказ сервера. Не удалось активировать облачные сообщения.</string>
@@ -251,9 +252,11 @@
   <string name="mx_btn_enable">Включить</string>
   <string name="mx_count_dspt">После включения, MIUI отправило %d сообщений вам</string>
   <string name="mx_dspt">Отправлять сообщения через интернет</string>
-  <string name="mx_dspt_disabled">Отправка сообщений через Интернет от MIUI, включите отправку через оператора, если появились ошибки</string>
+  <string name="mx_dspt_disabled">Отправка сообщений через Интернет от MIUI. Включите отправку через оператора, если возникли ошибки.</string>
   <string name="mx_enable">Облачные сообщения</string>
+  <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между пользователями MIUI. Для активации будет отправлено международное SMS. Стоимость сообщения зависит от оператора. Активировать сейчас? Вы сможете активировать позже в Настройках.</string>
   <string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется отправка обычного SMS сообщения для активации. Активировать сейчас?</string>
+  <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлено международное SMS. Стоимость сообщения зависит от оператора.</string>
   <string name="mx_offline">Не в сети</string>
   <string name="mx_online">В сети</string>
   <string name="mx_reactivate">Повторное активирование облачных сообщений</string>
@@ -318,7 +321,7 @@
   <string name="pref_summary_mms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
   <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-  <string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении нового сообщения</string>
+  <string name="pref_summary_new_message_popup">Отображать всплывающие окна при получении нового сообщения</string>
   <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
   <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
@@ -329,7 +332,7 @@
   <string name="pref_summary_ringtone_repeat">Количество напоминаний о непрочитанном сообщении</string>
   <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
   <string name="pref_summary_sms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
-  <string name="pref_summary_wake_up_screen">При получении сообщения, включать экран</string>
+  <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
   <string name="pref_theme_modify">Редактировать тему</string>
   <string name="pref_time_all_summary">Отображать время для каждого сообщения</string>
   <string name="pref_time_all_title">Показывать время</string>
