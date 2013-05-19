@@ -135,7 +135,7 @@
   <string name="contact_read_only">Здесь доступно только для чтения</string>
   <string name="contact_status_update_attribution">с помощью %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
-  <string name="contactsAllLabel">Все</string>
+  <string name="contactsAllLabel">Контакты</string>
   <string name="contactsFavoritesLabel">Избранные</string>
   <string name="contactsGroupsLabel">Группы</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
@@ -850,7 +850,7 @@
   <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
   <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
   <string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
-  <string name="dialerIconLabel">Недавние</string>
+  <string name="dialerIconLabel">Вызовы</string>
   <string name="groups_list_empty">Нет групп</string>
   <string name="description_call_log_unheard_voicemail">Непрослушанная голосовая почта</string>
   <string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
@@ -893,7 +893,7 @@
   <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
   <string name="import_name">имя</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
-  <string name="preference_contacts">Контакт</string>
+  <string name="preference_contacts">Настройки контактов</string>
   <string name="dialer_returnToInCallScreen">Вернуться к вызову</string>
   <string name="actionIncomingCall">Входящие вызовы</string>
   <string name="menu_show_voicemails_only">Показать только голосовые сообщения</string>

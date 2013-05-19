@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="BaMmi">Запрет вызовов</string>
   <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
   <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
@@ -30,7 +28,7 @@
   <string name="RestrictedOnVoiceData">Службы передачи голосовых сообщений/данных заблокированы</string>
   <string name="RestrictedOnVoiceSms">Службы передачи голосовых сообщений/SMS заблокированы</string>
   <string name="RuacMmi">Отклонение нежелательных звонков</string>
-  <string name="SetupCallDefault">Принять вызов?</string>
+  <string name="SetupCallDefault">Позвонить?</string>
   <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
   <string name="VideoView_error_button">ОК</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве</string>
@@ -66,7 +64,7 @@
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Обновление приложений %1$d из %2$d</string>
+  <string name="android_upgrading_apk">Обновление приложения %1$d из %2$d...</string>
   <string name="android_upgrading_complete">Окончание загрузки...</string>
   <string name="android_upgrading_starting_apps">Запуск системы...</string>
   <string name="android_upgrading_title">Обновление системы...</string>
@@ -109,7 +107,7 @@
   <string name="capital_off">ВЫКЛ</string>
   <string name="capital_on">ВКЛ</string>
   <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-  <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
+  <string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
   <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
@@ -199,7 +197,7 @@
   <string name="default_audio_route_category_name">Система</string>
   <string name="default_audio_route_name">Телефон</string>
   <string name="default_audio_route_name_dock_speakers">Док-станция</string>
-  <string name="default_audio_route_name_hdmi">Аудио HDMI</string>
+  <string name="default_audio_route_name_hdmi">Звуковое устройство HDMI</string>
   <string name="default_audio_route_name_headphones">Наушники</string>
   <string name="default_permission_group">По умолчанию</string>
   <string name="delete">Удалить</string>
@@ -236,8 +234,8 @@
   <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
   <string name="emergency_calls_only">Только экстренные вызовы</string>
   <string name="emptyPhoneNumber">(Нет номера телефона)</string>
-  <string name="enable_explore_by_touch_warning_message">"%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем"</string>
-  <string name="enable_explore_by_touch_warning_title">Включить навигацию касанием?</string>
+  <string name="enable_explore_by_touch_warning_title">Включить \"Изучение касанием\"?</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
   <string name="eventTypeAnniversary">Юбилей</string>
   <string name="eventTypeBirthday">День рождения</string>
   <string name="eventTypeCustom">Особый</string>
@@ -282,10 +280,10 @@
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключить</string>
   <string name="global_action_restart">Перезагрузка</string>
-  <string name="global_action_silent_mode_off_status">Включить</string>
-  <string name="global_action_silent_mode_on_status">Выключить</string>
-  <string name="global_action_toggle_silent_mode">Режим без звука</string>
-  <string name="global_actions">Параметры телефона</string>
+  <string name="global_action_silent_mode_on_status">Звук ВЫКЛЮЧЕН</string>
+  <string name="global_action_silent_mode_off_status">Звук ВКЛЮЧЕН</string>
+  <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
+  <string name="global_actions">Параметры устройства</string>
   <string name="global_actions_airplane_mode_off_status">Включить</string>
   <string name="global_actions_airplane_mode_on_status">Выключить</string>
   <string name="global_actions_toggle_airplane_mode">Режим полета</string>
@@ -484,18 +482,18 @@
   <string name="month">%-B</string>
   <string formatted="false" name="month_day">%-e %B</string>
   <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
-  <string name="month_long_april">Апреля</string>
-  <string name="month_long_august">Августа</string>
-  <string name="month_long_december">Декабря</string>
-  <string name="month_long_february">Февраля</string>
-  <string name="month_long_january">Января</string>
-  <string name="month_long_july">Июля</string>
-  <string name="month_long_june">Июня</string>
-  <string name="month_long_march">Марта</string>
-  <string name="month_long_may">Мая</string>
-  <string name="month_long_november">Ноября</string>
-  <string name="month_long_october">Октября</string>
-  <string name="month_long_september">Сентября</string>
+  <string name="month_long_april">Апрель</string>
+  <string name="month_long_august">Август</string>
+  <string name="month_long_december">Декабрь</string>
+  <string name="month_long_february">Февраль</string>
+  <string name="month_long_january">Январь</string>
+  <string name="month_long_july">Июль</string>
+  <string name="month_long_june">Июнь</string>
+  <string name="month_long_march">Март</string>
+  <string name="month_long_may">Май</string>
+  <string name="month_long_november">Ноябрь</string>
+  <string name="month_long_october">Октябрь</string>
+  <string name="month_long_september">Сентябрь</string>
   <string name="month_long_standalone_april">Апрель</string>
   <string name="month_long_standalone_august">Август</string>
   <string name="month_long_standalone_december">Декабрь</string>
@@ -925,7 +923,6 @@
   <string name="permlab_writeSyncSettings">записывать настройки синхронизации</string>
   <string name="perms_description_app">Предоставлено %1$s</string>
   <string name="perms_hide"><b>Скрыть</b></string>
-  <string name="perms_new_perm_prefix" />
   <string name="perms_show_all"><b>Показать все</b></string>
   <string name="petabyteShort">\u0020ПБ</string>
   <string name="phoneTypeAssistant">Секретарь</string>
@@ -1072,7 +1069,7 @@
   <string name="selectTextMode">Выбрать текст</string>
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
-  <string name="select_keyboard_layout_notification_message">Коснитесь для выбора раскладки клавиатуры</string>
+  <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры</string>
   <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="sendText">Выберите действие для текста</string>
   <string name="sending">Отправка…</string>
@@ -1099,7 +1096,7 @@
   <string name="shareactionprovider_share_with">Открыть доступ:</string>
   <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
   <string name="short_format_month">%b</string>
-  <string name="shutdown_confirm">Телефон будет выключен</string>
+  <string name="shutdown_confirm">Устройство будет выключено</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
   <string name="shutdown_progress">Выключение телефона...</string>
   <string name="silent_mode">Режим без звука</string>
@@ -1132,14 +1129,14 @@
   <string name="switch_off">Отключено</string>
   <string name="switch_on">Включено</string>
   <string name="sync_binding_label">Синхр.</string>
-  <string name="sync_do_nothing">Ничего не делать сейчас</string>
+  <string name="sync_do_nothing">Ничего не делать</string>
   <string name="sync_really_delete">Удалить элементы</string>
   <string name="sync_too_many_deletes">Превышен предел удаления</string>
   <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Что нужно сделать?</string>
   <string name="sync_undo_deletes">Отменить удаления</string>
   <string name="terabyteShort">\u0020TБ</string>
   <string name="tethered_notification_message">Нажмите для настройки</string>
-  <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
+  <string name="tethered_notification_title">Модем или точка доступа активны</string>
   <string name="textSelectionCABTitle">Выбор текста</string>
   <string name="text_copied">Текст скопирован в буфер обмена</string>
   <string name="throttle_warning_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
@@ -1173,10 +1170,10 @@
   <string name="upload_file">Выбрать файл</string>
   <string name="usb_accessory_notification_title">USB-устройство подключено</string>
   <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
-  <string name="usb_mtp_notification_title">Подключен как устройство хранения данных</string>
+  <string name="usb_mtp_notification_title">Подключено как мультимедийное устройство</string>
   <string name="usb_notification_message">Нажмите, чтобы увидеть другие параметры USB</string>
-  <string name="usb_ptp_notification_title">Подключен как камера</string>
-  <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
+  <string name="usb_ptp_notification_title">Подключено как камера</string>
+  <string name="usb_storage_activity_title">Съемный USB-накопитель</string>
   <string name="usb_storage_button_mount">Включить USB-накопитель</string>
   <string name="usb_storage_error_message">При использовании SD-карты в качестве запоминающего устройства USB возникла неполадка.</string>
   <string name="usb_storage_message">Телефон подключен к компьютеру через порт USB. Нажмите приведенную ниже кнопку, чтобы скопировать файлы с компьютера на SD-карту устройства Android.</string>
@@ -1195,7 +1192,7 @@
   <string name="volume_bluetooth_call">Громкость при разговоре</string>
   <string name="volume_call">Громкость при разговоре</string>
   <string name="volume_icon_description_bluetooth">Громкость Bluetooth-устройства</string>
-  <string name="volume_icon_description_incall">Громкости мелодии вызова</string>
+  <string name="volume_icon_description_incall">Громкости мелодии</string>
   <string name="volume_icon_description_media">Громкость мультимедиа</string>
   <string name="volume_icon_description_notification">Громкость уведомлений</string>
   <string name="volume_icon_description_ringer">Громкость рингтона</string>
@@ -1220,7 +1217,7 @@
   <string name="websearch">Веб-поиск</string>
   <string name="week">нед.</string>
   <string name="weeks">нед.</string>
-  <string name="whichApplication">Что использовать?</string>
+  <string name="whichApplication">Выполнить действие с помощью</string>
   <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
   <string name="wifi_on_vt_not_allowed_msg">Видео телефония невозможна при включенном Wi-Fi</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1239,10 +1236,10 @@
   <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Клиент Wi-Fi и точка доступа будут отключены.</string>
   <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
-  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталась %1$d попытка</string>
-  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %1$d</string>
-  <string name="zzz_keyguard_password_attempt_count_puk_code">Осталась %1$d попытка</string>
-  <string name="zzz_keyguard_password_attempts_count_puk_code">Осталось попыток: %1$d</string>
+  <string name="zzz_keyguard_password_attempt_count_pin_code">Осталось попыток: %d</string>
+  <string name="zzz_keyguard_password_attempts_count_pin_code">Осталось попыток: %d</string>
+  <string name="zzz_keyguard_password_attempt_count_puk_code">Осталось попыток: %d</string>
+  <string name="zzz_keyguard_password_attempts_count_puk_code">Осталось попыток: %d</string>
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
@@ -1391,12 +1388,12 @@
   <string name="permdesc_readCallLog">Приложение сможет считывать ваш журнал вызовов, включая данные о входящих и исходящих звонках. Это разрешение позволяет приложениям сохранять данные журнала вызовов, и вредоносные программы могут совместно использовать данные журнала вызовов без вашего ведома.</string>
   <string name="permdesc_setScreenCompatibility">Приложение сможет контролировать режим совместимости других приложений. Вредоносные программы могут нарушить работу других приложений.</string>
   <string name="granularity_label_word">слово</string>
-  <string name="perms_new_perm_prefix">Новые: </string>
+  <string name="perms_new_perm_prefix"><font fgcolor="#ff900000" size="12">НОВЫЕ: </font></string>
   <string name="lockscreen_perso_locked_message">SIM/RUIM заблокирован персонально</string>
   <string name="permdesc_writeCallLog">Приложение сможет изменять ваш журнал вызовов, включая данные о входящих и исходящих звонках. Вредоносные программы могут использовать эту возможность для удаления или изменения журнала вызовов.</string>
   <string name="perms_hide">Скрыть</string>
   <string name="keyguard_password_puk_failed">Операция с PUK-кодом не удалась!</string>
-  <string name="silent_mode_silent">Звонок выключен</string>
+  <string name="silent_mode_silent">Звонок отключен</string>
   <string name="keyguard_password_pin_failed">Операция с PIN-кодом не удалась!</string>
   <string name="stkCcUssdToUssd">USSD запрос изменен на новый USSD запрос</string>
   <string name="permlab_updateLock">препятствовать автоматическому обновлению устройств</string>
@@ -1433,6 +1430,37 @@
   <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1, чтобы разблокировать PIN1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую деятельность, независимо от разрешения защиты или экспортированного состояния</string>
   <string name="candidates_style">кандидаты</string>
-  <string name="resolver_guide_title">Очистка настройки по умол.</string>
-
+  <string name="resolver_guide_title">Очистка заданных настроек</string>
+  <string name="restart_confirm_question">Перезагрузить?</string>
+  <string name="restart_confirm">Устройство будет перезагружено</string>
+  <string name="hdmi_suspend">Использование HDMI недоступно, пока работает приложение. Приложение будет отображаться только на телефоне.</string>
+  <string name="hdmi_connect">Кабель HDMI подключен</string>
+  <string name="hdmi_disconnect">Кабель HDMI отключен</string>
+  <string name="mid_month_day_mid_wday_no_year">E, d MMM</string>
+  <string name="volumepanel_ringtone">Мелодия звонка</string>
+  <string name="volumepanel_media">Медиа</string>
+  <string name="volumepanel_notification">Уведомление</string>
+  <string name="volumepanel_system">Система</string>
+  <string name="keyguard_password_enter_hint_password_code">Введите пароль</string>
+  <string name="keyguard_password_enter_hint_pin_password_code">Введите PIN</string>
+  <string name="launch_something">Запустить %s</string>
+  <string name="tw_clipboard_already_exists">Уже существует</string>
+  <string name="tw_clipboard_no_items_to_paste">Нет элементов для вставки</string>
+  <string name="tw_clipboard_save_in_memo">Сохранить в Заметки</string>
+  <string name="tw_clipboard_save_in_smemo">Сохранить в S Memo</string>
+  <string name="tw_clipboard_save_in_snote">Сохранить в S Note</string>
+  <string name="tw_clipboard_save_in_gallery">Сохранить в галерее</string>
+  <string name="tw_clipboard_title_text">Буфер обмена</string>
+  <string name="tw_ids_com_header_clipboard_options">Параметры буфера обмена</string>
+  <string name="tw_ids_com_body_delete_from_clipboard">Удалить из буфера обмена</string>
+  <string name="tw_ids_com_body_Lock_in_clipboard">Заблокировать в буфере обмена</string>
+  <string name="tw_ids_com_body_unlock_in_clipboard">Разблокировать</string>
+  <string name="tw_clipboard_clear">Очист.</string>
+  <string name="tw_clipboard_delete_all">Удалить все?</string>
+  <string name="tw_clipboard_edit">Измен.</string>
+  <string name="tw_clipboard_done">OK</string>
+  <string name="tw_clipboard_save">Соxран.</string>
+  <string name="tw_clipboard_no_item">Нет элементов</string>
+  <string name="tw_clipboard_delete_all_from_clipboard">Все элементы, кроме заблокированных, удалены из буфера обмена</string>
+  <string name="tw_clipboard_pasted_from_clipboard">Вставлено из буфера</string>
 </resources>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="alert_edit_action_delete">Удалить</string>
   <string name="alert_edit_action_update">Обновить</string>
   <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
@@ -141,6 +139,7 @@
   <string name="toast_message_replace_image_fail">Не удалось заменить изображение!</string>
   <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
   <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
+  <string name="toast_privacy_mode">Не удается отредактировать заметку в гостевом режиме</string>
   
   <string name="not_now">Не сейчас</string>
   <string name="select_account_prompt">Включена синхронизация заметок</string>
@@ -152,10 +151,10 @@
   <string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
   <string name="alert_message_discard_changes">Отменить все действия?</string>
   <string name="alert_title_discard">Отмена</string>
-  <string name="pref_title_data_export">Экспорт заметок</string>
-  <string name="pref_title_data_export_to_sdcard">Экспортировать заметку на SD-карту</string>
+  <string name="pref_title_data_export">Экспорт</string>
+  <string name="pref_title_data_export_to_sdcard">Экспортировать заметки на SD-карту</string>
   <string name="pref_desc_mode_list">Список</string>
   <string name="pref_desc_mode_grid">Сетка</string>
-  <string name="pref_title_note_style">Стиль заметок</string>
+  <string name="pref_title_note_style">Стиль</string>
   
 </resources>

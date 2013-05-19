@@ -78,7 +78,6 @@
   <string name="error_app_internal_title">Ошибка диктофона</string>
   <string name="menu_settings">Настройки</string>
   <string name="preference_silent_mode">Запись в режиме \"Без звука\"</string>
-  <string name="preference_silent_mode_summary">Установить режим \"Без звука\" при начале записи</string>
   <string name="preference_led_indicator">Индикатор записи</string>
   <string name="preference_led_indicator_prompt">Индикация светодиодом при записи и заблокированном экране</string>
   <string name="sound_recorder_settings">Настройки</string>

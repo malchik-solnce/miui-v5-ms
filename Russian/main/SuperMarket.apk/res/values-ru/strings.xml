@@ -147,7 +147,7 @@
     <string name="header_processing">Идет скачивание...</string>
     <string name="header_waiting">Ожидание скачивания...</string>
     <string name="account">Аккаунт</string>
-    <string name="account_hint_text">Email/Номер телефона</string>
+    <string name="account_hint_text">E-mail/номер телефона</string>
     <string name="login">Войти</string>
     <string name="basic_info">Основная информация</string>
     <string name="next">Далее</string>
@@ -155,7 +155,7 @@
     <string name="forget_password"><u>Забыл(а) пароль?</u></string>
     <string name="password">Пароль</string>
     <string name="password_hint_text">6~16 символов</string>
-    <string name="bad_authentication">Вход не выполнен! Введен неверный логин или пароль</string>
+    <string name="bad_authentication">Вход не выполнен! Введен неверный логин или пароль.</string>
     <string name="micloud_welcome_banner">Аккаунт XiaoMi</string>
     <string name="micloud_account_name">Аккаунт XiaoMi</string>
     <string name="micloud_log_prompt">Войти в Аккаунт XiaoMi</string>
@@ -215,6 +215,8 @@
     <string name="abs__shareactionprovider_share_with_application">Отправить по %s</string>
     <string name="pref_summary_update_notification">Сообщать мне о новых обновлениях программ</string>
     <string name="pref_title_update_notification">Уведомлять об обновлениях</string>
+	<string name="first_recommend_download">Установить</string>
+	<string name="first_recommend_enter">Открыть</string>
 	
   <string name="no_fitness">Упс! Нет подходящих программ, попробуйте поискать :)</string>
   <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>

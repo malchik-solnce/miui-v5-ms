@@ -59,7 +59,7 @@
   <string name="delete_folder">Вы уверены, что хотите удалить?</string>
   <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
   <string name="delete_operation_result_all_success">%1$d фалов успешно удалено</string>
-  <string name="delete_operation_result_success_and_failed">Удалено: %1$d. Не удалено: %2$d</string>
+  <string name="delete_operation_result_success_and_failed">Удалено: %1$d. Не удалено: %2$d.</string>
   <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
   <string name="dialog_select_type">Выберите тип файла</string>
   <string name="dialog_type_audio">Аудио</string>
@@ -293,7 +293,7 @@
   <string name="uploading">Загрузка</string>
   <string name="used">Занято: </string>
   <string name="user_guide">Руководство пользователя</string>
-  <string name="user_guide_summary">Руководство по MiDrive</string>
+  <string name="user_guide_summary">Руководство</string>
   <string name="utf8_summary">Тип кодировки по умолчанию</string>
   <string name="utf8_title">UTF-8</string>
   <string name="waiting">Ожидание</string>
@@ -303,6 +303,7 @@
   <string name="wifi_state">Статус Wi-Fi</string>
   <string name="xiaomi_account">Аккаунт Xiaomi</string>
   <string name="yes">ОК</string>
+  <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
   
   <string name="downloading">Загрузка</string>
   <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>

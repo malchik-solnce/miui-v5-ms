@@ -2,76 +2,58 @@
     "quicklinks":[
         {
             "title":"Google",
-            "url":"http://www.google.com/",
+            "url":"http://www.google.ru/",
             "thumbnail":"thumb_google.png",
-			"logobg":"bg06.9.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
             "title":"Picasa",
             "url":"http://picasaweb.google.com/",
             "thumbnail":"thumb_picasa.png",
-			"logobg":"bg01.9.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
             "title":"Yandex",
             "url":"http://www.yandex.ru/",
             "thumbnail":"yandex.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg02.9.png",
             "favicon":""
         },
-		{
+        {
             "title":"4PDA",
             "url":"http://4pda.ru",
             "thumbnail":"4pda.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg12.9.png",
             "favicon":""
         },
         {
             "title":"MIUI English",
             "url":"http://en.miui.com/",
             "thumbnail":"en_miui.png",
-            "logobg":"bg04.9.png",
-            "favicon":""
-        },
-        {
-            "title":"VK",
-            "url":"http://vk.com/",
-            "thumbnail":"thumb_msn.png",
-			"logobg":"bg13.9.png",
-            "favicon:""
-        },
-        {
-            "title":"Twitter",
-            "url":"http://twitter.com/",
-            "thumbnail":"thumb_twitter.png",
-			"logobg":"bg03.9.png",
-            "favicon":""
-        },
-        {
-            "title":"Facebook",
-            "url":"http://www.facebook.com/",
-            "thumbnail":"thumb_facebook.png",
-            "favicon":""
-        },
-        {
-            "title":"Wikipedia",
-            "url":"http://www.wikipedia.org/",
-            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
             "title":"eBay",
-            "url":"http://www.ebay.com/",
+            "url":"http://www.ebay.ru/",
             "thumbnail":"thumb_ebay.png",
-			"logobg":"bg09.9.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
-            "title":"Dimonvideo",
-            "url":"http://dimonvideo.ru/smart/",
-            "thumbnail":"thumb_nytimes.png",
+            "title":"ROMZ.bz",
+            "url":"http://www.romz.bz/",
+            "thumbnail":"romz.png",
+            "logobg":"bg04.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MI-Droid",
+            "url":"http://www.mi-droid.ru/",
+            "thumbnail":"mi_droid.png",
+            "logobg":"bg13.9.png",
             "favicon":""
         },
         {
@@ -81,20 +63,21 @@
             "logobg":"bg03.9.png",
             "favicon":""
         },
-		{
-            "title":"ROMZ.bz",
-            "url":"http://www.romz.bz/",
-            "thumbnail":"romz.png",
-            "logobg":"bg04.9.png",
+        {
+            "title":"ВКонтакте",
+            "url":"http://www.vk.com",
+            "thumbnail":"vkontakte.png",
+            "logobg":"bg14.9.png",
             "favicon":""
         },
         {
-            "title":"Amazon",
-            "url":"http://www.amazon.com/",
-            "thumbnail":"thumb_amazon.png",
+            "title":"Twitter",
+            "url":"http://twitter.com",
+            "thumbnail":"twitter_ru.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
-		{
+        {
             "title":"YouTube",
             "url":"http://www.youtube.ru/",
             "thumbnail":"youtube.png",

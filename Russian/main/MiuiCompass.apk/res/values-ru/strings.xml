@@ -10,6 +10,7 @@
   <string name="cannot_get_location">Невозможно получить данные о вашем местоположении</string>
   <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
   <string name="getting_location">Поиск местоположения...</string>
+  <string name="guide_toast">Пожалуйста, откалибруйте компасс жестом, как показано на рисунке</string>
   <string name="location_east">%s В</string>
   <string name="location_north">%s С</string>
   <string name="location_south">%s Ю</string>
