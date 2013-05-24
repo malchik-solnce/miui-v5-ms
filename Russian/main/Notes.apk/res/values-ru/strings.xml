@@ -39,7 +39,7 @@
   <string name="failed_sdcard_export">Экспорт неудался</string>
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>
-  <string name="folder_exist">Такая папка %1$s уже существует</string>
+  <string name="folder_exist">Папка %1$s уже существует</string>
   <string name="format_date_ymd">ddMMyyyy</string>
   <string name="format_datetime_mdhm">dMMM kk:mm</string>
   <string name="format_exported_file_location">Заметка сохранена в файл /%1$s/ в папке %2$s на SD-карте</string>
@@ -156,5 +156,8 @@
   <string name="pref_desc_mode_list">Список</string>
   <string name="pref_desc_mode_grid">Сетка</string>
   <string name="pref_title_note_style">Стиль</string>
-  
+  <string name="alert_action_edit_anyway">Продолжить</string>
+  <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
+  <string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать?</string>
+  <string name="error_unsupport_content">Заметка содержит неподдерживаемое содержимое. Нажмите для обновления системы.</string>
 </resources>

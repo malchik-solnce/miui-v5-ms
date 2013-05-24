@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены</item>
+        <item quantity="other">Удалить (%1$s) цепочек?</item>
         <item quantity="one">Цепочка будет удалена</item>
     </plurals>
     <plurals name="slide_duration">

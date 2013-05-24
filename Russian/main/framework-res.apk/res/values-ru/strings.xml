@@ -278,7 +278,7 @@
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Выключить</string>
+  <string name="global_action_power_off">Выключение</string>
   <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_on_status">Звук ВЫКЛЮЧЕН</string>
   <string name="global_action_silent_mode_off_status">Звук ВКЛЮЧЕН</string>
@@ -286,7 +286,7 @@
   <string name="global_actions">Параметры устройства</string>
   <string name="global_actions_airplane_mode_off_status">Включить</string>
   <string name="global_actions_airplane_mode_on_status">Выключить</string>
-  <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+  <string name="global_actions_toggle_airplane_mode">Режим \"Полета\"</string>
   <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
   <string name="gpsNotifTitle">Запрос местоположения</string>

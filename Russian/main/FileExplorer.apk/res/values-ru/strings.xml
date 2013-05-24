@@ -123,8 +123,8 @@
   <string name="instruction">Адрес синхронизации:</string>
   <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
   <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
-  <string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
-  <string name="kuaipan_prompt">MiDrive</string>
+  <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+  <string name="kuaipan_prompt">KuaiPan</string>
   <string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
   <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
   <string name="load_data_from_local">Загрузка данных...</string>
@@ -133,7 +133,7 @@
   <string name="local_cache">Локальный кэш</string>
   <string name="local_cache_size">Размер локального кэш: %s</string>
   <string name="login_reg_content0">Ваш облачный диск KuaiPan</string>
-  <string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
+  <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
   <string name="login_reg_login_xiaomi">Аккаунт Xiaomi</string>
   <string name="menu_exit">Выход</string>
   <string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
@@ -231,7 +231,7 @@
   <string name="storage_usb">USB-накопитель</string>
   <string name="storage_warning">Внешний носитель не доступен</string>
   <string name="tab_category">Обзор</string>
-  <string name="tab_networkdisk">МойДиск</string>
+  <string name="tab_networkdisk">Диск</string>
   <string name="tab_phone">Телефон</string>
   <string name="tab_remote">Обмен</string>
   <string name="tab_sd">SD-карта</string>
@@ -306,17 +306,19 @@
   <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
   
   <string name="downloading">Загрузка</string>
+  <string name="error_filename_too_long">Имя файла слишком длинное</string>
+  <string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
   <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
   <string name="user_guide_kuaipan_copy">Доступ к файлу с нескольких устройств\n, поместив его в Kuaipan</string>
   <string name="user_guide_upload_to_kuaipan">С телефона,\nпросто скопируйте и вставьте в Kuaipan</string>
   <string name="user_guide_download_other_version">Вы всегда можете скачать Kuaipan\nна Ваш PC или Mac</string>
   <string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
   <string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nВаш аккаунт временно будет недоступен. Пожалуйста подождите…</string>
-  <string name="cancel_cleanup">Отменить очистку</string>
+  <string name="cancel_cleanup">Отменить</string>
   <string name="clean_complete">Очистка завершена</string>
   <string name="cleanup_help">Очистка мусорных файлов в системе\nОсвободите место на диске</string>
   <string name="cleanup_tab_app">Очистка приложений</string>
-  <string name="cleanup_tab_garbage">Очистка от мусора</string>
+  <string name="cleanup_tab_garbage">Очистка</string>
   <string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
   <string name="menu_item_cleanup">Очистка файлов</string>
   <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, Вы можете привязать его в настройках и получить доступ к данным</string>
@@ -328,7 +330,7 @@
   <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
   <string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
   <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
-  <string name="scanning">Сканирование...</string>
+  <string name="scanning">Сканирование…</string>
   <string name="sd_full">SD-карта полна</string>
   <string name="start_cleanup">Очистка</string>
   <string name="wait_net">Ожидание сети</string>
