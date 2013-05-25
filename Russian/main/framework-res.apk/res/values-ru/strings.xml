@@ -120,7 +120,7 @@
   <string name="choose_account_label">Выберите аккаунт</string>
   <string name="choose_account_text">Выберите аккаунт</string>
   <string name="chooser_wallpaper">Сменить обои</string>
-  <string name="clearDefaultHintMsg">Удалить настройки по умолчанию: главный экран &gt; \"Настройки\" &gt; \"Приложения\" &gt; \"Управление приложениями\"</string>
+  <string name="clearDefaultHintMsg">Чтобы больше не использовать приложение по умолчанию, удалите его назначение в меню \"Настройки\" > \"Менеджер приложений\" > \"Все\"</string>
   <string name="common_name">Стандартное название:</string>
   <string name="configure_input_methods">Настроить способ ввода</string>
   <string name="contentServiceSync">Синхр.</string>
@@ -224,8 +224,6 @@
   <string name="editTextMenuTitle">Операции с текстом</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-  <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">..</string>
   <string name="emailTypeCustom">Создать свой ярлык</string>
   <string name="emailTypeHome">Личный</string>
   <string name="emailTypeMobile">Мобильный</string>
@@ -278,8 +276,8 @@
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Выключение</string>
-  <string name="global_action_restart">Перезагрузка</string>
+  <string name="global_action_power_off">Выключить</string>
+  <string name="global_action_restart">Перезагрузить</string>
   <string name="global_action_silent_mode_on_status">Звук ВЫКЛЮЧЕН</string>
   <string name="global_action_silent_mode_off_status">Звук ВКЛЮЧЕН</string>
   <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
@@ -532,7 +530,7 @@
   <string name="month_shortest_september">С</string>
   <string formatted="false" name="month_year">%B %Y</string>
   <string name="more_item_label">Ещё</string>
-  <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK</string>
+  <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
   <string name="new_app_action">Запустить приложение %1$s</string>
   <string name="new_app_description">Остановить старое приложение без сохранения изменений</string>
@@ -560,7 +558,7 @@
   <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s – %6$s, %8$s.%7$s</string>
   <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s, %1$s, %3$s.%2$s.%4$s - %10$s, %6$s, %8$s.%7$s.%9$s</string>
   <string name="numeric_wday1_mdy1_wday2_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>
-  <string name="ok">ОК</string>
+  <string name="ok">OK</string>
   <string name="old_app_action">Вернуться к приложению %1$s</string>
   <string name="old_app_description">Не запускать новое приложение</string>
   <string name="older">Еще раньше</string>
@@ -1204,7 +1202,7 @@
   <string name="volume_unknown">Громкость</string>
   <string name="volume_fm">Громкость радио</string>
   <string name="vpn_text">Нажмите здесь, чтобы изменить настройки сети</string>
-  <string name="vpn_text_long">Подключено: \"%s\". Нажмите здесь, чтобы изменить настройки сети</string>
+  <string name="vpn_text_long">Подключено: \"%s\". Нажмите здесь, чтобы изменить настройки сети.</string>
   <string name="vpn_title">Сеть VPN активна</string>
   <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
   <string name="wait">Подождать</string>

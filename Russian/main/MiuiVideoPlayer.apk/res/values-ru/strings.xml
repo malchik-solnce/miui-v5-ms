@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">К сожалению, это видео не является допустимым для потока на этом устройстве</string>
   <string name="VideoView_error_text_unknown">К сожалению, это видео не может быть воспроизведено</string>
@@ -40,7 +38,7 @@
   <string name="nowifi_alert_dialog_message">Вы собираетесь смотреть видео через мобильную сеть. Возможны денежные затраты. Продолжить?</string>
   <string name="nowifi_alert_dialog_title">Внимание!</string>
   <string name="temp_play_history_button_label">История просмотров</string>
-  <string name="to_be_play_label_v5">Начало проигрывания</string>
+  <string name="to_be_play_label_v5">Воспроизведение</string>
   <string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
   <string name="toast_message_continue_play_from">"Продолжение просмотра с "</string>
   <string name="toast_message_continue_play_hour">часов</string>

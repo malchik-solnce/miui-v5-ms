@@ -646,9 +646,9 @@
     <string name="always_enable_mms_miui">Всегда получать MMS</string>
     <string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
     <string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
-    <string name="answer_features_setting_category_miui">Настройки ответа</string>
+    <string name="answer_features_setting_category_miui">НАСТРОЙКИ ОТВЕТА</string>
     <string name="answer_miui">Ответ</string>
-    <string name="answer_widget_dialog_title_miui">Выбор жеста при ответе на звонок</string>
+    <string name="answer_widget_dialog_title_miui">Выберите жест при ответе на звонок</string>
     <string name="answer_widget_sliding_horizontal_miui">Горизонтальный</string>
     <string name="answer_widget_sliding_vertical_miui">Вертикальный</string>
     <string name="answer_widget_title_miui">Жест ответа</string>
@@ -688,9 +688,9 @@
     <string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
     <string name="auto_record_call_summary_miui">Запись разговоров после соединения и сохранение на SD-карту</string>
     <string name="auto_record_call_title_miui">Автоматическая запись</string>
-	<string name="auto_record_scenario_enteries_always_miui">Автозапись для всех номеров</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Автозапись для выбранных номеров</string>
-    <string name="auto_record_scenario_title_miui">Режим автоматической записи</string>
+	<string name="auto_record_scenario_enteries_always_miui">Для всех номеров</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Для выбранных номеров</string>
+    <string name="auto_record_scenario_title_miui">АВТОМАТИЧЕСКАЯ ЗАПИСЬ</string>
     <string name="auto_record_whitelist_miui">Выбрать номера</string>
     <string name="auto_record_whitelist_no_item_miui">Нажмите на кнопку внизу, чтобы добавить номера для автозаписи</string>
     <string name="auto_record_whitelist_summary_for_one_miui">один номер</string>
@@ -731,7 +731,7 @@
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>
     <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
     <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
-    <string name="call_settings_category_miui">Настройки вызова</string>
+    <string name="call_settings_category_miui">НАСТРОЙКИ ВЫЗОВА</string>
     <string name="call_settings_miui">Вызовы</string>
     <string name="call_title_redialing_with_times_miui">Повторный набор: попытка № %d</string>
     <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
@@ -886,7 +886,7 @@
     <string name="onscreen_swap_calls_text_miui">Переключится</string>
     <string name="onscreen_tools_off_miui">Еще</string>
     <string name="onscreen_tools_on_miui">Еще</string>
-    <string name="other_settings_miui">Другие настройки вызовов</string>
+    <string name="other_settings_miui">РАЗНЫЕ НАСТРОЙКИ</string>
     <string name="pin2_changed_miui">PIN2 успешно изменен</string>
 	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: ​​Вы ввели неверный ПИН-код или слишком длинное имя</string>
     <string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
@@ -1134,7 +1134,7 @@
   <string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
   <string name="card_title_outgoing_barred">Outgoing Calls Barred</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-  <string name="dial_related_setting_catory_miui">Настройки набора</string>
+  <string name="dial_related_setting_catory_miui">НАСТРОЙКИ НАБОРА</string>
   <string name="new_cards_available">Доступна новая карта. Пожалуйста, настройте подписку.</string>
   <string name="delete">Удалить</string>
   <string name="xdivert_title">X-Divert</string>

@@ -48,9 +48,9 @@
   <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
   <string name="click_to_enter_camera">Открыть камеру</string>
   <string name="close">Закрыть</string>
-  <string name="cloud_album_more_settings">Облачный альбом (ы) и автоматическая выгрузка</string>
+  <string name="cloud_album_more_settings">Облачные альбомы и синхронизация</string>
   <string name="cloud_album_set_create">Новый</string>
-  <string name="cloud_albums">Альбомы в облаке</string>
+  <string name="cloud_albums">Облачные альбомы</string>
   <string name="cloud_camera_display_name">Не отсортированные</string>
   <string name="cloud_gallery_no_pictures">Нет изображений в облачном альбоме</string>
   <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
@@ -176,7 +176,7 @@
   <string name="loading_thumbnail">Загрузка эскизов</string>
   <string name="loading_video">Загрузка видео…</string>
   <string name="loading_will_cost">Для загрузки изображений необходимо использование трафика</string>
-  <string name="local_albums">Альбомы устройства</string>
+  <string name="local_albums">Локальные альбомы</string>
   <string name="location">Место съемки</string>
   <string name="locations">Места</string>
   <string name="login_account">Вход в аккаунт Xiaomi и синхронизация</string>

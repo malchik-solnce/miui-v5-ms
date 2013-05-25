@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
   <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
   <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
@@ -25,7 +23,7 @@
   <string name="done">Закрыть</string>
   <string name="install">Установить</string>
   <string name="install_confirm_question">Установить это приложение?</string>
-  <string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений</string>
+  <string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений.</string>
   <string name="install_confirm_question_update">Установить обновление для уже установленного приложения? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
   <string name="install_confirm_question_update_system">Установить обновление для системного приложения? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
   <string name="install_done">Приложение установлено</string>
@@ -38,7 +36,7 @@
   <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
   <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
   <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-  <string name="installing">Пожалуйста, подождите...</string>
+  <string name="installing">Установка, подождите...</string>
   <string name="launch">Открыть</string>
   <string name="lift_ban">Снять запрет</string>
   <string name="manage_applications">Управление приложениями</string>
@@ -55,14 +53,14 @@
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_application_text">Приложение будет удалено</string>
   <string name="uninstall_application_title">Удаление</string>
-  <string name="uninstall_done">Приложение успешно удалено</string>
+  <string name="uninstall_done">Приложение удалено</string>
   <string name="uninstall_failed">Ошибка при удалении</string>
   <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования усройства</string>
   <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
   <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
   <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
   <string name="uninstall_update_title">Удаление обновления</string>
-  <string name="uninstalling">Пожалуйста, подождите...</string>
+  <string name="uninstalling">Удаление, подождите...</string>
   <string name="unknown">Неизвестно</string>
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>

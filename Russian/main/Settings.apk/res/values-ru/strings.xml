@@ -211,7 +211,7 @@
     <string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
     <string name="skip_label">Далее</string>
     <string name="next_label">Далее</string>
-    <string name="language_picker_title">Язык телефона</string>
+    <string name="language_picker_title">ЯЗЫК ТЕЛЕФОНА</string>
     <string name="activity_picker_label">Выбор действия</string>
     <string name="debug_intent_sender_label">Пожелания отправителя</string>
     <string name="device_info_label">Сведения об устройстве</string>
@@ -623,10 +623,10 @@
     <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
     <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
-    <string name="account_settings">АККАУНТЫ</string>
+    <string name="account_settings">Аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
-    <string name="display_settings">ЭКРАН</string>
+    <string name="display_settings">Настройки экрана</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
@@ -683,7 +683,7 @@
     <string name="device_status_activity_title">Общая информация</string>
     <string name="device_status">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-    <string name="storage_settings">Память</string>
+    <string name="storage_settings">Состояние памяти</string>
     <string name="storage_settings_title">Настройки хранилища</string>
     <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
     <string name="status_imei">IMEI</string>
@@ -1055,7 +1055,7 @@
     <string name="language_keyboard_settings_title">Язык и ввод</string>
     <string name="language_settings_category">Языковые настройки</string>
     <string name="keyboard_settings_category">КЛАВИАТУРА И СПОСОБЫ ВВОДА</string>
-    <string name="phone_language">ЯЗЫК ТЕЛЕФОНА</string>
+    <string name="phone_language">Язык телефона</string>
     <string name="phone_language_summary">Выберите язык телефона</string>
     <string name="auto_replace">Автокоррекция</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
@@ -1071,7 +1071,7 @@
     <string name="spellchecker_quick_settings">Настройки</string>
     <string name="spellchecker_language">Язык</string>
     <string name="failed_to_open_app_settings_toast">Ошибка открытия настроек для %1$s</string>
-    <string name="pointer_settings_category">Мышь и сенсорная панель</string>
+    <string name="pointer_settings_category">МЫШЬ И СЕНСОРНАЯ ПАНЕЛЬ</string>
     <string name="pointer_speed">Скорость указателя</string>
     <string name="game_controller_settings_category">Игровой контроллер</string>
     <string name="vibrate_input_devices">Использовать вибро</string>
@@ -1263,7 +1263,7 @@
     <string name="voice_input_output_settings_title">Настройки голосового ввода и вывода</string>
     <string name="voice_search_settings_title">Голосовой поиск</string>
     <string name="keyboard_settings_title">Клавиатура Android</string>
-    <string name="voice_category">Голосовой ввод</string>
+    <string name="voice_category">ГОЛОСОВОЙ ВВОД</string>
     <string name="recognizer_title">Распознавание голоса</string>
     <string name="recognizer_settings_title">Голосовой поиск</string>
     <string name="recognizer_settings_summary">"Настройки для '%s'"</string>
@@ -1304,8 +1304,8 @@
     <string name="tts_notif_engine_install_title">Модуль синтеза речи установлен</string>
     <string name="tts_notif_engine_install_message">Включите новый модуль</string>
     <string name="tts_engine_settings_button">Настройки синтеза речи</string>
-    <string name="tts_engine_preference_section_title">Система по умолчанию</string>
-    <string name="tts_general_section_title">Общие</string>
+    <string name="tts_engine_preference_section_title">СИНТЕЗАТОР ПО УМОЛЧАНИЮ</string>
+    <string name="tts_general_section_title">ОБЩИЕ НАСТРОЙКИ</string>
     <string name="gadget_title">Упр. питанием</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
@@ -1335,8 +1335,8 @@
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
     <string name="privacy_settings">Бэкап и сброс</string>
     <string name="privacy_settings_title">Бэкап и сброс</string>
-    <string name="backup_section_title">Бэкап и восстановление</string>
-    <string name="personal_data_section_title">ВОЗВРАТ К ЗАВОДСКИМ НАСТРОЙКАМ</string>
+    <string name="backup_section_title">БЭКАП И ВОССТАНОВЛЕНИЕ</string>
+    <string name="personal_data_section_title">ЗАВОДСКИе НАСТРОЙКИ</string>
     <string name="backup_data_title">Копирование данных</string>
     <string name="backup_data_summary">Сохранять резервные копии данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
     <string name="backup_configure_account_title">Резервный аккаунт</string>
@@ -1648,7 +1648,7 @@
     <string name="perm_app_name">Суперпользователь</string>
     <string name="perm_copyright">Разработано LBE Privacy Guard</string>
     <string name="perm_version">версия: %1$s</string>
-    <string name="perm_configuration">Параметры</string>
+    <string name="perm_configuration">Настройки</string>
     <string name="perm_user_app">Загруженные приложения (%d)</string>
     <string name="perm_system_app">Системные приложения (%d)</string>
     <string name="perm_system_app_label">[Системные приложения]</string>
@@ -2031,7 +2031,7 @@
     <string name="usb_msd_summary">Передача файлов на Windows и Mac</string>
     <string name="usb_msd_driver_installer_title">Установка драйверов (MSD)</string>
     <string name="usb_msd_driver_installer_summary">Вы можете установить драйвера для ОС Windows и MAC здесь</string>
-    <string name="input_settings">Настройки ввода</string>
+    <string name="input_settings">НАСТРОЙКИ ВВОДА</string>
     <string name="show_magnifier_when_input">Показывать лупу</string>
     <string name="volume_voice_description">Громкость разговора</string>
     <string name="volume_system_description">Системная громкость: затвор камеры, локскрин и другие уведомления</string>
@@ -2200,12 +2200,12 @@
     <string name="other_relative">Другие разрешения</string>
     <string name="permission_manage_title">Разрешения %s</string>
     <string name="filter_apps_cached">Кэш</string>
-    <string name="screen">Экран</string>
-    <string name="system">Система</string>
+    <string name="screen">НАСТРОЙКИ ЭКРАНА</string>
+    <string name="system">НАСТРОЙКИ СИСТЕМЫ</string>
     <string name="screen_color_temperature_adjust">Цветовая температура</string>
     <string name="screen_saturation_adjust">Насыщенность</string>
     <string name="finish_application">Закрыть</string>
-    <string name="header_category_accounts">Аккаунты</string>
+    <string name="header_category_accounts">АККАУНТЫ</string>
     <string name="auto_startup_application_manage">Автозапуск</string>
     <string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
     <string name="man_add_application">Добавить вручную</string>

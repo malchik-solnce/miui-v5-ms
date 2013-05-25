@@ -524,8 +524,8 @@
   <string name="pref_title_account_import">Импорт из аккаунта</string>
   <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
   <string name="preference_displayOptions">Варианты отображения</string>
-  <string name="preference_export">Экспорт контактов</string>
-  <string name="preference_import">Импорт контактов</string>
+  <string name="preference_export">ЭКСПОРТ КОНТАКТОВ</string>
+  <string name="preference_import">ИМПОРТ КОНТАКТОВ</string>
   <string name="preference_import_export">Импорт и экспорт</string>
   <string name="preference_import_export_title">Импорт и экспорт</string>
   <string name="preference_others">Другие</string>
@@ -836,7 +836,7 @@
   <string name="select_device">выберите устройство для подключения</string>
   <string name="addPeopleToGroup">Чтобы добавить контакт в группу, перейдите в режим редактирования группы</string>
   <string name="returnCall">Обратный вызов</string>
-  <string name="preference_phone">Настройки телефона</string>
+  <string name="preference_phone">НАСТРОЙКИ ТЕЛЕФОНА</string>
   <string name="btn_delete_one_contact">Удалить контакт</string>
   <string name="preference_telocation_summary_countrycode_on">Автоматически добавлять код страны</string>
   <string name="title_paired_devices">Сопряжение устройств</string>
@@ -893,7 +893,7 @@
   <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
   <string name="import_name">имя</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
-  <string name="preference_contacts">Настройки контактов</string>
+  <string name="preference_contacts">НАСТРОЙКИ КОНТАКТОВ</string>
   <string name="dialer_returnToInCallScreen">Вернуться к вызову</string>
   <string name="actionIncomingCall">Входящие вызовы</string>
   <string name="menu_show_voicemails_only">Показать только голосовые сообщения</string>
@@ -902,7 +902,7 @@
   <string name="device_import_message">Импорт</string>
   <string name="my_phone_provider_bluetooth">мой провайдер bluetooth</string>
   <string name="menu_select_all">Выбрать все</string>
-  <string name="preference_display">Настройки отображения</string>
+  <string name="preference_display">НАСТРОЙКИ ОТОБРАЖЕНИЯ</string>
   <string name="zero_items_selected">Выберите контакт(ы)</string>
   <string name="call_settings">Настройки</string>
   <string name="clearFrequentsProgress_title">Очистка контактов…</string>

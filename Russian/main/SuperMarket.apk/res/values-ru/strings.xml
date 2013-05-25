@@ -222,7 +222,7 @@
   <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
   <string name="login_download_title">Вход в аккаунт Xiaomi</string>
   <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
-  <string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
+  <string name="no_network">Нет доступа в Интернет. Проверьте настройки и попробуйте обновить :)</string>
   <string name="expand_full_text_comment">Развернуть весь текст▼</string>
   <string name="login_skip">Далее</string>
   <string name="login_active">Активировать</string>

@@ -100,7 +100,7 @@
     <string name="try_to_send">Попытаться отправить</string>
     <string name="preferences_title">Настройки</string>
     <string name="pref_notification_settings_title">УВЕДОМЛЕНИЯ</string>
-    <string name="pref_mms_settings_title">Настройки MMS</string>
+    <string name="pref_mms_settings_title">НАСТРОЙКИ MMS</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
     <string name="pref_summary_delete_limit">Сообщений в цепочке: %1$s</string>
     <string name="pref_title_mms_read_reports">Отчеты о прочтении</string>
@@ -274,7 +274,7 @@
     <string name="context_menu_add_contact">Добавить в контакты</string>
     <string name="context_menu_view_contact">Просмотр контактов</string>
     <string name="context_menu_contact">Контакт:%1$s</string>
-    <string name="pref_sms_theme_title">Настройки вида</string>
+    <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
     <string name="pref_time_auto_group_title">Группировка</string>
     <string name="pref_time_auto_group_summary">Группировать сообщения по времени</string>
     <string name="bookmark_list_title">Избранное (%1$d)</string>
