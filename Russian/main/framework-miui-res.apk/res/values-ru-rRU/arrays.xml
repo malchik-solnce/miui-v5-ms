@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_future">
-        <item>Будильник менее чем через минуту</item>
-        <item>Будильник через %1$s</item>
-        <item>Будильник через %2$s</item>
-        <item>Будильник через %1$s %2$s</item>
-        <item>Будильник через %3$s</item>
-        <item>Будильник через %1$s %3$s</item>
-        <item>Будильник через %2$s %3$s</item>
-        <item>Будильник через %1$s %2$s %3$s</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
@@ -41,7 +31,7 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
-	<string-array name="alphabet_table_with_starred">
+    <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
         <item>А</item>
@@ -72,5 +62,15 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
+    </string-array>
+    <string-array name="alarm_in_future">
+        <item>Будильник менее чем через минуту</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s %3$s</item>
+        <item>Будильник через %2$s %3$s</item>
+        <item>Будильник через %1$s %2$s %3$s</item>
     </string-array>
 </resources>
