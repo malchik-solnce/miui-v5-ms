@@ -63,6 +63,19 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+	<string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>E-Mail</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>Номер SIP</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Заметка</item>
+    </string-array>
     <string-array name="alarm_in_future">
         <item>Будильник менее чем через минуту</item>
         <item>Будильник через %1$s</item>

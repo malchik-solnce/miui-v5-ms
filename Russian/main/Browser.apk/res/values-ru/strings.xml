@@ -471,5 +471,25 @@
   <string name="pref_setting_title">Настройки страницы</string>
   <string name="pref_general_setting_title">Основные настройки</string>
   <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
-
+  <string name="bookmarks_content_is_null">Пусто</string>
+  <string name="clear_history_group">Очистить всю историю</string>
+  <string name="file_dir">Папка</string>
+  <string name="file_name">Имя файла</string>
+  <string name="file_picker">Обзор</string>
+  <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
+  <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они были удалены автоматически.</string>
+  <string name="history_browsed">История просмотра</string>
+  <string name="history_most_visited">Самые посещаемые</string>
+  <string name="history_saved_webpage">Сохраненные страницы</string>
+  <string name="history_track">История</string>
+  <string name="open_history_group_in_new_window">открыть всю историю в новом окне</string>
+  <string name="open_history_most_visited_group_in_new_window">открыть все самые посещаемые сайты</string>
+  <string name="pref_privacy_clear_history_by_group_dlg">Вы уверены, что хотите очистить историю?</string>
+  <string name="quicklinks_management">Полезные сайты</string>
+  <string name="save_dialog_title">Сохранить</string>
+  <string name="save_file_already_exist_alert_message">Файл уже существует. Перезаписать его?</string>
+  <string name="save_file_already_exist_alert_title">Внимание</string>
+  <string name="storage_internal">Внутренняя память</string>
+  <string name="storage_sd_card">SD-карта</string>
+  <string name="storage_usb">USB-накопитель</string>
 </resources>

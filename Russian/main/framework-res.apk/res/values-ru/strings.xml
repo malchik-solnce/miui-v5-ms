@@ -375,7 +375,6 @@
   <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
   <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
-  <string name="keyguard_password_entry_touch_hint" />
   <string name="keyguard_password_wrong_pin_code">Неверный PIN-код!</string>
   <string name="kilobyteShort">\u0020КБ</string>
   <string name="last_month">Прошлый месяц</string>
@@ -1428,7 +1427,7 @@
   <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1, чтобы разблокировать PIN1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую деятельность, независимо от разрешения защиты или экспортированного состояния</string>
   <string name="candidates_style">кандидаты</string>
-  <string name="resolver_guide_title">Очистка заданных настроек</string>
+  <string name="resolver_guide_title">Настройки по умолчанию</string>
   <string name="restart_confirm_question">Перезагрузить?</string>
   <string name="restart_confirm">Устройство будет перезагружено</string>
   <string name="hdmi_suspend">Использование HDMI недоступно, пока работает приложение. Приложение будет отображаться только на телефоне.</string>

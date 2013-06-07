@@ -16,8 +16,8 @@
     <string name="download_manager_tag_with_nonzero_downloads">Загрузок(%1$s/%2$s)</string>
     <string name="menu_search">Поиск</string>
     <string name="menu_preferences">Настройки</string>
-    <string name="menu_login">Вход</string>
-    <string name="menu_logout">Выход</string>
+    <string name="menu_login">Войти</string>
+    <string name="menu_logout">Выйти</string>
     <string name="menu_account">Аккаунт</string>
     <string name="menu_install_all">Установить все</string>
     <string name="menu_download_manager">Менеджер загрузок</string>
@@ -95,7 +95,7 @@
     <string name="permissions_title">Разрешения для %1$s</string>
     <string name="permissions_expand_title">Другие разрешения</string>
     <string name="version_name">Версия: %1$s</string>
-    <string name="search_other_market">Поиск другого маркета</string>
+    <string name="search_other_market">Поискать еще</string>
     <string name="result_notice">Результаты предоставленны Baidu App Center</string>
     <string name="search_not_found">\"%1$s\" не найдено</string>
     <string name="show_all_local_app">Показать все</string>
@@ -213,11 +213,16 @@
     <string name="abs__activitychooserview_choose_application">Выберите приложение</string>
     <string name="abs__shareactionprovider_share_with">Отправить по</string>
     <string name="abs__shareactionprovider_share_with_application">Отправить по %s</string>
-    <string name="pref_summary_update_notification">Сообщать мне о новых обновлениях программ</string>
+    <string name="pref_summary_update_notification">Сообщать мне о новых версиях программ</string>
     <string name="pref_title_update_notification">Уведомлять об обновлениях</string>
 	<string name="first_recommend_download">Установить</string>
 	<string name="first_recommend_enter">Открыть</string>
 	
+  <string name="pref_list_data_save_mode_always">Никогда</string>
+  <string name="pref_list_data_save_mode_network">Только через Wi-Fi</string>
+  <string name="pref_list_data_save_mode_never">Всегда</string>
+  <string name="install_start_cleanup">Начать очистку</string>
+  <string name="data_save_mode_tip">Изображения отключены</string>
   <string name="no_fitness">Упс! Нет подходящих программ, попробуйте поискать :)</string>
   <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
   <string name="login_download_title">Вход в аккаунт Xiaomi</string>
