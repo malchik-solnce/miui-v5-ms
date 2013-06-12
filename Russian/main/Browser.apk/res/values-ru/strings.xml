@@ -74,11 +74,11 @@
   <string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
   <string name="bookmark_saved">Сохранено в закладках</string>
   <string name="bookmark_this_page">Закладка для этой страницы</string>
-  <string name="bookmark_this_page_to_readmodelist">"Добавить эту страницу в список чтения"</string>
+  <string name="bookmark_this_page_to_readmodelist">Добавить эту страницу в список чтения</string>
   <string name="bookmark_thumbnail_view">Изображения</string>
   <string name="bookmark_title">Название</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Не могу сохранить в список чтения"</string>
-  <string name="bookmark_to_readmodelist_saved">"Сохранено в список чтения"</string>
+  <string name="bookmark_to_readmodelist_not_saved">Не могу сохранить в список чтения</string>
+  <string name="bookmark_to_readmodelist_saved">Сохранено в список чтения</string>
   <string name="bookmark_url">Адрес</string>
   <string name="bookmark_url_not_valid">Неправильный URL</string>
   <string name="bookmarks">Закладки</string>
@@ -443,7 +443,7 @@
   <string name="tab_history">История</string>
   <string name="tab_most_visited">Часто посещаемые</string>
   <string name="tab_opened_background">Вкладка открыта в фоне</string>
-  <string name="tab_quicklinks">Быстрые ссылки</string>
+  <string name="tab_quicklinks">Ссылки</string>
   <string name="tab_snapshots">Сохраненные страницы</string>
   <string name="tab_yellowpage">Интересы</string>
   <string name="title_bar_loading">Загрузка…</string>

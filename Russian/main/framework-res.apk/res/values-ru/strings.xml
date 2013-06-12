@@ -277,7 +277,7 @@
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключить</string>
-  <string name="global_action_restart">Перезагрузить</string>
+  <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_on_status">Звук ВЫКЛЮЧЕН</string>
   <string name="global_action_silent_mode_off_status">Звук ВКЛЮЧЕН</string>
   <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
@@ -944,7 +944,7 @@
   <string name="phoneTypeWorkMobile">Рабочий моб.</string>
   <string name="phoneTypeWorkPager">Раб. пейджер</string>
   <string name="pm">PM</string>
-  <string name="policydesc_allow_camera">Перезагрузка</string>
+  <string name="policydesc_allow_camera">Перезагрузить</string>
   <string name="policydesc_disableCamera">Запретить использование всех камер устройства</string>
   <string name="policydesc_encryptedStorage">Требует шифровать данные приложений, находящиеся в хранилище</string>
   <string name="policydesc_expirePassword">Укажите, как часто следует менять пароль блокировки экрана</string>
@@ -968,7 +968,7 @@
   <string name="postalTypeOther">Другой</string>
   <string name="postalTypeWork">Рабочий</string>
   <string name="power_dialog">Параметры телефона</string>
-  <string name="power_off">Выключение</string>
+  <string name="power_off">Выключить</string>
   <string name="prepend_shortcut_label">Меню+</string>
   <string name="preposition_for_date">%s</string>
   <string name="preposition_for_time">в %s</string>
@@ -1095,14 +1095,14 @@
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Устройство будет выключено</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
-  <string name="shutdown_progress">Выключение телефона...</string>
+  <string name="shutdown_progress">Выключение устройства...</string>
   <string name="silent_mode">Режим без звука</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>
   <string name="sim_done_button">Готово</string>
-  <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
-  <string name="sim_removed_title">SIM карта отсутствует</string>
-  <string name="sim_restart_button">Перезапуск</string>
+  <string name="sim_removed_message">Пока Вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
+  <string name="sim_removed_title">SIM-карта отсутствует</string>
+  <string name="sim_restart_button">Перезапустить</string>
   <string name="sipAddressTypeCustom">Особый</string>
   <string name="sipAddressTypeHome">Домашний</string>
   <string name="sipAddressTypeOther">Другой</string>

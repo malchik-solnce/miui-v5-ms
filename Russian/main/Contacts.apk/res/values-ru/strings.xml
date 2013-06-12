@@ -768,9 +768,8 @@
   <string name="dialog_import">Импорт контактов</string>
   <string name="export_to_sim_title">Экспорт на SIM-карту</string>
   <string name="import_weibo_progress_hint">Импортирование, подождите...</string>
-  <string name="import_weibo_notification_title">Импортирование контактов sina weibo...</string>
   <string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
-  <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
+  <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo: %s</string>
   <string name="phone_primary">Основной</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="single_group_list_empty">Нет контактов в группе</string>
@@ -979,8 +978,10 @@
   <string name="starred_contacts">Избранные</string>
   <string name="set_photo_failed_msg">Ошибка установки аватара</string>
   <string name="hint_search_emails">Почт: %d</string>
-  <string name="export_sim_contact_finish_failure">Недостаточно места. Скопировано: %1$d , не скопировано: %2$d</string>
+  <string name="export_sim_contact_finish_failure">Недостаточно места. Скопировано: %1$d , не скопировано: %2$d.</string>
   <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
   <string name="loading_resource_detail_fail">Ошибка загрузки ресурса!</string>
   <string name="resource_waiting_download">Ожидание</string>
+  <string name="redirect_calls_to_vm_confirm_message">Если Вы не применили это у оператора, пожалуйста не включайте. Иначе, возможно, Вы не сможете получать вызовы от этого контакта.</string>
+  <string name="redirect_calls_to_vm_confirm_text">Включить</string>
 </resources>

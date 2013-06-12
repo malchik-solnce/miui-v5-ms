@@ -281,7 +281,7 @@
 
 Настройки -> Система -> Кнопки"</string>
     <string name="fools_day">День дураков</string>
-    <string name="force_exit_message">\"%1$s\" было закрыто</string>
+    <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
     <string name="global_action_toggle_privacy_mode">Гость</string>
@@ -445,7 +445,7 @@
     <string name="unlockscreen_recharge_completed">Recharge completed</string>
     <string name="emergency_call_string">Экстренные</string>
     <string name="forget_password_string">Забыли пароль?</string>
-    <string name="miui_unlockscreen_password_wrong">Try again</string>
+    <string name="miui_unlockscreen_password_wrong">Попробуйте еще раз</string>
     <string name="contact_carrier_message">Please contact carrier if any questions</string>
     <string name="input_puk_code">Введите PUK</string>
     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>

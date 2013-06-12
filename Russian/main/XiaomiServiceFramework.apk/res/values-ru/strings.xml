@@ -10,6 +10,7 @@
     <string name="password">Пароль</string>
     <string name="bad_authentication">Неверный пароль или имя пользователя</string>
     <string name="int_phone_user_notice">При заходе не из Китая, пожалуйста введите код страны (например +49 код Германии)</string>
+	<string name="memu_refresh">Обновить</string>
     <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
     <string name="micloud_account_name">Аккаунт Xiaomi</string>
     <string name="micloud_use_existing">Существующий</string>

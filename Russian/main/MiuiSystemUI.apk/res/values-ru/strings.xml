@@ -115,7 +115,7 @@
   <string name="ext_media_nofs_notification_message">USB-хранилище пусто или неподдерживаемая файловая система</string>
   <string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
   <string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
-  <string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
+  <string name="ext_media_nomedia_notification_title">USB-накопитель извлечен</string>
   <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
   <string name="ext_media_safe_unmount_notification_title">Можно извлечь</string>
   <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
@@ -210,7 +210,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">" "</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
-  <string name="status_bar_no_recent_apps">Нет данных</string>
+  <string name="status_bar_no_recent_apps">Недавних приложений нет</string>
   <string name="status_bar_notification_inspect_item_title">О приложении</string>
   <string name="status_bar_ongoing_events_title">Текущие</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
@@ -242,8 +242,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_data">Интернет</string>
   <string name="status_bar_toggle_divider">Еще</string>
-  <string name="status_bar_toggle_drive_mode">В авто</string>
-  <string name="status_bar_toggle_flight_mode">В самолете</string>
+  <string name="status_bar_toggle_drive_mode">Авто</string>
+  <string name="status_bar_toggle_flight_mode">Полет</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Блокировка</string>
   <string name="status_bar_toggle_mute">Без звука</string>

@@ -3,7 +3,7 @@
     <string name="app_name">Файлы</string>
     <string name="confirm">ОК</string>
     <string name="menu_item_ftp">FTP</string>
-    <string name="menu_item_cleanup">Мусор</string>
+    <string name="menu_item_cleanup">Очистка</string>
     <string name="menu_item_search">Поиск</string>
     <string name="operation_create_folder">Новая папка</string>
     <string name="menu_item_sort">Сортировка</string>
@@ -237,7 +237,7 @@
     <string name="sd_size_label">Польз. память</string>
     <string name="version_text">версия %1$s</string>
     <string name="uninstall_app_data">Удалить приложение и данные</string>
-    <string name="start_cleanup">Очистка</string>
+    <string name="start_cleanup">Очистить</string>
     <string name="header_text_scanning">Поиск мусора...</string>
     <string name="header_text_scanned">можно очистить</string>
     <string name="header_text_cleaning">мусора осталось</string>
@@ -287,4 +287,12 @@
 2. Загрузить (обновить файл в облаке)"</string>
     <string name="ui_filechange_btn_upload">Загрузить</string>
     <string name="folder_exist">Папка уже существует</string>
+	<string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
+	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>
+	<string name="fail_to_create_folder_unknown">Не удается создать: неизвестная ошибка</string>
+	<string name="kuaipan_label">Kuaipan</string>
+	<string name="no_enough_space">Не хватает места</string>
+    <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите место с помощью \"Очистки\" или просто удалите большие файлы.</string>
+    <string name="no_enough_storage_title">Не хватает места</string>
+	<string name="unmount_inform_text">USB-накопитель будет отключен</string>
 </resources>

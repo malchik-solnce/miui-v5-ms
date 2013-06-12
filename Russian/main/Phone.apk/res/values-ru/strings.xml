@@ -1233,7 +1233,7 @@
   <string name="card_title_call_deflected">Call Deflected</string>
   <string name="puk_unlock_success">PUK-код успешно разблокирован</string>
   <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_marked_count">Отмечено контактов: %1$d</string>
-  <string name="antispam_notification_title">Определен неизвестный номер</string>
+  <string name="antispam_marked_count">Отклонино: %1$d</string>
+  <string name="antispam_notification_title">Неизвестный</string>
 
 </resources>
