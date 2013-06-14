@@ -44,8 +44,7 @@
     <string name="operation_rename_message">Введите новое имя</string>
     <string name="operation_create_folder_message">Введите имя папки</string>
     <string name="operation_delete_confirm_message">Подтверждение удаления</string>
-    <string name="operation_delete_confirm_message_folder">"Удаление папки удалит все файлы в ней
-"</string>
+    <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней.</string>
     <string name="delete_folder">Вы уверены, что хотите удалить?</string>
     <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
     <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>

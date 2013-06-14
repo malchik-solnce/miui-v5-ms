@@ -1739,7 +1739,7 @@
     <string name="perm_hips_security_prompt_remember">Запомнить мой выбор</string>
     <string name="perm_hips_security_prompt_accept">Разрешено (%d)</string>
     <string name="perm_hips_security_prompt_reject">Запр. (%d)</string>
-    <string name="perm_hips_security_prompt_accept_root">Разрешить</string>
+    <string name="perm_hips_security_prompt_accept_root">Разреш.</string>
     <string name="perm_hips_security_prompt_next">Далее</string>
     <string name="perm_hips_security_prompt_root_caption">Важное предупреждение!</string>
     <string name="perm_hips_security_prompt_root_step1">Разрешить %1$s получать права суперпользователя?</string>
@@ -1784,7 +1784,7 @@
     <string name="perm_privacy_app_count">%1$d разрешения</string>
     <string name="perm_privacy_app_trust_summary">доверенное</string>
     <string name="perm_privacy_app_trust">Доверять приложению</string>
-    <string name="perm_privacy_app_trust_summary_off">Система будет контролировать это приложение</string>
+    <string name="perm_privacy_app_trust_summary_off">Система не будет контролировать это приложение</string>
     <string name="perm_privacy_app_trust_summary_on">Система будет доверять этому приложению</string>
     <string name="perm_privacy_app_manage">Подробнее</string>
     <string name="perm_privacy_app_uninstall">Удалить</string>
@@ -2205,7 +2205,7 @@
     <string name="screen_color_temperature_adjust">Цветовая температура</string>
     <string name="screen_saturation_adjust">Насыщенность</string>
     <string name="finish_application">Закрыть</string>
-    <string name="header_category_accounts">АККАУНТЫ</string>
+    <string name="header_category_accounts">МОИ АККАУНТЫ</string>
     <string name="auto_startup_application_manage">Автозапуск</string>
     <string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
     <string name="man_add_application">Добавить вручную</string>
