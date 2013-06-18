@@ -50,6 +50,7 @@
     <string name="remove">Удалить</string>
     <string name="send">Отправить</string>
     <string name="mms">MMS</string>
+	<string name="type_attachment">Прикрепление</string>
     <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
     <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
     <string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>

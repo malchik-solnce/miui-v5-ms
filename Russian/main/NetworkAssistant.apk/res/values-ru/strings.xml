@@ -25,6 +25,7 @@
   <string name="app_detail_title">О программе</string>
   <string name="app_detail_version">Версия: %s</string>
   <string name="app_name">Монитор</string>
+  <string name="app_has_deleted">%s удалено</string>
   <string name="app_traffic_detail">Трафик (%s)</string>
   <string name="apply_rules_failed">"Не удалось включить брандмауэр, попробуйте еще раз
 (%s)"</string>
@@ -91,15 +92,15 @@
   <string name="overseas_menu_traffic_adjust">Настроить</string>
   <string name="overseas_menu_traffic_settings">Предел трафика</string>
   <string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
-  <string name="plate_traffic_already_used">Использовано (%s)</string>
-  <string name="plate_traffic_exceed">Превышено (%s)</string>
+  <string name="plate_traffic_already_used">Использовано</string>
+  <string name="plate_traffic_exceed">Превышено</string>
   <string name="plate_traffic_remain">Осталось</string>
   <string name="powered_by">Техническая поддержка: ROMZ.bz</string>
   <string name="pref_category_adjust_traffic">Настройка трафика</string>
   <string name="pref_connect_settings_enable_backgroung">Включить фоновые службы</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети, когда приложение работает в фоновом режиме</string>
   <string name="pref_connect_settings_exceed_limit">Отключить передачу данных</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить Интернет, когда превышен ежемесячный лимит трафика</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Сообщить и отключить интернет, когда превышен ежемесячный лимит трафика</string>
   <string name="pref_connect_settings_notify_in_statusbar">Показывать уведомления в панели уведомлений</string>
   <string name="pref_connect_settings_title">Настройки приложения</string>
   <string name="pref_network_speed_internal_title">Интервал обновления</string>
@@ -127,7 +128,7 @@
   <string name="sync_traffic_fail_message">Синхронизация с оператором мобильной связи не удалась, сервер занят. Пожалуйста, повторите попытку позже или обратитесь в справочную %s</string>
   <string name="sync_traffic_fail_title">Ошибка синхронизации</string>
   <string name="sync_traffic_ing">Синхронизация с оператором, пожалуйста, подождите...</string>
-  <string name="sync_traffic_no_cmd_detail">"Подтвердите ваш город или провинцию, ICC и операторы связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
+  <string name="sync_traffic_no_cmd_detail">"Подтвердите Ваш город или провинцию, ICC и операторы связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
   <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
   <string name="sync_traffic_success">Данные оператора синхронизированны, трафик успешно регулируется</string>
   <string name="this_month">Месяц</string>
