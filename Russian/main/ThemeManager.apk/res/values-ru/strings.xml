@@ -14,8 +14,8 @@
     <string name="backup_theme_name">Моя тема</string>
     <string name="theme_description_title_default">По умолч.</string>
     <string name="theme_description_title_customized">Пользов.</string>
-    <string name="component_category_finest_title">Основные</string>
-    <string name="component_category_more_title">Дополнительные</string>
+    <string name="component_category_finest_title">ОСНОВНЫЕ</string>
+    <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ</string>
     <string name="theme_component_title_framework">Система</string>
     <string name="theme_component_title_mms">Сообщения</string>
     <string name="theme_component_title_wallpaper">Обои</string>
@@ -48,7 +48,7 @@
     <string name="wallpaper_settings">Обои</string>
     <string name="desktop_wallpaper">Обои стола</string>
     <string name="live_wallpaper">Живые обои</string>
-    <string name="mi_wallpaper">Mi обои</string>
+    <string name="mi_wallpaper">Обои Mi</string>
     <string name="lockscreen_wallpaper">Обои блокировки</string>
     <string name="change_wallpaper">Обои</string>
     <string name="component_settings_title">Текущая тема</string>
@@ -130,8 +130,8 @@
     <string name="resource_price_unit">MI кредит</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
-    <string name="sdcard_status_changed_dialog_message">"Требуется выход.
-Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
+    <string name="sdcard_status_changed_dialog_message">"Требуется выход. Пожалуйста, 
+ откройте это приложение еще раз, для обновления ресурсов."</string>
     <string name="resource_mute">Ничего</string>
     <string name="resource_default">Мелодия по умолчанию</string>
     <string name="resource_ringtone_default">Мелодии</string>
@@ -161,7 +161,7 @@
     <string name="download_preview_failed">Ошибка загрузки данных</string>
     <string name="resource_delete_confirm">Удалить этот ресурс?</string>
     <string name="all_resources">Все</string>
-    <string name="resource_default_name">Resource</string>
+    <string name="resource_default_name">Ресурс</string>
     <string name="resource_detail">Сведения</string>
     <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
@@ -182,7 +182,7 @@
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="loading_resource_detail_info">Загрузка данных…</string>
     <string name="account_abnormal_state">Неправильная информация о учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
-    <string name="theme_batch_has_update_text">Темы, требующие обновления: %1$d</string>
+    <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
     <string name="theme_batch_update_all">Обновить все</string>
     <string name="theme_batch_update_dlg_content">Хотите обновить темы сейчас?</string>
     <string name="theme_batch_update_dlg_title">Обновить</string>

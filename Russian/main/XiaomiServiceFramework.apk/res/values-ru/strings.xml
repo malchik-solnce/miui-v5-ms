@@ -39,7 +39,7 @@
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>
     <string name="completed">Готово</string>
-    <string name="header_data_and_synchronization">Данные и синхронизация</string>
+    <string name="header_data_and_synchronization">ДАННЫЕ И СИНХРОНИЗАЦИЯ</string>
     <string name="title_reg">Регистрация в сети Xiaomi</string>
     <string name="micloud_account_label">Аккаунт: %1$s</string>
     <string name="email_already_be_used">Этот адрес почты уже используется</string>
@@ -80,7 +80,7 @@
     <string name="activating">Активация...</string>
     <string name="check_phone_error_title">Ошибка синхронизации</string>
     <string name="check_phone_io_error">Ошибка сети</string>
-    <string name="other_settings">Остальные параметры</string>
+    <string name="other_settings">ДРУГИЕ ПАРАМЕТРЫ</string>
     <string name="find_device">Обнаружение устройства</string>
     <string name="find_device_check_phone_error_title">Ошибка включения обнаружения устройства</string>
     <string name="find_device_enabling">Включение…</string>
@@ -131,8 +131,8 @@
     <string name="error_mili_title">Не хватает Mi</string>
     <string name="error_network_title">Ошибка сети</string>
     <string name="error_network_summary">Ошибка сети. Пожалуйста, попробуйте еще раз.</string>
-    <string name="error_auth_title">Account error</string>
-    <string name="error_auth_summary">Account login error, please re-login</string>
+    <string name="error_auth_title">Ошибка</string>
+    <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
     <string name="error_has_bought_title">Повторите покупку</string>
     <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
     <string name="error_server_title">Ошибка сервера</string>
@@ -240,7 +240,7 @@
     <string name="title_recharge_record">История пополнения</string>
     <string name="title_pay_record">%1$s - история пополнений</string>
     <string name="recharge_record">История пополнений</string>
-    <string name="pay_record">Платежная история</string>
+    <string name="pay_record">ИСТОРИЯ ПЛАТЕЖЕЙ</string>
     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
     <string name="btn_voucher">Mi Credit card (%1$s)</string>
     <string name="fee">%1$s Mi</string>

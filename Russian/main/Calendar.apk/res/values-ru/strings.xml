@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accessibility_add_attendee">Добавить участника</string>
   <string name="accessibility_add_reminder">Добавить напоминание</string>
   <string name="accessibility_all_day">На весь день</string>
@@ -19,7 +17,8 @@
   <string name="accessibility_repeats">Повтор</string>
   <string name="accessibility_sync_cal">Синхронизировать календарь</string>
   <string name="accounts">Аккаунты</string>
-  <string name="acct_not_synced">Этот аккаунт не синхронизируется, поэтому ваши календари не обновляются</string>
+  <string name="acct_not_synced">Этот аккаунт не синхронизируется,
+ поэтому Ваши календари не обновляются</string>
   <string name="acessibility_cal_notification">Уведомление календаря</string>
   <string name="acessibility_selected_marker_description">Выбранное событие</string>
   <string name="acessibility_snooze_notification">Отложить событие</string>
@@ -125,22 +124,22 @@
   <string name="no_title_label">(Нет заголовка)</string>
   <string name="not_synced">не синхронизирован</string>
   <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
-  <string name="preferences_about_title">О программе</string>
+  <string name="preferences_about_title">О ПРОГРАММЕ</string>
   <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
   <string name="preferences_alerts_ringtone_title">Выбрать рингтон</string>
   <string name="preferences_alerts_title">Оповещения</string>
   <string name="preferences_alerts_vibrateWhen_title">Вибрация</string>
   <string name="preferences_build_version">Версия сборки</string>
-  <string name="preferences_category_account_title">Аккаунт</string>
-  <string name="preferences_category_general_title">Общие</string>
+  <string name="preferences_category_account_title">НАСТРОЙКИ АККАУНТА</string>
+  <string name="preferences_category_general_title">ОБЩИЕ НАСТРОЙКИ</string>
   <string name="preferences_clear_search_history_summary">Удалить информацию обо всех выполненных поисковых запросах</string>
   <string name="preferences_clear_search_history_title">Очистить историю поиска</string>
   <string name="preferences_default_reminder_dialog">Напомнить</string>
   <string name="preferences_default_reminder_title">Время напоминания</string>
-  <string name="preferences_general_title">Мероприятия</string>
+  <string name="preferences_general_title">МЕРОПРИЯТИЯ</string>
   <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
   <string name="preferences_home_tz_title">Мой часовой пояс</string>
-  <string name="preferences_reminder_title">Настройки напоминаний</string>
+  <string name="preferences_reminder_title">НАСТРОЙКИ НАПОМИНАНИЙ</string>
   <string name="preferences_show_week_num_title">Показать номер недели</string>
   <string name="preferences_title">Настройки</string>
   <string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
