@@ -5,10 +5,10 @@
         <item>http://www.google.com/</item>
         <item>Прошивки</item>
         <item>http://romz.bz/</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
+        <item>DimonVideo</item>
+        <item>http://dimonvideo.ru/</item>
+        <item>VK</item>
+        <item>http://vk.com/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
@@ -64,6 +64,11 @@
         <item>Часто посещаемые</item>
         <item>Другая</item>
      </string-array>
+     <string-array name="pref_images_preload_choices">
+        <item>Никогда</item>
+        <item>Только при Wi-Fi</item>
+        <item>Всегда</item>
+     </string-array>
 	 <string-array name="pref_link_prefetch_choices">
         <item>Никогда</item>
         <item>Только при Wi-Fi</item>
@@ -75,6 +80,11 @@
         <item>Средний</item>
         <item>Большой</item>
         <item>Огромный</item>
+     </string-array>
+	 <string-array name="pref_video_preload_choices">
+        <item>Никогда</item>
+        <item>Только Wi-Fi</item>
+        <item>Всегда</item>
      </string-array>
 	 <string-array name="pref_volume_key_choices">
         <item>Прокрутка страницы</item>
@@ -89,20 +99,5 @@
         <item>google</item>
         <item>yandex_ru</item>
         <item>bing</item>
-     </string-array>
-     <string-array name="pref_video_preload_choices">
-        <item>Никогда</item>
-        <item>Только Wi-Fi</item>
-        <item>Всегда</item>
-     </string-array>
-     <string-array name="pref_link_prefetch_choices">
-        <item>Никогда</item>
-        <item>Только Wi-Fi</item>
-        <item>Всегда</item>
-     </string-array>
-     <string-array name="pref_data_preload_choices">
-        <item>Никогда</item>
-        <item>Только Wi-Fi</item>
-        <item>Всегда</item>
      </string-array>
 </resources>
