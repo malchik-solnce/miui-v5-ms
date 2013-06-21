@@ -103,7 +103,7 @@
     <string name="user_guide">Руководство пользователя</string>
     <string name="user_guide_summary">Руководство</string>
     <string name="rename_failed">Переименование %1$s не удалось</string>
-    <string name="directory_no_item">Пустая папка</string>
+    <string name="directory_no_item">пустая папка</string>
     <string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось скачать</string>
