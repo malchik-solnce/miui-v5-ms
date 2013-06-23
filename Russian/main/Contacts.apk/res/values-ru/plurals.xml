@@ -25,8 +25,8 @@
         <item quantity="one">Одна группа</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-    	<item quantity="other">%2$s. В группе %1$d чел.</item>
-        <item quantity="one">%2$s. В группе %1$d чел.</item>
+        <item quantity="other">%1$d чел. в группе %2$s</item>
+        <item quantity="one">%1$d чел. в группе %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Номеров: %1$d</item>
@@ -38,11 +38,18 @@
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">Голосовые сообщения: %1$d</item>
-        <item quantity="one">Голосовая почта</item>
+        <item quantity="one">Голосовое сообщение</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Добавлено %1$d контактов</item>
+        <item quantity="one">Добавлен %1$d контакт</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: 1</item>
     </plurals>
 </resources>

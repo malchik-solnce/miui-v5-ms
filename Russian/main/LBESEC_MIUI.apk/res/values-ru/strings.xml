@@ -125,7 +125,7 @@
     <string name="HIPS_SecurityPrompt_Caption">Предупреждение безопасности</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
-    <string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
+    <string name="HIPS_SecurityPrompt_Accept">Разр. (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject">Запр. (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разр.</string>
     <string name="HIPS_SecurityPrompt_Next">Далее</string>
@@ -150,7 +150,7 @@
 
  Пожалуйста, переключитесь на версию MIUI от разработчика, чтобы включить ROOT разрешения."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://dimonvideo.ru/smart/uploader/390680</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
     <string name="Dashboard_Perm_HIPS_Switch">Управление разрешениями</string>
     <string name="Dashboard_Perm_HIPS">Управление доступом приложений</string>
     <string name="Dashboard_Perm_HIPS_Desc">Управление %1$d приложениями на безопасность и конфиденциальность</string>
@@ -162,13 +162,13 @@
     <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
     <string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
-    <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
+    <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит Вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
 Вы действительно хотите ее отключить?"</string>
     <string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
     <string name="Dashboard_Su_Enable_Content">"Включение позволит приложениям запрашивать доступ от суперпользователя. 
 Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?"</string>
     <string name="Dashboard_Log_Clear_Title">Очистить логи</string>
-    <string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
+    <string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Продолжить?</string>
     <string name="Privacy_Perm_Count">Разрешено: %1$d Запрещено: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800>доверенные&lt;/font></string>

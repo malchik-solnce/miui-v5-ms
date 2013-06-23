@@ -208,50 +208,25 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Не указано</item>
-    </string-array>
-    <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
-        <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Память устройства</item>
         <item>Съемная SD карта</item>
         <item>Автоматически</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
-    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Маленькая</item>
         <item>Средняя</item>
         <item>Большая</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Никогда не проверять</item>
         <item>Проверять только для DRM содержимого</item>
         <item>Проверять всегда</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Никогда не использовать проверку HDCP</item>
@@ -267,15 +242,6 @@
         <item>5x</item>
         <item>10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Отключено</item>
         <item>0.5x</item>
@@ -284,15 +250,6 @@
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Анимация отключена</item>
@@ -303,15 +260,6 @@
         <item>Анимация (масштаб: 5x)</item>
         <item>Анимация (масштаб: 10x)</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
         <item>Без фоновых процессов</item>
@@ -319,14 +267,6 @@
         <item>Максимум 2 процесса</item>
         <item>Максимум 3 процесса</item>
         <item>Максимум 4 процесса</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -359,13 +299,6 @@
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
     </string-array>
-    <string-array name="user_content_ratings_values">
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
         <item>@string/input_method_selector_always_show_title</item>
@@ -381,30 +314,15 @@
         <item>Средний</item>
         <item>Сильный</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графический</item>
         <item>Проценты</item>
         <item>Полоса в баре</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Запрос при подкл.</item>
         <item>Зарядка</item>
         <item>Подключить SD-карту</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 секунды</item>
@@ -416,40 +334,13 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
     </string-array>
-    <string-array name="led_freq_values">
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-    </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
-    <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Розовый</item>
+        <item>Фиолетовый</item>
+        <item>Пурпурный</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Зеленый</item>
@@ -495,13 +386,6 @@
         <item>Google Now</item>
         <item>Закрыть приложение</item>
     </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 сек.</item>
         <item>1 сек.</item>
@@ -515,14 +399,6 @@
         <item>10 сек</item>
         <item>20 сек</item>
         <item>Всегда</item>
-    </string-array>
-    <string-array name="button_light_timeout_value">
-        <item>1000</item>
-        <item>2000</item>
-        <item>5000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>-1</item>
     </string-array>
     <string-array name="font_size_title">
         <item>@string/font_size_small</item>
@@ -546,34 +422,10 @@
         <item>@string/dolby_bassboost_normal</item>
         <item>@string/dolby_bassboost_high</item>
     </string-array>
-    <string-array name="dolby_bassboost_rank_valus">
-        <item>0</item>
-        <item>3</item>
-        <item>6</item>
-    </string-array>
     <string-array name="dolby_roomsize_ranks">
         <item>@string/dolby_roomsize_low</item>
         <item>@string/dolby_roomsize_normal</item>
         <item>@string/dolby_roomsize_high</item>
-    </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>16,8,0,-8,0,8,16</item>
-        <item>0,0,-4,-8,-8,-4,0</item>
-        <item>-8,-20,4,12,8,8,8</item>
-        <item>4,0,0,-8,-4,0,0</item>
-        <item>16,4,-4,-4,4,4,4</item>
-        <item>16,-4,0,-8,0,-4,-4</item>
-        <item>4,0,-4,-8,0,4,8</item>
-        <item>16,4,-8,-4,-8,-4,0</item>
-        <item>0,-4,-4,-4,-8,-4,-8</item>
-        <item>16,12,-24,-24,-16,12,16</item>
-        <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="dolby_equalizer_preset_names">
         <item>@string/dolby_eq_flat</item>
@@ -652,19 +504,10 @@
         <item>Яркий</item>
         <item>Стандартный</item>
     </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешить</item>
         <item>Запрос</item>
         <item>Запретить</item>
-    </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Разрешить</item>

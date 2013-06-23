@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activate">Включить</string>
-    <string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
+    <string name="activate_fail_notification_title">Активируйте повторно услугу Xiaomi синхронизации</string>
     <string name="activating">Активация...</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
@@ -327,11 +327,11 @@
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
     <string name="memory_clear_result">Освобождено: %1$s | Доступно: %2$s</string>
-    <string name="miui_copyright_title">Авторское право</string>
+    <string name="miui_copyright_title">Авторские права</string>
     <string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
     <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
     <string name="miui_user_agreement_title">Пользовательское соглашение</string>
-    <string name="miui_user_manual_title">Инструкция</string>
+    <string name="miui_user_manual_title">Руководство</string>
     <string name="month_of_april">Апр</string>
     <string name="month_of_august">Авг</string>
     <string name="month_of_december">Дек</string>
@@ -432,7 +432,7 @@
     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите через %d секунд</string>
     <string name="lockscreen_pattern_wrong">Попробуйте еще раз</string>
-    <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
+    <string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
     <string name="lockscreen_transport_next_description">Next track button</string>
     <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
     <string name="lockscreen_access_pattern_start">Pattern started</string>
@@ -441,18 +441,18 @@
     <string name="lockscreen_transport_prev_description">Previous track button</string>
     <string name="lockscreen_transport_play_description">Play button</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
-    <string name="unlockscreen_recharging_message">Recharging %d%%</string>
-    <string name="unlockscreen_recharge_completed">Recharge completed</string>
+    <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
+    <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
     <string name="emergency_call_string">Экстренные</string>
     <string name="forget_password_string">Забыли пароль?</string>
     <string name="miui_unlockscreen_password_wrong">Попробуйте еще раз</string>
-    <string name="contact_carrier_message">Please contact carrier if any questions</string>
-    <string name="input_puk_code">Введите PUK</string>
+    <string name="contact_carrier_message">Пожалуйста, свяжитесь с оператором по любому вопросу</string>
+    <string name="input_puk_code">PUK-код</string>
     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
     <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
-    <string name="short_pukcode_error_msg">Please input at least 8 digits</string>
+    <string name="short_pukcode_error_msg">Введите не меньше 8 цифр</string>
     <string name="short_pincode_error_msg">Please input 4–8 digits</string>
-    <string name="input_pin_code">Введите PIN</string>
+    <string name="input_pin_code">PIN-код</string>
     <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
     <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбросьте его здесь.</string>
     <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
@@ -464,7 +464,7 @@
     <string name="return_to_me_message">Please return if I a lost</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Включить Wi-Fi</string>
-    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date">dd MMMM yyyy \n EEEE</string>
     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="send">Отправить</string>
     <string name="share">Поделиться</string>

@@ -1943,7 +1943,7 @@
     <string name="led_colors_summary">Цвет уведомлений</string>
     <string name="led_frequence_summary">Интервал между миганиями</string>
     <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
-    <string name="show_rounded_corners">Показывать закругленными углами</string>
+    <string name="show_rounded_corners">Закруглять углы</string>
     <string name="pref_operational_key">Остальные кнопки</string>
     <string name="pref_button_light">Подсветка</string>
     <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
@@ -2210,7 +2210,7 @@
     <string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
     <string name="man_add_application">Добавить вручную</string>
     <string name="application_item_disable">Запретить</string>
-    <string name="application_item_permission">Разрешить</string>
+    <string name="application_item_permission">Разр.</string>
     <string name="application_item_already_permission">Разрешено</string>
     <string name="application_forbid_auto_startup">Отключить автозапуск в фоне?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>

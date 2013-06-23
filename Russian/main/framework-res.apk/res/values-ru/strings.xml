@@ -24,7 +24,7 @@
   <string name="RestrictedOnData">Служба данных заблокирована</string>
   <string name="RestrictedOnEmergency">Служба экстренной помощи заблокирована</string>
   <string name="RestrictedOnNormal">Служба передачи голосовых сообщений заблокирована</string>
-  <string name="RestrictedOnSms">Служба передачи SMS заблокирована.</string>
+  <string name="RestrictedOnSms">Служба передачи SMS заблокирована</string>
   <string name="RestrictedOnVoiceData">Службы передачи голосовых сообщений/данных заблокированы</string>
   <string name="RestrictedOnVoiceSms">Службы передачи голосовых сообщений/SMS заблокированы</string>
   <string name="RuacMmi">Отклонение нежелательных звонков</string>
@@ -276,8 +276,8 @@
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Выключить</string>
-  <string name="global_action_restart">Перезагрузить</string>
+  <string name="global_action_power_off">Выключение</string>
+  <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_on_status">Звук ВЫКЛЮЧЕН</string>
   <string name="global_action_silent_mode_off_status">Звук ВКЛЮЧЕН</string>
   <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
