@@ -849,6 +849,9 @@
     <string name="location_neighborhood_level_wifi">Местоположение определяется с помощью Wi-Fi</string>
     <string name="location_gps">По спутникам GPS</string>
     <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
+	<string name="location_access_summary">Разрешить приложениям использовать данные о Вашем местоположении</string>
+    <string name="location_access_title">Доступ к моему местоположению</string>
+	<string name="location_sources_heading">Определение местоположения</string>
     <string name="assisted_gps">Использовать A-GPS</string>
     <string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>
     <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
@@ -962,12 +965,12 @@
     <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
     <string name="reset_app_preferences_desc">"Это сбросит все настройки для: 
 	
- "<li>Disabled apps</li>"
- "<li>Disabled app notifications</li>"
- "<li>Default applications for actions</li>"
- "<li>Background data restrictions for apps</li>"
+ "<li>Отключенных приложений</li>"
+ "<li>Отключенных уведомлений приложений</li>"
+ "<li>Приложений по умолчанию</li>"
+ "<li>Ограничений фоновых данных приложений</li>"
 
- You will not lose any app data."</string>"</string>
+ Данные приложений потеряны не будут."</string>"</string>
     <string name="reset_app_preferences_button">Сброс приложений</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="filter">Фильтр</string>
@@ -1000,11 +1003,19 @@
     <string name="computing_size">Вычисление…</string>
     <string name="invalid_size_value">Не удалось вычислить размер пакета</string>
     <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
+	<string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
+	<string name="enable_wifi_display">Включить Wi-Fi Display</string>
     <string name="version_text">Версия %1$s</string>
+	<string name="memory_available_read_only">доступно (только для чтения)</string>
+	<string name="memory_clear_cache_message">Удалить данные всех приложений?</string>
+    <string name="memory_clear_cache_title">Очистка кэша</string>
+	<string name="memory_media_cache_usage">Данные кэша</string>
     <string name="move_app">Переместить</string>
     <string name="move_app_to_internal">На телефон</string>
     <string name="move_app_to_sdcard">На SD-карту</string>
     <string name="moving">Перемещение</string>
+	<string name="mtp_ptp_mode_summary">Активирована функция MTP или PTP</string>
+	<string name="not_installed">Не установлено</string>
     <string name="insufficient_storage">Недостаточно места</string>
     <string name="does_not_exist">Приложение не установлено</string>
     <string name="app_forward_locked">Приложение защищено от копирования</string>
@@ -1012,6 +1023,8 @@
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
     <string name="force_stop_dlg_title">Остановить принудительно?</string>
     <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности</string>
+	<string name="force_msaa">Включить 4x MSAA</string>
+	<string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
     <string name="app_install_location_title">Место установки</string>
     <string name="app_install_location_summary">Изменить папку для установки приложений</string>
@@ -1119,6 +1132,7 @@
     <string name="input_methods_settings_title">Ввод текста</string>
     <string name="input_method">Способ ввода</string>
     <string name="current_input_method">По умолчанию</string>
+	<string name="install_text">Установить</string>
     <string name="input_method_selector">Выбор способа ввода</string>
     <string name="input_method_selector_show_automatically_title">Автоматически</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
@@ -1153,6 +1167,11 @@
 Некоторые приложения могут перестать работать, пока их не обновят разработчики."</string>
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="widget_picker_title">Выбор виджета</string>
+	<string name="gadget_bluetooth">Bluetooth</string>
+    <string name="gadget_brightness_template">Яркость %1$s</string>
+    <string name="gadget_gps">GPS</string>
+	<string name="gadget_sync">Синхронизация</string>
+	<string name="gadget_wifi">Wi-Fi</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
     <string name="allow_bind_app_widget_activity_allow_bind">После создания виджета, %1$s может получить доступ ко всем отображаемым им данным</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать %1$s создавать виджеты и получать доступ к их данным</string>
@@ -1166,6 +1185,30 @@
     <string name="app_name_label">Приложение</string>
     <string name="launch_count_label">Подсчет</string>
     <string name="usage_time_label">Время использования</string>
+	<string name="accessibility_feature_state_off">Выключено</string>
+    <string name="accessibility_feature_state_on">Включено</string>
+    <string name="accessibility_global_gesture_preference_description">"Вы сможете быстро включать специальные возможности. Вот как это сделать.
+
+1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
+
+2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
+
+Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">ВЫКЛ</string>
+    <string name="accessibility_global_gesture_preference_summary_on">ВКЛ</string>
+    <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
+    <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
+	<string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+	<string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
+
+При увеличенном масштабе можно:
+<ul><li>панорамировать – проведите пальцами по экрану</li>
+<li>изменять масштаб – сведите или разведите пальцы</li></ul>
+
+Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, Вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
+
+Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации."</string>
+    <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
     <string name="accessibility_settings">Спец. возможности</string>
     <string name="accessibility_settings_title">Настройки специальных возможностей</string>
     <string name="accessibility_services_title">Службы</string>
@@ -1191,11 +1234,27 @@
     <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
     <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
     <string name="accessibility_service_default_description">Нет описания</string>
+	<string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
+    <string name="accessibility_toggle_large_text_title">Большой текст</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Специальные веб-скрипты</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Озвучивать пароли</string>
     <string name="settings_button">Настройки</string>
     <string name="power_usage_summary_title">Состояние батареи</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_not_available">Уровень заряда неизвестен</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
+	<string name="regulatory_information">Юридическая информация</string>
+	<string name="activity_not_found">Приложение не установлено</string>
+	<string name="allow">Разрешить</string>
+	<string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
+	<string name="app_special_disable_dlg_title">Отключить?</string>
+	<string name="audio_profile_settings_title">Профили аудио</string>
+	<string name="battery_desc_users">Использование батареи пользователем</string>
+	<string name="battery_info_power_wireless">беспроводная</string>
+	<string name="battery_info_status_charging_wireless">(беспроводная)</string>
     <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
     <string name="battery_stats_on_battery">%1$s от батареи</string>
@@ -1206,6 +1265,10 @@
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Режим бодрствования</string>
     <string name="battery_stats_phone_signal_label">Уровень сигнала сети</string>
+	<string name="bugreport_in_power">Отчеты об ошибках</string>
+    <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
+    <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
     <string name="awake">Время включения устройства</string>
     <string name="wifi_on_time">Время работы Wi-Fi</string>
     <string name="bluetooth_on_time">Время работы Wi-Fi</string>
@@ -1267,6 +1330,33 @@
     <string name="recognizer_title">Распознавание голоса</string>
     <string name="recognizer_settings_title">Голосовой поиск</string>
     <string name="recognizer_settings_summary">"Настройки для '%s'"</string>
+	<string name="roaming_warning_multiuser">"Использование роуминга может повлечь за собой непредвиденные расходы.
+
+Настройки будут изменены для всех пользователей устройства."</string>
+    <string name="running_process_item_removed_user_label">Удаление пользователя…</string>
+    <string name="running_process_item_user_label">Пользователь: %1$s</string>
+	<string name="screensaver_settings_button">Настройки</string>
+	<string name="screensaver_settings_disabled_prompt">Чтобы знать, что происходит с телефоном, когда он подключен к док-станции или находится в спящем режиме, включите заставку</string>
+    <string name="screensaver_settings_dream_start">Включить</string>
+	<string name="screensaver_settings_summary_dock">В док-станции</string>
+    <string name="screensaver_settings_summary_either_long">При подключении к док-станции, при переходе в спящий режим и во время зарядки</string>
+    <string name="screensaver_settings_summary_either_short">Всегда</string>
+	<string name="screensaver_settings_summary_sleep">Во время зарядки</string>
+	<string name="screensaver_settings_when_to_dream">Когда включать</string>
+	<string name="security_settings_billing_desc">Это приложение может списывать деньги с Вашего счета:</string>
+	<string name="security_settings_premium_sms_desc">Отправка SMS</string>
+	<string name="selinux_status">Статус SELinux</string>
+    <string name="selinux_status_disabled">Отключено</string>
+    <string name="selinux_status_enforcing">Блокировка</string>
+    <string name="selinux_status_permissive">Только предупреждение</string>
+	<string name="show_dev_already">Вы уже разработчик</string>
+	<string name="show_dev_on">Вы стали разработчиком!</string>
+	<string name="show_hw_layers_updates">Показ. аппаратные обновл.</string>
+    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым при обновлении</string>
+    <string name="show_hw_overdraw">Показывать наложения</string>
+    <string name="show_hw_overdraw_summary">Порядок: синий, зеленый, светло-красный, красный</string>
+	<string name="show_user_info_on_lockscreen_label">Показывать пользов. текст на экране блокировки</string>
+	<string name="storage_other_users">Другие пользователи</string>
     <string name="tts_settings">Настройки синтеза речи</string>
     <string name="tts_settings_title">Синтез речи</string>
     <string name="use_default_tts_settings_title">Только мои настройки</string>
@@ -1296,6 +1386,40 @@
     <string name="tts_engine_name_is_disabled_summary">%s отключен</string>
     <string name="tts_engine_settings_section">Настройки синтеза</string>
     <string name="tts_engine_settings_title">Настройки %s</string>
+	<string name="uninstall_all_users_text">Удалить для всех пользователей</string>
+	<string name="user_account_title">Аккаунт для контента</string>
+	<string name="user_add_user_message_long">"Если устройством пользуется несколько человек, заведите для них отдельные учетные записи. В результате у каждого пользователя появится свое пространство, где можно будет установить собственные приложения или обои. При этом некоторые параметры, например настройки Wi-Fi, останутся общими для всех.
+
+Обновление приложений будет происходить для всех учетных записей одновременно. Установить обновление сможет любой пользователь.
+
+"</string>
+    <string name="user_add_user_message_short">"Каждый новый пользователь должен выполнить настройку.
+
+Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
+    <string name="user_add_user_title">Добавить пользователя</string>
+    <string name="user_adding_new_user">Добавление…</string>
+	<string name="user_cannot_manage_message">Только владелец может настроить устройство для других пользователей</string>
+	<string name="user_confirm_remove_self_message">Удалить все Ваши данные, сохраненные на этом устройстве, без возможности восстановления?</string>
+	<string name="user_confirm_remove_self_title">Удаление аккаунта</string>
+	<string name="user_delete_button">Удалить</string>
+    <string name="user_delete_user_description">Удалить пользователя</string>
+	<string name="user_info_settings_title">Информация о пользователе</string>
+	<string name="user_nickname">Ник</string>
+    <string name="user_owner">Владелец</string>
+    <string name="user_picture_title">Фотография</string>
+	<string name="user_setup_button_setup_later">Не сейчас</string>
+    <string name="user_setup_button_setup_now">Настроить</string>
+    <string name="user_setup_dialog_message">Убедитесь, что человек хочет создать свое пространство на этом устройстве</string>
+    <string name="user_setup_dialog_title">Настроить пользователя?</string>
+    <string name="user_summary_active">Активен</string>
+    <string name="user_summary_inactive">Не активен</string>
+    <string name="user_summary_not_set_up">Не настроен</string>
+    <string name="user_system_apps_heading">Системные приложения</string>
+    <string name="user_you_section">Вы</string>
+    <string name="verify_applications">Проверка приложений</string>
+    <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
+    <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
+    <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
     <string name="pico_languages_and_voices">Языки и голос</string>
     <string name="pico_installed">Установлено</string>
     <string name="pico_not_installed">Не установлено</string>
@@ -1309,6 +1433,9 @@
     <string name="gadget_title">Упр. питанием</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
+    <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
+    <string name="global_font_change_title">Измените размер шрифта</string>
+    <string name="global_locale_change_title">Измените язык</string>
     <string name="vpn_settings_title">Приватная сеть</string>
     <string name="credentials_title">СЕРТИФИКАТЫ</string>
     <string name="credentials_install">Установить с SD-карты</string>
@@ -1566,6 +1693,11 @@
     <string name="data_usage_metered_mobile">Мобильные сети</string>
     <string name="data_usage_metered_wifi">Wi-Fi сети</string>
     <string name="data_usage_metered_wifi_disabled">Для выбора мобильных точек доступа включите Wi-Fi</string>
+	<string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
+
+Настройки будут изменены для всех пользователей устройства."</string>
+    <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
+	<string name="deny">Запретить</string>
     <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
     <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
     <string name="vpn_name">Название сети</string>
@@ -1599,6 +1731,10 @@
     <string name="vpn_menu_delete">Удалить сеть</string>
     <string name="vpn_no_network">Нет соединения. Попробуйте позже.</string>
     <string name="vpn_missing_cert">Отсутствует сертификат. Отредактируйте профиль.</string>
+	<string name="vpn_lockdown_config_error">Всегда VPN требует IP адрес для сервера и DNS</string>
+    <string name="vpn_lockdown_none">Нет</string>
+    <string name="vpn_lockdown_summary">Выберите профиль VPN, который будет всегда подключен. Сетевой трафик будет работать только при подключении к данному VPN.</string>
+	<string name="vpn_menu_lockdown">Всегда VPN</string>
     <string name="trusted_credentials_system_tab">Системные</string>
     <string name="trusted_credentials_user_tab">Пользователя</string>
     <string name="trusted_credentials_disable_label">Отключить</string>
@@ -1845,6 +1981,7 @@
     <string name="device_cpu4_info">"4 ядра "</string>
     <string name="available_size">%s (доступно)</string>
     <string name="total_size">%s (всего)</string>
+	<string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
     <string name="xiaomi_account">Аккаунт Xiaomi</string>
     <string name="sync_settings">Аккаунты</string>
     <string name="sms_received_sound_title">Входящее сообщение</string>
@@ -1997,7 +2134,44 @@
     <string name="wifi_context_menu_forget">Forget network</string>
     <string name="wifi_context_menu_change_password">Change password</string>
     <string name="wifi_context_menu_change_wapi_certificate">Change WAPI Certificate</string>
-    <string name="search_label">Настройки</string>
+	<string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не может проверить информацию о обновлении программного обеспечения</string>
+	<string name="wifi_connect_failed_message">Устройство не может подключиться к этой Wi-Fi сети</string>
+	<string name="wifi_display_available_devices">Доступные устройства</string>
+    <string name="wifi_display_details">Настройка дисплея</string>
+    <string name="wifi_display_disconnect_text">Завершить Ваш сеанс связи с:&lt;br>&lt;b>%1$s&lt;/b>?</string>
+    <string name="wifi_display_disconnect_title">Отключение</string>
+    <string name="wifi_display_no_devices_found">Нет близлежащих беспроводных дисплеев</string>
+    <string name="wifi_display_options_done">Готово</string>
+    <string name="wifi_display_options_forget">Забыть</string>
+    <string name="wifi_display_options_name">Имя</string>
+    <string name="wifi_display_options_title">Настройки беспроводных дисплеев</string>
+    <string name="wifi_display_paired_devices">Сопряженные дисплеи</string>
+    <string name="wifi_display_search_for_devices">Поиск дисплеев</string>
+    <string name="wifi_display_searching_for_devices">Поиск…</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен, так как Wi-Fi недоступен</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">Для просмотра устройств, включите беспроводной дисплей</string>
+    <string name="wifi_display_settings_title">Беспроводной дисплей</string>
+    <string name="wifi_display_status_available">Доступно</string>
+    <string name="wifi_display_status_connected">Подключено</string>
+    <string name="wifi_display_status_connecting">Подключение</string>
+    <string name="wifi_display_summary_disabled">Отключен</string>
+    <string name="wifi_display_summary_off">Выкл</string>
+    <string name="wifi_display_summary_on">Вкл</string>
+	<string name="wifi_dont_skip">Не пропускать</string>
+	<string name="wifi_menu_more_options">Дополнительные настройки</string>
+	<string name="wifi_p2p_delete_group_message">Удалить эту группу?</string>
+	<string name="wifi_p2p_remembered_groups">Сохраненные группы</string>
+	<string name="wifi_required_info_text">Для завершения настройки, Ваше устройство требует дотупа к Wi-Fi. После настройки, Вы можете переключаться между мобильной сетью и Wi-Fi.</string>
+    <string name="wifi_skip_anyway">Пропустить</string>
+	<string name="wifi_skipped_message">"Внимание: может взиматься дополнительная плата за подключение.
+
+Настройка телефона может потребовать значительных объемов трафика."</string>
+    <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">Минимизировать использование батареи при подключенном Wi-Fi</string>
+	<string name="wifi_tether_setting_title">Основные настройки</string>
+    <string name="wifi_tether_starting">Включение…</string>
+    <string name="wifi_tether_stopping">Выключение…</string>
+	<string name="search_label">Настройки</string>
     <string name="search_hint">Search settings</string>
     <string name="search_description">Search settings</string>
     <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
@@ -2175,7 +2349,7 @@
     <string name="device_name">Имя устройства</string>
     <string name="device_edit_title">Смена имени</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
-    <string name="device_name_usage_point">Отображаемое имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
+    <string name="device_name_usage_point">Отображаемое имя Вашего устройства при создании различных точек доступа</string>
     <string name="drive_mode">В автомобиле</string>
     <string name="enable_drive_mode">Включить режим вождения</string>
     <string name="drive_mode_title">Задать голосовое уведомление</string>
@@ -2234,4 +2408,5 @@
     <string name="sim_management_title">Управление SIM-картой</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация IMEI</string>
+	<string name="xiaomi_money_service">Центр MiCredit</string>
 </resources>
