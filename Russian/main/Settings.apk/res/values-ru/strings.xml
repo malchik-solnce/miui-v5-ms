@@ -929,12 +929,12 @@
     <string name="advanced_settings">Расширенные настройки</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
     <string name="application_info_label">О приложении</string>
-    <string name="storage_label">Память</string>
-    <string name="auto_launch_label">Запуск по умолчанию</string>
+    <string name="storage_label">ПАМЯТЬ</string>
+    <string name="auto_launch_label">ЗАПУСК ПО УМОЛЧАНИЮ</string>
     <string name="auto_launch_label_generic">По умолчанию</string>
     <string name="screen_compatibility_label">Совместимость с экраном</string>
-    <string name="permissions_label">Информация о разрешениях</string>
-    <string name="cache_header_label">Кэш</string>
+    <string name="permissions_label">ИНФОРМАЦИЯ О РАЗРЕШЕНИЯХ</string>
+    <string name="cache_header_label">КЭШ</string>
     <string name="clear_cache_btn_text">Очистить кэш</string>
     <string name="cache_size_label">Кэш</string>
     <string name="controls_label">Элементы управления</string>
@@ -1875,7 +1875,7 @@
     <string name="perm_hips_security_prompt_remember">Запомнить мой выбор</string>
     <string name="perm_hips_security_prompt_accept">Разрешено (%d)</string>
     <string name="perm_hips_security_prompt_reject">Запр. (%d)</string>
-    <string name="perm_hips_security_prompt_accept_root">Разреш.</string>
+    <string name="perm_hips_security_prompt_accept_root">Разр.</string>
     <string name="perm_hips_security_prompt_next">Далее</string>
     <string name="perm_hips_security_prompt_root_caption">Важное предупреждение!</string>
     <string name="perm_hips_security_prompt_root_step1">Разрешить %1$s получать права суперпользователя?</string>
@@ -1886,7 +1886,7 @@
     <string name="perm_hips_security_prompt_root_step6">Разрешить %1$s получать права суперпользователя?</string>
     <string name="perm">Разрешения</string>
     <string name="perm_app">Приложения</string>
-    <string name="perm_log">Журналы</string>
+    <string name="perm_log">Журнал</string>
     <string name="perm_header">Управление %1$d приложениями</string>
     <string name="perm_header_disabled">Управление разрешениями отключено</string>
     <string name="perm_su_switch">Суперпользователь</string>
@@ -1924,7 +1924,7 @@
     <string name="perm_privacy_app_trust_summary_on">Система будет доверять этому приложению</string>
     <string name="perm_privacy_app_manage">Подробнее</string>
     <string name="perm_privacy_app_uninstall">Удалить</string>
-    <string name="perm_privacy_app_log">Журналы</string>
+    <string name="perm_privacy_app_log">Журнал</string>
     <string name="perm_privacy_app_installed">Установка завершена!</string>
     <string name="perm_privacy_app_finish">Готово</string>
     <string name="perm_privacy_app_launch">Открыть</string>

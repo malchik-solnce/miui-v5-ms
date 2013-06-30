@@ -273,7 +273,7 @@
   <string name="pref_content_open_in_background">Фоновые вкладки</string>
   <string name="pref_content_open_in_background_summary">Открывать новые вкладки позади текущей</string>
   <string name="pref_content_plugins">Разрешить плагины</string>
-  <string name="pref_content_preload_title">Предзагрузка контента</string>
+  <string name="pref_content_preload_title">ПРЕДЗАГРУЗКА КОНТЕНТА</string>
   <string name="pref_content_search_engine">Поисковая система</string>
   <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
   <string name="pref_content_title">СОДЕРЖАНИЕ СТРАНИЦЫ</string>
@@ -305,10 +305,10 @@
   <string name="pref_development_woff">Включить WOFF</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать браузер при закрытии последней вкладки</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Выход по закр. вкладки</string>
-  <string name="pref_extras_reset_default">СБРОС НАСТРОЕК</string>
+  <string name="pref_extras_reset_default">Сброс натсроек</string>
   <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
   <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
-  <string name="pref_extras_reset_default_title">Сброс настроек</string>
+  <string name="pref_extras_reset_default_title">СБРОС НАСТРОЕК</string>
   <string name="pref_extras_title">Расширенные</string>
   <string name="pref_extras_website_settings">Настройки веб-сайтов</string>
   <string name="pref_extras_website_settings_summary">Дополнительные настройки для отдельных сайтов</string>

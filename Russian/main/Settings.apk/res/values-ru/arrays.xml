@@ -142,11 +142,6 @@
         <item>5 ГГц</item>
         <item>2.4 ГГц</item>
     </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
         <item>Количесво запусков</item>
@@ -178,11 +173,6 @@
         <item>Сигнал</item>
         <item>Вибрация</item>
     </string-array>
-    <string-array name="emergency_tone_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>
@@ -196,12 +186,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP или CHAP</item>
-    </string-array>
-    <string-array name="apn_auth_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
@@ -303,11 +287,6 @@
         <item>@string/input_method_selector_show_automatically_title</item>
         <item>@string/input_method_selector_always_show_title</item>
         <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Слабый</item>

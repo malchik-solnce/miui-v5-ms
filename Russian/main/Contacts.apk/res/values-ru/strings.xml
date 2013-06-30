@@ -735,7 +735,7 @@
     <string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
     <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
     <string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
-    <string name="select_show_contacts">Отображение контактов</string>
+    <string name="select_show_contacts">ОТОБРАЖЕНИЕ КОНТАКТОВ</string>
     <string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
     <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
     <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
@@ -750,7 +750,7 @@
     <string name="preference_simple_mode_title">Простой режим</string>
     <string name="preference_simple_mode_description">Не отображать аватары, атрибуции, компании и т.д.</string>
     <string name="preference_contacts">НАСТРОЙКИ КОНТАКТОВ</string>
-    <string name="preference_contacts_display">ОТОБРАЖЕНИЕ КОНТАКТОВ</string>
+    <string name="preference_contacts_display">Отображение контактов</string>
     <string name="preference_contacts_more">Другие настройки</string>
     <string name="preference_contacts_filter">Контакты для отображения</string>
     <string name="preference_telocation_title">Местоположение</string>
