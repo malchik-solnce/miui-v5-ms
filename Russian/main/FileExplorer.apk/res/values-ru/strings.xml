@@ -294,4 +294,11 @@
     <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите место с помощью \"Очистки\" или просто удалите большие файлы.</string>
     <string name="no_enough_storage_title">Не хватает места</string>
 	<string name="unmount_inform_text">USB-накопитель будет отключен</string>
+	<string name="cancel_with_count_down">Отмена (%d)</string>
+    <string name="cleaned">Очищено</string>
+    <string name="cleaning">Очистка...</string>
+    <string name="cleanup_stopped">Очистка остановлена</string>
+	<string name="count_down_time">Начало через %d секунд</string>
+	<string name="file_cleanup">Очистка файлов</string>
+	<string name="scanned">Сканирование завершено</string>
 </resources>

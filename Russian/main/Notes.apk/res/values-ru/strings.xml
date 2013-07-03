@@ -155,9 +155,11 @@
   <string name="pref_title_data_export_to_sdcard">Экспортировать заметки на SD-карту</string>
   <string name="pref_desc_mode_list">Список</string>
   <string name="pref_desc_mode_grid">Сетка</string>
-  <string name="pref_title_note_style">Стиль</string>
+  <string name="pref_title_note_style">СТИЛЬ</string>
   <string name="alert_action_edit_anyway">Продолжить</string>
   <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
   <string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать?</string>
   <string name="error_unsupport_content">Заметка содержит неподдерживаемое содержимое. Нажмите для обновления системы.</string>
+  <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
+  <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
 </resources>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_label">Хранилище контактов</string>
   <string name="create_contact">Создать контакт</string>
   <string name="default_directory">Контакты</string>
@@ -11,11 +9,18 @@
   <string name="provider_label">Контакты</string>
   <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
   <string name="read_write_all_voicemail_label">Доступ к голосовым сообщениям</string>
-  <string name="send_sms">Отправка SMS/MMS</string>
+  <string name="send_sms">Отправить SMS/MMS</string>
   <string name="sharedUserLabel">Основные приложения Android</string>
   <string name="upgrade_msg">Обновление базы данных контактов...</string>
   <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
   <string name="upgrade_out_of_memory_notification_ticker">Необходимо больше памяти для обновления контактов</string>
   <string name="upgrade_out_of_memory_notification_title">Обновление памяти контактов</string>
   <string name="voicemail_from_column">"Голосовое сообщение от абонента "</string>
+  <string name="debug_dump_database_message">Вы собираетесь 1) создать копию базы данных, которая содержит все данные о контактах на внешнем накопителе, и 2) отправить ее. Не забудьте удалить копию, как только Вы успешно скопировали ее с устройства или электронного письма.</string>
+  <string name="debug_dump_delete_button">Удалить сейчас</string>
+  <string name="debug_dump_email_body">Прикрепление - это моя база контактов со всей информацией о контактах. Обращаться осторожно.</string>
+  <string name="debug_dump_email_sender_picker">Выбор программы для отправки</string>
+  <string name="debug_dump_email_subject">База контактов прикреплена</string>
+  <string name="debug_dump_start_button">Начать</string>
+  <string name="debug_dump_title">Копирование базы контактов</string>
 </resources>

@@ -44,7 +44,7 @@
     <string name="call_lost_title">Потеря вызова</string>
     <string name="ok">OK</string>
     <string name="mmiStarted">Код MMI запущен</string>
-    <string name="ussdRunning">Выполняется запрос USSD…</string>
+    <string name="ussdRunning">Выполняется USSD запрос…</string>
     <string name="mmiCancelled">Код MMI отменен</string>
     <string name="cancel">Отмена</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
@@ -983,7 +983,7 @@
     <string name="call_waiting_tone_stop_summary">(Кнопки громкости для отключения вручную)</string>
     <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
     <string name="call_waiting_tone_twice_only_miui">Воспроизвести тон дважды</string>
-    <string name="call_waiting_tone_twice_and_vibrate_miui">Вибрация и играть тон дважды</string>
+    <string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизвести тон дважды и провибрировать</string>
     <string name="cdma_display_precise_call_state_title_miui">Показывать состояние вызова</string>
     <string name="cdma_display_precise_call_state_summary_miui">CDMA таймер вызова ограничен оператором сотовой сети. Если местный оператор поддерживает, состояние может быть показано точно.</string>
     <string name="cdma_display_precise_call_state_message_miui">Если ваш оператор не поддерживает это, состояние вызова будет неправильно, если включен этот пункт. Продолжить?</string>
