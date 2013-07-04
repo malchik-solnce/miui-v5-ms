@@ -391,6 +391,12 @@
         <item>1.2</item>
         <item>1.21</item>
     </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Фейс-контроль</item>
+        <item>Графический ключ</item>
+        <item>Цифровой пароль</item>
+        <item>Смешанный пароль</item>
+    </string-array>
     <string-array name="dolby_mode_entries">
         <item>@string/dolby_mode_off</item>
         <item>@string/dolby_mode_music</item>

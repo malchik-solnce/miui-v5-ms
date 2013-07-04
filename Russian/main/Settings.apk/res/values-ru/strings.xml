@@ -2409,4 +2409,8 @@
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Информация IMEI</string>
 	<string name="xiaomi_money_service">Центр MiCredit</string>
+	<string name="change_password">Сменить пароль</string>
+    <string name="change_security_lock">Попробуйте другие способы, чтобы разблокировать</string>
+	<string name="lock_settings_common_title">Настройка блокировки</string>
+	<string name="turn_off_security_lock">Отключить блокировку</string>
 </resources>
