@@ -5,8 +5,8 @@
   <string name="live_wallpaper_empty">Живые обои отсутствуют</string>
   <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
   <string name="live_wallpaper_picker_label">Живые обои</string>
-  <string name="live_wallpaper_picker_title">Выберите Живые обои</string>
-  <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
+  <string name="live_wallpaper_picker_title">Выберите живые обои</string>
+  <string name="live_wallpaper_preview_title">Предпросмотр обоев</string>
   <string name="set_live_wallpaper">Установить фоновый рисунок</string>
   <string name="wallpaper_cancel">Отмена</string>
   <string name="wallpaper_instructions">Установить обои</string>
