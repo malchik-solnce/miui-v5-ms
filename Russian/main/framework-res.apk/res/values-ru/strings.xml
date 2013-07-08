@@ -64,7 +64,7 @@
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Обновление приложения %1$d из %2$d...</string>
+  <string name="android_upgrading_apk">Обновление системы %1$d из %2$d...</string>
   <string name="android_upgrading_complete">Окончание загрузки...</string>
   <string name="android_upgrading_starting_apps">Запуск системы...</string>
   <string name="android_upgrading_title">Обновление системы...</string>
@@ -107,7 +107,7 @@
   <string name="capital_off">ВЫКЛ</string>
   <string name="capital_on">ВКЛ</string>
   <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-  <string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
+  <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
   <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
@@ -243,7 +243,7 @@
   <string name="ext_media_badremoval_notification_message">Перед извлечением карты SD отключите ее во избежание потери данных</string>
   <string name="ext_media_badremoval_notification_title">Карта SD неожиданно извлечена</string>
   <string name="ext_media_checking_notification_message">Проверка ошибок</string>
-  <string name="ext_media_checking_notification_title">Подготовка карты SD</string>
+  <string name="ext_media_checking_notification_title">Подготовка SD-карты</string>
   <string name="ext_media_nofs_notification_message">SD-карта пуста или использует неподдерживаемую файловую систему</string>
   <string name="ext_media_nofs_notification_title">Пустая карта SD</string>
   <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую карту.</string>
@@ -451,7 +451,7 @@
   <string name="lockscreen_unlock_label">Разблокировать</string>
   <string name="low_internal_storage_view_text">Заканчивается место в памяти телефона</string>
   <string name="low_internal_storage_view_title">Недостаточно места</string>
-  <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место.</string>
+  <string name="low_memory">Память устройства заполнена. Удалите какие-нибудь файлы, чтобы освободить место.</string>
   <string name="managed_roaming_title">Управление роумингом</string>
   <string name="managed_roaming_dialog_content">Найдена сеть с ограниченным сервисом. Вы хотите начать поиск сети?</string>
   <string name="managed_roaming_dialog_ok_button">Да</string>
@@ -986,7 +986,7 @@
   <string name="reboot_progress">Перезагрузка...</string>
   <string name="reboot_reboot">MIUI v4 MS</string>
   <string name="reboot_recovery">Recovery</string>
-  <string name="reboot_safemode_confirm">Вы хотите перезагрузиться в безопасном режиме? Это заблокирует все приложения, установленные вами. Они будут восстановлены после перезагрузки</string>
+  <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
   <string name="reboot_safemode_title">Безопасный режим</string>
   <string name="recent_tasks_title">Недавние</string>
   <string name="redo">Вернуть</string>

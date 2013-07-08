@@ -72,10 +72,10 @@
     <string name="cannot_send_message">Не удалось отправить сообщение</string>
     <string name="cannot_send_message_reason">Не указано ни одного реального получателя</string>
     <string name="cannot_forward_drm_obj">Нельзя переслать DRM-объект из этого сообщения</string>
-    <string name="converting_to_picture_message">Преобразование в сообщение MMS...</string>
-    <string name="converting_to_text_message">Преобразование в сообщение SMS...</string>
-    <string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов.</string>
-    <string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку, и видео</string>
+    <string name="converting_to_picture_message">Преобразование в MMS сообщение...</string>
+    <string name="converting_to_text_message">Преобразование в SMS сообщение...</string>
+    <string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов</string>
+    <string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку и видео</string>
     <string name="message_saved_as_draft">Черновик сообщения сохранен</string>
     <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
     <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
@@ -281,7 +281,7 @@
     <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
     <string name="pref_time_auto_group_title">Группировка</string>
     <string name="pref_time_auto_group_summary">Группировать сообщения по времени</string>
-    <string name="bookmark_list_title">Избранное (%1$d)</string>
+    <string name="bookmark_list_title">Избранное</string>
     <string name="delete_bookmark">Удалить закладку</string>
     <string name="view_bookmark">Оригинальное сообщение</string>
     <string name="bookmark_confirm_delete_message">Удалить из избранного</string>
@@ -310,8 +310,8 @@
     <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
     <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
     <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
-    <string name="pref_title_hide_festival">Скрыть вкладку рекомендуемые</string>
-    <string name="pref_summary_hide_festival">Скрыть вкладку Шутки</string>
+    <string name="pref_title_hide_festival">Скрыть вкладку \"Шутки\"</string>
+    <string name="pref_summary_hide_festival">Скрыть вкладку шутки для языков отличных от китайского</string>
     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
     <string name="send_signature_confirm_dialog_message">Вы не ввели текст содержания, вы хотите отправить его?</string>
     <string name="enter_edit_mode">Удалить</string>
@@ -399,7 +399,7 @@
     <string name="private_settings">Настройки</string>
     <string name="prvate_contact">Приватные контакты</string>
     <string name="private_message">Приватные сообщения</string>
-    <string name="private_protect">Защита привата</string>
+    <string name="private_protect">ЗАЩИТА</string>
     <string name="private_new_notification">Уведомление новых приватных сообщений</string>
     <string name="enable_password_protect">Включить защиту паролем</string>
     <string name="enable_visible_pattern_title">Сделать ключ видимым</string>
