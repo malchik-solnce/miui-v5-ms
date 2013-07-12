@@ -140,6 +140,7 @@
     <string name="progress_creating">Проверка покупки...</string>
     <string name="progress_loading">Обработка...</string>
     <string name="progress_connecting">Подключение...</string>
+	<string name="progress_msg_creating">Создание пополнения через SMS...</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_retry">Повтор</string>
     <string name="button_pay">Оплатить</string>
@@ -182,7 +183,15 @@
     <string name="recharge_pcpay_summary">Поддерживается большее количество способов пополнения</string>
     <string name="recharge_voucher_title">Карты Mi Credit</string>
     <string name="recharge_voucher_summary">Пополнение через карты MiCredit</string>
+	<string name="recharge_grid_edit_hint">Размер (RMB)</string>
+    <string name="recharge_grid_edit_limit">Менее %1$s</string>
+    <string name="recharge_grid_error_denomination">Введите правильный размер пополнения</string>
+    <string name="recharge_grid_picker_hint">Выбор размера пополнения MiCredit</string>
+    <string name="recharge_group_1to1">1 MiCredit = 1 юань ~ 5.50 рублей</string>
+    <string name="recharge_group_2to1">1 MiCredit = 2 юаня ~ 11.00 рублей</string>
     <string name="recharge_hint">1 MiCredit = 1 юань ~ 5.50 рублей</string>
+	<string name="recharge_message_summary">Поддержка пополнения через телефон</string>
+    <string name="recharge_message_title">Пополнение через SMS</string>
     <string name="title_prepaid">Пополнить через карту</string>
     <string name="title_paytool">Пополнить через %1$s</string>
     <string name="title_voucher">Пополнить через Mi Credit</string>
@@ -251,6 +260,8 @@
     <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
 2. Сообщите свой серийный номер: %2$s"</string>
+    <string name="progress_warning_check">"Пока не проверено.
+Мы проверим в течение двух рабочих дней."</string>
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Другие методы пополнения</string>
     <string name="btn_call">Позвонить</string>
