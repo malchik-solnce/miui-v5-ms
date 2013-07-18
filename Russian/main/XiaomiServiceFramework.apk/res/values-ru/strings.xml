@@ -64,7 +64,10 @@
     <string name="error_dup_phone">Телефон уже был зарегистрирован</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_sim_not_ready">SIM-карта не готова</string>
-    <string name="error_unknown">Ошибка: %1$s</string>
+    <string name="error_too_frequent_visits_summary">"Вы запрашиваете слишком часто. 
+Пожалуйста, попробуйте еще раз через пять минут."</string>
+    <string name="error_too_frequent_visits_title">Слишком часто!</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
     <string name="quick_login_title">"Требуется вход в аккаунт.
 Введите Ваш пароль."</string>
     <string name="account_name">Аккаунт: %1$s</string>
@@ -146,6 +149,33 @@
     <string name="button_pay">Оплатить</string>
     <string name="button_recharge">Пополнить</string>
     <string name="balance">Баланс: %1$s Mi</string>
+	<string name="bankcall_bank_account">Банковская карта:</string>
+    <string name="bankcall_call_hint">"Вам позвонят из Union pay (020-96585). 
+Следуйте инструкциям, чтобы завершить."</string>
+    <string name="bankcall_card">Банковская карта</string>
+    <string name="bankcall_card_hint">Номер банковской карты</string>
+    <string name="bankcall_card_type">%1$s-%2$s</string>
+    <string name="bankcall_city">Город</string>
+    <string name="bankcall_credit_card">Кредитная карта</string>
+    <string name="bankcall_debit_card">Дебитовая карты</string>
+    <string name="bankcall_denom">Платеж:</string>
+    <string name="bankcall_denom_number">%1$sRMB</string>
+    <string name="bankcall_error_card">Введите правильный номер банковской карты</string>
+    <string name="bankcall_error_card_info">Пожалуйста, введите правильные данные банковского счета</string>
+    <string name="bankcall_hint">"Этот сервис авторизован Unionpay и 
+имеет шифрование для обеспечения Вашей финансовой безопасности"</string>
+    <string name="bankcall_id_card">ID карты</string>
+    <string name="bankcall_id_card_hint">ID на банковской карте</string>
+    <string name="bankcall_merchant">Получатель:</string>
+    <string name="bankcall_name">Имя</string>
+    <string name="bankcall_name_hint">Имя на банковской карте</string>
+    <string name="bankcall_phone">Телефон</string>
+    <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
+    <string name="bankcall_phone_debit_hint">Обеспечение стабильной сети</string>
+    <string name="bankcall_province">Провинция</string>
+    <string name="bankcall_saved_card_info">%1$s - заканчивается %2$s</string>
+    <string name="bankcall_saved_phone">Номер телефона: %1$s</string>
+    <string name="bankcall_xiaomi_company">Корпорация Xiaomi</string>
     <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
     <string name="frozen">(заморожен)</string>
     <string name="mili_center">Центр Mi</string>
@@ -153,6 +183,7 @@
     <string name="error_network_title">Ошибка сети</string>
     <string name="error_network_summary">Ошибка сети. Пожалуйста, попробуйте еще раз.</string>
     <string name="error_auth_title">Ошибка</string>
+	<string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
     <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
     <string name="error_has_bought_title">Повторите покупку</string>
     <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
@@ -163,8 +194,10 @@
     <string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
     <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
     <string name="error_illegal_order_title">Ошибка покупки!</string>
+	<string name="error_invalid_dev_id">Неверный ID устройства</string>
     <string name="error_illegal_order_summary">Произошла ошибка покупки, пожалуйста, попробуйте снова</string>
     <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
+	<string name="error_verify_title">Нет доступа</string>
     <string name="error_expired_summary">Ваш срок заказа истек</string>
     <string name="error_frozen_title">Аккаунт заморожен</string>
     <string name="error_frozen_summary">Ваш аккаунт заморожен</string>
@@ -174,23 +207,18 @@
     <string name="title_recharge">Пополнить MiCredits</string>
     <string name="title_pay">Оплата Mi Credits</string>
     <string name="recharge_prepaid_title">Карты оплаты</string>
-    <string name="recharge_prepaid_summary">Карты оплаты China Mobile, China Unicom and China Telecom</string>
     <string name="recharge_alipay_title">Alipay</string>
-    <string name="recharge_alipay_summary">Пополнение через Alipay</string>
+    <string name="recharge_bankcall_title">Банковская карта</string>
     <string name="recharge_tenpay_title">Tenpay</string>
-    <string name="recharge_tenpay_summary">Пополнение через Tenpay</string>
     <string name="recharge_pcpay_title">Пополнение через компьютер</string>
-    <string name="recharge_pcpay_summary">Поддерживается большее количество способов пополнения</string>
     <string name="recharge_voucher_title">Карты Mi Credit</string>
-    <string name="recharge_voucher_summary">Пополнение через карты MiCredit</string>
 	<string name="recharge_grid_edit_hint">Размер (RMB)</string>
-    <string name="recharge_grid_edit_limit">Менее %1$s</string>
-    <string name="recharge_grid_error_denomination">Введите правильный размер пополнения</string>
+    <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
+    <string name="recharge_grid_error_denomination">Введите правильный размер пополнения (между %1$d~%2$dRMB)</string>
     <string name="recharge_grid_picker_hint">Выбор размера пополнения MiCredit</string>
-    <string name="recharge_group_1to1">1 MiCredit = 1 юань ~ 5.50 рублей</string>
-    <string name="recharge_group_2to1">1 MiCredit = 2 юаня ~ 11.00 рублей</string>
+    <string name="recharge_group_favorite">Используемые методы пополнения</string>     
+	<string name="recharge_group_others">Другие методы пополнения</string>
     <string name="recharge_hint">1 MiCredit = 1 юань ~ 5.50 рублей</string>
-	<string name="recharge_message_summary">Поддержка пополнения через телефон</string>
     <string name="recharge_message_title">Пополнение через SMS</string>
     <string name="title_prepaid">Пополнить через карту</string>
     <string name="title_paytool">Пополнить через %1$s</string>
@@ -244,12 +272,18 @@
     <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
     <string name="giftcard_empty">Нет подарочной карты</string>
     <string name="progress_submit_title">Запрос на пополнение подтвержден</string>
+	<string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
     <string name="progress_submit_recharge_summary">Пополение: %1$s RMB</string>
     <string name="progress_submit_pay_summary">Оплата: %1$s RMB</string>
     <string name="progress_submit_hint">Пополнение будет отражено в течение 3х минут</string>
     <string name="btn_count_down_auto">Запрос через %1$s секунд</string>
     <string name="btn_count_down_wait">Подождите %1$s секунд</string>
+	<string name="btn_delete_record">Удалить эту запись</string>
+	<string name="btn_net_connection_retry">Повторить</string>
+    <string name="btn_next">Далее</string>
+    <string name="btn_other_bankcard">Другая банковская карта</string>
     <string name="btn_query">Узнать сейчас</string>
+	<string name="btn_prev">Назад</string>
     <string name="progress_querying">Обработка платежного запроса…</string>
     <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
     <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
@@ -275,6 +309,8 @@
     <string name="pay_record">ИСТОРИЯ ПЛАТЕЖЕЙ</string>
     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
     <string name="btn_voucher">Карта MiCredit (%1$s)</string>
+	<string name="btn_wait_call">Ожидание</string>
+    <string name="btn_wait_call_count">Ожидание (%1$s)</string>
     <string name="fee">%1$s Mi</string>
     <string name="recharge_record_empty">Нет истории пополнения</string>
     <string name="pay_record_empty">Нет платежной истории</string>
@@ -293,6 +329,8 @@
     <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
     <string name="updated_contacts">Обновлено контактов: %s</string>
     <string name="process_result">Результат обработки:</string>
+	<string name="progress_bankcall_card_creating">Создание заказа…</string>
+    <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
     <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключите.</string>
     <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключите.</string>
     <string name="service_error">ОШибка сервиса</string>
@@ -307,7 +345,7 @@
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="current_account">Текущий аккаунт</string>
     <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
-    <string name="micloud_intro_01_part_01">Экономия на затратах SMS</string>
+    <string name="micloud_intro_01_part_01">Экономия на SMS</string>
     <string name="micloud_intro_01_part_02">MIUI позволяет отправлять бесплатные сообщения через облачный сервис</string>
     <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
     <string name="micloud_intro_02_part_02">Облачные сервисы помогут синхронизировать контакты, сообщения, фотографии и другие данные на разных устройствах</string>

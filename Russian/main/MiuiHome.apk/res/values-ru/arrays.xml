@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Стандартный</item>
-        <item>Стд.(Без проскакивания)</item>
+        <item>По умолчанию</item>
+        <item>По умолчанию (без проскакивания)</item>
         <item>Угасание</item>
         <item>Поворот</item>
         <item>Страница</item>

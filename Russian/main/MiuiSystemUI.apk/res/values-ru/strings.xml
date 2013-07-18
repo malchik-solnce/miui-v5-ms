@@ -122,10 +122,13 @@
   <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
   <string name="gps_notification_found_text">Местоположение установлено с помощью GPS</string>
   <string name="gps_notification_searching_text">Поиск GPS</string>
+  <string name="headset_custom">Настр.</string>
+  <string name="headset_info">Настройка кнопок</string>
+  <string name="headset_settings">Подключена гарнитура</string>
   <string name="incoming_call_vibrate_hint">Входящий звонок</string>
   <string name="installer_cd_button_title">Установить приложение</string>
   <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
-Используйте зарядное устройство из комплекта поставки"</string>
+Используйте зарядное устройство из комплекта поставки."</string>
   <string name="key_position_custom">Расположение</string>
   <string name="label_view">Просмотр</string>
   <string name="lockscreen_carrier_default">Нет сети</string>
@@ -136,7 +139,7 @@
   <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
   <string name="move_data_to_sdcard_title">Перенос данных</string>
   <string name="no_vibrate_hint">В соответствии с настройками, уведомления о входящих вызовах и сообщениях не будут вибрировать. Включение этого пункта не вызовит никакого действия.</string>
-  <string formatted="false" name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет, вы можете изменить это в настройках</string>
+  <string formatted="false" name="not_all_vibrate_hint">В соответствии с настройками, будет вибрация при: %1$s, а при: %2$s вибрации не будет. Вы можете изменить это в настройках.</string>
   <string name="notification_icon_filter">Настроить уведомления</string>
   <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
   <string name="notification_icon_filter_list_empty_summary">Список пуст</string>

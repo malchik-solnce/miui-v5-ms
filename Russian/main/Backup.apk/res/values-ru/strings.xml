@@ -121,8 +121,8 @@
     <string name="progress_backup_hint">Резервное копирование...</string>
     <string name="cancel_backup">Отмена</string>
     <string name="restore_contact">Восстановление контактов</string>
-    <string name="restore_contact_content">"При восстановлении адресной книги может произойти дублирование контактов, продолжить?
- Примечание: Вы можете объединить повторяющиеся контакты в настройках списка контактов"</string>
+    <string name="restore_contact_content">"При восстановлении адресной книги может произойти дублирование контактов. Продолжить?
+Примечание: Вы можете объединить повторяющиеся контакты в настройках списка контактов."</string>
     <string name="progress_restore_hint">Восстановление данных...</string>
     <string name="cancel_restore">Отменить</string>
     <string name="restore_failed">Ошибка восстановления</string>
@@ -167,7 +167,7 @@
 \u0009http://www.miliao.com
  
 3.\u0009Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
-    <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
+    <string name="import_from_xiaomi_account_hint2">Примечание: перейдите к следующему шагу, если резервная копия уже существует</string>
     <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
     <string name="guarded_mode_dialog_title">Режим защиты</string>
     <string name="guarded_mode_dialog_message">Не могу работать в безопасном режиме</string>
@@ -187,7 +187,7 @@
     <string name="enable_encrypt_fail">Включение шифрования не удалось</string>
     <string name="read_encrypt_fail">Не удалось расшифровать</string>
     <string name="exchange_account">Сменить аккаунт</string>
-    <string name="system_backup">Бэкап системы</string>
+    <string name="system_backup">Бэкап</string>
     <string name="backup_empty_info">Резервное копирование данных, настроек и приложений</string>
     <string name="system_backup_info">Настройки системы и расположение иконок</string>
     <string name="software_backup_info">Пользовательские приложения с данными</string>

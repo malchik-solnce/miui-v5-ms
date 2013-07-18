@@ -60,7 +60,7 @@
   <string name="aerr_application">В приложении \"%1$s\" произошла ошибка</string>
   <string name="aerr_process">В приложении \"%1$s\" произошла ошибка</string>
   <string name="aerr_title" />
-  <string name="allow">Разрешить</string>
+  <string name="allow">Разр.</string>
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
@@ -233,7 +233,7 @@
   <string name="emergency_calls_only">Только экстренные вызовы</string>
   <string name="emptyPhoneNumber">(Нет номера телефона)</string>
   <string name="enable_explore_by_touch_warning_title">Включить \"Изучение касанием\"?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
   <string name="eventTypeAnniversary">Юбилей</string>
   <string name="eventTypeBirthday">День рождения</string>
   <string name="eventTypeCustom">Особый</string>

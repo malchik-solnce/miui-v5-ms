@@ -44,7 +44,7 @@
     <string name="operation_rename_message">Введите новое имя</string>
     <string name="operation_create_folder_message">Введите имя папки</string>
     <string name="operation_delete_confirm_message">Подтверждение удаления</string>
-    <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней.</string>
+    <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней. </string>
     <string name="delete_folder">Вы уверены, что хотите удалить?</string>
     <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
     <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
@@ -137,7 +137,7 @@
     <string name="user_guide_download_other_version">"Вы всегда можете скачать Kuaipan
 на Ваш PC или Mac"</string>
     <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
-    <string name="upload_file_toolarge_message">%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами</string>
+    <string name="upload_file_toolarge_message">%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в управлении передачами.</string>
     <string name="cution">Советы</string>
     <string name="clean_trash_box">Очистить корзину</string>
     <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>

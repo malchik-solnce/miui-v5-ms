@@ -28,6 +28,11 @@
         <item quantity="other">%1$d чел. в группе %2$s</item>
         <item quantity="one">%1$d чел. в группе %2$s</item>
     </plurals>
+	<plurals name="numSelectedSimContacts">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Номеров: %1$d</item>
         <item quantity="one">Номеров: %1$d</item>

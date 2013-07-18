@@ -132,11 +132,6 @@
         <item>Включен, если подключено питание</item>
         <item>Включен (большой расход батареи)</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
         <item>5 ГГц</item>
@@ -283,11 +278,6 @@
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
     </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Слабый</item>
         <item>Средний</item>
@@ -299,9 +289,9 @@
         <item>Полоса в баре</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Запрос при подкл.</item>
+        <item>Спрашивать при подключении</item>
         <item>Зарядка</item>
-        <item>Подключить SD-карту</item>
+        <item>Подключать SD-карту</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 секунды</item>
@@ -366,10 +356,10 @@
         <item>Закрыть приложение</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 сек.</item>
-        <item>1 сек.</item>
-        <item>1.5 сек.</item>
-        <item>2 сек.</item>
+        <item>0.5 секунды</item>
+        <item>1 секунда</item>
+        <item>1.5 секунды</item>
+        <item>2 секунды</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 сек</item>
@@ -396,35 +386,6 @@
         <item>Графический ключ</item>
         <item>Цифровой пароль</item>
         <item>Смешанный пароль</item>
-    </string-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-    </string-array>
-    <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
-    </string-array>
-    <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_eq_flat</item>
-        <item>@string/dolby_eq_rock</item>
-        <item>@string/dolby_eq_jazz</item>
-        <item>@string/dolby_eq_pop</item>
-        <item>@string/dolby_eq_classical</item>
-        <item>@string/dolby_eq_rb</item>
-        <item>@string/dolby_eq_hiphop</item>
-        <item>@string/dolby_eq_blues</item>
-        <item>@string/dolby_eq_electronic</item>
-        <item>@string/dolby_eq_country</item>
-        <item>@string/dolby_eq_dance</item>
-        <item>@string/dolby_eq_metal</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Устройство подключено, создание сессии...</item>

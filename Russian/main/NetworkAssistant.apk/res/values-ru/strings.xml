@@ -140,8 +140,10 @@
   <string name="traffic_settings_error">Eсть ошибка в настройках вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
   <string name="traffic_suffix">Трафик</string>
   <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
-  <string name="traffic_total">всего</string>
-  <string name="traffic_used_status">использовано</string>
+  <string name="traffic_total">"%s
+всего"</string>
+  <string name="traffic_used_status">"%s
+использовано"</string>
   <string name="traffic_widget_name">Виджет Монитор (1x2)</string>
   <string name="unknown_free_traffic_hint">Если вы не знаете свой обьем трафика, пожалуйста обратитесь за помощью к оператору</string>
   <string name="unknown_free_traffic_text">Я не знаю свой обьем трафика</string>

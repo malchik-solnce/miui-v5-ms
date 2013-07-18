@@ -104,6 +104,8 @@
     <string name="titleJoinContactDataWith">Объединить контакты</string>
     <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
     <string name="showAllContactsJoinItem">Показать все контакты</string>
+	<string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
+    <string name="simContacts_empty">Нет контактов на SIM-карте</string>
     <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
@@ -113,6 +115,7 @@
     <string name="redirect_calls_to_vm_confirm_message">Если Вы не применили это у оператора, пожалуйста не включайте. Иначе, возможно, Вы не сможете получать вызовы от этого контакта.</string>
     <string name="redirect_calls_to_vm_confirm_text">Включить</string>
     <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения. Но их можно скрыть в списках контактов.</string>
+	<string name="readingSimContacts">Считыване информации с SIM-карты…</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
     <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
     <string name="deleteConfirmation">Удалить этот контакт?</string>
@@ -130,6 +133,7 @@
     <string name="phoneLabelsGroup">Телефон</string>
     <string name="emailLabelsGroup">Адрес электронной почты</string>
     <string name="imLabelsGroup">Чат</string>
+	<string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="postalLabelsGroup">Адрес</string>
     <string name="photoPickerNotFoundText">В телефоне нет картинок</string>
     <string name="attach_photo_dialog_title">Фотография контакта</string>
@@ -254,6 +258,8 @@
     <string name="dialer_addAnotherCall">Добавить вызов</string>
     <string name="callDetailTitle">Сведения о вызове</string>
     <string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
+	<string name="toast_copy_done">Копирование завершено</string>
+    <string name="toast_copying">Копирование…</string>
     <string name="type_incoming">Входящий вызов</string>
     <string name="type_outgoing">Исходящий вызов</string>
     <string name="type_missed">Пропущенный вызов</string>
@@ -293,6 +299,9 @@
     <string name="export_to_sdcard">Экспорт на SD-карту</string>
     <string name="share_visible_contacts">Передать все контакты</string>
     <string name="import_one_vcard_string">Импорт одного VCard</string>
+	<string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
+    <string name="import_sim_entries_finish">Импорт контактов с SIM-карты завершен</string>
+    <string name="import_sim_entry_miui">Импорт</string>
     <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
     <string name="import_all_vcard_string">Импорт всех VCard</string>
     <string name="searching_vcard_message">Поиск данных vCard на SD-карте…</string>
@@ -538,6 +547,9 @@
     <string name="create_group_dialog_title">Создание новой группы</string>
     <string name="create_group_item_label">Создать новую группу</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
+	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
+    <string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
+    <string name="delete_sim_entry_miui">Удалить</string>
     <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты в ней удалены не будут)</string>
     <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
     <string name="copy_text">Копировать в буфер обмена</string>
@@ -546,6 +558,8 @@
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="profile_display_name">Настроить профиль</string>
+	<string name="profile_name">Мой профиль</string>
+    <string name="profile_name_photo">Я</string>
     <string name="enter_contact_name">Имя контакта</string>
     <string name="view_updates_from_group">Обновления</string>
     <string name="notification_action_voicemail_play">Прослушать</string>
@@ -608,6 +622,7 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки</string>
     <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
     <string name="action_menu_overflow_description">Дополнительные опции</string>
+	<string name="activity_not_found_uri">Подходящее приложение не найдено</string>
     <string name="summary_kind_title">Основная информация</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
@@ -653,14 +668,16 @@
     <string name="deselect_all">Снять выделение</string>
     <string name="select_none">Выберите хотя бы один контакт</string>
     <string name="toast_finish_delete_call_log">Журналы будут удалены</string>
-    <string name="confirm_delete_contact_all_call_logs">Вы действительно хотите удалить все журналы вызовов для %s?</string>
-    <string name="confirm_delete_selected_all_call_logs">Вы действительно хотите удалить все журналы вызовов контактов?</string>
+    <string name="confirm_delete_contact_all_call_logs">Удалить все журналы вызовов для %s?</string>
+    <string name="confirm_delete_selected_all_call_logs">Удалить все журналы вызовов контактов?</string>
+	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты (%d шт.) с SIM-карты?</string>
     <string name="calllog_menu_blacklist">В черный список</string>
     <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="delete_contact_calllog_title">Удалить журнал вызовов контактов?</string>
     <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
+	<string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
     <string name="edit_contact_card_title">Редактировать контакт</string>
     <string name="preview_contact_card_title">Импортировать</string>
     <string name="import_contact_card_button">Импорт</string>
@@ -720,6 +737,8 @@
     <string name="export_to_sim">Экспорт на SIM-карту</string>
     <string name="export_to_sim_title">Экспорт на SIM-карту</string>
     <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
     <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите контакты и попробуйте еще раз.</string>
     <string name="sim_contacts">Контакты на SIM-карте</string>
     <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
@@ -928,6 +947,7 @@
     <string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
     <string name="import_weibo_fetch_followers">Получение пользователей sina weibo…</string>
     <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
+	<string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
     <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo: %s</string>
     <string name="import_weibo_error_no_xiaomi_phone">Обновление контактов: нет телефонов в аккаунте Xiaomi</string>
     <string name="import_weibo_error_no_matched_contacts">Обновление контактов: нет совпадающих контактах</string>

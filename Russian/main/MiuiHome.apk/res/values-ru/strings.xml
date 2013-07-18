@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activity_not_found">Приложение не найдено</string>
   <string name="application_name">Рабочий стол</string>
   <string name="buffering">Буферизация…</string>
@@ -130,7 +128,6 @@
   <string name="widget_favorite_contacts_style">Вид</string>
   <string name="widget_gadget_player">Музыка</string>
   <string name="widget_global_search">Поиск</string>
-  
   <string name="free_style_edit_drawer">Меню</string>
   <string name="free_style_enter_tip">Сдвиньте двумя пальцами вниз, чтобы перейти к свободному рабочему столу</string>
   <string name="free_style_exit_tip">Сдвиньте двумя пальцами вверх, чтобы выйти из свободного рабочего стола</string>

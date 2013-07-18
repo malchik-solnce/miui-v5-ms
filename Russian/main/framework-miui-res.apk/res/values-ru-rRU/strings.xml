@@ -404,8 +404,8 @@
     <string name="unknown">Неизвестный номер</string>
     <string name="unknown_caller">Неизвестный абонент</string>
     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитайте</string>
-    <string name="user_agreement2">" Пользовательское соглашение"</string>
-    <string name="user_agreement3">" и "</string>
+    <string name="user_agreement2">Пользовательское соглашение</string>
+    <string name="user_agreement3"> и </string>
     <string name="user_agreement4">Политику конфиденциальности</string>
     <string name="user_agreement5">, Нажмите ОК, для соглашения с вышеуказанным, нажмите Отмена для выхода</string>
     <string name="v5_date_picker_label_day" />
