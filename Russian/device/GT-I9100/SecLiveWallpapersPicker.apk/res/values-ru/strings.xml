@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="application_name">Живые обои</string>
-    <string name="live_wallpaper_picker_title">Интерактивные обои</string>
+    <string name="live_wallpaper_picker_title">Живые обои</string>
     <string name="live_wallpaper_preview_title">Предварительный просмотр обоев</string>
     <string name="configure_wallpaper">Настройки</string>
     <string name="wallpaper_instructions">Установить</string>

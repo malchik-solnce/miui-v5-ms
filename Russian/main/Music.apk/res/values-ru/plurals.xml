@@ -8,6 +8,10 @@
         <item quantity="other">%d треков</item>
         <item quantity="one">%d трек</item>
     </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">Топ песен: %d</item>
+        <item quantity="one">Топ песен: %d</item>
+    </plurals>
     <plurals name="Ntracks_string">
         <item quantity="other">%d треков</item>
         <item quantity="one">%d трек</item>
@@ -40,10 +44,6 @@
         <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>
     </plurals>
-	<plurals name="Nhot_tracks_total">
-        <item quantity="other">Топ песен: %d</item>
-        <item quantity="one">Топ песен: %d</item>
-    </plurals>
     <plurals name="Nitems_batch_selection">
         <item quantity="other">Выбрано %d элементов</item>
         <item quantity="one">Выбран %d элемент</item>
@@ -57,8 +57,12 @@
         <item quantity="one">1 песня добавлена в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">1 песня добавлена в плейлист</item>
+        <item quantity="other">%d треков добавлено в плейлист</item>
+        <item quantity="one">1 трек добавлен в плейлист</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d треков удалено из плейлиста</item>
+        <item quantity="one">1 трек удален из плейлиста</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" категорий"</item>
@@ -73,7 +77,7 @@
         <item quantity="one">1 песня была удалена</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d треокв будет скачано</item>
+        <item quantity="other">%d треков будет скачано</item>
         <item quantity="one">1 трек будет скачан</item>
     </plurals>
 </resources>

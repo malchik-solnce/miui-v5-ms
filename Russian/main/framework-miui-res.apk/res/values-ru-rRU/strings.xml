@@ -451,7 +451,7 @@
     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
     <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
     <string name="short_pukcode_error_msg">Введите не меньше 8 цифр</string>
-    <string name="short_pincode_error_msg">Please input 4–8 digits</string>
+    <string name="short_pincode_error_msg">Введите 4-8 цифр</string>
     <string name="input_pin_code">PIN-код</string>
     <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
     <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбросьте его здесь.</string>
@@ -461,7 +461,7 @@
     <string name="incorrect_pincode">Неверный PIN-код</string>
     <string name="puk_operation_failed">Ошибка PUK кода</string>
     <string name="pin_operation_failed">Ошибка PIN кода</string>
-    <string name="return_to_me_message">Please return if I a lost</string>
+    <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Включить Wi-Fi</string>
     <string name="lock_screen_date">dd MMMM yyyy \n EEEE</string>
@@ -470,9 +470,10 @@
     <string name="share">Поделиться</string>
     <string name="perm_data_update_lab">Обновление данных</string>
     <string name="perm_data_update_dspt">Разрешить обновление данных</string>
-    <string name="provider_sougou">Provided by 搜狗号码通</string>
-    <string name="provider_114">Provided by 114号码百事通</string>
-    <string name="device_xiaomi">Xiaomi phone</string>
+    <string name="provider_sougou">Предоставлено Sogou</string>
+    <string name="provider_114">Предоставлено 114号码百事通</string>
+    <string name="device_xiaomi">Xiaomi</string>
+	<string name="device_hongmi">Hongmi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">SIM-карта отсутствует</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
@@ -484,4 +485,5 @@
     <string name="minutes">%d минут</string>
     <string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
+	<string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
 </resources>
