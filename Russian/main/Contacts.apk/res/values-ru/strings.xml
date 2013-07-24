@@ -35,6 +35,7 @@
     <string name="loading">Загрузка...</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить превью</string>
+	<string name="duplicate_group_name">Группа уже существует</string>
     <string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурс</string>

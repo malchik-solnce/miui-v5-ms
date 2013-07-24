@@ -95,7 +95,11 @@
     <string name="tab_networkdisk">Диск</string>
     <string name="operation_download_link">Создание ссылки для скачивания</string>
     <string name="ui_filechange_btn_download">Загрузка файла</string>
-    <string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
+    <string name="show_message">Файл не может быть открыт без загрузки. Загрузить?</string>
+	<string name="sign_description">Подключение...</string>
+    <string name="signin_error">Нет сети или сеть нестабильна. Повторите еще раз.</string>
+    <string name="signin_success">"Вы успешно вошли!
+Получено %1$s."</string>
     <string name="ui_main_progress_txt_open_file">Загрузка…</string>
     <string name="networkView_notConnected">Нет доступных сетей</string>
     <string name="ui_main_toast_favorite_removed">Избранных удалено</string>
@@ -193,6 +197,7 @@
     <string name="ftp_invalid_username_or_password">Ошибка аутентификации</string>
     <string name="add_task">Добавить задачи</string>
     <string name="adding_upload_tasks">Добавление задач загрузки</string>
+	<string name="already_signin_description">Войти можно только один раз в день. Зайдите завтра.</string>
     <string name="create_new_folder_desctiption">Создание папки…</string>
     <string name="create_share_link_description">Создание ссылки…</string>
     <string name="rename_description">Переименование…</string>
@@ -208,6 +213,7 @@
     <string name="wait_net">Ожидание сети</string>
     <string name="wait_sdcard">Ожидание подключения SD-карты</string>
     <string name="paused">Пауза</string>
+	<string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить свободное пространство</string>
     <string name="upload_failed">Ошибка загрузки</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="operation_pause">Пауза</string>
@@ -275,6 +281,7 @@
     <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
     <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, Вы можете привязать его в настройках и получить доступ к данным</string>
     <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
+	<string name="release_to_signin">Отпустите для входа</string>
     <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
     <string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
     <string name="operation_copying">Копирование…</string>
@@ -285,6 +292,7 @@
 1. Скачать (обновить локальный файл)
 2. Загрузить (обновить файл в облаке)"</string>
     <string name="ui_filechange_btn_upload">Загрузить</string>
+	<string name="ui_main_menu_option_sign_in">Войти</string>
     <string name="folder_exist">Папка уже существует</string>
 	<string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
 	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>

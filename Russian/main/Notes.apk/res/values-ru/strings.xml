@@ -76,6 +76,7 @@
 	<string name="snippet_image_template">[Картинка %1$s]</string>
     <string name="select_account_prompt">Включена синхронизация заметок</string>
     <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
+	<string name="error_contact_not_exist">Контакт не существует</string>
     <string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
     <string name="not_now">Не сейчас</string>
     <string name="enable_sync">Синхронизация</string>
