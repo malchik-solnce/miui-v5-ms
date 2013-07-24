@@ -83,7 +83,11 @@
     <string name="pref_title_note_style">СТИЛЬ</string>
     <string name="pref_desc_mode_list">Список</string>
     <string name="pref_desc_mode_grid">Сетка</string>
-    <string name="pref_title_data_export">ЭКСПОРТ</string>
-    <string name="pref_title_data_export_to_sdcard">Экспортировать заметки на SD-карту</string>
+    <string name="pref_title_common">ОБЩИЕ НАСТРОЙКИ</string>
+    <string name="pref_title_alarm_when_silent">Будильник в тихом режиме</string>
+    <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в беззвучном режиме</string>
+    <string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD-карту</string>
+    <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в тихом режиме</string>
+    <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в беззвучном режиме</string>
     <string name="close">Закрыть</string>
 </resources>
