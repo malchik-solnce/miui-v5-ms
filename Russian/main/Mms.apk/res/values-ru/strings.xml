@@ -347,7 +347,7 @@
     <string name="timed_message_to">для</string>
     <string name="timed_message_in_total">... (всего: %d)</string>
     <string name="processing">Обработка...</string>
-    <string name="title_date_type">Дата сообщения</string>
+    <string name="title_date_type">Дата</string>
     <string name="mx_msg">ОБЛАЧНЫЕ СООБЩЕНИЯ</string>
     <string name="mx_enable">Вкл. облачные сообщения</string>
     <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
