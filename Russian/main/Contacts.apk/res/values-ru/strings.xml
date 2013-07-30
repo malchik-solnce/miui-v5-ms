@@ -664,7 +664,7 @@
     <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
     <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
     <string name="service_provider">Предоставление сервисов</string>
-    <string name="zero_items_selected">Выберите контакт(ы)</string>
+    <string name="zero_items_selected">Выберите контакты</string>
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Снять выделение</string>
     <string name="select_none">Выберите хотя бы один контакт</string>
@@ -790,7 +790,7 @@
     <string name="preference_dial_pad_touch_tone_piano">Фортепианный звук</string>
     <string name="preference_dial_pad_touch_tone_human">Голос человека</string>
     <string name="ic_menu_done">Готово</string>
-    <string name="cloud_antispam_title">Определять спам номера</string>
+    <string name="cloud_antispam_title">Идентификация номеров</string>
     <string name="account_default">Телефон</string>
     <string name="account_sim">SIM-карта</string>
     <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>

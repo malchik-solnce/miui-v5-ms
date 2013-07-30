@@ -114,7 +114,7 @@
     <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
 	<string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщения на экране блокировки и в строке состояния</string>
 	<string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен при гостевом режиме</string>
-	<string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
+	<string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
     <string name="to_label">Кому:</string>
     <string name="confirm_dialog_title">Удаление</string>
     <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
@@ -294,8 +294,8 @@
     <string name="phrase_confirm_delete_message">Удалить фразы</string>
     <string name="phrase_from">Из %1s</string>
     <string name="phrase_empty">Нет фразы</string>
-    <string name="pref_title_new_message_popup">Всплывающие окна</string>
-    <string name="pref_summary_new_message_popup">Отображать всплывающие окна при получении нового сообщения</string>
+    <string name="pref_title_new_message_popup">Всплывающее окно</string>
+    <string name="pref_summary_new_message_popup">Показывать всплывающее окно при получении нового сообщения</string>
     <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
     <string name="pref_title_wake_up_screen">Включение экрана</string>
     <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
@@ -337,7 +337,7 @@
     <string name="pref_title_system_mms_priority">Приоритет для \"Сообщений\"</string>
     <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
     <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
-    <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
+    <string name="title_timed_message_dialog">Время отправки сообщения</string>
     <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
     <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
     <string name="group_message">Групповое сообщение</string>

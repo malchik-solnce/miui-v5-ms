@@ -301,7 +301,7 @@
     <string name="btn_recharge_other">Другие методы пополнения</string>
     <string name="btn_call">Позвонить</string>
     <string name="recharge_notification">Пополнение на %1$s кредитов Mi</string>
-    <string name="title_mili_center">Центр MiCredit</string>
+    <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">История пополнения</string>
     <string name="title_pay_record">%1$s - история пополнений</string>
     <string name="my_mili_record">МОЙ MiCredit</string>

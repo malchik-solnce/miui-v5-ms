@@ -2187,8 +2187,8 @@
     <string name="wifi_tether_starting">Включение…</string>
     <string name="wifi_tether_stopping">Выключение…</string>
 	<string name="search_label">Настройки</string>
-    <string name="search_hint">Search settings</string>
-    <string name="search_description">Search settings</string>
+    <string name="search_hint">Поиск настроек</string>
+    <string name="search_description">Поиск настроек</string>
     <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
     <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
     <string name="frequently_fragment_delete">Удалить</string>
@@ -2352,7 +2352,7 @@
     <string name="vpn_configure">Настроить VPN</string>
     <string name="vpn_dns_servers_hint">например 8.8.8.8</string>
     <string name="vpn_routes_hint">например 10.0.0.0/8</string>
-    <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
+    <string name="sync_wifi_label">Настройки Wi-Fi</string>
     <string name="wifi_enable">Включить Wi-Fi</string>
     <string name="bluetooth_enable">Включить bluetooth</string>
     <string name="sync_enable">Включить синхронизацию</string>

@@ -38,13 +38,13 @@
     <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
     <string name="delete">Удалить</string>
     <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
-    <string name="smart_antispam">Идентиф. неизвестных номеров</string>
+    <string name="smart_antispam">Идентификация номеров</string>
     <string name="turn_on_smart_antispam_hint">После включения, номера будут определены. Если это не работает, Вы можете пометить их, чтобы помочь определить мошенников.</string>
-    <string name="turn_on_smart_antispam_title">Идентиф. неизвестных номеров</string>
-    <string name="turn_on_smart_antispam_summary_on">Идентификация неизвестных номеров и загрузка из сети</string>
+    <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
+    <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
     <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
     <string name="agree">Принимаю</string>
     <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитайте %1$s и %2$s перед использованием.</string>
-    <string name="user_notice_yp_detail_summary_format">Частичная информация этой желтой страницы должна быть обновлена ​​в Интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажатие \"Принимаю\" означает, что Вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
+    <string name="user_notice_yp_detail_summary_format">Частичная информация этой желтой страницы должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
     <string name="title_about_yellow_page">О программе</string>
 </resources>
