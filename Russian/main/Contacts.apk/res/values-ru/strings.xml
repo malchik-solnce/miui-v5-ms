@@ -37,6 +37,8 @@
     <string name="download_preview_failed">Не удалось загрузить превью</string>
 	<string name="duplicate_group_name">Группа уже существует</string>
     <string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
+	<string name="resource_delta_update_failed">Патч обновление не удалось! Будет загружен полный ресурс.</string>
+    <string name="resource_delta_update_successful">Патч обновление завершено. %1$s сохранено.</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурс</string>
     <string name="resource_detail">Подробнее</string>
@@ -49,6 +51,7 @@
     <string name="resource_list_title">Последние</string>
     <string name="resource_get_auth_checking">Проверка авторизации...</string>
     <string name="resource_get_auth_retrieving">Получение авторизации...</string>
+	<string name="resource_import_successful">Загрузка завершена</string>
     <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
     <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
@@ -141,6 +144,7 @@
     <string name="customLabelPickerTitle">Название ярлыка</string>
     <string name="send_to_voicemail_checkbox">Отправить звонки на голосовую почту</string>
     <string name="removePhoto">Удалить фото</string>
+	<string name="remove_blacklist">Удалить из черного списка</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noGroups">Групп нет</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
@@ -387,6 +391,8 @@
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_warn_remove_ungrouped">Удаление \"%s\" из синхронизации так же удалит все контакты, не добавленные в группы</string>
+	<string name="dlg_add_blacklist">Добавить выбранный номер в черный список?</string>
+    <string name="dlg_remove_blacklist">Удалить выбранный номер из черного списка?</string>
     <string name="account_phone">Только телефон, без синхронизации</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>

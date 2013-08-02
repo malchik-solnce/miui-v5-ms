@@ -43,9 +43,9 @@
     <string name="retry">Повторить попытку</string>
     <string name="call_lost_title">Потеря вызова</string>
     <string name="ok">OK</string>
-    <string name="mmiStarted">Код MMI запущен</string>
+    <string name="mmiStarted">Выполняется запрос…</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
-    <string name="mmiCancelled">Код MMI отменен</string>
+    <string name="mmiCancelled">Запрос отменен</string>
     <string name="cancel">Отмена</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="audio_mode_speaker">Динамик</string>
@@ -136,12 +136,14 @@
     <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
     <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
+	<string name="enable_antispam_strange_summary">Отключать первый звонок с неизвестного номера</string>
+    <string name="enable_antispam_strange_title">Анти-незнакомый звонок</string>
     <string name="disable">Отключить</string>
     <string name="change_num">Обновить</string>
     <string name="vm_save_number">Сохранить номер голосовой почты</string>
     <string name="vm_changed">Номер голосовой почты изменен</string>
     <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
-Если проблема не будет решена, свяжитесь со своим оператором"</string>
+Если проблема не будет решена, свяжитесь со своим оператором."</string>
     <string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
 Если проблема не будет решена, свяжитесь со своим оператором."</string>
     <string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
@@ -166,7 +168,7 @@
     <string name="register_automatically">Автоматическая регистрация...</string>
     <string name="preferred_network_mode_title">Режим сети</string>
     <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
-    <string name="preferred_network_mode_dialogtitle">Режим предпочтительной сети</string>
+    <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
     <string name="preferred_network_mode_gsm_only_summary">Предпочтительная сеть: только GSM</string>
     <string name="preferred_network_mode_wcdma_only_summary">Предпочтительная сеть: только WCDMA</string>
@@ -479,6 +481,7 @@
 	<string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
     <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
+	<string name="phone_info_divider">" ｜ "</string>
     <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
     <string name="alert_dialog_in_ecm_call">Выбранное действие невозможно в режиме экстренной связи</string>
     <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>

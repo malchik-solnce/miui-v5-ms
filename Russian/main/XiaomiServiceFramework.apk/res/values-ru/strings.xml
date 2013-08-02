@@ -74,7 +74,7 @@
     <string name="input_password_hint">Введите пароль</string>
     <string name="confirm">Подтвердить</string>
     <string name="alert_title_remove_account">Удалить аккаунт</string>
-    <string name="remove_account_notice">Что бы Вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
+    <string name="remove_account_notice">Что делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
     <string name="data_keep_in_phone">Оставить</string>
     <string name="data_wipe_from_phone">Удалить</string>
     <string name="login_notice">Авторизация, подождите...</string>
@@ -82,6 +82,7 @@
     <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
     <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
     <string name="sync_sub_int_dspt">Для активации нужно отправить международное SMS</string>
+	<string name="title">название</string>
     <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
     <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
     <string name="send_int_sms_for_sync_notice">Для активации нужно отправить международное SMS. Вы хотите продолжить?</string>
@@ -284,6 +285,7 @@
     <string name="btn_next">Далее</string>
     <string name="btn_other_bankcard">Другая банковская карта</string>
     <string name="btn_query">Узнать сейчас</string>
+	<string name="btn_recharge_confirm">Подтвердить покупку</string>
 	<string name="btn_prev">Назад</string>
     <string name="progress_querying">Обработка платежного запроса…</string>
     <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
@@ -312,6 +314,8 @@
     <string name="btn_voucher">Карта MiCredit (%1$s)</string>
 	<string name="btn_wait_call">Ожидание</string>
     <string name="btn_wait_call_count">Ожидание (%1$s)</string>
+	<string name="btn_wait_confirm">Ожидание</string>
+    <string name="btn_wait_confirm_count">Ожидание (%1$s)</string>
     <string name="fee">%1$s Mi</string>
     <string name="recharge_record_empty">Нет истории пополнения</string>
     <string name="pay_record_empty">Нет платежной истории</string>
@@ -343,6 +347,8 @@
     <string name="micloud_more">Подробнее</string>
     <string name="internet_comm">СЕРВИС СООБЩЕНИЙ</string>
     <string name="cloud_messaging">Облачные сообщения</string>
+	<string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачными сервисами.</string>
+    <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="current_account">Текущий аккаунт</string>
     <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>

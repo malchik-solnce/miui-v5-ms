@@ -60,6 +60,7 @@
     <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера</string>
+	<string name="restore_blocked_message">Восстановить сообщение</string>
     <string name="forward_prefix">"От: "</string>
     <string name="discard_message">Отмена</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель</string>
@@ -95,6 +96,7 @@
     <string name="hidden_sender_address">Адрес отправителя скрыт</string>
     <string name="yes">ОК</string>
     <string name="no">Отмена</string>
+	<string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
     <string name="set">Сохранить</string>
     <string name="play">Воспроизвести</string>
     <string name="edit">Изменить</string>
@@ -199,6 +201,8 @@
     <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
+	<string name="confirm_restore_positive">Восстановить</string>
+    <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
     <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
     <string name="message_send_failed_title">Сообщение не отправлено</string>
     <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку</string>
@@ -406,6 +410,8 @@
     <string name="importing_progress_private_message">Импорт сообщений в приватный ящик...</string>
     <string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик...</string>
     <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
+	<string name="confirm_no_block_positive">Не блокировать и восстановить</string>
+    <string name="confirm_no_block_title">Не блокировать этот номер и восстановить все сообщения?</string>
     <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
     <string name="number_add_hint">Введите номер, чтобы добавить к приватным контактам</string>
     <string name="menu_new_manual">Ввести номер вручную</string>
