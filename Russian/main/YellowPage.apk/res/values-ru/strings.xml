@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Желтые страницы</string>
+	<string name="all_numbers">Все номера</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="check_network">Посмотреть настройки сети</string>
     <string name="try_again">Попробуйте еще раз</string>

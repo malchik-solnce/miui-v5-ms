@@ -21,6 +21,7 @@
     <string name="device_name">Имя устройства</string>
     <string name="device_name_tip">Имя устройства можно задать в пункте настроек \"О телефоне\"</string>
     <string name="transfer_history">История</string>
+	<string name="trasfer_list">Список передач</string>
     <string name="no_transfer_history">Нет истории передачи файлов</string>
     <string name="you_can">Я могу</string>
     <string name="send">Отправить</string>
@@ -77,6 +78,8 @@
     <string name="history">Иcтория</string>
     <string name="no_content">Нет содержимого</string>
     <string name="editmode_menu_share">Поделиться</string>
+	<string name="error_bad_file">Поврежденный файл</string>
+    <string name="error_connect_service">Не удается подключиться к службе передачи</string>
     <string name="editmode_menu_delete">Удалить</string>
     <string name="operation_send">Отправить</string>
     <string name="operation_delete">Удалить</string>

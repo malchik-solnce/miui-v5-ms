@@ -726,7 +726,8 @@
     <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
     <string name="call_recording_notification_title_miui">Уведомлять о записи</string>
     <string name="call_recording_prompt_miui">Идет запись...</string>
-    <string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки места, нажмите для просмотра %s</string>
+    <string name="call_record_button_label">Запись %s</string>
+    <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​Нет свободного места.</string>
     <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
     <string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
