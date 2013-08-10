@@ -898,7 +898,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="volume_alarm_mute">Отключить звук будильника</string>
     <string name="vibrate_when_ringing_title">Вибрация при входящем вызове</string>
     <string name="unable_to_set_as_ringtone">Не удалось установить как мелодию</string>
-    <string name="dock_settings">Док-станция</string>
+    <string name="dock_settings">ДОК-СТАНЦИЯ</string>
     <string name="dock_settings_title">Док-станция</string>
     <string name="dock_audio_settings_title">Звук</string>
     <string name="dock_audio_summary_desk">Параметры звука при установке в настольную док-станцию</string>
@@ -2224,7 +2224,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="FIPS_key_managemnet_module">Модуль управления ключами</string>
     <string name="FIPS_status_enabled">Включено</string>
     <string name="FIPS_status_disabled">Отключено</string>
-    <string name="power_saving_mode_setting">Параметры режима энергосбережения</string>
+    <string name="power_saving_mode_setting">ПАРАМЕТРЫ РЕЖИМА ЭНЕРГОСБЕРЕЖЕНИЯ</string>
     <string name="power_saving_cpu">Энергосбережение: процессор</string>
     <string name="power_saving_cpu_summary">Ограничивать максимальную производительность процессора</string>
     <string name="power_saving_display">Энергосбережение: экран</string>
@@ -2236,7 +2236,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="power_saving_haptic">Отключить тактильную обратную связь</string>
     <string name="power_saving_haptic_summary">Выключение тактильной обратной связи может продлить время работы аккумулятора</string>
     <string name="powersavingmode_start">Режим энергосбережения включен</string>
-    <string name="power_saving_tips">Советы по энергосбережению</string>
+    <string name="power_saving_tips">СОВЕТЫ ПО ЭНЕРГОСБЕРЕЖЕНИЮ</string>
     <string name="power_saving_mode_title">Энергосбережение</string>
     <string name="screentimeout_summary">Настройка задержки перед автоматическим отключением экрана</string>
     <string name="learn_power_saving_tips">Сведения о режиме энергосбережения</string>
@@ -3147,9 +3147,9 @@ Tap OK to continue"</string>
     <string name="accessory">Аксессуары</string>
     <string name="hdmi">HDMI</string>
     <string name="audio_output">Звуковое устройство</string>
-    <string name="stereo">Стерео</string>
+    <string name="stereo">Стерео звук</string>
     <string name="surround">Объемный звук</string>
-    <string name="earset">Наушники</string>
+    <string name="earset">НАУШНИКИ</string>
     <string name="audio_applications">Аудиоприложения</string>
     <string name="audio_applications_summary">При подключении наушников станут доступны приложения для работы со звуком на панели быстрого доступа</string>
     <string name="gps_donotshow">Не показывать снова</string>
