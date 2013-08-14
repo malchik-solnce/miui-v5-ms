@@ -828,7 +828,7 @@
     <string name="go_private_miui">в приват</string>
     <string name="hac_mode_summary_miui">Включить слуховой аппарат</string>
     <string name="hac_mode_title_miui">Слуховые аппараты</string>
-    <string name="handon_ringer_summary_miui">Бесполезно, когда вибрация включена для входящего вызова</string>
+    <string name="handon_ringer_summary_miui">Устройство не будет вибрировать во время входящего звонка</string>
     <string name="handon_ringer_title_miui">Телефон в руках</string>
     <string name="hangup_sms_miui">Отклонить с SMS</string>
     <string name="ignore_miui">Отклонить</string>
@@ -857,7 +857,7 @@
     <string name="manage_fdn_list_miui">Разрешенные номера</string>
     <string name="manage_fdn_list_sum_miui">Управление списком номеров</string>
     <string name="mismatch_pin2_miui">Коды PIN2 не совпадают. Попробуйте еще раз.</string>
-    <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз</string>
+    <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз.</string>
     <string name="mobile_networks_miui">Настройки сотовой сети</string>
     <string name="networks_title_miui">Сетевые операторы</string>
     <string name="new_pin2_hint_miui">Новый PIN2</string>
@@ -924,7 +924,7 @@
     <string name="reject_via_sms_summary_miui">Выберите сообщение для отправки</string>
     <string name="reject_via_sms_title_miui">Отклонить с СМС</string>
     <string name="separate_from_conference_miui">Индивидуальный вызов</string>
-    <string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра, попробуйте позже</string>
+    <string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
     <string name="set_smsc_address_timeout_miui">Время истекло... Попробуйте позже.</string>
     <string name="set_smsc_address_title_miui">Номер SMS-центра</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>

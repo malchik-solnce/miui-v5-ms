@@ -1082,6 +1082,7 @@
     <string name="running_processes_item_description_p_p">Процессов: %1$d; служб: %2$d</string>
     <string name="runningservicedetails_settings_title">Запущенное приложение</string>
     <string name="no_services">Неактивен</string>
+	<string name="noise_suppression">Подавление шума</string>
     <string name="runningservicedetails_services_title">Службы</string>
     <string name="runningservicedetails_processes_title">Процессы</string>
     <string name="service_stop">Остановить</string>
@@ -1494,7 +1495,8 @@
     <string name="privacy_settings">Бэкап и сброс</string>
     <string name="privacy_settings_title">Бэкап и сброс</string>
     <string name="backup_section_title">БЭКАП И ВОССТАНОВЛЕНИЕ</string>
-    <string name="personal_data_section_title">ЗАВОДСКИе НАСТРОЙКИ</string>
+    <string name="personal_data_section_title">ЗАВОДСКИЕ НАСТРОЙКИ</string>
+	<string name="phone_call_noise_suppression">Подавление шума</string>
     <string name="backup_data_title">Копирование данных</string>
     <string name="backup_data_summary">Сохранять резервные копии данных приложений, паролей точек доступа Wi-Fi и настроек на серверах Google</string>
     <string name="backup_configure_account_title">Резервный аккаунт</string>
@@ -2292,9 +2294,9 @@
     <string name="virus_scan_app_stop_scan">Остановить</string>
     <string name="virus_scan_app_finish">Закрыть</string>
     <string name="virus_scan_app_continue">Продолжить</string>
-    <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
+    <string name="virus_scan_app_uninstall">Удалить (%d)</string>
     <string name="virus_scan_app_force_stop">Сканирование оставнолено</string>
-    <string name="virus_scan_app_find_risk">%d приложений с риском, рекомендуется немедленно удалить</string>
+    <string name="virus_scan_app_find_risk">Возможно приложение %d небезопасно</string>
     <string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
     <string name="virus_scan_app_no_risk">Угрозы не найдены</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>

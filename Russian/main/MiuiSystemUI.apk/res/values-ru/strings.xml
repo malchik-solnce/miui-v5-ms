@@ -120,6 +120,8 @@
   <string name="ext_media_safe_unmount_notification_title">Можно извлечь</string>
   <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
   <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
+  <string name="filter_item_description">Вы можете выбрать тип уведомления в \"Параметры-Настройки уведомлений-Пользовательские уведомления\"</string>
+  <string name="filter_item_preview_image">Предпоказ</string>
   <string name="gps_notification_found_text">Местоположение установлено с помощью GPS</string>
   <string name="gps_notification_searching_text">Поиск GPS</string>
   <string name="headset_custom">Настр.</string>
@@ -178,6 +180,8 @@
   <string name="screenshot_saving_text">Сохранение...</string>
   <string name="screenshot_saving_ticker">Сохранение...</string>
   <string name="screenshot_saving_title">Сохранение...</string>
+  <string name="settings_all_app_display_loading">Загрузка, подождите...</string>
+  <string name="settings_custom_notification">Пользовательские уведомления</string>
   <string name="settings_auto_dismiss_screenshot_notification">Очистка уведомлений скриншотов</string>
   <string name="settings_expandable_under_fullscreen">В полноэкранном режиме</string>
   <string name="settings_expandable_under_fullscreen_summary">Сдвинув вниз от верхней части экрана</string>
@@ -187,14 +191,18 @@
   <string name="settings_notification_icon">УВЕДОМЛЕНИЯ В СТАТУС-БАРЕ</string>
   <string name="settings_other">Другие</string>
   <string name="settings_screenshot_notification_disabled">Скрывать скриншоты</string>
+  <string name="settings_notification_bar">Панель уведомлений</string>
   <string name="settings_separator">,</string>
   <string name="settings_show_flow_info">Показывать трафик</string>
   <string name="settings_show_network_speed">Показ. скорость сети</string>
   <string name="settings_toggle">ПЕРЕКЛЮЧАТЕЛИ</string>
+  <string name="settings_show_notificationBar_notification">Показать уведомления панели уведомлений</string>
+  <string name="settings_show_statusBar_notification">Показать уведомления строки состояния</string>
+  <string name="settings_status_bar">Панель уведомлений</string>
   <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
   <string name="settings_toggle_layout_style">СТИЛЬ</string>
   <string name="settings_toggle_layout_style_applying">Применение стиля...</string>
-  <string name="settings_toggle_layout_style_compact">Компакт</string>
+  <string name="settings_toggle_layout_style_compact">Компактный</string>
   <string name="settings_toggle_layout_style_single_page">Полный</string>
   <string name="settings_toggle_position">Настроить переключатели</string>
   <string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
@@ -213,7 +221,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
   <string name="status_bar_network_name_separator">" "</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
-  <string name="status_bar_no_recent_apps">Недавних приложений нет</string>
+  <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
   <string name="status_bar_notification_inspect_item_title">О приложении</string>
   <string name="status_bar_ongoing_events_title">Текущие</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>

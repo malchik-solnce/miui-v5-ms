@@ -147,9 +147,10 @@
   <string name="do_not_save">Отмена</string>
   <string name="download">Загрузить</string>
   <string name="download_complete">Загрузка файла завершена</string>
-  <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не спрашивать</string>
+  <string name="download_default_path_txt">Применить по умолчанию и больше не спрашивать</string>
+  <string name="download_dialog_default_path_invalid">Путь для загрузки файла неверный. Будет использован путь по умолчанию.</string>
   <string name="download_dialog_file_length_hint_txt">Размер файла:</string>
-  <string name="download_dialog_file_length_lessthan1kb">Меньше чем 1K</string>
+  <string name="download_dialog_file_length_lessthan1kb">Меньше чем 1Kб</string>
   <string name="download_dialog_file_length_nolength_error_txt">Не удалось определить размер файла</string>
   <string name="download_dialog_file_length_nolength_txt">Вычисление размера файла…</string>
   <string name="download_failed">Ошибка загрузки</string>

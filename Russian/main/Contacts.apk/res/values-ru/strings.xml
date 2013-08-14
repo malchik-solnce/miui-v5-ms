@@ -409,6 +409,7 @@
     <string name="call_main">Основной телефон</string>
     <string name="call_other_fax">Позвонить на номер факса</string>
     <string name="call_radio">Радиотелефон</string>
+	<string name="call_record_setting_miui">Настройки записи</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -562,6 +563,7 @@
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>
     <string name="clear_default">Удалить настройки по умолчанию</string>
+	<string name="clear_digits">Очистить номер телефона</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="profile_display_name">Настроить профиль</string>
@@ -682,7 +684,8 @@
     <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
-    <string name="delete_contact_calllog_title">Удалить журнал вызовов контактов?</string>
+    <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
+	<string name="delete_dial_input">Удалить</string>
     <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
 	<string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
     <string name="edit_contact_card_title">Редактировать контакт</string>
@@ -837,6 +840,7 @@
     <string name="antispam_provider_format">Поддержка спам-фильтра: %s</string>
     <string name="menu_new_favorite_action_bar">Добавить в избранные</string>
     <string name="click_close">Нажмите, чтобы закрыть</string>
+	<string name="close_dial_pad">закрыть клавиатуру</string>
     <string name="phone_primary">Основной</string>
     <string name="phone_info_divider">"  |  "</string>
     <string name="menu_bar_group_add">Добавить</string>
@@ -901,9 +905,10 @@
     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
     <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
     <string name="import_from_other_phone">Импорт с другого телефона</string>
-    <string name="device_brand_title">выберите марку мобильного телефона</string>
-    <string name="device_version_title">Выберите версию мобильного телефона</string>
-    <string name="device_list_title">выберите телефон для сопряжения</string>
+    <string name="device_brand_title">Выберите марку устройства</string>
+    <string name="device_version_title">Выберите версию устройства</string>
+	<string name="dial">Вызов</string>
+    <string name="device_list_title">Выберите телефон для сопряжения</string>
     <string name="next">далее</string>
     <string name="previous">назад</string>
     <string name="scan">сканировать устройство</string>

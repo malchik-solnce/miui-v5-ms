@@ -6,6 +6,9 @@
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
     <string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в свой аккаунт</string>
+	<string name="app_no_notification">Ничего</string>
+    <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="yesterday">Вчера</string>
@@ -14,7 +17,7 @@
     <string name="autumn_equinox">Точка осеннего равноденствия</string>
     <string name="callNoAnswerTimeFormat">%s гудков</string>
     <string name="call_record_or">or</string>
-    <string name="call_record_sample_prefix_miui">Callrecording</string>
+    <string name="call_record_sample_prefix_miui">Запись</string>
     <string name="caller_info_name_delimiter">или</string>
     <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
     <string name="check_phone_io_error">Ошибка сети</string>
@@ -486,4 +489,6 @@
     <string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="reboot_confirm_title">Перезагрузить устройство?</string>
 	<string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать телефон с помощью аккаунта.
+Попробуйте снова через %d секунд."</string>
 </resources>
