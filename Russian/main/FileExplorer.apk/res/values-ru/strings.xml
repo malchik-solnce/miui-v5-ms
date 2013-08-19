@@ -87,7 +87,7 @@
     <string name="dialog_type_audio">Аудио</string>
     <string name="dialog_type_video">Видео</string>
     <string name="dialog_type_image">Изображения</string>
-    <string name="favorite_photo">Фотография</string>
+    <string name="favorite_photo">Фото</string>
     <string name="favorite_screen_cap">Скриншоты MIUI</string>
     <string name="favorite_ringtone">Мелодии</string>
     <string name="file_loading">Загрузка…</string>

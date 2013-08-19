@@ -1666,7 +1666,7 @@
     <string name="window_animation_scale_title">Окно: масштаб</string>
     <string name="transition_animation_scale_title">Переход: масштаб</string>
     <string name="animator_duration_scale_title">Шкала длительности анимации</string>
-	<string name="antispam_quiet_mode_title">Не беспокоить</string>
+	<string name="antispam_quiet_mode_title">Режим не беспокоить</string>
     <string name="debug_applications_category">Приложения</string>
     <string name="immediately_destroy_activities">Не сохранять действия</string>
     <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
@@ -2312,7 +2312,7 @@
 	<string name="dolby_dialogue_enhancer">Усиление</string>
     <string name="dolby_ieq_flat">Выключен</string>
     <string name="dolby_ieq_focused">Фокусированный</string>
-    <string name="dolby_ieq_open">Открыть</string>
+    <string name="dolby_ieq_open">Открытый</string>
     <string name="dolby_ieq_rich">Глубокий</string>
     <string name="dolby_eq_enter_alert_title">Dolby music</string>
     <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в даном режиме. Включить?</string>

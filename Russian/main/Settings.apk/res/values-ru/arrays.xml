@@ -460,7 +460,7 @@
         <item>Запретить</item>
     </string-array>
 	<string-array name="phone_call_noise_suppression_title">
-        <item>Подавление шума (один микрофон)</item>
-        <item>Подавление шума (два микрофона)</item>
+        <item>Один микрофон</item>
+        <item>Два микрофона</item>
     </string-array>
 </resources>

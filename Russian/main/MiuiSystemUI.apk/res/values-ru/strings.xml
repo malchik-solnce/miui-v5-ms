@@ -366,5 +366,7 @@ d MMMM yyyy"</string>
   <string name="ext_media_mountable_notification_title">USB-накопитель подключен</string>
   <string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
   <string name="ext_media_safe_remove">Безопасное извлечение</string>
+  <string name="status_bar_recording_back">Нажмите для возвращения в диктофон</string>
+  <string name="status_bar_recording_pause">Запись остановлена. Нажмите для перехода в диктофон.</string>
 
 </resources>
