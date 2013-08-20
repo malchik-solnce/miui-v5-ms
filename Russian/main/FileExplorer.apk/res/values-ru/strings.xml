@@ -133,7 +133,7 @@
     <string name="no_more_space">Не хватает места на диске</string>
     <string name="sd_full">SD-карта заполнена</string>
     <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
-    <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
+    <string name="create_new_folder_failed">Не удалось создать папку</string>
     <string name="user_guide_kuaipan_copy">"Доступ к файлу с нескольких устройств
 , поместив его в Kuaipan"</string>
     <string name="user_guide_upload_to_kuaipan">"С телефона,
@@ -297,7 +297,7 @@
 	<string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
 	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>
 	<string name="fail_to_create_folder_unknown">Не удается создать: неизвестная ошибка</string>
-	<string name="kuaipan_label">Kuaipan</string>
+	<string name="kuaipan_label">Диск</string>
 	<string name="no_enough_space">Не хватает места</string>
     <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите место с помощью \"Очистки\" или просто удалите большие файлы.</string>
     <string name="no_enough_storage_title">Не хватает места</string>

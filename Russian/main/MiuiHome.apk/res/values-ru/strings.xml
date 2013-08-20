@@ -55,10 +55,12 @@
   <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
   <string name="menu_add">Добавить</string>
   <string name="menu_back_desktop">Домой</string>
-  <string name="menu_edit">Режим редактирования</string>
-  <string name="menu_exit_scene">Выход из свободного раб. стола</string>
+  <string name="menu_customize">Настройки</string>
+  <string name="menu_edit">Столы</string>
+  <string name="menu_exit_scene">Выйти из свободного стола</string>
   <string name="menu_item_add_item">Добавить на основной экран</string>
   <string name="menu_launcher_setting">Настройки рабочего стола</string>
+  <string name="menu_picktheme">Выбрать тему</string>
   <string name="menu_reset_scene">Сбросить на стандарт</string>
   <string name="menu_search">Поиск</string>
   <string name="menu_settings">Настройки</string>
@@ -216,6 +218,7 @@
   <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
   <string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
   <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
+  <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
   <string name="status_bar_toggle_ac">Контроль доступа</string>
   <string name="status_bar_toggle_auto_brightness">Автоподсветка</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>

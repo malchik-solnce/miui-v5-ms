@@ -6,7 +6,6 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Приложение Файлы</item>
         <item>Галерея</item>
         <item>Суперпользователь</item>
         <item>Камера</item>

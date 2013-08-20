@@ -28,6 +28,7 @@
     <string name="downloading">Загрузка...</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
     <string name="copy_message_text">Скопировать текст</string>
+	<string name="copy_message_text_success">Текст скопирован</string>
     <string name="done">Готово</string>
     <string name="move_up">Переместить вверх</string>
     <string name="move_down">Переместить вниз</string>
@@ -173,6 +174,7 @@
     <string name="attach_image">Изображение</string>
     <string name="attach_take_photo">Снять фото</string>
     <string name="attach_video">Видео</string>
+	<string name="back_to_message_list">Вернутся к списку сообщений</string>
     <string name="attach_record_video">Снять видео</string>
     <string name="attach_sound">Аудио</string>
     <string name="attach_record_sound">Записать аудио</string>
@@ -317,9 +319,10 @@
     <string name="pref_title_hide_festival">Скрыть вкладку \"Шутки\"</string>
     <string name="pref_summary_hide_festival">Скрыть вкладку шутки для языков отличных от китайского</string>
     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
+	<string name="send_sms">Отправить сообщение</string>
     <string name="send_signature_confirm_dialog_message">Вы не ввели текст содержания, вы хотите отправить его?</string>
     <string name="enter_edit_mode">Удалить</string>
-    <string name="check_all">Всё</string>
+    <string name="check_all">Все</string>
     <string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщения(ий)?</string>
     <string name="batch_deleting_progress_message">Удаление...</string>
     <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
@@ -328,6 +331,7 @@
     <string name="prepare_send">Подготовка к отправке...</string>
     <string name="activity_not_found">Не удается открыть вложение</string>
     <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
+	<string name="add_attachment">Добавить вложение</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="chenghu_disable_mms">Недопустимый адрес MMS</string>
     <string name="non_english_subject_limit">Предел 13 символов для темы сообщения, написанной не латинницей</string>
@@ -419,5 +423,6 @@
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
     <string name="select_local_audio">Выбрать аудио...</string>
     <string name="select_local_video">Выбрать видео...</string>
+	<string name="select_recipient">Выбрать получателя</string>
     <string name="mx_recommend_msg">Включите облачные сообщения. Нажмите кнопку включить и бесплатно отправляйте сообщения.</string>
 </resources>

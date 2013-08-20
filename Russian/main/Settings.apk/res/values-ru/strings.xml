@@ -2296,7 +2296,7 @@
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_uninstall">Удалить (%d)</string>
     <string name="virus_scan_app_force_stop">Сканирование оставнолено</string>
-    <string name="virus_scan_app_find_risk">Возможно приложение %d небезопасно</string>
+    <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
     <string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
     <string name="virus_scan_app_no_risk">Угрозы не найдены</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
