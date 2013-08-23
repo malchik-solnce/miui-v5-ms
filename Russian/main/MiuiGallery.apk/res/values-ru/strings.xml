@@ -32,7 +32,7 @@
   <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
   <string name="autofix">Авто</string>
   <string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
-  <string name="browse_category">ПРОСМОТР ФОТОГРАФИЙ</string>
+  <string name="browse_category">НАСТРОЙКИ ПРОСМОТРА</string>
   <string name="caching_label">Кэширование...</string>
   <string name="camera_connected">Камера подключена</string>
   <string name="camera_disconnected">Камера отключена</string>
@@ -255,6 +255,7 @@
   <string name="page_category">Категории</string>
   <string name="path">Путь</string>
   <string name="people">Люди</string>
+  <string name="photo_page_always_rotate">Автоповорот изображений</string>
   <string name="photo_page_save_image">Сохранить</string>
   <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
   <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог фотографий камеры</string>
@@ -338,14 +339,14 @@
   <string name="size_below">%1$s или менее</string>
   <string formatted="false" name="size_between">%1$s – %2$s</string>
   <string name="slideshow">Слайд-шоу</string>
-  <string name="slideshow_category">СЛАЙД-ШОУ</string>
+  <string name="slideshow_category">НАСТРОЙКИ СЛАЙД-ШОУ</string>
   <string name="slideshow_dream_name">Слайд-шоу</string>
   <string name="slideshow_interval">Интервал слайд-шоу</string>
   <string name="slideshow_interval_dialog_title">Промежуток времени в секундах</string>
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени</string>
   <string name="slideshow_repeat_mode">Повтор при завершении</string>
   <string name="slideshow_time_select_title">Продолжительность слайдшоу</string>
-  <string name="slideshow_time_title">Время слайдшоу</string>
+  <string name="slideshow_time_title">Продолжительность</string>
   <string name="storage_all_volumes">Все устройства хранения</string>
   <string name="storage_no_space">Не хватает памяти</string>
   <string name="straighten">Выравнивание</string>
@@ -451,9 +452,9 @@
   <string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
   <string name="request_sms_url_title">Совет</string>
   <string name="scan_qr_code">Пусть люди отсканируют QR-код, чтобы получить ссылку на общий альбом</string>
-  <string name="screensaver_activate_mode">Заставка слайдшоу</string>
-  <string name="screensaver_activate_only_charging">Активировать только при зарядке</string>
-  <string name="screensaver_category">Заставка</string>
+  <string name="screensaver_activate_mode">Включить заставку</string>
+  <string name="screensaver_activate_only_charging">Только при зарядке</string>
+  <string name="screensaver_category">НАСТРОЙКИ ЗАСТАВКИ</string>
   <string name="screensaver_no_data">Нет изображений в альбоме</string>
   <string name="screensaver_path">Альбом заставки:</string>
   <string name="screensaver_path_not_set">Не задан</string>
