@@ -634,9 +634,9 @@
 	<string name="activity_not_found_uri">Подходящее приложение не найдено</string>
     <string name="summary_kind_title">Основная информация</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
-    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
-    <string name="callrecordview_item_op_time_only_minutes">%d минут</string>
-    <string name="callrecordview_item_op_time_only_seconds">%d секунд</string>
+    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
     <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
     <string name="callrecordview_item_op_time_short_incoming">" | "</string>
     <string name="callrecordview_item_op_time_missed">Не подключен</string>
@@ -676,10 +676,10 @@
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Снять выделение</string>
     <string name="select_none">Выберите хотя бы один контакт</string>
-    <string name="toast_finish_delete_call_log">Журналы будут удалены</string>
-    <string name="confirm_delete_contact_all_call_logs">Удалить все журналы вызовов?</string>
-    <string name="confirm_delete_selected_all_call_logs">Удалить все журналы вызовов контактов?</string>
-	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты (%d шт.) с SIM-карты?</string>
+    <string name="toast_finish_delete_call_log">Вызов удален из журнала</string>
+    <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
+    <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
+	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
     <string name="calllog_menu_blacklist">В черный список</string>
     <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>

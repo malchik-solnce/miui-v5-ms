@@ -2,9 +2,9 @@
 <resources>
     <string name="app_name">Темы</string>
     <string name="theme_import_activity_label">Обновление тем</string>
-    <string name="theme_changing_dialog_title">Применение новой темы, подождите…</string>
-    <string name="theme_changed_message">%1$s применена</string>
-    <string name="theme_changed_failed_message">Установка %1$s не удалась</string>
+    <string name="theme_changing_dialog_title">Применение темы, подождите…</string>
+    <string name="theme_changed_message">Успешно применено</string>
+    <string name="theme_changed_failed_message">Ошибка применения темы</string>
     <string name="backup_preference_title">Сохранить тему</string>
     <string name="backup_theme_dialog_ok">Сохранить</string>
     <string name="backup_theme_dialog_message">"Тема будет сохранена в 

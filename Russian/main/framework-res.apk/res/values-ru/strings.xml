@@ -925,7 +925,7 @@
   <string name="phoneTypeAssistant">Секретарь</string>
   <string name="phoneTypeCallback">Обр. вызов</string>
   <string name="phoneTypeCar">В авто</string>
-  <string name="phoneTypeCompanyMain">Телефон офиса</string
+  <string name="phoneTypeCompanyMain">Телефон офиса</string>
   <string name="phoneTypeCustom">Создать свой</string>
   <string name="phoneTypeFaxHome">Домашний факс</string>
   <string name="phoneTypeFaxWork">Рабочий факс</string>
@@ -1378,7 +1378,6 @@
   <string name="web_user_agent_target_content">"Мобильный "</string>
   <string name="permlab_route_media_output">Устройство вывода</string>
   <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
-  <string name="perms_show_all">Показать все</string>
   <string name="permlab_setScreenCompatibility">установить совместимость экрана</string>
   <string name="progress_unmounting_internal">Отключение внутреннего хранилища…</string>
   <string name="permdesc_setKeyboardLayout">Приложение сможет изменить раскладку клавиатуры. Не потребуется для обычных приложений.</string>
@@ -1390,7 +1389,6 @@
   <string name="perms_new_perm_prefix"><font fgcolor="#ff900000" size="12">НОВЫЕ: </font></string>
   <string name="lockscreen_perso_locked_message">SIM/RUIM заблокирован персонально</string>
   <string name="permdesc_writeCallLog">Приложение сможет изменять ваш журнал вызовов, включая данные о входящих и исходящих звонках. Вредоносные программы могут использовать эту возможность для удаления или изменения журнала вызовов.</string>
-  <string name="perms_hide">Скрыть</string>
   <string name="keyguard_password_puk_failed">Операция с PUK-кодом не удалась!</string>
   <string name="silent_mode_silent">Звонок отключен</string>
   <string name="keyguard_password_pin_failed">Операция с PIN-кодом не удалась!</string>
@@ -1428,7 +1426,6 @@
   <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN-код для подписки</string>
   <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1, чтобы разблокировать PIN1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую деятельность, независимо от разрешения защиты или экспортированного состояния</string>
-  <string name="candidates_style">кандидаты</string>
   <string name="resolver_guide_title">Настройки по умолчанию</string>
   <string name="restart_confirm_question">Перезагрузить?</string>
   <string name="restart_confirm">Устройство будет перезагружено</string>

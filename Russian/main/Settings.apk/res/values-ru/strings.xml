@@ -2387,8 +2387,9 @@
     <string name="vpn_dns_servers_hint">например 8.8.8.8</string>
     <string name="vpn_routes_hint">например 10.0.0.0/8</string>
     <string name="sync_wifi_label">Настройки Wi-Fi</string>
+	<string name="sync_wifi_only">Только Wi-Fi</string>
     <string name="wifi_enable">Включить Wi-Fi</string>
-    <string name="bluetooth_enable">Включить bluetooth</string>
+    <string name="bluetooth_enable">Включить Bluetooth</string>
     <string name="sync_enable">Включить синхронизацию</string>
     <string name="accessibility_enable">Включить доступ</string>
     <string name="development_enable">Режим разработчика</string>
