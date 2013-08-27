@@ -723,6 +723,7 @@
     <string name="call_log_number_limit_title">Количество записей</string>
     <string name="call_log_number_limit_subsummary">%d записей</string>
 	<string name="call_record_setting_miui">Запись звонков</string>
+	<string name="call_record_unknown_error">Ошибка записи</string>
     <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
     <string name="call_recording_notification_title_miui">Уведомлять о записи</string>
     <string name="call_recording_prompt_miui">Идет запись...</string>
@@ -730,6 +731,7 @@
     <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​Нет свободного места.</string>
     <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
+	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
     <string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
     <string name="call_record_notification_title_miui">Запись...</string>
     <string name="call_record_sample_prefix_miui">MIUI_Recording</string>

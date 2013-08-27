@@ -61,6 +61,7 @@
     <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера</string>
+	<string name="restore_all_button_msg">Восстановить все</string>
 	<string name="restore_blocked_message">Восстановить сообщение</string>
     <string name="forward_prefix">"От: "</string>
     <string name="discard_message">Отмена</string>
@@ -203,6 +204,7 @@
     <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
+	<string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
 	<string name="confirm_restore_positive">Восстановить</string>
     <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
     <string name="message_download_failed_title">Не удалось загрузить сообщение</string>

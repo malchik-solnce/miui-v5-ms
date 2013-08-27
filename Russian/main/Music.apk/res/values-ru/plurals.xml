@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d 首相关歌曲</item>
-        <item quantity="one">%d 首相关歌曲</item>
+        <item quantity="other">Результатов: %d</item>
+        <item quantity="one">Результатов: %d</item>
     </plurals>
     <plurals name="Ntracks_total">
         <item quantity="other">%d треков</item>
@@ -40,6 +40,10 @@
         <item quantity="other">плейлисты</item>
         <item quantity="one">плейлист</item>
     </plurals>
+	<plurals name="Nsearch_results">
+        <item quantity="other">Результатов: %d</item>
+        <item quantity="one">Результатов: %d</item>
+	</plurals>
     <plurals name="Nfolders">
         <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>

@@ -89,9 +89,11 @@
   <string name="menu_settings">Настройки</string>
   <string name="preference_silent_mode">Запись в режиме \"Без звука\"</string>
   <string name="preference_led_indicator">Индикатор записи</string>
-  <string name="preference_led_indicator_prompt">Индикация светодиодом при записи и заблокированном экране</string>
+  <string name="preference_led_indicator_prompt">Индикация светодиодом при записи в заблокированном режиме</string>
+  <string name="preference_record_scenes_dialog_title">Выберите режима записи</string>
   <string name="preference_record_type_dialog_title">Выберите типа файла</string>	
   <string name="preference_record_type_title">Тип записи</string>
+  <string name="preference_scenes">Режим записи</string>
   <string name="sound_recorder_settings">Настройки</string>
   <string name="start_recording">Начало записи</string>
 </resources>
