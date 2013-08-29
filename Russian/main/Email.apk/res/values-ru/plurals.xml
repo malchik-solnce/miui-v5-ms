@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <plurals name="gal_completed_fmt">
+     <plurals name="gal_completed_fmt">
         <item quantity="other">Кол-во результатов: %1$1$d с %2$2$s</item>
         <item quantity="one">Результаты с %1$2$s (%2$1$d)</item>
      </plurals>
