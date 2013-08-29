@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="general_preference_auto_advance_summary_array">
+     <string-array name="general_preference_auto_advance_summary_array">
         <item>"Переходить к новому сообщению после удаления"</item>
         <item>"Переходить к старому сообщению после удаления"</item>
         <item>"Переходить к списку сообщений после удаления"</item>
@@ -12,8 +13,4 @@
         <item>Большой</item>
         <item>Огромный</item>
      </string-array>
-     <integer-array name="subject_lengths">
-        <item>50</item>
-        <item>25</item>
-     </integer-array>
 </resources>
