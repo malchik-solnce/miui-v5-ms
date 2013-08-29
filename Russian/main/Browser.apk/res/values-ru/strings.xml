@@ -253,16 +253,23 @@
   <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
   <string name="menu_addtodesk">На рабочий стол</string>
   <string name="menu_disable_night_mode">Выключить ночной режим</string>
+  <string name="menu_disable_save_bandwidth_mode">Отключить режим сохранения</string>
   <string name="menu_download_video">Загруженные видео</string>
   <string name="menu_enable_night_mode">Включить ночной режим</string>
+  <string name="menu_enable_save_bandwidth_mode">Режим сохранения данных</string>
   <string name="menu_exit">Выйти</string>
   <string name="menu_hv_swap">Горизонтальный режим</string>
   <string name="menu_hv_swap2">Вертикальный режим</string>
   <string name="menu_preferences">Настройки</string>
+  <string name="menu_save_bandwidth_mode_close_toast">Режим сохранения отключен</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц или автоматического показа изображений</string>
+  <string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного интернета включено</string>
   <string name="menu_save_snapshot">Сохранить страницу</string>
   <string name="menu_share_url">Отправить</string>
   <string name="menu_theme_setting">Настройки темы</string>
   <string name="menu_view_download">Загрузки</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
   <string name="MIUI_homepage">Домашняя страница MIUI</string>
   <string name="MIUI_startpage">Стартовая страница</string>
   <string name="miui_yellowpage_category">Категория</string>
@@ -583,4 +590,6 @@
   <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
   <string name="close_all_tab_alert_title">Закрытие вкладок</string>
   <string name="pref_reading_mode_enabled_title_summary">Должен быть включен JavaScript</string>
+  <string name="pref_save_bandwidth_mode_summary">Если эта функция включена, браузер не будет использовать Вашу мобильную сеть для предварительной загрузки страниц или автоматического показа изображений</string>
+  <string name="pref_save_bandwidth_mode_title">Использование мобильных данных</string>
 </resources>
