@@ -1054,7 +1054,7 @@
     <string name="emergency_summary2">Пожарная служба</string>
     <string name="emergency_summary3">ДТП</string>
     <string name="network_manage_settings">Параметры сети</string>
-    <string name="notification_action_end_call">Отбой</string>
+    <string name="notification_action_end_call">Завершить вызов</string>
     <string name="notification_missedCall_call_back">Перезвонить</string>
     <string name="notification_missedCall_message">Сообщение</string>
     <string name="notification_ongoing_call">Активный вызов</string>

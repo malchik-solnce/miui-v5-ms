@@ -196,6 +196,7 @@
   <string name="file_picker_sdcard_not_found">SD-карта не найдена, пожалуйста, проверьте, подключено ли устройство к ПК</string>
   <string name="find_on_page">Найти на странице</string>
   <string name="folder_name">Имя папки</string>
+  <string name="folder_name_too_long">Папка имеет слишком длинное имя</string>
   <string name="forward">Вперед</string>
   <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
   <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
@@ -204,9 +205,9 @@
   <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
-  <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
+  <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о Вашем местоположении?</string>
   <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
-  <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
+  <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к Вашему местоположению</string>
   <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
   <string name="geolocation_settings_page_title">Закрыть геоданные</string>
   <string name="go_home">Домашняя страница</string>
@@ -218,7 +219,7 @@
   <string name="homepage_set">Главная страница установлена</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Импорт закладок</string>
-  <string name="import_bookmark_failure">Ошибка импорта Закладок!</string>
+  <string name="import_bookmark_failure">Ошибка импорта закладок!</string>
   <string name="import_bookmark_sucess">Закладки успешно импортированы!</string>
   <string name="import_bookmarks_dialog_add">Добавить закладки в аккаунт Google</string>
   <string name="import_bookmarks_dialog_confirm_add">Добавить закладки, имеющиеся на этом устройстве, и начать синхронизацию с аккаунтом %s?</string>
