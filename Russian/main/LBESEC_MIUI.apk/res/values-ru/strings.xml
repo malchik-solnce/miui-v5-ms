@@ -64,8 +64,8 @@
     <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к Интернет посредством мобильной сети</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к сети Интернет</string>
     <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-    <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
-    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в Интернет</string>
+    <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в интернет по Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в интернет</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
     <string name="HIPS_Perm_Network_MobileEvent">Мобильные сети</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
@@ -142,7 +142,7 @@
     <string name="Dashboard_Perm_Header">Управление %1$d приложениями</string>
     <string name="Dashboard_Perm_Header_Disabled">Управление доступом отключено</string>
     <string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-    <string name="Dashboard_Perm_SU">Управление доступом суперпользователя</string>
+    <string name="Dashboard_Perm_SU">Управление суперпользователем</string>
     <string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
     <string name="Dashboard_Perm_SU_Disabled">Управление разрешениями суперпользователя отключены</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен на стабильных версиях MIUI</string>

@@ -99,7 +99,7 @@
     <string name="check_phone_error_title">Ошибка синхронизации</string>
     <string name="check_phone_io_error">Ошибка сети</string>
     <string name="other_settings">ДРУГИЕ ПАРАМЕТРЫ</string>
-    <string name="find_device">Обнаружение устройства</string>
+    <string name="find_device">Поиск устройства</string>
     <string name="find_device_check_phone_error_title">Ошибка включения обнаружения устройства</string>
     <string name="find_device_enabling">Включение…</string>
     <string name="find_device_disabling">Выключение…</string>

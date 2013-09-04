@@ -29,14 +29,14 @@
     <string name="menu_rename_folder">Переименовать папку</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
     <string name="alert_title_delete">Удаление заметок</string>
-    <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>
+    <string name="alert_message_delete_notes">Удалить выбранные заметки?</string>
     <string name="alert_message_delete_folders">Удалить выбранные папки (%1$s)?</string>
     <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
-    <string name="alert_message_delete_note">Заметка будет удалена</string>
+    <string name="alert_message_delete_note">Удалить заметку?</string>
     <string name="alert_title_discard">Отмена</string>
     <string name="alert_message_discard_changes">Отменить все действия?</string>
     <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
-    <string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать?</string>
+    <string name="alert_title_edit_anyway">Вы хотите отредактировать?</string>
     <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
     <string name="alert_action_edit_anyway">Продолжить</string>
     <string name="error_sdcard_unmounted">SD-карта занята и сейчас недоступна</string>
@@ -85,7 +85,7 @@
     <string name="pref_desc_mode_list">Список</string>
     <string name="pref_desc_mode_grid">Сетка</string>
     <string name="pref_title_common">ОБЩИЕ НАСТРОЙКИ</string>
-    <string name="pref_title_alarm_when_silent">Будильник в тихом режиме</string>
+    <string name="pref_title_alarm_when_silent">Сигналы в тихом режиме</string>
     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в режиме \"Без звука\"</string>
     <string name="pref_title_data_export_to_sdcard">Экспорт заметок на SD-карту</string>
     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
