@@ -27,6 +27,7 @@
     <string name="download">Загрузить</string>
     <string name="downloading">Загрузка...</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
+	<string name="invalid_conversation">Неверная цепочка</string>
     <string name="copy_message_text">Скопировать текст</string>
 	<string name="copy_message_text_success">Текст скопирован</string>
     <string name="done">Готово</string>
