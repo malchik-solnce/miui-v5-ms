@@ -491,4 +491,5 @@
 	<string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
 	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать телефон с помощью аккаунта.
 Попробуйте снова через %d секунд."</string>
+    <string name="volume_ring_description">Мелодия и уведомления</string>
 </resources>
