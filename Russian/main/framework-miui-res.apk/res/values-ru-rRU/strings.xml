@@ -444,6 +444,7 @@
     <string name="lockscreen_transport_prev_description">Previous track button</string>
     <string name="lockscreen_transport_play_description">Play button</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
+	<string name="login_website_in_case_forget_password">Посетите http://i.xiaomi.com для сброса пароля</string>
     <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
     <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
     <string name="emergency_call_string">Экстренные</string>

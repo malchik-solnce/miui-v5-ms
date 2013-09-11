@@ -182,6 +182,7 @@
     <string name="artist_edit">Артист</string>
     <string name="album_edit">Альбом</string>
     <string name="empty_edit_hint">Информация о песне недоступна</string>
+	<string name="empty_track_list">Нет списка треков</string>
     <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
     <string name="shuffle_all">Перемешать все</string>
     <string name="play_all">Воспроизвести все</string>

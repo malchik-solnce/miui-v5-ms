@@ -55,6 +55,7 @@
     <string name="lockscreen_wallpaper">Обои блокировки</string>
     <string name="change_wallpaper">Обои</string>
     <string name="component_settings_title">Текущая тема</string>
+	<string name="default_name">По умол.</string>
     <string name="component_select_title">%1$s элементов</string>
     <string name="component_include_title">%1$s элементов</string>
     <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
@@ -65,6 +66,7 @@
     <string name="title_component">Компоненты</string>
     <string name="title_system_resource">Системные</string>
     <string name="long_ringtone_resource">Длинные</string>
+	<string name="maml_component_customization_title">Настройки компонентов</string>
     <string name="short_ringtone_resource">Короткие</string>
     <string name="all_ringtone_resource">Все</string>
     <string name="resource_preview">Просмотр</string>
