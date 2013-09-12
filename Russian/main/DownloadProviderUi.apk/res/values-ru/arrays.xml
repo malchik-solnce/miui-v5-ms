@@ -15,7 +15,7 @@
         <item>Только по Wi-Fi</item>
    </string-array>
    <string-array name="prefValues_max_bytes_limit">
-        <item>1048576000</item>
+        <item>1073741824</item>
         <item>104857600</item>
         <item>52428800</item>
         <item>20971520</item>
