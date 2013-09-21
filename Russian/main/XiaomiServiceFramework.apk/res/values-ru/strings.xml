@@ -34,7 +34,7 @@
     <string name="micloud_activing_account_delayed">"До завершения активации осталось около 30 секунд.
 Вы можете сделать что-то еще..."</string>
     <string name="micloud_activing_account_failed">Ошибка активации</string>
-    <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi......</string>
+    <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi...</string>
     <string name="micloud_activate_account_success_notify_title">Ваш аккаунт Xiaomi успешно активирован</string>
     <string name="micloud_activate_account_fail_notify_title">Ошибка активации аккаунта Xiaomi</string>
     <string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
@@ -91,8 +91,8 @@
     <string name="reging">Регистрация. Пожалуйста подождите…</string>
     <string name="reg_success">Регистрация завершена</string>
     <string name="reg_success_summary">Ваш номер телефона %1$s уже назначен для MiLock, где Вы можете использовать его, чтобы войти в систему и получить пароль</string>
-    <string name="sync_on">Вкл</string>
-    <string name="sync_off">Выкл</string>
+    <string name="sync_on">Вкл.</string>
+    <string name="sync_off">Выкл.</string>
     <string name="btn_activate">Активировать</string>
     <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
     <string name="activating">Активация...</string>
@@ -178,7 +178,7 @@
     <string name="bankcall_saved_card_info">%1$s - заканчивается %2$s</string>
     <string name="bankcall_saved_phone">Номер телефона: %1$s</string>
     <string name="bankcall_xiaomi_company">Корпорация Xiaomi</string>
-    <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
+    <string name="giftcard_value">(подарочная карта на %1$s MiCredit)</string>
     <string name="frozen">(заморожен)</string>
     <string name="mili_center">Центр Mi</string>
     <string name="error_mili_title">Не хватает Mi</string>
@@ -306,10 +306,10 @@
     <string name="title_mili_center">MiCredit</string>
     <string name="title_recharge_record">История пополнения</string>
     <string name="title_pay_record">%1$s - история пополнений</string>
-    <string name="my_mili_record">МОЙ MiCredit</string>
+    <string name="my_mili_record">Мой MiCredit</string>
     <string name="recharge_record">История пополнений</string>
     <string name="giftcard_record">MiCredit получено</string>
-    <string name="pay_record">ИСТОРИЯ ПЛАТЕЖЕЙ</string>
+    <string name="pay_record">История платежей</string>
     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
     <string name="btn_voucher">Карта MiCredit (%1$s)</string>
 	<string name="btn_wait_call">Ожидание</string>
@@ -345,7 +345,7 @@
     <string name="available_functionality">Доступные функции</string>
     <string name="internet_message">Облачные сообщения</string>
     <string name="micloud_more">Подробнее</string>
-    <string name="internet_comm">СЕРВИС СООБЩЕНИЙ</string>
+    <string name="internet_comm">Сервис сообщений</string>
     <string name="cloud_messaging">Облачные сообщения</string>
 	<string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачными сервисами.</string>
     <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>

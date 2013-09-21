@@ -56,6 +56,7 @@
     <string name="change_wallpaper">Обои</string>
     <string name="component_settings_title">Текущая тема</string>
 	<string name="default_name">По умол.</string>
+	<string name="deleting">Удаление…</string>
     <string name="component_select_title">%1$s элементов</string>
     <string name="component_include_title">%1$s элементов</string>
     <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
@@ -136,7 +137,7 @@
     <string name="mi_wallpaper_title">Обои MI</string>
     <string name="mi_wallpaper_loading">Загрузка Mi-обоев...</string>
     <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
-    <string name="resource_app_name">Resource Browser</string>
+    <string name="resource_app_name">Ресурсы</string>
     <string name="resource_price_free">Беспл.</string>
     <string name="resource_price_unit">MI кредит</string>
     <string name="resource_price_format">(%1$s)</string>
@@ -195,4 +196,7 @@
     <string name="loading_resource_detail_info">Загрузка данных…</string>
 	<string name="loading_resource_detail_fail">Ошибка загрузки</string>
     <string name="account_abnormal_state">Неправильная информация о учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
+	<string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
+    <string name="resource_delta_update_successful">Обновление завершено. Сохраняю %1$s.</string>
+	<string name="resource_import_successful">Загрузка завершена</string>
 </resources>
