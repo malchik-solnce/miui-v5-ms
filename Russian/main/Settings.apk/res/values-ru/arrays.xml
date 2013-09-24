@@ -194,7 +194,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Память устройства</item>
-        <item>Съемная SD карта</item>
+        <item>Съемная SD-карта</item>
         <item>Автоматически</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -362,11 +362,11 @@
         <item>2 секунды</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
-        <item>1 сек</item>
-        <item>2 сек</item>
-        <item>5 сек</item>
-        <item>10 сек</item>
-        <item>20 сек</item>
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>5 сек.</item>
+        <item>10 сек.</item>
+        <item>20 сек.</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="font_size_title">
@@ -388,11 +388,11 @@
         <item>Смешанный пароль</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Устройство подключено, создание сессии...</item>
+        <item>Устройство подключено, создание сессии…</item>
         <item>Сессия создана</item>
-        <item>Сессия сорвана...</item>
+        <item>Сессия сорвана…</item>
         <item>Сессия не создана</item>
-        <item>Истекло время ожидания, повтор...</item>
+        <item>Истекло время ожидания, повтор…</item>
         <item>Устройство подключено</item>
     </string-array>
     <string-array name="power_mode_entries">
