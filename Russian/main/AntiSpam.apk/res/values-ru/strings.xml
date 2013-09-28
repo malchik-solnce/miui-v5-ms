@@ -107,6 +107,7 @@
      <string name="st_sms_group">При получении сообщения</string>
      <string name="tab_blacklist">Черный список</string>
      <string name="tab_block_log">Журнал</string>
+	 <string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
      <string name="tab_call">Вызовы</string>
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>

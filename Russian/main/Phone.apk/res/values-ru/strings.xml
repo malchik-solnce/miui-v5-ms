@@ -406,6 +406,7 @@
     <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
     <string name="incall_error_call_failed">Вызов не осуществляется</string>
     <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+	<string name="information">Информация</string>
     <string name="incall_status_dialed_fc">Запуск последовательности кодов функций...</string>
     <string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
     <string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
@@ -790,6 +791,7 @@
     <string name="custom_location_location_hint_miui">Имя</string>
     <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
     <string name="cw_title_miui">Ожидание вызова</string>
+	<string name="data_connected_change">Невозможно сменить сеть когда она используется. Остановить использование сети и переключиться на другую?</string>
     <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
     <string name="default_contacts_countrycode_miui">Код страны по умолчанию</string>
     <string name="default_contacts_countrycode_sum_miui">Задайте код страны по умолчанию: %s</string>
@@ -808,6 +810,7 @@
     <string name="dtmf_tone_entries_normal_miui">Обычные</string>
     <string name="dtmf_tones_summary_miui">Установка длины тона DTMF</string>
     <string name="dtmf_tones_title_miui">Тональный набор</string>
+	<string name="duringcall">Не доступно во время вызова</string>
     <string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
     <string name="emergency_call_area_code_edit_dialog_button_miui">Вызов</string>
     <string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
