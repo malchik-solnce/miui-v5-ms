@@ -392,7 +392,7 @@
     <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука</string>
     <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода</string>
-    <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен</string>
+    <string name="bluetooth_disconnect_pan_user_profile">Доступ в интернет через устройство %1$s будет отключен</string>
     <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s</string>
     <string name="bluetooth_device_advanced_title">Тип подключения</string>
     <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
@@ -443,8 +443,8 @@
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
-    <string name="wifi_poor_network_detection">Избегать плохой связи</string>
-    <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока не будет стабильного соединения с Интернет</string>
+    <string name="wifi_poor_network_detection">Избегать плохого сигнала</string>
+    <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока не будет стабильного соединения</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
     <string name="wifi_add_network">Добавить сеть</string>
@@ -1825,7 +1825,7 @@
     <string name="current_backup_pw_prompt">Введите текущий пароль</string>
     <string name="new_backup_pw_prompt">Введите новый пароль</string>
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
-	<string name="connected_wifi">Подключенный Wi-Fi</string>
+	<string name="connected_wifi">Подключенные сети</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
     <string name="backup_pw_cancel_button_text">Отмена</string>
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
@@ -2139,10 +2139,10 @@
     <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
     <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
     <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
-    <string name="date_time_settings">ДАТА И ВРЕМЯ</string>
-    <string name="timezone_settings">ЧАСОВОЙ ПОЯС</string>
+    <string name="date_time_settings">Дата и время</string>
+    <string name="timezone_settings">Часовой пояс</string>
     <string name="security_privacy_settings_title">Конфиденциальность</string>
-    <string name="nearby_wifi">Доступные сети Wi-Fi</string>
+    <string name="nearby_wifi">Доступные сети</string>
     <string name="unlock_set_enter_system">Отключить локскрин</string>
     <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться</string>
     <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения вы будете должны ввести пароль</string>
