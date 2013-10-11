@@ -88,6 +88,9 @@
   <string name="bookmarks_management">Закладки</string>
   <string name="bookmarks_root_folder">Корень</string>
   <string name="bookmarks_search">Браузер</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Проведите вниз, чтобы закрыть</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Проведите вверх, чтобы закрыть</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
   <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
@@ -199,6 +202,10 @@
   <string name="folder_name">Имя папки</string>
   <string name="folder_name_too_long">Папка имеет слишком длинное имя</string>
   <string name="forward">Вперед</string>
+  <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_summary">Браузер будет использоваться в системе по умолчанию</string>
+  <string name="general_set_default_browser_title">Сделать по умолчанию</string>
   <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
   <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
   <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
@@ -555,6 +562,7 @@
   <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
   <string name="bookmarks_content_is_null">Пусто</string>
   <string name="clear_history_group">Очистить всю историю (%s)</string>
+  <string name="clear_search_history">Очистить историю</string>
   <string name="file_dir">Папка</string>
   <string name="file_name">Имя файла</string>
   <string name="file_picker">Обзор</string>

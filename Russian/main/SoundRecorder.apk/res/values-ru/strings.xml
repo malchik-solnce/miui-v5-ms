@@ -40,9 +40,11 @@
   <string name="notification_stopped">Запись остановлена</string>
   <string name="notification_warning">Мало места (меньше чем для %d минут)...</string>
   <string name="open_file_explorer">Открыть Файлы</string>
-  <string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать?</string>
+  <string name="overwrite_dialog_message">Запись с таким именем уже существует. Хотите перезаписать?</string>
   <string name="pause">пауза</string>
   <string name="play_record">проиграть</string>
+  <string name="preference_enable_earpiece_summary">Использовать динамик телефона для проигрывания</string>
+  <string name="preference_enable_earpiece_title">Динамик телефона</string>
   <string name="overwrite_dialog_title">%s уже существует. Вы хотите перезаписать?</string>
   <string name="prefDefault_recordType">audio/3gpp</string>
   <string name="prefDialogTitle_recordType">Пожалуйста, выберите тип файла</string>

@@ -285,7 +285,6 @@
 Настройки -> Система -> Кнопки"</string>
     <string name="fools_day">День дураков</string>
     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-    <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
     <string name="global_action_toggle_privacy_mode">Гость</string>
     <string name="grain_buds" />
@@ -407,7 +406,7 @@
     <string name="unknown">Неизвестный номер</string>
     <string name="unknown_caller">Неизвестный абонент</string>
     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитайте</string>
-    <string name="user_agreement2">Пользовательское соглашение</string>
+    <string name="user_agreement2">Пользовательское соглашение </string>
     <string name="user_agreement3"> и </string>
     <string name="user_agreement4">Политику конфиденциальности</string>
     <string name="user_agreement5">, Нажмите ОК, для соглашения с вышеуказанным, нажмите Отмена для выхода</string>
