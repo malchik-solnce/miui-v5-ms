@@ -358,7 +358,6 @@
 
 Нажмите \"ОК\", чтобы продолжить, или \"Отмена\", чтобы остаться на текущей странице."</string>
   <string name="js_dialog_title">Подтвердите действие для %s</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
   <string name="keyboard_password_character_no_headset">Точка</string>
   <string name="keyboardview_keycode_alt">Клавиша ALT</string>
@@ -1375,7 +1374,6 @@
   <string name="permlab_sdcardRead">тестовый доступ к защищенному хранилищу</string>
   <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK-код и новый PIN-код для подписки</string>
   <string name="silent_mode_ring">Звонок включен</string>
-  <string name="web_user_agent_target_content">"Мобильный "</string>
   <string name="permlab_route_media_output">Устройство вывода</string>
   <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
   <string name="permlab_setScreenCompatibility">установить совместимость экрана</string>
