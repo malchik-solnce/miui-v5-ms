@@ -320,9 +320,9 @@
   <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
   <string name="pref_autologin_progress_in_background">Вход на сайты Google с помощью аккаунта %s в фоне</string>
   <string name="pref_autologin_title">Автоматический вход в систему</string>
-  <string name="pref_clear_cache_for_exit">Очищать кеш при выходе</string>
-  <string name="pref_clear_history_for_exit">Очищать историю при выходе</string>
-  <string name="pref_confirm_for_exit">Спрашивать при выходе</string>
+  <string name="pref_clear_cache_for_exit">Очищать кеш</string>
+  <string name="pref_clear_history_for_exit">Очищать историю</string>
+  <string name="pref_confirm_for_exit">Подтверждать выход</string>
   <string name="pref_content_auto_light_mode">Автоматическая яркость</string>
   <string name="pref_content_autofit">Мобильный вид</string>
   <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
@@ -369,7 +369,7 @@
   <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
   <string name="pref_development_woff">Включить WOFF</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать браузер при закрытии последней вкладки</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_title">Выход по закр. вкладки</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">По посл. вкладке</string>
   <string name="pref_extras_reset_default">Сброс натсроек</string>
   <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
   <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
@@ -467,6 +467,9 @@
   <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
   <string name="progress_dialog_setting_wallpaper">Применение обоев...</string>
+  <string name="quicklink_user_define_webpage_title">Имя</string>
+  <string name="quicklink_user_define_webpage_url">Ссылка</string>
+  <string name="quicklinks_group_default_subtitle">Пусто</string>
   <string name="readmode_reach_last_page">Это последняя страница</string>
   <string name="readmode_recommend">Рекомендуемые</string>
   <string name="readmode_recommend_message">Вы прочитали все разделы этой книги. Пожалуйста, выберите другую.</string>
@@ -543,12 +546,14 @@
   <string name="ua_switcher_desktop">Полная версия</string>
   <string name="uploads_disabled">Добавление файлов отключено</string>
   <string name="url_copy_done">Ссылка скопирована</string>
-  <string name="url_hint">Поиск или введите URL</string>
+  <string name="url_hint">Введите адрес</string>
+  <string name="user_defined_webpage">Добавить страницу</string>
+  <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
   <string name="username">Имя</string>
   <string name="view_certificate">Просмотреть сертификат</string>
   <string name="website_settings_clear_all">Удалить все</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
-  <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
+  <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
   <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
   <string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
@@ -576,6 +581,8 @@
   <string name="open_history_most_visited_group_in_new_window">Открыть все самые посещаемые сайты</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Вы хотите очистить историю?</string>
   <string name="quicklinks_management">Полезные сайты</string>
+  <string name="quicklinks_most_visited">Добавить на главную</string>
+  <string name="quicklinks_most_visited_subtitle">Добавить Ваш сайт на главный экран</string>
   <string name="readmode_already_add_to_bookshelf">Добавлено в библиотеку</string>
   <string name="readmode_battery">Батарея </string>
   <string name="readmode_login">Войти</string>

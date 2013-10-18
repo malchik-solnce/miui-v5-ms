@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_calllog_detail">Журнал</string>
     <string name="resource_app_name">Компоненты</string>
     <string name="resource_price_free">Беспл.</string>
     <string name="resource_price_unit">MI кредит</string>
@@ -197,6 +198,8 @@
     <string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Контакты на SIM-карте</string>
+	<string name="sim_capacity">Объем SIM-карты</string>
+    <string name="sim_capacity_content" formatted="false">Всего %d, использовано %d</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения (если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов)</string>
     <string name="noContactsHelpTextForCreateShortcut">Контакты для отображения отсутствуют</string>
     <string name="noContactsHelpText">"Нет контактов для отображения.
@@ -695,7 +698,7 @@
     <string name="unknown_contact_name">Неизвестный контакт</string>
     <string name="contactDetailCalllog">Журнал</string>
     <string name="add_blacklist">В черный список</string>
-    <string name="empty_divider_title">Вы можете</string>
+    <string name="empty_divider_title">Добавьте контакты через</string>
     <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты Xiaomi, Google, Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
     <string name="recent_contacts_label">Недавние</string>
@@ -749,8 +752,19 @@
     <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
 	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
-    <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите контакты и попробуйте еще раз.</string>
+	<string name="sim_contact_existing">Этот контакт уже существует</string>
+    <string name="sim_contact_number_missing">Контакт не содержит номера</string>
+    <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Очистите контакты и попробуйте еще раз.</string>
     <string name="sim_contacts">Контакты на SIM-карте</string>
+    <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
+    <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
+    <string name="sim_error_email_too_long">E-mail слишком длинный</string>
+    <string name="sim_error_generic_failure">Ошибка</string>
+    <string name="sim_error_not_ready">Загрузка контактов SIM-карты. Пожалуйста, подождите…</string>
+    <string name="sim_error_number_too_long">Номер слишком длинный</string>
+    <string name="sim_error_password_error">Ошибка пароля</string>
+    <string name="sim_error_storage_full">Хранилище заполнено</string>
+    <string name="sim_error_text_too_long">Имя слишком длинное</string>
     <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
     <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
@@ -767,6 +781,7 @@
     <string name="select_show_contacts">ОТОБРАЖЕНИЕ КОНТАКТОВ</string>
     <string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
     <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
+	<string name="pref_key_sim_manage">Управление SIM</string>
     <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
     <string name="pref_key_photo">Фотографии</string>
     <string name="pref_key_photo_word_title">Фото для контактов</string>
@@ -918,6 +933,7 @@
     <string name="device_version_header_bluetooth">включите bluetooth</string>
     <string name="scanning">Поиск устройств…</string>
     <string name="select_device">выберите устройство для подключения</string>
+	<string name="select_groups">Выбор групп</string>
     <string name="none_paired">Нет сопряженных устройств</string>
     <string name="none_found">Устройства не найдены</string>
     <string name="device_pairing_dialog_title">Сопряжение устройства</string>

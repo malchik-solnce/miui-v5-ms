@@ -68,15 +68,15 @@
     <string name="pinUnlocked">SIM-карта разблокирована</string>
     <string name="enterNewPin">Новый PIN SIM-карты</string>
     <string name="verifyNewPin">Для подтверждения введите новый PIN SIM-карты</string>
-    <string name="verifyFailed">Введенные коды PIN SIM-карты не совпадают. Повторите попытку</string>
+    <string name="verifyFailed">Введенные коды PIN SIM-карты не совпадают. Повторите попытку.</string>
     <string name="enterPuk">Введите код PUK, чтобы разблокировать SIM-карту</string>
     <string name="badPuk">Неверный код PUK</string>
     <string name="buttonTxtContinue">Продолжить</string>
-    <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
+    <string name="puk_unlocked">SIM-карта разблокирована. Разблокировка телефона…</string>
     <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
     <string name="sim_ndp_unlock_text">Разблокировать</string>
     <string name="sim_ndp_dismiss_text">Закрыть</string>
-    <string name="requesting_unlock">Запрос разблокировки сети...</string>
+    <string name="requesting_unlock">Запрос разблокировки сети…</string>
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
     <string name="unlock_success">Разблокировка сети успешно завершена</string>
     <string name="imei">IMEI</string>
@@ -136,8 +136,8 @@
     <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
     <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
-	<string name="enable_antispam_strange_summary">Отключать первый звонок с неизвестного номера</string>
-    <string name="enable_antispam_strange_title">Анти-незнакомый звонок</string>
+	<string name="enable_antispam_strange_summary">Отклонять первый звонок с неизвестного номера</string>
+    <string name="enable_antispam_strange_title">Незнакомый звонок</string>
     <string name="disable">Отключить</string>
     <string name="change_num">Обновить</string>
     <string name="vm_save_number">Сохранить номер голосовой почты</string>
@@ -162,10 +162,10 @@
     <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
     <string name="registration_done">Регистрация в сети завершена</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
-    <string name="sum_search_networks">Поиск всех доступных сетей...</string>
+    <string name="sum_search_networks">Поиск всех доступных сетей…</string>
     <string name="select_automatically">Автоматически</string>
     <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
-    <string name="register_automatically">Автоматическая регистрация...</string>
+    <string name="register_automatically">Автоматическая регистрация…</string>
     <string name="preferred_network_mode_title">Режим сети</string>
     <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
     <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
@@ -202,7 +202,7 @@
 Частота данных уменьшена до %2$d кБ/с"</string>
     <string name="tone_miui">Звук клавиш</string>
     <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
-    <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+    <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
     <string name="cdma_cell_broadcast_sms">Широковещательные SMS-службы</string>
     <string name="cell_broadcast_sms">Широковещательные SMS-службы</string>
     <string name="enable_disable_cell_bc_sms">Широковещательные SMS-службы</string>
@@ -321,10 +321,10 @@
     <string name="number">Номер</string>
     <string name="save">Сохранить</string>
     <string name="add_fdn_contact">Добавить номер ограниченного набора</string>
-    <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
+    <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора…</string>
     <string name="fdn_contact_added">Номер ограниченного набора добавлен</string>
     <string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
-    <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
+    <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора…</string>
     <string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
     <string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
     <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
@@ -341,17 +341,17 @@
     <string name="oldPinLabel">Прежний PIN</string>
     <string name="newPinLabel">Новый PIN</string>
     <string name="confirmPinLabel">Подтвердите новый PIN</string>
-    <string name="badPin">Введен неверный прежний PIN. Повторите попытку</string>
-    <string name="mismatchPin">Введенные коды PIN не совпадают. Повторите попытку</string>
+    <string name="badPin">Введен неверный прежний PIN. Повторите попытку.</string>
+    <string name="mismatchPin">Введенные коды PIN не совпадают. Повторите попытку.</string>
     <string name="invalidPin">Введите PIN, содержащий от 4 до 8 цифр</string>
     <string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
     <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
-    <string name="enable_in_progress">Подождите...</string>
+    <string name="enable_in_progress">Подождите…</string>
     <string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
     <string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
     <string name="pin_failed">Введен неверный PIN</string>
     <string name="pin_changed">PIN SIM-карты успешно изменен</string>
-    <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
+    <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="oldPin2Label">Прежний PIN2</string>
     <string name="newPin2Label">Новый PIN2</string>
@@ -372,12 +372,12 @@
     <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
     <string name="fake_phone_activity_placeCall_text">Поддельный входящий звонок</string>
     <string name="sim_missing_continueView_text">Продолжить без SIM-карты</string>
-    <string name="sim_missing_msg_text">SIM-карта отсутствует. Установите SIM-карту в телефон</string>
+    <string name="sim_missing_msg_text">SIM-карта отсутствует. Вставьте SIM-карту.</string>
     <string name="sim_unlock_dismiss_text">Закрыть</string>
     <string name="sim_unlock_unlock_text">Разблокировать</string>
     <string name="sim_unlock_status_text">Проверка PIN…</string>
     <string name="voicemail_settings_number_label">Номер голосовой почты</string>
-    <string name="card_title_dialing">Набор номера...</string>
+    <string name="card_title_dialing">Набор номера…</string>
     <string name="card_title_redialing">Повтор</string>
     <string name="card_title_conf_call">Конференц-вызов</string>
     <string name="card_title_incoming_call">Входящий вызов</string>
@@ -405,9 +405,9 @@
     <string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
     <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
     <string name="incall_error_call_failed">Вызов не осуществляется</string>
-    <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+    <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
 	<string name="information">Информация</string>
-    <string name="incall_status_dialed_fc">Запуск последовательности кодов функций...</string>
+    <string name="incall_status_dialed_fc">Запуск последовательности кодов функций…</string>
     <string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
     <string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
     <string name="incall_error_supp_service_separate">Не удалось разделить вызов</string>
@@ -418,7 +418,7 @@
     <string name="incall_call_type_label_sip">Интернет-вызов</string>
     <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
     <string name="emergency_enable_radio_dialog_message">Включение радио…</string>
-    <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение...</string>
+    <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение…</string>
     <string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
     <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
     <string name="dial_pad_touch_tone_default_miui">Стандартный</string>
@@ -458,7 +458,7 @@
 После нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона"</string>
     <string name="ota_touch_activate_new">Нажмите “Активировать”, чтобы позвонить на специальный номер для активации телефона в сети оператора мобильной связи. После этого вы сможете совершать вызовы и подключаться к мобильным сетям передачи данных.</string>
     <string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
-    <string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
+    <string name="ota_skip_activation_dialog_message">Если Вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
     <string name="ota_skip_activation_dialog_skip_label">Пропустить</string>
     <string name="ota_skip_activation_dialog_continue_label">Активировать</string>
     <string name="ota_activate">Активировать</string>
@@ -471,9 +471,9 @@
     <string name="ota_failure">Сбой при программировании</string>
     <string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут</string>
     <string name="ota_unsuccessful">"Телефон не был активирован. 
-Возможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). 
+Возможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). 
 
-Повторите попытку или свяжитесь со службой поддержки"</string>
+Повторите попытку или свяжитесь со службой поддержки."</string>
     <string name="ota_spc_failure">ПРЕВЫШЕНИЕ ЧИСЛА ОШИБОК SPC</string>
     <string name="ota_call_end">Назад</string>
     <string name="ota_try_again">Повторите попытку</string>
@@ -511,8 +511,8 @@
     <string name="contactPhoto">фотография контакта</string>
     <string name="goPrivate">приватная конференция</string>
     <string name="selectContact">выбрать контакт</string>
-    <string name="sip_settings">Настройки интернет-телефонии</string>
-    <string name="sip_accounts">Аккаунты интернет-телефонии</string>
+    <string name="sip_settings">Настройки</string>
+    <string name="sip_accounts">Аккаунты</string>
     <string name="sip_accounts_title">Аккаунты</string>
     <string name="sip_accounts_summary">Управление аккаунтами и состоянием интернет-вызовов (SIP)</string>
     <string name="sip_receive_calls">Принимать входящие</string>
@@ -532,14 +532,14 @@
     <string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт интернет-телефонии, который используется по умолчанию при выполнении вызовов. Для этого выберите другой аккаунт в настройках интернет-вызовов.</string>
     <string name="pstn_phone">Вызов по сотовой сети</string>
     <string name="internet_phone">Интернет-вызов</string>
-    <string name="no_sip_account_found_title">Нет аккаунтов для интернет-вызовов</string>
-    <string name="no_sip_account_found">Нет аккаунтов для интернет-вызовов. Создать аккаунт?</string>
+    <string name="no_sip_account_found_title">Нет аккаунтов</string>
+    <string name="no_sip_account_found">Нет аккаунтов. Создать новый?</string>
     <string name="sip_menu_add">Добавить</string>
     <string name="add_sip_account">Добавить аккаунт</string>
     <string name="remove_sip_account">Удалить аккаунт</string>
     <string name="sip_account_list">SIP-аккаунты</string>
-    <string name="saving_account">Сохранение аккаунта...</string>
-    <string name="removing_account">Удаление аккаунта...</string>
+    <string name="saving_account">Сохранение аккаунта…</string>
+    <string name="removing_account">Удаление аккаунта…</string>
     <string name="sip_menu_save">Сохранить</string>
     <string name="sip_menu_discard">Отменить</string>
     <string name="alert_dialog_close">Закройте профиль</string>
@@ -550,11 +550,11 @@
     <string name="primary_account_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
     <string name="advanced_settings_title">Расширенные настройки</string>
     <string name="primary_account_summary_with">Основной аккаунт - %s</string>
-    <string name="registration_status_checking_status">Проверка состояния...</string>
-    <string name="registration_status_registering">Регистрация...</string>
-    <string name="registration_status_still_trying">Пожалуйста, подождите...</string>
+    <string name="registration_status_checking_status">Проверка состояния…</string>
+    <string name="registration_status_registering">Регистрация…</string>
+    <string name="registration_status_still_trying">Пожалуйста, подождите…</string>
     <string name="registration_status_not_receiving">Вызовы не принимаются</string>
-    <string name="registration_status_no_data">Регистрация аккаунта прервана – отсутствует подключение к Интернету</string>
+    <string name="registration_status_no_data">Регистрация аккаунта прервана – отсутствует подключение к интернету</string>
     <string name="registration_status_no_wifi_data">Регистрация прервана – отсутствует подключение Wi-Fi</string>
     <string name="registration_status_not_running">Не удалось зарегистрировать аккаунт</string>
     <string name="registration_status_done">Вызовы принимаются</string>
@@ -589,9 +589,9 @@
     <string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
     <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
     <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
-    <string name="no_internet_available_title">Подключение к Интернету отсутствует</string>
+    <string name="no_internet_available_title">Подключение к интернету отсутствует</string>
     <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
-    <string name="no_internet_available">Перед звонком через Интернет проверьте подключение</string>
+    <string name="no_internet_available">Перед звонком через интернет проверьте подключение</string>
     <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
     <string name="no_voip">Интернет-вызов не поддерживается</string>
     <string name="sip_system_decide">Автоматически</string>
@@ -613,10 +613,10 @@
     <string name="auth_username">AuthUserName</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
     <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
-    <string name="respond_via_sms_canned_response_2">Я сейчас вам перезвоню</string>
-    <string name="respond_via_sms_canned_response_3">Я перезвоню вам позже</string>
-    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже</string>
-    <string name="respond_via_sms_custom_message">Собственное сообщение...</string>
+    <string name="respond_via_sms_canned_response_2">Я сейчас Вам перезвоню</string>
+    <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже</string>
+    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
+    <string name="respond_via_sms_custom_message">Собственное сообщение</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
     <string name="respond_via_sms_setting_summary">Содержание SMS при отклонении входящего вызова</string>
@@ -688,7 +688,7 @@
     <string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номера?</string>
     <string name="auto_ip_exception_summary_miui">%d всего</string>
-    <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+    <string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
     <string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
     <string name="auto_record_call_summary_miui">Запись разговоров после соединения и сохранение на SD-карту</string>
     <string name="auto_record_call_title_miui">Автоматическая запись</string>
@@ -867,7 +867,7 @@
     <string name="networks_title_miui">Сетевые операторы</string>
     <string name="new_pin2_hint_miui">Новый PIN2</string>
     <string name="new_pin_hint_miui">Новый PIN-код</string>
-    <string name="not_connected_miui">Не подключено</string>
+    <string name="not_connected_miui">не подключено</string>
     <string name="notification_ongoing_calling_format_miui">Вызываю</string>
     <string name="number_format_error_message_miui">%s поддерживает только номера</string>
     <string name="number_type_jituan_miui">Номер группы</string>
@@ -905,11 +905,11 @@
     <string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
     <string name="pin_lock_warning_miui">"
 Телефон будет заблокирован при неудачной попытке!"</string>
-    <string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
-    <string name="pin_progress_change_pin_miui">Изменение PIN-кода...</string>
-    <string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки...</string>
-    <string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки...</string>
-    <string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
+    <string name="pin_progress_change_pin2_miui">Изменение PIN2…</string>
+    <string name="pin_progress_change_pin_miui">Изменение PIN-кода…</string>
+    <string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки…</string>
+    <string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки…</string>
+    <string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты…</string>
     <string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
     <string name="pref_custom_location_title_miui">Настройка приставок</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
@@ -918,9 +918,9 @@
     <string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
     <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
     <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G. 
-Нажмите OK для продолжения"</string>
+Нажмите OK для продолжения."</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
-    <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
+    <string name="preferred_network_type_gsm_umts_miui">Тип сети</string>
     <string name="preferred_network_type_title_miui">Выбор типа сети</string>
     <string name="puk_lock_warning_miui">"
 Обратите внимание, что SIM карта будет заблокирована навсегда при неудачной попытке!"</string>
@@ -930,7 +930,7 @@
     <string name="reject_via_sms_title_miui">Отклонить с СМС</string>
     <string name="separate_from_conference_miui">Индивидуальный вызов</string>
     <string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
-    <string name="set_smsc_address_timeout_miui">Время истекло... Попробуйте позже.</string>
+    <string name="set_smsc_address_timeout_miui">Время истекло… Попробуйте позже.</string>
     <string name="set_smsc_address_title_miui">Номер SMS-центра</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
@@ -976,7 +976,7 @@
     <string name="voice_quality_ui_values_normal_miui">Нормальный</string>
     <string name="sim_contacts_title_miui">Контакты на SIM-карте</string>
     <string name="delete_sim_entry_miui">Удалить</string>
-    <string name="confirm_delete_sim_entry_miui">Удалить выбранные контактов с SIM карты (%d)?</string>
+    <string name="confirm_delete_sim_entry_miui">Удалить выбранные контактов с SIM-карты (%d)?</string>
 	<string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введите номер без кода страны</string>
     <string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
@@ -989,7 +989,7 @@
     <string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Позвоню позже.</string>
     <string name="respond_via_sms_canned_response_4_miui">Не могу говорить по телефону прямо сейчас. В чем дело?</string>
     <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
-    <string name="call_waiting_tone_stop_summary">(Кнопки громкости для отключения вручную)</string>
+    <string name="call_waiting_tone_stop_summary">(кнопки громкости для отключения вручную)</string>
     <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
     <string name="call_waiting_tone_twice_only_miui">Воспроизвести тон дважды</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизвести тон дважды и провибрировать</string>
@@ -1006,7 +1006,7 @@
     <string name="register_network_failed_message_miui">Не удается зарегистрироваться в выбранной сети, выбрать предпочтительную сеть автоматически?</string>
     <string name="next_miui">Далее</string>
 	<string name="turn_off_miui">отключено</string>
-    <string name="missed_call_notify_times_title_miui">Напом. о пропущенных вызовах</string>
+    <string name="missed_call_notify_times_title_miui">Уведом. о пропущенных</string>
     <string name="missed_call_notify_times_summary_miui">По умолчанию повтор каждые 5 минут</string>
     <string name="missed_call_notify_once">Один раз</string>
 	<string name="missed_call_notify_once_miui">Один раз</string>
@@ -1070,6 +1070,7 @@
     <string name="set_sub_activate_failed">Активировать не удалось</string>
     <string name="sum_loading_settings">Загрузка настроек…</string>
     <string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
+	<string name="suspect_info">Не передавайте пароли от банковских карт</string>
     <string name="title_data_settings">Настройки данных</string>
     <string name="vibrate_on_ring_title">Вибрация при звонке</string>
     <string name="voicemail_notification_ringtone_title">Мелодия</string>

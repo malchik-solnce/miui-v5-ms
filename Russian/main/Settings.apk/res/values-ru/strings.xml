@@ -1209,6 +1209,8 @@
     <string name="input_methods_settings_label_format">Настройки %1$s</string>
     <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
+	<string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
+	<string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
     <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
     <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
     <string name="development_settings_title">Для разработчиков</string>
@@ -2055,7 +2057,7 @@
     <string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании MIUI ROM только при наличии Wi-Fi-соединеия</string>
     <string name="device_miui_version">MIUI:</string>
     <string name="device_cpu">Процессор:</string>
-    <string name="device_memory">RAM</string>
+    <string name="device_memory">RAM:</string>
     <string name="device_internal_memory">Память:</string>
     <string name="device_sd_memory">SD-карта:</string>
     <string name="device_cpu2_info">"2 ядра "</string>
@@ -2411,6 +2413,7 @@
     <string name="accessibility_enable">Включить доступ</string>
     <string name="development_enable">Режим разработчика</string>
     <string name="device_name">Имя устройства</string>
+	<string name="device_name_input_error">Не удалось сохранить имя устройства. Введите еще ​​раз.</string>
     <string name="device_edit_title">Смена имени</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_usage_point">Отображаемое имя Вашего устройства при создании различных точек доступа</string>

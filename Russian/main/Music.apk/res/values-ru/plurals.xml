@@ -68,6 +68,10 @@
         <item quantity="other">%d треков удалено из плейлиста</item>
         <item quantity="one">1 трек удален из плейлиста</item>
     </plurals>
+	<plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Треков удалено из плейлиста: %d</item>
+        <item quantity="one">Треков удалено из плейлиста: 1</item>
+    </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" категорий"</item>
         <item quantity="one">" категория"</item>

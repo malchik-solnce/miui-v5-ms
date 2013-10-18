@@ -2,12 +2,14 @@
 <resources>
     <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
     <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
+	<string name="pref_title_miui_card">Отправить через карту MIUI</string>
     <string name="confirm_delete_all_SIM_messages">Все сообщения с SIM-карты будут удалены</string>
     <string name="confirm_delete_SIM_message">Сообщение будет удалено с SIM-карты</string>
     <string name="sim_manage_messages_title">Сообщения на SIM-карте</string>
     <string name="sim_empty">На SIM-карте нет сообщений</string>
     <string name="sim_full_title">SIM-карта заполнена</string>
     <string name="save_to_sim">Сохранить на SIM-карту</string>
+	<string name="save_to_sim_failed">Не удалось сохранить</string>
     <string name="app_label">Сообщения</string>
     <string name="new_message">Новое сообщение</string>
     <string name="menu_compose_new">Новое сообщение</string>
@@ -35,6 +37,7 @@
     <string name="move_down">Переместить вниз</string>
     <string name="remove_slide">Удалить слайд</string>
     <string name="add_slide">Добавить слайд</string>
+	<string name="add_slide_before">Добавить слайд (до)</string>
     <string name="add_slide_hint">Нажмите, чтобы добавить</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
     <string name="slide_show_part">Часть %1$s из %2$s</string>
@@ -63,7 +66,9 @@
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера</string>
 	<string name="restore_all_button_msg">Восстановить все</string>
-	<string name="restore_blocked_message">Восстановить сообщение</string>
+	<string name="restore_blocked_message">Восстановить</string>
+    <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>
+    <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
     <string name="forward_prefix">"От: "</string>
     <string name="discard_message">Отмена</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель</string>
@@ -92,6 +97,7 @@
     <string name="duration_selector_title">"Продолжительность показа слайда "</string>
     <string name="layout_selector_title">"Макет слайд-шоу "</string>
     <string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
+	<string name="type_vcard">vCard</string>
     <string name="duration_not_a_number">Должно быть указано числовое значение</string>
     <string name="duration_zero">Значение должно быть больше нуля</string>
     <string name="secs">с.</string>
@@ -101,6 +107,7 @@
     <string name="no">Отмена</string>
 	<string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
     <string name="set">Сохранить</string>
+	<string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
     <string name="play">Воспроизвести</string>
     <string name="edit">Изменить</string>
     <string name="try_to_send">Попытаться отправить</string>
@@ -221,6 +228,7 @@
     <string name="save_ringtone">Сохранить как мелодию звонка</string>
     <string name="saved_ringtone">Рингтон сохранен</string>
     <string name="saved_ringtone_fail">Рингтон не сохранен</string>
+	<string name="saved_to_sim">Сохранено</string>
     <string name="select_link_title">Выбор действия</string>
     <string name="slide_number">Слайд %s</string>
     <string name="delivery_report_activity">Отчет о доставке</string>
@@ -264,6 +272,7 @@
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Загрузка...</string>
 	<string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
+	<string name="forward_from">От:</string>
     <string name="refresh">Обновить</string>
     <string name="refresh_failed">Обновление не выполнено</string>
     <string name="database_corruption">База данных повреждена, пересоздание базы данных</string>
@@ -288,6 +297,7 @@
     <string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
     <string name="context_menu_new_contact">Новый контакт</string>
     <string name="context_menu_add_contact">Добавить в контакты</string>
+	<string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
     <string name="context_menu_view_contact">Просмотр контактов</string>
     <string name="context_menu_contact">Контакт:%1$s</string>
     <string name="pref_sms_theme_title">НАСТРОЙКИ ВИДА</string>
@@ -312,13 +322,16 @@
     <string name="pref_title_wake_up_screen">Включение экрана</string>
     <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
+	<string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
     <string name="pref_other_title">ДРУГИЕ НАСТРОЙКИ</string>
     <string name="pref_system_title">СИСТЕМНЫЕ НАСТРОЙКИ</string>
     <string name="pref_advanced_settings_title">Дополнительные</string>
     <string name="pref_edit_smsc_address">Номер SMS центра</string>
+	<string name="pref_forward_title">Вперед</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
+	<string name="pref_title_card_format">Формат карты</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
     <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
     <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
@@ -350,6 +363,7 @@
     <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
     <string name="add_timing">Время</string>
     <string name="pref_title_system_mms_priority">Приоритет для MMS</string>
+	<string name="pref_title_vcard">Отправить через vCard</string>
     <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать MMS первым</string>
     <string name="pref_summary_off_system_mms_priority">Другие приложения будут получать MMS первыми</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>
@@ -399,6 +413,9 @@
     <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s
 Вы хотите загрузить их в свой текущий аккаунт %2$s?"</string>
     <string name="show_all_messages">Показать все сообщения</string>
+	<string name="sim_card1">SIM Карта 1</string>
+    <string name="sim_card2">SIM Карта 2</string>
+    <string name="sim_card_cloud">%s (облачное сообщение)</string>
     <string name="loading_all_messages">Загрузка всех сообщений…</string>
     <string name="mx_online">В сети</string>
     <string name="mx_offline">Не в сети</string>

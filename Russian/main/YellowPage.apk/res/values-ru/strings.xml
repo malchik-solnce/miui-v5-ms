@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_smart_antispam_summary">О идентификации номеров</string>
+	<string name="about_telephone_fraud">Будьте в курсе телефонного мошенничества</string>
     <string name="app_label">Желтые страницы</string>
 	<string name="all_numbers">Все номера</string>
     <string name="phone_info_divider">" ｜ "</string>
@@ -16,6 +18,7 @@
     <string name="yellow_page_call_log_title">Журнал вызовов</string>
     <string name="yellow_page_website">Официальный сайт</string>
     <string name="menu_copy_text">Копировать в буфер обмена</string>
+	<string name="menu_correct_yellow_page">Корректировать</string>
     <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="provider_tag">Источник данных</string>
@@ -43,6 +46,11 @@
     <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s RMB！
 Всего: %3$s RMB."</string>
     <string name="recharge_user_confirm_title">Подтвердить</string>
+	<string name="remind_another_time">Не вводите этот номер</string>
+	<string name="remind_user_confirm">OK</string>
+    <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
+Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
+    <string name="remind_user_suspect_number_title">Остерегайтесь мошенников</string>
     <string name="scan">Сканировать</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
