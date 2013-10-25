@@ -644,7 +644,7 @@
     <string name="volume_media_mute">Отключить музыку и медиа</string>
     <string name="volume_notification_mute">Отключить уведомления</string>
     <string name="volume_alarm_mute">Отключить будильники</string>
-    <string name="vibrate_when_ringing_title">Вибро и звонок</string>
+    <string name="vibrate_when_ringing_title">В режиме \"Звонок\"</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
