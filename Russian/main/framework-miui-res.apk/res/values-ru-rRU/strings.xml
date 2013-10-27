@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Включить</string>
     <string name="activate_fail_notification_title">Активируйте повторно услугу Xiaomi синхронизации</string>
-    <string name="activating">Активация...</string>
+    <string name="activating">Активация…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Использовать по умолчанию</string>
     <string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в свой аккаунт</string>
@@ -267,11 +267,11 @@
     <string name="experimental_validate">Подтверждение</string>
     <string name="experimental_validate_fail">Подтверждение не удалось. Повторите еще раз.</string>
     <string name="experimental_validate_password">Пароль</string>
-    <string name="experimental_validate_progress">Проверка, подождтите...</string>
+    <string name="experimental_validate_progress">Проверка, подождтите…</string>
     <string name="experimental_validate_thanks">Спасибо!</string>
     <string name="experimental_validate_username">Логин Xiaomi</string>
     <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
-    <string name="find_device_check_sim">Проверка SIM-карты...</string>
+    <string name="find_device_check_sim">Проверка SIM-карты…</string>
     <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано.
 Вставьте SIM-карту или введите пароль для аккаунта Xiaomi."</string>
     <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано.
@@ -367,7 +367,7 @@
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="private_num">Скрытый номер</string>
     <string name="reboot_confirm">Перезагрузить устройство?</string>
-    <string name="reboot_progress">Перезагрузка...</string>
+    <string name="reboot_progress">Перезагрузка…</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
     <string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>

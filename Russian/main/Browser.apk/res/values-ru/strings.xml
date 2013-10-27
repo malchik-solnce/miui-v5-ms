@@ -121,7 +121,7 @@
   <string name="contextmenu_add_contact">Добавить контакт</string>
   <string name="contextmenu_copy">Копировать</string>
   <string name="contextmenu_copylink">Копировать URL ссылки</string>
-  <string name="contextmenu_dial_dot">Набор номера...</string>
+  <string name="contextmenu_dial_dot">Набор номера…</string>
   <string name="contextmenu_download_image">Сохранить изображение</string>
   <string name="contextmenu_download_image_as">Сохранить изображение как</string>
   <string name="contextmenu_map">Карта</string>
@@ -466,7 +466,7 @@
   <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
   <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
-  <string name="progress_dialog_setting_wallpaper">Применение обоев...</string>
+  <string name="progress_dialog_setting_wallpaper">Применение обоев…</string>
   <string name="quicklink_user_define_webpage_title">Имя</string>
   <string name="quicklink_user_define_webpage_url">Ссылка</string>
   <string name="quicklinks_group_default_subtitle">Пусто</string>
@@ -529,7 +529,7 @@
   <string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
   <string name="stop">Стоп</string>
   <string name="stop_loading">Стоп</string>
-  <string name="stopping">Остановка...</string>
+  <string name="stopping">Остановка…</string>
   <string name="tab_bookmarks">Закладки</string>
   <string name="tab_closed">Вкладка закрыта</string>
   <string name="tab_history">История</string>
@@ -588,7 +588,7 @@
   <string name="readmode_login">Войти</string>
   <string name="readmode_login_message">Для продолжения чтения необходимо войти в аккаунт</string>
   <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>
-  <string name="readmode_page_loading">Входим, подождите...</string>
+  <string name="readmode_page_loading">Входим, подождите…</string>
   <string name="readmode_pay">Подписаться</string>
   <string name="readmode_pay_message">Для продолжения чтения требуется подписка</string>
   <string name="save_dialog_title">Сохранить</string>

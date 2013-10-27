@@ -48,8 +48,8 @@
     <string name="delete_folder">Вы уверены, что хотите удалить?</string>
     <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
     <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
-    <string name="delete_files">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
-    <string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
+    <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
+    <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="sd_card_size">SD-карта: %1$s</string>
     <string name="sd_card_available">Свободно: %1$s</string>
@@ -96,7 +96,7 @@
     <string name="operation_download_link">Создание ссылки для скачивания</string>
     <string name="ui_filechange_btn_download">Загрузка файла</string>
     <string name="show_message">Файл не может быть открыт без загрузки. Загрузить?</string>
-	<string name="sign_description">Подключение...</string>
+	<string name="sign_description">Подключение…</string>
     <string name="signin_error">Нет сети или сеть нестабильна. Повторите еще раз.</string>
     <string name="signin_success">"Вы успешно вошли!
 Получено %1$s."</string>
@@ -232,8 +232,8 @@
     <string name="bind_account_summary">Если Вы уже имеете аккаунт KuaiPan, то можно связать его с аккаунтом Xiaomi</string>
     <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
     <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
-    <string name="scanning_on_going">Сканирование...</string>
-    <string name="scanning" formatted="false">Сканирование приложения %d из %d …</string>
+    <string name="scanning_on_going">Сканирование…</string>
+    <string name="scanning" formatted="false">Сканирование приложения %d из %d…</string>
     <string name="sys_size_title">Общая память</string>
     <string name="sys_size">Всего памяти: %1$s</string>
     <string name="application_size_label">Приложение</string>
@@ -243,7 +243,7 @@
     <string name="version_text">версия %1$s</string>
     <string name="uninstall_app_data">Удалить приложение и данные</string>
     <string name="start_cleanup">Очистить</string>
-    <string name="header_text_scanning">Поиск мусора...</string>
+    <string name="header_text_scanning">Поиск мусора…</string>
     <string name="header_text_scanned">можно очистить</string>
     <string name="header_text_cleaning">мусора осталось</string>
     <string name="header_text_cleaned">мусора очищено</string>
@@ -304,7 +304,7 @@
 	<string name="unmount_inform_text">USB-накопитель будет отключен</string>
 	<string name="cancel_with_count_down">Отмена (%d)</string>
     <string name="cleaned">Очищено</string>
-    <string name="cleaning">Очистка...</string>
+    <string name="cleaning">Очистка…</string>
     <string name="cleanup_stopped">Очистка остановлена</string>
 	<string name="count_down_time">Начало через %d секунд</string>
 	<string name="file_cleanup">Очистка файлов</string>

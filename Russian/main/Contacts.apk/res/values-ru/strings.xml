@@ -5,7 +5,7 @@
     <string name="resource_price_free">Беспл.</string>
     <string name="resource_price_unit">MI</string>
 	<string name="resource_ranking">Топ</string>
-    <string name="resource_ranking_free">Беспл.</string>
+    <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
     <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
@@ -40,10 +40,10 @@
     <string name="resource_selected">Лучшее</string>
     <string name="resource_server_alert_dialog_title">Технические неполадки</string>
     <string name="resource_buy">Купить</string>
-    <string name="resource_importing">Импорт...</string>
+    <string name="resource_importing">Импорт…</string>
     <string name="online_no_network">Не удается подключиться к сети</string>
     <string name="online_search_hint">Введите запрос</string>
-    <string name="loading">Загрузка...</string>
+    <string name="loading">Загрузка…</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить превью</string>
 	<string name="duplicate_group_name">Группа уже существует</string>
@@ -447,7 +447,7 @@
     <string name="dialog_new_group_account">Создание группы в аккаунте</string>
     <string name="menu_sync_remove">Удалить группу синхронизации</string>
     <string name="dialog_sync_add">Добавить группу синхронизации</string>
-    <string name="display_more_groups">Другие группы...</string>
+    <string name="display_more_groups">Другие группы…</string>
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_warn_remove_ungrouped">Удаление \"%s\" из синхронизации так же удалит все контакты, не добавленные в группы</string>
@@ -795,7 +795,7 @@
     <string name="display_only_phones">Только с тел. номером</string>
     <string name="display_sim_contacts">Пок. контакты SIM-карты</string>
     <string name="preference_remove_duplicate">Слияние дубликатов</string>
-    <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
+    <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите…</string>
     <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
     <string name="merge_contact_message">Похожих контактов: %1$d</string>
     <string name="delete_duplicate">Объединить</string>
@@ -881,7 +881,7 @@
     <string name="option_edit_contact">Изменить</string>
     <string name="option_delete_contact">Удалить контакт</string>
     <string name="option_send_to_desktop">Отправить на рабочий стол</string>
-    <string name="option_send_to_others">Отправить...</string>
+    <string name="option_send_to_others">Отправить…</string>
     <string name="option_not_star">Убрать из избранных</string>
     <string name="option_not_in_group">Удалить</string>
     <string name="option_view_group">Посмотреть</string>

@@ -93,7 +93,7 @@
     <string name="send_to">Отправить на:</string>
     <string name="send_cancel_tip">Остановить передачу?</string>
     <string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
-	<string name="send_file_to_friends_by_net">Отправить через интернет</string>
+	<string name="send_file_to_friends_by_net">Отправка через интернет</string>
     <string name="send_finish_tip">Отправлено файлов: %1$d на</string>
 	<string name="send_history_deleted">История загрузок удалена</string>
 	<string name="send_nfc">Отправить через NFC</string>
@@ -153,7 +153,7 @@
     <string name="receive_canceled">Отменено</string>
     <string name="sdcard_unavailable">SD-карта недоступна</string>
 	<string name="select_all">Выбрать все</string>
-    <string name="select_file_to_share">Выберите файлы</string>
+    <string name="select_file_to_share">Выберите файл</string>
     <string name="receive_cannot_created_file">Ошибка создания файла</string>
     <string name="error_transmit">Ошибка обмена</string>
     <string name="error_not_selected">Файл не выбран</string>
@@ -189,7 +189,7 @@
     <string name="settings_photo_camera">Снять фото</string>
     <string name="settings_photo_pick">Выбрать из галереи</string>
     <string name="settings_connect">Настройки сети</string>
-    <string name="settings_auto_pair_sender_title">Авто сопряжение аудио</string>
+    <string name="settings_auto_pair_sender_title">Автосопряжение аудио</string>
     <string name="settings_auto_pair_sender_summary">Автоматическое сопряжение при передаче аудио</string>
     <string name="settings_receive_confirm_title">Подтверждение приема</string>
     <string name="settings_receive_confirm_summary">Требовать подтверждения при приеме файлов</string>
@@ -200,7 +200,7 @@
 	<string name="trans_complete">Передача завершена!</string>
     <string name="trans_failed">Передача не удалась!</string>
     <string name="trans_paused">Передеча приостановлена</string>
-    <string name="title_step_three">3. Неограниченный обмен файлов с друзьями</string>
+    <string name="title_step_three">3. Неограниченный обмен файлами с друзьями</string>
     <string name="summary_step_one">Возможность отправить фотографии, музыку, контакты и другие файлы</string>
     <string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
     <string name="button_pre">Назад</string>

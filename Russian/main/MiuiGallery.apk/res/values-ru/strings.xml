@@ -53,7 +53,7 @@
   <string name="open_public_message">Создать ссылку и отправить ее друзьям</string>
   <string name="open_public_title">Публичный альбом</string>
   <string name="operation_failed">Операция не удалась!</string>
-  <string name="operation_in_process">Обработка...</string>
+  <string name="operation_in_process">Обработка…</string>
   <string name="operation_share">Поделиться</string>
   <string name="operation_successful">Успешно отправлено!</string>
   <string name="operation_too_often">Слишком часто. Попробуйте через 1 минуту.</string>
@@ -61,7 +61,7 @@
   <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
   <string name="publish_failed">Ошибка публикации</string>
   <string name="publish_succeeded">Альбом опубликован</string>
-  <string name="publishing">Публикация, подождите...</string>
+  <string name="publishing">Публикация, подождите…</string>
   <string name="retry_to_create_album">Повторить</string>
   <string name="retry_to_request_qr_code">Повторить</string>
   <string name="scan_barcode">Сканировать QR-код</string>
@@ -75,11 +75,11 @@
   <string name="share_album_space_full">Этот общий альбом полон. Удалите некоторые ненужные снимки.</string>
   <string name="share_current_album">Отправить текущий альбом</string>
   <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотри тут %2$s.</string>
-  <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подождите...</string>
+  <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подождите…</string>
   <string name="system_album">Системный альбом</string>
   <string name="unpublish_failed">Не удалось отменить публикацию!</string>
   <string name="unpublish_succeeded">Альбом снят с публикации!</string>
-  <string name="unpublishing">Отмена публикации, подождите...</string>
+  <string name="unpublishing">Отмена публикации, подождите…</string>
   <string name="user_alias_self">Self</string>
   <string name="view_sharers">Посмотреть поделившихся</string>
   <string name="where_is_barcode">Где QR код?</string>
@@ -105,10 +105,10 @@
   <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
   <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
   <string name="autofix">Авто</string>
-  <string name="bigscrren_slide_exit">Выход из слайдшоу</string>
+  <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
   <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
   <string name="browse_category">Настройки просмотра</string>
-  <string name="caching_label">Кэширование...</string>
+  <string name="caching_label">Кэширование…</string>
   <string name="camera_connected">Камера подключена</string>
   <string name="camera_disconnected">Камера отключена</string>
   <string name="camera_folder_display_name">Фотографии</string>
@@ -117,7 +117,7 @@
   <string name="cancel">Отмена</string>
   <string name="cancel_bookmark">Удалить из избранного</string>
   <string name="cant_delete_system_album">%s системный альбом - его не возможно удалить!</string>
-  <string name="cleaning_cache">Очистка кэша...</string>
+  <string name="cleaning_cache">Очистка кэша…</string>
   <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
   <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно просканирует медиа-файлы и заново создаст эскизы позже.</string>
   <string name="clear_thumbnail_cache_summary">Просмотр фотографий создает эскизы. Очистив кэш можно увеличить память.</string>
@@ -163,7 +163,7 @@
   <string name="damaged_file">Файл поврежден</string>
   <string name="defalt_local_mobile">Мобильный</string>
   <string name="delete">Удалить</string>
-  <string name="deleting_files">Удаление файлов...</string>
+  <string name="deleting_files">Удаление файлов…</string>
   <string name="description">Описание</string>
   <string name="deselect_all">Отменить все</string>
   <string name="details">Информация</string>
@@ -247,7 +247,7 @@
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
-  <string name="initializing_cloud">Запуск облачного альбома...</string>
+  <string name="initializing_cloud">Запуск облачного альбома…</string>
   <string name="initial_cloud_button_text">Попробовать</string>
   <string name="input_cloudfolder_name">Имя облачной папки</string>
   <string name="internal_camera_folder_display_name">Фотографии камеры</string>
@@ -361,7 +361,7 @@
   <string name="rotate_left">Повернуть влево</string>
   <string name="rotate_right">Повернуть вправо</string>
   <string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
-  <string name="running_face_detection">Начало идентификации лица, пожалуйста, подождите...</string>
+  <string name="running_face_detection">Начало идентификации лица, пожалуйста, подождите…</string>
   <string name="saturation">Насыщенность</string>
   <string name="save">Готово</string>
   <string name="save_error">Изображение не сохранено</string>
@@ -371,7 +371,7 @@
 %s"</string>
   <string name="save_to_sdcard">Сохранить на SD-карту</string>
   <string name="saving_failure">Не удалось сохранить фото</string>
-  <string name="saving_image">Сохранение картинки...</string>
+  <string name="saving_image">Сохранение картинки…</string>
   <string name="screen_saver_wallpaper">На экран блокировки</string>
   <string name="sd_explorer">Карта памяти</string>
   <string name="sd_folder">Папки SD-карты</string>
@@ -396,13 +396,13 @@
   <string name="set_label_local_albums">Офлайн-альбомы</string>
   <string name="set_label_mtp_devices">MTP-устройства</string>
   <string name="set_label_picasa_albums">Альбомы Picasa</string>
-  <string name="set_lock_and_wallpaper">Установка обоев...</string>
+  <string name="set_lock_and_wallpaper">Установка обоев…</string>
   <string name="set_lock_or_wallpaper">Применить</string>
-  <string name="set_lockscreen">Установка на экран блокировки...</string>
+  <string name="set_lockscreen">Установка на экран блокировки…</string>
   <string name="set_recent_album">Сделать новый альбом</string>
   <string name="set_screensaver_path_message">Фотографии в этом альбоме будут показаны в качестве заставки после 5 секунд выключенного экрана</string>
   <string name="set_screensaver_path_title">Заставка слайдшоу</string>
-  <string name="set_wallpaper">Установка на рабочий стол...</string>
+  <string name="set_wallpaper">Установка на рабочий стол…</string>
   <string name="settings">Настройки</string>
   <string name="settings_i_xiaomi_com">Войдите в i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
   <string name="shadow">Затенение</string>
@@ -487,13 +487,13 @@
   <string name="album_quota_fulfiled">Не удалось создать альбом. Количество альбомов достигло предела.</string>
   <string name="album_share_kicked">Вы были удалены из альбома: %1$s</string>
   <string name="album_share_stat_content">Новые приглашения для альбома</string>
-  <string name="album_share_subtitle_accepting">Принятие приглашения от %1$s...</string>
-  <string name="album_share_subtitle_denying">Игнорирование приглашения от %1$s...</string>
+  <string name="album_share_subtitle_accepting">Принятие приглашения от %1$s…</string>
+  <string name="album_share_subtitle_denying">Игнорирование приглашения от %1$s…</string>
   <string name="album_share_subtitle_invited">Поделился: %1$s, принять или игнорировать?</string>
   <string name="album_share_subtitle_normal">Поделился: %1$s</string>
   <string name="album_share_subtitle_not_ready">Информация об альбоме не готова. Нажмите, чтобы скачать.</string>
-  <string name="album_share_subtitle_quitting">Отказ от приглашения %1$s...</string>
-  <string name="album_share_subtitle_requesting">Загрузка информации об альбоме...</string>
+  <string name="album_share_subtitle_quitting">Отказ от приглашения %1$s…</string>
+  <string name="album_share_subtitle_requesting">Загрузка информации об альбоме…</string>
   <string name="album_share_title_new_album">Делиться новым альбомом</string>
   <string name="by_email">Почта</string>
   <string name="by_sms">Сообщение</string>
@@ -511,7 +511,7 @@
   <string name="error_repeat_apply">Вы уже поделились альбомом</string>
   <string name="exit_share">Закрыть альбом</string>
   <string name="exit_share_failed">Закрытие альбома &lt;%1$s> не удалось</string>
-  <string name="exit_share_in_process">Закрытие альбома, подождите...</string>
+  <string name="exit_share_in_process">Закрытие альбома, подождите…</string>
   <string name="exit_share_successfully">Альбом &lt;%1$s> закрыт</string>
   <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
   <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
@@ -526,7 +526,7 @@
   <string name="modify_disallow_hint">Добавление новых фотографий в альбом запрещено</string>
   <string name="pick_too_many_recipients">Слишком много получателей</string>
   <string name="recipient_editor_count_format">%d</string>
-  <string name="request_qr_code">Получения QR-кода, подождите...</string>
+  <string name="request_qr_code">Получения QR-кода, подождите…</string>
   <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
   <string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
   <string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>

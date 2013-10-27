@@ -73,7 +73,7 @@
   <string name="force_stop_dlg_title">Закрытие приложения</string>
   <string name="i_known_button">OK</string>
   <string name="input_hint">Введите</string>
-  <string name="loading_app">Загрузка...</string>
+  <string name="loading_app">Загрузка…</string>
   <string name="manual_input_used_traffic_hint">Использовано трафика</string>
   <string name="manual_input_used_traffic_title">Введите использованный трафик</string>
   <string name="menu_display_system_app">Показать системные приложения</string>
@@ -132,7 +132,7 @@
   <string name="sync_setting_city">Синхронизация с расположением</string>
   <string name="sync_traffic_fail_message">Синхронизация с оператором мобильной связи не удалась, сервер занят. Пожалуйста, повторите попытку позже или обратитесь в справочную %s</string>
   <string name="sync_traffic_fail_title">Ошибка синхронизации</string>
-  <string name="sync_traffic_ing">Синхронизация с оператором, пожалуйста, подождите...</string>
+  <string name="sync_traffic_ing">Синхронизация с оператором, пожалуйста, подождите…</string>
   <string name="sync_traffic_no_cmd_detail">"Подтвердите Ваш город или провинцию, ICC и операторы связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
   <string name="sync_traffic_no_cmd_detail_custom_config">"Вы можете: 1.Параметры >> Настроить трафик >> Пользовательские настройки, или на главной странице Настроить трафик >> Пользовательские настроки; 2.Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо."</string>
   <string name="sync_traffic_no_cmd_title">Нет шаблона</string>

@@ -64,10 +64,10 @@
   <string name="alwaysUse">По умолчанию для этого действия</string>
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
-  <string name="android_upgrading_apk">Обновление системы %1$d из %2$d...</string>
-  <string name="android_upgrading_complete">Окончание загрузки...</string>
-  <string name="android_upgrading_starting_apps">Запуск системы...</string>
-  <string name="android_upgrading_title">Обновление системы...</string>
+  <string name="android_upgrading_apk">Обновление системы %1$d из %2$d…</string>
+  <string name="android_upgrading_complete">Окончание загрузки…</string>
+  <string name="android_upgrading_starting_apps">Запуск системы…</string>
+  <string name="android_upgrading_title">Обновление системы…</string>
   <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -255,7 +255,7 @@
   <string name="extmedia_format_button_format">Формат</string>
   <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены.</string>
   <string name="extmedia_format_title">Очистить SD-карту</string>
-  <string name="extract_edit_menu_button">Изменить...</string>
+  <string name="extract_edit_menu_button">Изменить…</string>
   <string name="faceunlock_multiple_failures">Достигнут предел попыток разблокировки</string>
   <string name="factorytest_failed">Не удалось провести стандартный тест</string>
   <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
@@ -382,7 +382,7 @@
   <string name="launch_warning_replace">Приложение %1$s выполняется</string>
   <string name="launch_warning_title">Приложение перенаправлено</string>
   <string name="list_delimeter">", "</string>
-  <string name="loading">Загрузка...</string>
+  <string name="loading">Загрузка…</string>
   <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
   <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
@@ -399,7 +399,7 @@
   <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
 Перейдите на страницу "</string>
-  <string name="lockscreen_glogin_checking_password">Проверка...</string>
+  <string name="lockscreen_glogin_checking_password">Проверка…</string>
   <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
   <string name="lockscreen_glogin_instructions">Для разблокировки войдите с помощью своего аккаунта Google</string>
   <string name="lockscreen_glogin_invalid_input">Неверное имя пользователя или пароль</string>
@@ -972,8 +972,8 @@
   <string name="preposition_for_date">%s</string>
   <string name="preposition_for_time">в %s</string>
   <string name="preposition_for_year">в %s г</string>
-  <string name="progress_erasing">Очистка SD-карты...</string>
-  <string name="progress_unmounting">Отключение SD-карты...</string>
+  <string name="progress_erasing">Очистка SD-карты…</string>
+  <string name="progress_unmounting">Отключение SD-карты…</string>
   <string name="radiobutton_not_selected">не выбрано</string>
   <string name="radiobutton_selected">выбрано</string>
   <string name="reboot_bootloader">Загрузчик</string>
@@ -982,8 +982,8 @@
   <string name="reboot_download">Download</string>
   <string name="reboot_fastboot">Fastboot</string>
   <string name="reboot_hot">Быстрая</string>
-  <string name="reboot_progress">Перезагрузка...</string>
-  <string name="reboot_reboot">MIUI v4 MS</string>
+  <string name="reboot_progress">Перезагрузка…</string>
+  <string name="reboot_reboot">Варианты перезагрузки</string>
   <string name="reboot_recovery">Recovery</string>
   <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
   <string name="reboot_safemode_title">Безопасный режим</string>
@@ -1096,7 +1096,7 @@
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Устройство будет выключено</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
-  <string name="shutdown_progress">Выключение устройства...</string>
+  <string name="shutdown_progress">Выключение устройства…</string>
   <string name="silent_mode">Режим без звука</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>
@@ -1160,8 +1160,6 @@
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
-  <string name="twelve_hour_time_format">h:mm a</string>
-  <string name="twenty_four_hour_time_format">HH:mm</string>
   <string name="undo">Отмена</string>
   <string name="unknownName">(Неизвестно)</string>
   <string name="untitled">&lt;без названия&gt;</string>
@@ -1304,11 +1302,11 @@
   <string name="security_policy_title">Политика безопасности</string>
   <string name="security_policy_summary">Шифрование политики, полученной от удаленного администратора</string>
   <string name="sdcard_encrypt_title_notification">Шифрование SD-карты</string>
-  <string name="sdcard_encrypt_title_ongoing_second_storage">Шифрование SD-карты...</string>
+  <string name="sdcard_encrypt_title_ongoing_second_storage">Шифрование SD-карты…</string>
   <string name="sdcard_encrypt_notification">SD-карта зашифрована</string>
   <string name="sdcard_encrypt_err_notification">Произошла ошибка шифрования SD-карты</string>
   <string name="sdcard_decrypt_title_notification">Расшифровка SD-карты</string>
-  <string name="sdcard_decrypt_title_ongoing_second_storage">Расшифровка SD-карты...</string>
+  <string name="sdcard_decrypt_title_ongoing_second_storage">Расшифровка SD-карты…</string>
   <string name="sdcard_decrypt_notification">SD-карта расшифрована</string>
   <string name="sdcard_decrypt_err_notification">Произошла ошибка расшифровки SD-карты</string>
   <string name="sdcard_batch_decrypt_noti_title">Расшифровка SD-карты</string>

@@ -195,7 +195,7 @@
     <string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
     <string name="oem_radio_info_label">Информация/настройки OEM</string>
     <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
-    <string name="band_mode_loading">Загрузка списка частот...</string>
+    <string name="band_mode_loading">Загрузка списка частот…</string>
     <string name="band_mode_set">Настроить</string>
     <string name="band_mode_failed">Сбой</string>
     <string name="band_mode_succeeded">Успешно</string>
@@ -208,7 +208,7 @@
     <string name="sdcard_settings_unmounted_status">Теперь можно извлечь SD-карту</string>
     <string name="sdcard_settings_bad_removal_status">SD-карта была извлечена во время использования!</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байт:</string>
-    <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
+    <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте…</string>
     <string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
     <string name="skip_label">Далее</string>
     <string name="next_label">Далее</string>
@@ -555,7 +555,7 @@
     <string name="wifi_advanced_titlebar">Дополнительные функции</string>
     <string name="wifi_setting_frequency_band_title">Полоса частот Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
-    <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка.</string>
+    <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
     <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
     <string name="wifi_advanced_ip_address_title">IP-адрес</string>
     <string name="wifi_advanced_settings_label">Настройки IP</string>
@@ -1260,8 +1260,8 @@
 2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
 
 Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">ВЫКЛ</string>
-    <string name="accessibility_global_gesture_preference_summary_on">ВКЛ</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Выкл</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Вкл</string>
     <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
 	<string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
@@ -2171,14 +2171,14 @@
     <string name="button_light_timeout">Button light settings</string>
     <string name="screen_button_key">Виртуальные кнопки</string>
     <string name="screen_button_custom">Настройка расположения кнопок</string>
-    <string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN SIM. 
+    <string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN SIM-карты. 
  Включена блокировка SIM.</string>
     <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM. 
  SIM не поддерживается.</string>
     <string name="apn_new">Создать APN</string>
     <string name="apn_save">Сохранить APN?</string>
     <string name="apn_save_msg">Настройки APN изменены. Сохранить их?</string>
-    <string name="activating">Активация...</string>
+    <string name="activating">Активация…</string>
     <string name="wifi_enable_watchdog_service_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
     <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс Wi-Fi. Повторите попытку позже.</string>
@@ -2197,9 +2197,9 @@
     <string name="wifi_certificate">Certificate</string>
     <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
     <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
-    <string name="wifi_wapi_cert_install_button">Install</string>
-    <string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
-    <string name="wifi_wapi_cert_cancel_button">Cancel</string>
+    <string name="wifi_wapi_cert_install_button">Установить</string>
+    <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
+    <string name="wifi_wapi_cert_cancel_button">Отмена</string>
     <string name="wifi_wapi_cert_uninstall">Uninstall WAPI Certificate</string>
     <string name="wifi_wapi_cert_create_subdir">Create a directroy</string>
     <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
