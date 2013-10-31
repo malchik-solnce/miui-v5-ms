@@ -12,6 +12,11 @@
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="yesterday">Вчера</string>
+	<string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Не удалось отправить сообщение в гостевом режиме</string>
+    <string name="yellow_page_sms_send_failed">Ошибка отправки сообщения!</string>
+    <string name="yellow_page_sms_sending">Отправка…</string>
+    <string name="yellow_page_unable_send_sms">Не удалось отправить сообщение!</string>
     <string name="arbor_day">День древонасаждения</string>
     <string name="autumn_begins">Осень</string>
     <string name="autumn_equinox">Точка осеннего равноденствия</string>
