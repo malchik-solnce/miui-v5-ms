@@ -62,7 +62,7 @@
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_window_title">%1$s свойства</string>
-    <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
+    <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
     <string name="resource_category">Категория</string>
     <string name="resource_comment_1_star">1 звезда</string>
@@ -792,8 +792,8 @@
     <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
     <string name="remind_btn_sync_now">Сейчас</string>
     <string name="remind_btn_ignore">Позже</string>
-    <string name="display_only_phones">Только с тел. номером</string>
-    <string name="display_sim_contacts">Пок. контакты SIM-карты</string>
+    <string name="display_only_phones">Только с номером</string>
+    <string name="display_sim_contacts">Контакты SIM-карты</string>
     <string name="preference_remove_duplicate">Слияние дубликатов</string>
     <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите…</string>
     <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
@@ -836,7 +836,7 @@
     <string name="import_to_xiaomi_account_progress_title">Импортировать контакты в акаунт Xiaomi</string>
     <string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
     <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
-    <string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
+    <string name="import_to_xiaomi_account_title">Импортировать контакты в аккаунт Xiaomi?</string>
     <string name="select_show_contacts">ОТОБРАЖЕНИЕ КОНТАКТОВ</string>
     <string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
     <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>

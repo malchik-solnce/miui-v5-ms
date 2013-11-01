@@ -1,6 +1,4 @@
 <strings>
-	<string name="short_date_format" value="EEEE" />
-    <string name="long_date_format" value="d/M/yyyy" />
 	<string name="date_format" value="d MMMM, EEEE" />
 	<string name="emergency_call" value="Экстренный вызов" />
 </strings>
