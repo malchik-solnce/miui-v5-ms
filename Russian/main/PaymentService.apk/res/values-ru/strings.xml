@@ -64,8 +64,8 @@
     <string name="recharge_message_title">Сообщение</string>
     <string name="recharge_voucher_title">Карта MiCredit</string>
 	<string name="security_setting">Настройки безопасности</string>
-    <string name="summary_lockpattern">Уникальный шаблон блокировки для Micredit</string>
-    <string name="title_change_lockpattern">Смена шаблона</string>
+    <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
+    <string name="title_change_lockpattern">Сменить ключ</string>
     <string name="recharge_pcpay_title">Компьютер</string>
     <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
@@ -115,11 +115,11 @@
     <string name="voucher_error_password_empty">Пустой код</string>
     <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>2￥ = 1 MiCredit&lt;/font></string>
+    <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1￥</string>
     <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: 300￥</string>
+    <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s￥</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ошибка пополнения</string>
     <string name="progress_msg_creating">Обработка пополнения…</string>
@@ -217,13 +217,13 @@
     <string name="title_transaction">Операции</string>
 	<string name="title_visible_pattern">Сделать шаблон видимым</string>
     <string name="title_giftcard">Акции</string>
-	<string name="title_lockpattern">Введите шаблон блокировки</string>
+	<string name="title_lockpattern">Включить блокировку</string>
     <string name="giftcard_record">Подарочные карты</string>
     <string name="title_discounts">Скидки</string>
-	<string name="title_gesture">Шаблон блокировки</string>
+	<string name="title_gesture">Графический ключ</string>
     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
     <string name="fee">%1$s MiCredit</string>
-	<string name="forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+	<string name="forget_password"><u>Забыли пароль?</u></string>
     <string name="format_date">MMM. dd, yyyy</string>
     <string name="format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="recharge_record_empty">Нет записей</string>
@@ -295,20 +295,20 @@
     <string name="lockpattern_need_to_confirm">Подтвердите шаблон:</string>
     <string name="lockpattern_need_to_confirm_wrong">Не соответствует! Пожалуйста, введите еще раз:</string>
     <string name="lockpattern_need_to_unlock_footer"/>
-    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Неверный пароль. Осталось попыток: %d.&lt;/font&gt;</string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Неверный пароль. Осталось попыток: %d.&lt;/font></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"/>
     <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
     <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
     <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
     <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
-    <string name="lockpattern_recording_intro_header">Нарисуйте шаблон разблокировки:</string>
-    <string name="lockpattern_retry_text">&lt;u&gt;Сбросить пароль&lt;/u&gt;</string>
+    <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
+    <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
     <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Слишком много неудачных попыток!&lt;/font&gt;</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
-    <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
     <string name="login">Войти</string>
     <string name="linkpay_consumer_records">消费记录</string>
     <string name="linkpay_dear_user">亲爱的用户：</string>
