@@ -153,6 +153,9 @@
   <string name="permdesc_bluetoothWhitelist">Разрешает приложениям временный белый список Bluetooth устройств. Позволяет устройствам отправлять файлы без подтверждения пользователя.</string>
   <string name="ftp_session_key_dialog_header">Требуется ключ сеанса Bluetooth</string>
   <string name="map_session_key_dialog_title">Введите ключ сессии для %1$s</string>
+  <string name="miui_transfer_history_title">Передачи Bluetooth</string>
+  <string name="miui_transfer_inbound_title">Принятые</string>
+  <string name="miui_transfer_outbound_title">Отправленные</string>
   <string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="status_bpp_stopped_by_printer">Ошибка печати. Остановлено принтером.</string>
   <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
