@@ -7,6 +7,6 @@
   <string name="default_cateogry_meal_delivery">Доставка еды</string>
   <string name="default_cateogry_sales">Продажи</string>
   <string name="mms_provider_label">MMS</string>
-  <string name="sms_provider_label">SMS</string>
+  <string name="sms_provider_label">Сообщения</string>
   <string name="mms_sms_provider_label">Сообщения</string>
 </resources>

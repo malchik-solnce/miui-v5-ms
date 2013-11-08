@@ -32,9 +32,9 @@
     <string name="micloud_account">Аккаунт</string>
     <string name="micloud_activing_account">Активация аккаунта...</string>
     <string name="micloud_activing_account_delayed">"До завершения активации осталось около 30 секунд.
-Вы можете сделать что-то еще..."</string>
+Вы можете сделать что-то еще…"</string>
     <string name="micloud_activing_account_failed">Ошибка активации</string>
-    <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi...</string>
+    <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi…</string>
     <string name="micloud_activate_account_success_notify_title">Ваш аккаунт Xiaomi успешно активирован</string>
     <string name="micloud_activate_account_fail_notify_title">Ошибка активации аккаунта Xiaomi</string>
     <string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
@@ -77,7 +77,7 @@
     <string name="remove_account_notice">Что делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
     <string name="data_keep_in_phone">Оставить</string>
     <string name="data_wipe_from_phone">Удалить</string>
-    <string name="login_notice">Авторизация, подождите...</string>
+    <string name="login_notice">Авторизация, подождите…</string>
     <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации сообщений, контактов и других данных</string>
     <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
     <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
@@ -95,7 +95,7 @@
     <string name="sync_off">Выкл.</string>
     <string name="btn_activate">Активировать</string>
     <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
-    <string name="activating">Активация...</string>
+    <string name="activating">Активация…</string>
     <string name="check_phone_error_title">Ошибка синхронизации</string>
     <string name="check_phone_io_error">Ошибка сети</string>
     <string name="other_settings">ДРУГИЕ ПАРАМЕТРЫ</string>
@@ -135,8 +135,8 @@
     <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
     <string name="relogin">Войти повторно</string>
     <string name="skip_login">Пропустить</string>
-    <string name="removing_account">Удаление аккаунта...</string>
-    <string name="checking_account">Проверка аккаунта...</string>
+    <string name="removing_account">Удаление аккаунта…</string>
+    <string name="checking_account">Проверка аккаунта…</string>
     <string name="label_order_name">Продукт:</string>
     <string name="label_order_price">Цена:</string>
     <string name="order_price">%1$s Mi</string>
@@ -339,7 +339,7 @@
     <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
     <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключите.</string>
     <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключите.</string>
-    <string name="service_error">ОШибка сервиса</string>
+    <string name="service_error">Ошибка сервиса</string>
     <string name="enable_micloud">Включить облачные сервисы</string>
     <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации контактов, галереи и других функций</string>
     <string name="micloud_is_what">Что такое MiCloud?</string>
