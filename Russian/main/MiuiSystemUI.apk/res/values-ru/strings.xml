@@ -61,6 +61,9 @@
   <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
   <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
   <string name="app_label">Графический интерфейс системы</string>
+  <string name="audio_effect_settings">Тип наушников</string>
+  <string name="audio_effect_info">Улучшение звука</string>
+  <string name="audio_effect_custom">Настроить</string>
   <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="battery_low_percent_format">Осталось: %d%%</string>
   <string name="battery_low_subtitle">Батарея разряжена</string>

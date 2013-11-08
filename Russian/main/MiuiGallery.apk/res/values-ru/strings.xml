@@ -24,6 +24,7 @@
   <string name="cannot_delete_sharer_photo">Нельзя удалить %s элементов, загруженные другими пользователями</string>
   <string name="cannot_remove_creator">Невозможно удалить владельца</string>
   <string name="cant_delete_cloud_album">Ошибка удаления: %s является системным или альбомом другого пользователя</string>
+  <string name="click_top_right">Нажмите на иконку вверху справа</string>
   <string name="cloud_album_set_scan_qr_code">QR-код</string>
   <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии друзей и добавлять свои фотографии в альбом, чтобы поделиться с другими</string>
   <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>

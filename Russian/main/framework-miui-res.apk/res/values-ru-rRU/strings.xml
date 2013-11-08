@@ -497,4 +497,5 @@
 	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать телефон с помощью аккаунта.
 Попробуйте снова через %d секунд."</string>
     <string name="volume_ring_description">Мелодия и уведомления</string>
+	<string name="toast_lockscreen_glogin_empty_password">Требуется пароль</string>
 </resources>

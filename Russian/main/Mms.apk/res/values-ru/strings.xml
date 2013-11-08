@@ -371,6 +371,7 @@
     <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
     <string name="group_message">Групповое сообщение</string>
     <string name="close">Закрыть</string>
+	<string name="invalid_private_contact">Неверный контакт</string>
     <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
     <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
     <string name="timed_message_to">для</string>

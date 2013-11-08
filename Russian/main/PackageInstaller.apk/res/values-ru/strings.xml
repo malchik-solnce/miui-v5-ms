@@ -9,7 +9,7 @@
   <string name="app_name">Программа установки</string>
   <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
   <string name="app_not_found_dlg_title">Приложение не найдено</string>
-  <string name="caller_app">Запрос от -= %1$s =-</string>
+  <string name="caller_app">Запрос от %1$s</string>
   <string name="cancel">Отмена</string>
   <string name="devicePerms">Доступ к устройству</string>
   <string name="dlg_app_replacement_statement">"Приложение, которое Вы устанавливаете, заменит уже существующее.
@@ -35,9 +35,10 @@
   <string name="install_failed_invalid_apk">Файл поврежден</string>
   <string name="install_failed_msg">Не удалось установить приложение %1$s</string>
   <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
+  <string name="install_failed_system_incompatible">Это приложение не совместимо с MIUI!</string>
   <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
   <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-  <string name="installing">Установка, подождите...</string>
+  <string name="installing">Установка, подождите…</string>
   <string name="launch">Открыть</string>
   <string name="lift_ban">Снять запрет</string>
   <string name="manage_applications">Управление приложениями</string>
@@ -61,7 +62,7 @@
   <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
   <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
   <string name="uninstall_update_title">Удаление обновления</string>
-  <string name="uninstalling">Удаление, подождите...</string>
+  <string name="uninstalling">Удаление, подождите…</string>
   <string name="unknown">Неизвестно</string>
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
