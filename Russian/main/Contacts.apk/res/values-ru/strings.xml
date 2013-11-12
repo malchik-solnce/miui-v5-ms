@@ -453,7 +453,7 @@
     <string name="display_warn_remove_ungrouped">Удаление \"%s\" из синхронизации так же удалит все контакты, не добавленные в группы</string>
 	<string name="dlg_add_blacklist">Добавить выбранный номер в черный список?</string>
     <string name="dlg_remove_blacklist">Удалить выбранный номер из черного списка?</string>
-    <string name="account_phone">Только телефон, без синхронизации</string>
+    <string name="account_phone">Устройство</string>
     <string name="call_custom">Позвонить (%s)</string>
     <string name="call_home">Домашний тел.</string>
     <string name="call_mobile">Мобильный тел.</string>
@@ -794,14 +794,14 @@
     <string name="remind_btn_ignore">Позже</string>
     <string name="display_only_phones">Только с номером</string>
     <string name="display_sim_contacts">Контакты SIM-карты</string>
-    <string name="preference_remove_duplicate">Слияние дубликатов</string>
+    <string name="preference_remove_duplicate">Объединение дубликатов</string>
     <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите…</string>
     <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
     <string name="merge_contact_message">Похожих контактов: %1$d</string>
     <string name="delete_duplicate">Объединить</string>
     <string name="delete_duplicate_message">"Объединение контактов… "</string>
     <string name="label_no_duplicate_contacts">На данный момент нет дубликатов контактов</string>
-    <string name="quit_dialog_confirm_title">Вы хотите выйти из объединения контактов?</string>
+    <string name="quit_dialog_confirm_title">Выйти из режима объединения контактов?</string>
     <string name="preference_import_export">Импорт и экспорт</string>
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="import_vcard_description">Импортировать контакты с SD-карты</string>
@@ -874,7 +874,7 @@
     <string name="preference_dial_pad_touch_tone_human">Голос человека</string>
     <string name="ic_menu_done">Готово</string>
     <string name="cloud_antispam_title">Идентификация номеров</string>
-    <string name="account_default">Телефон</string>
+    <string name="account_default">По умолчанию</string>
     <string name="account_sim">SIM-карта</string>
     <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
     <string name="option_view_contact">Просмотр</string>
@@ -1019,7 +1019,7 @@
     <string name="device_import_progress_message">Импортирование…</string>
     <string name="device_import_failed_message">Ошибка импорта!</string>
     <string name="hint_distance">держать дистанцию</string>
-    <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
+    <string name="hint_more_contact">использовать объединение контактов</string>
     <string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
     <string name="device_import_account_dialog_title_suffix">"
 (найдено %1$s контактов)"</string>

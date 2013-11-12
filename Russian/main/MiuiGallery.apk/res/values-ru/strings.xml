@@ -339,7 +339,7 @@
   <string name="photo_page_always_rotate">Автоповорот изображений</string>
   <string name="photo_page_save_image">Сохранить</string>
   <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
-  <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог фотографий камеры</string>
+  <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог камеры</string>
   <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
   <string name="photoeditor_name">Фотостудия</string>
   <string name="photos">файлов</string>
