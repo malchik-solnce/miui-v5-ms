@@ -130,7 +130,7 @@
     <string name="resource_comment_edit_text_default">Напишите комментарий</string>
     <string name="resource_comment_publish">Отправить</string> 
     <string name="resource_comment_name_default">Пользователь %1$s</string>
-	<string name="resource_comment_no_average_score">-.-</string>
+	<string name="resource_comment_no_average_score">0.0</string>
     <string name="resource_comment_no_comment">Нет комментариев</string>
     <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
     <string name="resource_comment_all_comments">Все</string>

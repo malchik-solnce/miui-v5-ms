@@ -81,7 +81,7 @@
     <string name="loading_review_failed">Ошибка загрузки комментария</string>
     <string name="loading_review"><CDATA> Загрузка… </CDATA></string>
     <string name="searching">" "<CDATA> Поиск… </CDATA>" "</string>
-    <string name="recentplay">Недавнее</string>
+    <string name="recentplay">Недавние</string>
 	<string name="clearplayhistory">Очистить историю</string>
     <string name="no_playhistory">Пусто</string>
     <string name="declaration">Условия использования</string>
@@ -95,7 +95,7 @@
     <string name="fullscreen_hint_vertical">Для перехода в полный экран, нажмите кнопку ниже</string>
     <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
     <string name="file_not_exist">Файл не найден</string>
-    <string name="play">Play</string>
+    <string name="play">Смотреть</string>
     <string name="favorite">Star</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>
@@ -107,7 +107,7 @@
     <string name="success_cancel_waitfornewset">Stopped following series.</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>
     <string name="count_myfavorite">Избранное</string>
-    <string name="myfavorite">Starred &amp; following</string>
+    <string name="myfavorite">Избранное</string>
     <string name="no_myfavorite">Not starred</string>
     <string name="no_myfavorite_advice">Рекомендованное</string>
     <string name="myfavorite_onlylocal">Избранное</string>
@@ -126,7 +126,7 @@
     <string name="have_no_cameravideo">Нет видео</string>
     <string name="open_camera">Камера</string>
     <string name="delete">Удалить</string>
-    <string name="browse_folder">Browser</string>
+    <string name="browse_folder">Папка</string>
     <string name="channel_more">Еще</string>
     <string name="comment_publish">Отправить</string>
     <string name="write_comment">Добавить</string>
@@ -146,7 +146,7 @@
     <string name="live_title">Live</string>
     <string name="live_tabs_hot">Топ</string>
     <string name="live_tabs_all">Все</string>
-    <string name="live_tabs_choice">Выбрать</string>
+    <string name="live_tabs_choice">Популярное</string>
     <string name="live_pending_symbol"><CDATA>Буферизация…</CDATA></string>
     <string name="live_pending_to_be_play">Загрузка…</string>
     <string name="button_all">Все</string>
@@ -155,7 +155,7 @@
     <string name="button_show">Шоу</string>
     <string name="button_sport">Спорт</string>
     <string name="button_information">Информация</string>
-    <string name="be_living_status">Now living</string>
+    <string name="be_living_status">Сейчас</string>
     <string name="forecast_living_status">Living</string>
     <string name="to_live_status">Going to live</string>
     <string name="will_live_status">Live</string>
@@ -179,7 +179,7 @@
     <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
     <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
     <string name="clear_cache_summary">Очистить кэш картинок в приложении</string>
-    <string name="load_failed_to_try">Ошибка загрузки.</string>
+    <string name="load_failed_to_try">Ошибка загрузки</string>
     <string name="offline_media">Доступно оффлайн</string>
     <string name="have_no_offlinemedia">Пусто</string>
     <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>

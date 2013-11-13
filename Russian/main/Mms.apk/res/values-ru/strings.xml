@@ -200,6 +200,10 @@
     <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
     <string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
     <string name="sms_rejected_title">Сообщение отклонено</string>
+	<string name="sp_conversation_title">Уведомления</string>
+    <string name="sp_mark_as_read">Пометить все сообщения как прочитанные?</string>
+    <string name="sp_mark_as_read_progress">Обработка, подождите…</string>
+    <string name="sp_mark_as_read_title">Отметка сообщений прочитанными</string>
     <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
     <string name="type_audio">Аудиозапись</string>
     <string name="type_picture">Изображение</string>
@@ -328,6 +332,7 @@
     <string name="pref_other_title">ДРУГИЕ НАСТРОЙКИ</string>
     <string name="pref_system_title">СИСТЕМНЫЕ НАСТРОЙКИ</string>
     <string name="pref_advanced_settings_title">Дополнительные</string>
+	<string name="pref_collapse_sp_messages_summary">Сервисные сообщения от поставщиков услуг, банков и т.д.</string>
     <string name="pref_edit_smsc_address">Номер SMS центра</string>
 	<string name="pref_forward_title">Вперед</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
@@ -375,6 +380,7 @@
     <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
     <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
     <string name="timed_message_to">для</string>
+	<string name="title_collapse_sp_messages">Сервисные сообщения</string>
     <string name="timed_message_in_total">… (всего: %d)</string>
     <string name="processing">Обработка…</string>
     <string name="title_date_type">Дата</string>

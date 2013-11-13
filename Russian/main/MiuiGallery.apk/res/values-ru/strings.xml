@@ -81,7 +81,9 @@
   <string name="unpublish_failed">Не удалось отменить публикацию!</string>
   <string name="unpublish_succeeded">Альбом снят с публикации!</string>
   <string name="unpublishing">Отмена публикации, подождите…</string>
-  <string name="user_alias_self">Self</string>
+  <string name="user_alias_self">Я</string>
+  <string name="video_download_in_process">Видео загружается. Пожалуйста, подождите.</string>
+  <string name="video_download_start">Началась загрузка</string>
   <string name="view_sharers">Посмотреть поделившихся</string>
   <string name="where_is_barcode">Где QR код?</string>
   <string name="albums">альбомов</string>
@@ -320,6 +322,7 @@
   <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
   <string name="open_sync">Синхронизировать</string>
   <string name="open_sync_title">Необходима синхронизация</string>
+  <string name="operation_add_picture">Добавить изображения</string>
   <string name="operation_delete_confirm_message_folder">Папки и файлы в них будут удалены одновременно</string>
   <string name="operation_cancel">Отмена</string>
   <string name="operation_delete">Удалить</string>
@@ -461,6 +464,7 @@
   <string name="unknown_location">Неопределено</string>
   <string name="untagged">Без тегов</string>
   <string name="video_err">Не удалось воспроизвести видео</string>
+  <string name="video_not_exist">Видео не существует!</string>
   <string name="video_property">Свойства видео</string>
   <string name="vignette">Виньетка</string>
   <string name="wallpaper">На рабочий стол</string>
@@ -526,6 +530,12 @@
   <string name="modify_allow_hint">Добавление новых фотографий в альбом разрешено</string>
   <string name="modify_disallow_hint">Добавление новых фотографий в альбом запрещено</string>
   <string name="pick_too_many_recipients">Слишком много получателей</string>
+  <string name="pick_too_much_tips">Слишком много элементов (макс. %d)</string>
+  <string name="picker_no_album_selected">Альбом не выбран</string>
+  <string name="picker_no_items_selected">Ничего не выбрано</string>
+  <string name="picker_select_album_title_empty">Выберите альбом</string>
+  <string name="picker_tab_camera">Камера</string>
+  <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="request_qr_code">Получения QR-кода, подождите…</string>
   <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>

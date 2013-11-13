@@ -149,6 +149,8 @@
     <string name="delete_file_from_sdcard">Также удалить файлы с SD-карты</string>
     <string name="recommend">Рекомендуем</string>
     <string name="billboard">Billboard</string>
+	<string name="bind_baidu_account_setting">Связать с Baidu</string>
+    <string name="bind_baidu_account_summary">Добавить плейлисты и другие услуги привязав аккаунт Baidu</string>
     <string name="channel">FM радио</string>
     <string name="new_albums">Новые альбомы</string>
     <string name="hot_artists">Популярные исполнители</string>
@@ -179,6 +181,7 @@
     <string name="id3_edit">Изменить ID3 информацию</string>
     <string name="lyric_download">Загрузить текст песни</string>
     <string name="use_local_lyric">Присвоить текст песни</string>
+	<string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
     <string name="album_download">Загрузить обложку</string>
     <string name="use_local_album">Установить обложку альбома</string>
     <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
@@ -215,6 +218,8 @@
     <string name="play_all">Воспроизвести все</string>
     <string name="click_to_shuffle">Коснитесь для перемешивания</string>
     <string name="streamloadingtext">Подключение к %s</string>
+	<string name="synchronize_playlist_setting">Синхр. плейлисты</string>
+    <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
     <string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
     <string name="playback_failed_by_bad_file">%s невозможно проиграть. Не поддерживается формат файла.</string>
     <string name="playback_failed_by_network">%s невозможно проиграть. Проверьте сетевое подключение.</string>
@@ -249,6 +254,8 @@
     <string name="correct_id3_not_support">Коррекция ID3 не поддерживает этот тип файла</string>
     <string name="batch_correct_id3_completed">Групповая коррекция ID3 завершена!</string>
     <string name="add">Добавить</string>
+	<string name="account_and_synchronization">Аккаунт и синхр.</string>
+    <string name="account_setting">Настройки аккаунта</string>
     <string name="artist_albums">Все альбомы</string>
     <string name="artist_hot_audios">Горячие хиты</string>
     <string name="more">Еще</string>
@@ -256,6 +263,7 @@
     <string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
     <string name="album_select">Пожалуйста, выберите обложку альбома</string>
     <string name="no_song_downloaded">Нет песен для загрузки</string>
+	<string name="not_login">Войти</string>
     <string name="powered_by">При поддержке</string>
     <string name="project_device">Xiaomi Box</string>
     <string name="project_device_mobile">Cell Phone</string>

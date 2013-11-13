@@ -39,6 +39,7 @@
 	<string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
     <string name="recharge_charge_value">Цена: ¥%s</string>
 	<string name="recharge_history">История пополнений</string>
+	<string name="recharge_history_empty">История пуста</string>
     <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
 	<string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_id">ID заказа:</string>
@@ -93,14 +94,18 @@
     <string name="module_sms_sent">Текстовое сообщение отправлено</string>
     <string name="custom_mark_category">Пользовательский</string>
     <string name="mark_number_dialog_maintitle">Отметить неизв. номер и загрузить</string>
+	<string name="mark_title_null_hint">Ввод не может быть пустым</string>
     <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
     <string name="delete">Удалить</string>
 	<string name="express_inqiury_select_logistics">Выберите курьера</string>
 	<string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_button_text">Отследить</string>
     <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
+	<string name="express_inquiry_delivered">Доставлено</string>
+    <string name="express_inquiry_history">История</string>
     <string name="express_inquiry_indication">Отслеживание номера</string>
 	<string name="express_inquiry_logistics_indication">Имя курьера</string>
+	<string name="express_inquiry_no_history">Пусто</string>
     <string name="express_inquiry_no_result">Нет результатов</string>
 	<string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>

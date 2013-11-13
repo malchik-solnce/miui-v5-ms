@@ -1247,5 +1247,5 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_marked_count">Отклонино: %1$d</string>
   <string name="antispam_notification_title">Неизвестный</string>
-
+  <string name="antispam_provider">Поставщик: %s</string>
 </resources>
