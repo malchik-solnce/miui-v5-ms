@@ -66,6 +66,11 @@
   <string name="unknown">Неизвестно</string>
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
+  <string name="unknown_installer">Неизвестный установщик</string>
+  <string name="virus_scan_clear">Удалить</string>
+  <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+  <string name="virus_scan_is_risk">Приложение представляет собой риск!</string>
+  <string name="virus_scan_is_virus">Приложение содержит вирус. Пожалуйста, удалите его немедленно!</string>
   <string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
   <string name="high_risk_perms">Разрешения высокого риска</string>
   <string name="low_risk_perms">Разрешения низкого риска</string>
