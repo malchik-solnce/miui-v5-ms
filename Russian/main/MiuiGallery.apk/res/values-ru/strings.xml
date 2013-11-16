@@ -39,11 +39,8 @@
   <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
   <string name="confirm">OK</string>
   <string name="deny">Отклонить</string>
-  <string name="details_sharer">Прислан</string>
   <string name="enable_cloud_for_sharing">Включить общие альбомы</string>
   <string name="error_album_not_exist">Альбом не существует</string>
-  <string name="error_cloud_not_active">Общие альбомы не активированы</string>
-  <string name="error_unknown_host">Неизвестное имя хоста. Пожалуйста, проверьте подключение к сети!</string>
   <string name="exit">Выйти</string>
   <string name="fail_hint">Сбой операции</string>
   <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
@@ -185,12 +182,10 @@
   <string name="edit">Изменить</string>
   <string name="edited_photo_bucket_name">Измененные</string>
   <string name="empty_album">Нет фото/видео</string>
-  <string name="enable_cloud_for_sharing">Вам необходимо включить облачный альбом, чтобы просмотреть общие фотографии</string>
   <string name="error_should_not_select_image">Внимание: не выбирайте файл изображения!</string>
   <string name="error_should_not_select_video">Внимание: не выбирайте видео файл!</string>
   <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
   <string name="error_unknown_host">Сеть не обнаружена</string>
-  <string name="exit">Выход</string>
   <string name="expand_album_in_home_page">Развернуть альбом на домашней странице</string>
   <string name="exposure_time">Выдержка</string>
   <string name="external_sd_card">SD-карта</string>
@@ -510,7 +505,6 @@
   <string name="context_menu_copy_notice">Выделенный текст скопирован в буфер</string>
   <string name="email_picker_title">Добавить общий E-mail</string>
   <string name="enter_email_hint">Введите адрес E-mail</string>
-  <string name="error_album_not_exist">Альбом не существует</string>
   <string name="error_cloud_not_active">Облачный альбом не используется</string>
   <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
   <string name="error_repeat_apply">Вы уже поделились альбомом</string>

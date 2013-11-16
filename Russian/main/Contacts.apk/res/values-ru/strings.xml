@@ -1055,5 +1055,4 @@
     <string name="other_contacts">Другие</string>
     <string name="set_photo_failed_msg">Ошибка установки аватара</string>
     <string name="contact_is_readOnly">Не удается отредактировать контакты только для чтения</string>
-    <string name="profile_name">Мой профиль</string>
 </resources>
