@@ -113,13 +113,13 @@
     <string name="voucher_edit_limit">знаков</string>
 	<string name="voucher_error_password">Неверный код!</string>
     <string name="voucher_error_password_empty">Пустой код</string>
-    <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
+    <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
+    <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
-    <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1￥</string>
+    <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1 юань</string>
     <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s￥</string>
+    <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Ошибка пополнения</string>
     <string name="progress_msg_creating">Обработка пополнения…</string>
@@ -144,7 +144,7 @@
     <string name="giftcard_denom_frozen">MiCredit заморжено</string>
     <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
     <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
-    <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
+    <string name="giftcard_expire">%1$s истекло</string>
     <string name="giftcard_empty">Нет подарочных карт</string>
     <string name="bankcall_merchant">Получатель:</string>
     <string name="bankcall_denom">Платеж:</string>
@@ -187,7 +187,7 @@
     <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
     <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
-    <string name="progress_success_pay_summary">Оплата завершена! :)</string>
+    <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, оплачено %2$s MiCredits</string>
     <string name="progress_error_recharge_title">Ошибка пополнения</string>
     <string name="progress_error_pay_title">Ошибка оплаты</string>
 	<string name="progress_error_recharge_summary">Пополенение не удалось. Попробуйте позже.</string>
