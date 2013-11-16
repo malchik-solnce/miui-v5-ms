@@ -106,6 +106,8 @@
     <string name="express_inquiry_indication">Отслеживание номера</string>
 	<string name="express_inquiry_logistics_indication">Имя курьера</string>
 	<string name="express_inquiry_no_history">Пусто</string>
+	<string name="express_inquiry_internal_failure">"Произошла ошибка.
+Проверьте номер отслеживания."</string>
     <string name="express_inquiry_no_result">Нет результатов</string>
 	<string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
