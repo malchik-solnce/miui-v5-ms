@@ -15,9 +15,9 @@
   <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь захватывающей MIUI!</string>
   <string name="shutdown">Выключить</string>
   <string name="sim_card_detection_dialog_message">Поиск SIM-карты. Пожалуйста, подождите…</string>
-  <string name="sim_card_detection_info">"Вы не можете настроить аккаунт Xiaomi без SIM-карты. Вам необходима SIM-карта для использования синхронизации контактов, поиска телефона и тд."</string>
+  <string name="sim_card_detection_info">"Вы не сможете настроить аккаунт Xiaomi без SIM-карты, для синхронизации контактов, поиска телефона и т.д."</string>
   <string name="sim_card_detection_label">Поиск SIM-карты</string>
-  <string name="sim_card_detection_status_absent">SIM-карта не доступна. Пожалуйста, вставьте SIM-карту и перезагрузитесь или продолжите.</string>
+  <string name="sim_card_detection_status_absent">SIM-карта не доступна. Вставьте SIM-карту и перезагрузитесь или продолжите.</string>
   <string name="traffic_protection_label">Регулировка трафика</string>
   <string name="traffic_protection_summary">Регулировка трафика напомнит Вам, когда трафик в Вашем тарифном плане закончился</string>
   <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика</string>

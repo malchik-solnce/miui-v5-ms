@@ -128,8 +128,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
-        <item>5 ГГц</item>
-        <item>2.4 ГГц</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2.4 ГГц</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
@@ -144,7 +144,7 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>Автоматически (DHCP)</item>
+        <item>Автоматический</item>
         <item>Статический</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
@@ -226,14 +226,6 @@
         <item>Максимум 3 процесса</item>
         <item>Максимум 4 процесса</item>
     </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN with pre-shared keys</item>
@@ -287,8 +279,8 @@
         <item>Красный</item>
         <item>Зеленый</item>
         <item>Розовый</item>
-        <item>Лиловый</item>
         <item>Фиолетовый</item>
+        <item>Пурпурный</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Синий</item>
@@ -298,13 +290,6 @@
         <item>Голубой</item>
         <item>Белый</item>
         <item>Фиолетовый</item>
-    </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ничего</item>
@@ -326,12 +311,6 @@
         <item>10 сек.</item>
         <item>20 сек.</item>
         <item>Всегда</item>
-    </string-array>
-    <string-array name="change_security_lock_picker">
-        <item>Фейс-контроль</item>
-        <item>Графический ключ</item>
-        <item>Цифровой пароль</item>
-        <item>Смешанный пароль</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Устройство подключено, создание сессии…</item>
@@ -362,7 +341,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Пожалуйста, игнорируйте всплывающие окна мастера установки)
+        <item>"(Игнорируйте всплывающие окна мастера установки)
 запоминающее устройство XIAOMI появится на вашем компьютере
 Откройте и выберите файл Setup.exe для установки"</item>
         <item></item>
@@ -405,7 +384,13 @@
         <item>Разр.</item>
         <item>Запретить</item>
     </string-array>
-	<string-array name="phone_call_noise_suppression_title">
+    <string-array name="change_security_lock_picker">
+        <item>Фейс-контроль</item>
+        <item>Графический ключ</item>
+        <item>Цифровой пароль</item>
+        <item>Смешанный пароль</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
         <item>Один микрофон</item>
         <item>Два микрофона</item>
     </string-array>
