@@ -814,7 +814,7 @@
 	<string name="sim_contact_existing">Этот контакт уже существует</string>
     <string name="sim_contact_number_missing">Контакт не содержит номера</string>
     <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Очистите контакты и попробуйте еще раз.</string>
-    <string name="sim_contacts">Контакты на SIM-карте</string>
+    <string name="sim_contacts">Контакт на SIM-карте</string>
     <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
     <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
     <string name="sim_error_email_too_long">E-mail слишком длинный</string>
@@ -840,7 +840,7 @@
     <string name="select_show_contacts">ОТОБРАЖЕНИЕ КОНТАКТОВ</string>
     <string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
     <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
-	<string name="pref_key_sim_manage">Управление SIM</string>
+	<string name="pref_key_sim_manage">Контакты SIM-карты</string>
     <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
     <string name="pref_key_photo">Фотографии</string>
     <string name="pref_key_photo_word_title">Фото для контактов</string>

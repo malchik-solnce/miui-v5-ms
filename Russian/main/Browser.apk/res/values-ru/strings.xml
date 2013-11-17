@@ -54,7 +54,7 @@
   <string name="autofill_profile_editor_heading">Введите текст для автозаполнения</string>
   <string name="autofill_profile_editor_name">Полное имя:</string>
   <string name="autofill_profile_editor_phone_number">Номер телефона:</string>
-  <string name="autofill_profile_editor_phone_number_invalid">Неправильный номер телефона.</string>
+  <string name="autofill_profile_editor_phone_number_invalid">Неправильный номер телефона</string>
   <string name="autofill_profile_editor_save_profile">Сохранить</string>
   <string name="autofill_profile_editor_state">Регион:</string>
   <string name="autofill_profile_editor_zip_code">Почтовый индекс:</string>
@@ -245,7 +245,7 @@
   <string name="import_bookmarks_wizard_done">Готово</string>
   <string name="import_bookmarks_wizard_next">Далее</string>
   <string name="import_bookmarks_wizard_previous">Назад</string>
-  <string name="importing_favorite_files">Импорт данных...</string>
+  <string name="importing_favorite_files">Импорт данных…</string>
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google с живым поиском (лаборатория Google)</string>
   <string name="is_first_history_item">Это первая запись в истории</string>
@@ -265,18 +265,18 @@
   <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
   <string name="menu_addtodesk">На рабочий стол</string>
   <string name="menu_disable_night_mode">Выключить ночной режим</string>
-  <string name="menu_disable_save_bandwidth_mode">Отключить режим сохранения</string>
+  <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>
   <string name="menu_download_video">Загруженные видео</string>
   <string name="menu_enable_night_mode">Включить ночной режим</string>
-  <string name="menu_enable_save_bandwidth_mode">Режим сохранения данных</string>
+  <string name="menu_enable_save_bandwidth_mode">Включить мобильный интернет</string>
   <string name="menu_exit">Выйти</string>
   <string name="menu_hv_swap">Горизонтальный режим</string>
   <string name="menu_hv_swap2">Вертикальный режим</string>
   <string name="menu_preferences">Настройки</string>
-  <string name="menu_save_bandwidth_mode_close_toast">Режим сохранения отключен</string>
+  <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
-  <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц или автоматического показа изображений</string>
-  <string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного интернета включено</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц и показа изображений</string>
+  <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
   <string name="menu_save_snapshot">Сохранить страницу</string>
   <string name="menu_share_url">Отправить</string>
   <string name="menu_theme_setting">Настройки темы</string>
@@ -512,7 +512,7 @@
   <string name="select_dot">Выбрать текст</string>
   <string name="set_as_homepage">Сделать главной страницей</string>
   <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-  <string name="send_to_desktop">Отправить на рабочий стол</string>
+  <string name="send_to_desktop">На стол</string>
   <string name="share_link">Отправить ссылку</string>
   <string name="share_page">Поделиться</string>
   <string name="shortcut_bookmark">Закладка</string>
@@ -579,7 +579,7 @@
   <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
   <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
   <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомлять о Wi-Fi</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета Вы будете получать уведомления о доступных сетях Wi-Fi</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
@@ -622,7 +622,7 @@
   <string name="return_to_homepage">Домашняя страница</string>
   <string name="notif_install_successful">Загрузка завершена</string>
   <string name="in_incognito">В режиме инкогнито история браузера не сохраняется</string>
-  <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожными!</string>
+  <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожны!</string>
   <string name="tab_opened_background_in_incognito">Вкладка открыта в режиме инкогнито</string>
   <string name="navigation_button_close">Закрыть</string>
   <string name="navigation_button_newtab">Новая</string>
@@ -631,6 +631,6 @@
   <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
   <string name="close_all_tab_alert_title">Закрытие вкладок</string>
   <string name="pref_reading_mode_enabled_title_summary">Должен быть включен JavaScript</string>
-  <string name="pref_save_bandwidth_mode_summary">Если эта функция включена, браузер не будет использовать Вашу мобильную сеть для предварительной загрузки страниц или автоматического показа изображений</string>
-  <string name="pref_save_bandwidth_mode_title">Использование мобильных данных</string>
+  <string name="pref_save_bandwidth_mode_summary">Браузер не будет использовать мобильную сеть для предварительной загрузки страниц или автоматического показа изображений</string>
+  <string name="pref_save_bandwidth_mode_title">Мобильный интернет</string>
 </resources>
