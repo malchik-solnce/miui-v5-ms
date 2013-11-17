@@ -126,7 +126,7 @@
             "thumbnail":"vkontakte.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
 		"displayName": "ВКонтакте",
 		"isDelete": true,
 	    "movable": true,
