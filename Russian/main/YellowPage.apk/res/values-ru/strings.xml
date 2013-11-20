@@ -101,6 +101,8 @@
 	<string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_button_text">Отследить</string>
     <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
+	<string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
+	<string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
 	<string name="express_inquiry_delivered">Доставлено</string>
     <string name="express_inquiry_history">История</string>
     <string name="express_inquiry_indication">Отслеживание номера</string>

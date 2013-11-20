@@ -4,6 +4,9 @@
     <string name="resource_app_name">Компоненты</string>
     <string name="resource_price_free">Беспл.</string>
     <string name="resource_price_unit">MI</string>
+	<string name="resource_purchase_getting_order">Получение данных о заказе…</string>
+    <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
+    <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
 	<string name="resource_ranking">Топ</string>
     <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
@@ -13,6 +16,8 @@
 	<string name="resource_my">Локально</string>
     <string name="resource_default">Мелодия по умолчанию</string>
     <string name="resource_ringtone_default">Мелодии</string>
+	<string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
+    <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
     <string name="description_designer">Дизайнер:</string>
@@ -24,20 +29,42 @@
 	<string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
     <string name="description_summary">Описание:</string>
     <string name="resource_local">Телефон %1$s</string>
+	<string name="resource_menu_refresh">Обновить</string>
     <string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
     <string name="resource_pack_discount_info">%1$s скидка!</string>
     <string name="resource_pack_price_info">%1$s обычная</string>
     <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
+	<string name="resource_present">Подарок</string>
     <string name="resource_title">Сведения</string>
     <string name="resource_download">Скачать</string>
     <string name="resource_downloading">Загрузка</string>
+	<string name="resource_exchange">Redeem</string>
+    <string name="resource_exchange_confirm">OK</string>
+    <string name="resource_exchange_empty_format">Введите код!</string>
+    <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
+    <string name="resource_exchange_has_expired">Этот код истек</string>
+    <string name="resource_exchange_has_used">Этот уже использован</string>
+    <string name="resource_exchange_hint">Введите код</string>
+    <string name="resource_exchange_purchase_unkown_error">An unknown error occurred. Please login at http://market.xiaomi.com to view your payment status.</string>
+    <string name="resource_exchange_share_code_content">You have received a code for %1$s on the MIUI theme store. Your MiCredit code is: %2$s. Touch %3$s to use it now.</string>
+    <string name="resource_exchange_share_code_dlg_content">Code successfully purchased for %1$s is: %2$s. You can now share this with friends.</string>
+    <string name="resource_exchange_share_code_dlg_title">Send code</string>
+    <string name="resource_exchange_success">Transaction successful</string>
+    <string name="resource_exchange_unavailable">The code entered is not valid for this theme</string>
+    <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI theme store.</string>
+    <string name="resource_exchange_universal_goon">This code can be used to download any theme in the MIUI theme store.</string>
+    <string name="resource_exchange_window_title">Redeem code</string>
+    <string name="resource_exchange_wrong_format_by_local">Invalid code entered</string>
+    <string name="resource_exchange_wrong_format_by_server">Code could not be validated. Please check your code and try again.</string>
 	<string name="resource_expand_full_text">Раскрыть</string>
     <string name="resource_waiting_download">Ожидание</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_update">Обн.</string>
+	<string name="resource_user_know">OK</string>
     <string name="resource_select">Выбрать</string>
-    <string name="resource_selected">Лучшее</string>
+    <string name="resource_selected">Лучшие</string>
+	<string name="resource_send">Отправить</string>
     <string name="resource_server_alert_dialog_title">Технические неполадки</string>
     <string name="resource_buy">Купить</string>
     <string name="resource_importing">Импорт…</string>
@@ -84,11 +111,13 @@
     <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
     <string name="resource_comment_good_comments">Хорошие</string>
     <string name="resource_comment_invalid">Нажмите на звезды для рейтинга</string>
+	<string name="resource_comment_loading_list">Загрузка комментариев…</string>
     <string name="resource_comment_name_default">Пользователь %1$s</string>
     <string name="resource_comment_no_average_score">-.-</string>
     <string name="resource_comment_no_comment">Нет комментариев</string>
     <string name="resource_comment_publish">Отправить</string>
     <string name="resource_comment_rate">Рейтинг:</string>
+	<string name="resource_comment_score_count">%1$s человек</string>
     <string name="resource_comment_sending">Отправка комментария…</string>
     <string name="resource_comment_title">Комментарии: %1$s</string>
     <string name="resource_comment_upload_data_invalid">Ошибка коментария</string>
@@ -103,7 +132,8 @@
     <string name="resource_no_result">Нет результатов</string>
     <string name="resource_list_title">Последние</string>
     <string name="resource_get_auth_checking">Проверка авторизации…</string>
-    <string name="resource_get_auth_retrieving">Получение авторизации…</string>
+    <string name="resource_get_auth_retrieving">Авторизация…</string>
+	<string name="resource_hint">Alert</string>
 	<string name="resource_import_successful">Загрузка завершена</string>
     <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
@@ -115,6 +145,9 @@
     <string name="resource_switch_account">Перекл.</string>
     <string name="processing">Обработка…</string>
     <string name="resource_title_select_ringtone">Выберите мелодию</string>
+	<string name="resource_unable_to_access">К сожалению,
+контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе</string>
+    <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
     <string name="loading_resource_detail_fail">Ошибка загрузки ресурса!</string>
@@ -542,6 +575,7 @@
     <string name="recent">Последний</string>
     <string name="recent_updates">Недавние обновления</string>
     <string name="account_type_format">Контакт %1$s</string>
+	<string name="account_unactivated">Аккаунт не активирован</string>
     <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">Использовать эту фотографию</string>
     <string name="contact_read_only">Здесь доступно только для чтения</string>
@@ -848,6 +882,13 @@
     <string name="remove_duplicate">"MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.
 
 Нажмите на объединение и немного подождите, пока автоматическое объединение не завершится."</string>
+    <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
+    <string name="resource_account_current">Аккаунт: %1$s</string>
+    <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
+	<string name="resource_account_login">Войти</string>
+    <string name="resource_account_login_before_action">Войдите в свой аккаунт Xiaomi</string>
+    <string name="resource_account_login_title">Вход</string>
+    <string name="resource_account_switch">Сменить аккаунт</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">НАСТРОЙКИ ОТОБРАЖЕНИЯ</string>
     <string name="preference_simple_mode_title">Простой режим</string>
@@ -1005,6 +1046,7 @@
     <string name="cancel_import_dialog_title">Остановить импорт</string>
     <string name="cancel_import_dialog_message">Вы уверены, что хотите прекратить импорт контактов?</string>
     <string name="title_paired_devices">Сопряжение устройств</string>
+	<string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
     <string name="title_other_devices">Другие доступные устройства</string>
     <string name="button_scan">Пересканировать</string>
     <string name="button_cancel_scan">Остановить</string>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_device">Сведения о системе</string>
   <string name="active_xiaomi_account">Активировать</string>
   <string name="active_xiaomi_account_msg">"Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:
@@ -26,7 +24,7 @@
   <string name="boot_recovery">В режим восстановления</string>
   <string name="cancel_download_buton_text">Отмена</string>
   <string name="check_update_policy">Настройки</string>
-  <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
+  <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
   <string name="checking_for_updates">Проверка обновлений</string>
   <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
   <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
@@ -129,6 +127,7 @@
   <string name="update_success">Поздравляем, обновление успешно</string>
   <string name="update_success_body">Поздравляем, система успешно обновлена</string>
   <string name="update_success_title">Обновление</string>
+  <string name="updater_finish_download">Загрузка прошивки завершена</string>
   <string name="upgrade_close">Закрыть</string>
   <string name="upgrade_kernel">Обновления ядра</string>
   <string name="upgrade_kernel_msg">Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:

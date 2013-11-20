@@ -9,6 +9,7 @@
   <string name="add_to_cloud_album">В облако</string>
   <string name="add_to_cloud_failed_message_with_count">%s фотографий не могут быть добавлены в облачный альбом</string>
   <string name="add_to_cloud_folder">В облако</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Превышен лимит изображений</string>
   <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
@@ -268,6 +269,7 @@
   <string name="make_available_offline">Офлайн-доступ</string>
   <string name="maker">Автор</string>
   <string name="manual">Вручную</string>
+  <string name="marked_by_others">Отметило людей: %d</string>
   <string name="menu_item_sort">Сортировка</string>
   <string name="menu_item_sort_date_asc">По дате (A-Я)</string>
   <string name="menu_item_sort_date_desc">По дате (Я-A)</string>
@@ -496,6 +498,7 @@
   <string name="album_share_subtitle_requesting">Загрузка информации об альбоме…</string>
   <string name="album_share_title_new_album">Делиться новым альбомом</string>
   <string name="by_email">Почта</string>
+  <string name="by_others">Люди</string>
   <string name="by_sms">Сообщение</string>
   <string name="cancel_hint">Операция отменена</string>
   <string name="cannot_send_message">Не удается отправить сообщение</string>
