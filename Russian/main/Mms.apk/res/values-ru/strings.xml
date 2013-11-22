@@ -179,6 +179,7 @@
     <string name="status_unread">Непрочитанные</string>
     <string name="status_rejected">Отклоненные</string>
     <string name="recipient_label">"Получатель: "</string>
+	<string name="refill_now">Пополнить</string>
     <string name="status_label">"Статус: "</string>
     <string name="attach_image">Изображение</string>
     <string name="attach_take_photo">Снять фото</string>
