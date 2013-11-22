@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="prefEntries_max_bytes_limit">
-		<item>Неограниченый</item>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>Неограничен</item>
         <item>20 МБ</item>
         <item>10 МБ</item>
         <item>5 МБ</item>
@@ -9,5 +9,5 @@
         <item>1 МБ</item>
         <item>512 КБ</item>
         <item>Wi-Fi</item>
-   </string-array>
+    </string-array>
 </resources>
