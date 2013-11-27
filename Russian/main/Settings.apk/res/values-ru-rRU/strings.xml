@@ -70,6 +70,7 @@
      <string name="act_mute_call_summary">Incoming calls from blocked numbers will not displayed but will still be logged</string>
      <string name="act_mute_ms">Mute notifications</string>
      <string name="act_mute_ms_summary">Notifications are disabled but messages will still be viewable</string>
+	 <string name="activate_miui_screensaver">Включить заставку</string>
      <string name="activating">Активация…</string>
      <string name="active_device_admin_msg">Администратор устройства</string>
      <string name="active_input_method_subtypes">Активные способы ввода</string>
@@ -82,7 +83,7 @@
      <string name="add_button">Добавить</string>
      <string name="add_device_admin">Активировать</string>
      <string name="add_device_admin_msg">Активировать администратора устройства?</string>
-	 <string name="add_whitelist">Add to exceptions</string>
+	 <string name="add_whitelist">Добавить в исключения</string>
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
@@ -90,6 +91,8 @@
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
      <string name="airplane_mode">Режим полета</string>
      <string name="alarm_volume_title">Будильник</string>
+	 <string name="alert_show_screensaver_when_not_charging_msg">В режиме заставки без подзарядки устройства, батарея будет садиться намного быстрее. Вы хотите отключить эту опцию?</string>
+     <string name="alert_show_screensaver_when_not_charging_title">Режим заставки</string>
      <string name="all_volume_title">Общая громкость</string>
      <string name="allow_bind_app_widget_activity_allow_bind">После создания виджета, %1$s может получить доступ ко всем отображаемым им данным</string>
      <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
@@ -1297,6 +1300,12 @@
      <string name="misc_files">Разное</string>
      <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
+	 <string name="miui_screensaver_show_time">Продолжительность</string>
+     <string name="miui_screensaver_show_time_select_title">Время заставки</string>
+     <string name="miui_screensaver_state_off">Выкл</string>
+     <string name="miui_screensaver_state_on">Вкл</string>
+     <string name="miui_screensaver_title">Заставка</string>
+     <string name="miui_screensaver_usage">Изображения из выбранного альбома будут отображаться в режиме слайд-шоу через 5 секунд после блокировки экрана</string>
      <string name="mms_vibrate_abbreviation">"Сообщения "</string>
      <string name="model_number">Модель:</string>
      <string name="move_app">Переместить</string>
@@ -1365,6 +1374,7 @@
      <string name="nsd_quick_toggle_summary">Позволяет приложениям на других устройствах обнаруживать приложения на этом устройстве</string>
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="oem_radio_info_label">Информация/настройки OEM</string>
+	 <string name="only_when_charging">Только при зарядке</string>
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
      <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
      <string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
@@ -1546,6 +1556,7 @@
      <string name="pico_not_installed">Не установлено</string>
      <string name="pico_voice_summary_female">Женский</string>
      <string name="pico_voice_summary_male">Мужской</string>
+	 <string name="picture_source">"Альбом "</string>
      <string name="ping_test_label">Проверить пинг</string>
      <string name="please_select_phase2">2-й этап аутентификации</string>
      <string name="please_type_passphrase">Сетевой пароль</string>

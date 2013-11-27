@@ -32,6 +32,7 @@
   <string name="add_bookmark_to_home_screen">Добавить на рабочий стол</string>
   <string name="add_folder">Добавить папку</string>
   <string name="add_new_bookmark">Добавить закладку</string>
+  <string name="add_quicklink_to_popular">Добавить на главную</string>
   <string name="add_to_bookmarks_menu_option">Закладки</string>
   <string name="add_to_homescreen_menu_option">Главный экран</string>
   <string name="add_to_other_folder_menu_option">Другая папка</string>
@@ -470,6 +471,7 @@
   <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
   <string name="preview">Предварительный просмотр</string>
   <string name="progress_dialog_setting_wallpaper">Применение обоев…</string>
+  <string name="quicklink_saved_before">Сайт добавлен на стартовую страницу</string>
   <string name="quicklink_user_define_webpage_title">Имя</string>
   <string name="quicklink_user_define_webpage_url">Ссылка</string>
   <string name="quicklinks_group_default_subtitle">Пусто</string>
@@ -513,6 +515,7 @@
   <string name="set_as_homepage">Сделать главной страницей</string>
   <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
   <string name="send_to_desktop">На стол</string>
+  <string name="send_to_popular">В избранные</string>
   <string name="share_link">Отправить ссылку</string>
   <string name="share_page">Поделиться</string>
   <string name="shortcut_bookmark">Закладка</string>
@@ -605,6 +608,7 @@
   <string name="quicklinks_management">Полезные сайты</string>
   <string name="quicklinks_most_visited">Добавить на главную</string>
   <string name="quicklinks_most_visited_subtitle">Добавить Ваш сайт на главный экран</string>
+  <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
   <string name="readmode_already_add_to_bookshelf">Добавлено в библиотеку</string>
   <string name="readmode_battery">Батарея </string>
   <string name="readmode_login">Войти</string>
