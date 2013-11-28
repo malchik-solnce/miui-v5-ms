@@ -1,34 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string name="app_name">Быстрый поиск</string>
-  <string name="clear_shortcuts">Очистить ярлыки</string>
-  <string name="clear_shortcuts_agree">Очистить</string>
-  <string name="clear_shortcuts_disagree">Назад</string>
-  <string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (очистить историю браузера - браузер - настройки)</string>
-  <string name="clear_shortcuts_summary">Очистка истории всех поисковых запросов</string>
-  <string name="corpus_description_apps">Имена установленных приложений</string>
-  <string name="corpus_description_web">Веб-поиск, закладки и истории браузера</string>
-  <string name="corpus_hint_apps">Поиск приложений</string>
-  <string name="corpus_label_apps">Приложения</string>
-  <string name="corpus_label_global">Все</string>
-  <string name="corpus_label_web">Интерент</string>
-  <string name="corpus_selection_heading">Поиск</string>
-  <string name="device_settings_category_title">Очистить ярлыки</string>
-  <string name="google_app_label">Поиск Google</string>
-  <string name="google_search_description">Предложения Google поиска</string>
-  <string name="google_search_hint">Поиск Google</string>
-  <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Поиск Google</string>
-  <string name="menu_help">Помощь</string>
-  <string name="menu_settings">Параметры поиска</string>
-  <string name="remove_from_history">Удалено из истории поиска</string>
-  <string name="remove_from_history_failed">Ошибка удаления записи из истории поиска</string>
-  <string name="search_settings">Настройки</string>
-  <string name="search_sources">Элементы поиска</string>
-  <string name="search_sources_summary">Выберите что искать в телефоне</string>
-  <string name="search_widget">Поиск</string>
-  <string name="system_search_category_title">Телефон</string>
-  <string name="search_in_app_store">Поиск в маркете</string>
-  <string name="search_in_web">Поиск в интернете</string>
-  <string name="voice_search_hint_title">Попробуйте сказать:</string>
+     <string name="app_name">Быстрый поиск</string>
+     <string name="clear_shortcuts">Очистить ярлыки</string>
+     <string name="clear_shortcuts_agree">Очистить</string>
+     <string name="clear_shortcuts_disagree">Назад</string>
+     <string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (очистить историю браузера - браузер - настройки)</string>
+     <string name="clear_shortcuts_summary">Очистка истории всех поисковых запросов</string>
+     <string name="corpus_description_apps">Имена установленных приложений</string>
+     <string name="corpus_description_web">Веб-поиск, закладки и истории браузера</string>
+     <string name="corpus_hint_apps">Поиск приложений</string>
+     <string name="corpus_label_apps">Приложения</string>
+     <string name="corpus_label_global">Все</string>
+     <string name="corpus_label_web">Интерент</string>
+     <string name="corpus_selection_heading">Поиск</string>
+     <string name="device_settings_category_title">Очистить ярлыки</string>
+     <string name="google_app_label">Поиск Google</string>
+     <string name="google_search_description">Предложения Google поиска</string>
+     <string name="google_search_hint">Поиск Google</string>
+     <string name="google_settings_category_title">Поиск Google</string>
+     <string name="menu_help">Помощь</string>
+     <string name="menu_settings">Параметры поиска</string>
+     <string name="remove_from_history">Удалено из истории поиска</string>
+     <string name="remove_from_history_failed">Ошибка удаления записи из истории поиска</string>
+     <string name="search_in_app_store">Поиск в маркете</string>
+     <string name="search_in_web">Поиск в интернете</string>
+     <string name="search_settings">Настройки</string>
+     <string name="search_sources">Элементы поиска</string>
+     <string name="search_sources_summary">Выберите что искать в телефоне</string>
+     <string name="search_widget">Поиск</string>
+     <string name="system_search_category_title">Телефон</string>
+     <string name="voice_search_hint_title">Попробуйте сказать:</string>
 </resources>

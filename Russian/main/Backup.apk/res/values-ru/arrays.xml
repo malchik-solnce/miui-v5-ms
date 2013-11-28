@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="backup_dialog_content_type">
+     <string-array name="app_type_desc">
+        <item>(данные)</item>
+        <item>(приложение)</item>
+        <item>(приложение + данные)</item>
+     </string-array>
+     <string-array name="backup_dialog_content_type">
         <item>Параметры Wi-Fi</item>
         <item>Все приложения</item>
-    </string-array>
-    <string-array name="system_package_label">
-        <item>Браузер</item>
-        <item>Галерея</item>
-        <item>Суперпользователь</item>
-        <item>Камера</item>
-        <item>Монитор</item>
-		<item>Хранилище погоды</item>
-        <item>Погода</item>
-    </string-array>
-    <string-array name="system_data_label">
+     </string-array>
+     <string-array name="cloud_account_data">
+        <item>Контакты</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Заметки</item>
+     </string-array>
+     <string-array name="cloud_data_label">
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Заметки</item>
+     </string-array>
+     <string-array name="cloud_sim_data">
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+     </string-array>
+     <string-array name="system_data_label">
         <item>Контакты</item>
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
@@ -25,26 +38,14 @@
         <item>Заметки</item>
         <item>Черный список</item>
         <item>Аккаунт</item>
-    </string-array>
-    <string-array name="app_type_desc">
-        <item>(данные)</item>
-        <item>(приложение)</item>
-        <item>(приложение + данные)</item>
-    </string-array>
-    <string-array name="cloud_data_label">
-        <item>Контакты</item>
-        <item>Журнал вызовов</item>
-        <item>Сообщения</item>
-        <item>Настройки Wi-Fi</item>
-        <item>Заметки</item>
-    </string-array>
-    <string-array name="cloud_account_data">
-        <item>Контакты</item>
-        <item>Настройки Wi-Fi</item>
-        <item>Заметки</item>
-    </string-array>
-    <string-array name="cloud_sim_data">
-        <item>Журнал вызовов</item>
-        <item>Сообщения</item>
-    </string-array>
+     </string-array>
+     <string-array name="system_package_label">
+        <item>Браузер</item>
+        <item>Галерея</item>
+        <item>Суперпользователь</item>
+        <item>Камера</item>
+        <item>Монитор</item>
+        <item>Хранилище погоды</item>
+        <item>Погода</item>
+     </string-array>
 </resources>

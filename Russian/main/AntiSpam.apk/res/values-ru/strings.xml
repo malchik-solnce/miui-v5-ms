@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_name">Антиспам</string>
      <string name="bl_block_info" formatted="false">Вызовов: %d, Сообщений: %d</string>
@@ -19,7 +20,6 @@
      <string name="dlg_clear_current_ok">Удалить</string>
      <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения отправленные этим номером?</string>
      <string name="dlg_delete_keyword">Вы действительно хотите удалить эти ключевые слова?</string>
-     <string name="dlg_delete_vip">Хотите удалить этот VIP-номер?</string>
      <string name="dlg_edit_keyword">Изменить ключевые слова</string>
      <string name="dlg_import_blacklist">Добавить в черный список</string>
      <string name="dlg_import_whitelist">Добавить в VIP список</string>
@@ -37,7 +37,6 @@
      <string name="menu_add">Добавить</string>
      <string name="menu_add_into_contact">Добавить в существующий контакт</string>
      <string name="menu_add_new_contact">Новый контакт</string>
-     <string name="menu_add_vip_custom">Добавить VIP</string>
      <string name="menu_bl_add_contact">Контакты</string>
      <string name="menu_bl_add_manual">Добавить</string>
      <string name="menu_bl_call_log">Проверьте заблокированные вызовы</string>
@@ -55,41 +54,14 @@
      <string name="menu_remove">Удалить</string>
      <string name="menu_restore">Восстановить в сообщения</string>
      <string name="menu_sms">Отправить сообщение</string>
-     <string name="qm_auto_button_title">По расписанию</string>
-     <string name="qm_auto_setting_group">АВТОМАТИЧЕСКОЕ ВКЛЮЧЕНИЕ</string>
-     <string name="qm_auto_time_setting">Установка времени</string>
-     <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
-     <string name="qm_auto_time_turn_off">До</string>
-     <string name="qm_auto_time_turn_off_title">Врямя отключения тихого режима</string>
-     <string name="qm_auto_time_turn_on">С</string>
-     <string name="qm_auto_time_turn_on_title">Время включения тихого режима</string>
-     <string name="qm_notification">Не беспокоить</string>
-     <string name="qm_open">Не беспокоить</string>
-     <string name="qm_repeated_call_setting_title">Не блокировать 2-ой вызов</string>
-     <string name="qm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
-     <string name="qm_repeated_call_summary_none">Не делать исключение для повторных вызовов</string>
-     <string name="qm_special_call_setting_group">ИСКЛЮЧЕНИЯ</string>
-     <string name="qm_summary">После включения режима не беспокоить, входящие звонки и сообщения будут без звука</string>
-     <string name="qm_vip_call_button_title">Разрешить звонки от VIP-персон</string>
-     <string name="qm_vip_call_setting_title">Настройка VIP-номеров</string>
-     <string name="qm_vip_call_summary_contact">Все контакты</string>
-     <string name="qm_vip_call_summary_custom">Исключая %d VIP-номеров</string>
-     <string name="qm_vip_call_summary_none">Не был настроен</string>
-     <string name="qm_vip_list_contact">Все контакты</string>
-     <string name="qm_vip_list_custom">Мои VIP-персоны</string>
-     <string name="qm_vip_list_custom_group">МОИ VIP-ПЕРСОНЫ</string>
-     <string name="qm_vip_list_group">VIP-СПИСОК</string>
-     <string name="quiet_mode">Режим не беспокоить</string>
-     <string name="st_bl_block_setting_title">Прием вызовов и сообщений</string>
-     <string name="st_bl_setting_group">Настройки черного списока</string>
-	 <string name="st_advanced_setting_group">Дополнительн блокировать</string>
+     <string name="st_advanced_setting_group">Дополнительн блокировать</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>
      <string name="st_block_private_call_button">Блокировать неопред. номера</string>
-	 <string name="st_block_setting_group">Настройки черного списка</string>
+     <string name="st_block_setting_group">Настройки черного списка</string>
      <string name="st_block_setting_title">Звонки и сообщения</string>
      <string name="st_block_title">Блокировка и запись в журнал</string>
-	 <string name="st_block_unknown_call">Все неизвестные звонки</string>
+     <string name="st_block_unknown_call">Все неизвестные звонки</string>
      <string name="st_block_unknown_sms">Все неизвестные сообщения</string>
      <string name="st_call_group">При получении вызова</string>
      <string name="st_common_setting_group">Быстрый просмотр</string>
@@ -101,17 +73,17 @@
      <string name="st_mute_all">Вызовы и сообщения без звука</string>
      <string name="st_mute_block">Вызовы без звука и блокировка сообщений</string>
      <string name="st_mute_title">Не уведомлять, но не блокировать</string>
-	 <string name="st_other_setting_group">ДРУГИЕ НАСТРОЙКИ</string>
+     <string name="st_other_setting_group">ДРУГИЕ НАСТРОЙКИ</string>
      <string name="st_settings_name">Настройки</string>
-	 <string name="st_show_block_notification">Показывать уведомления</string>
+     <string name="st_show_block_notification">Показывать уведомления</string>
      <string name="st_sms_group">При получении сообщения</string>
      <string name="tab_blacklist">Черный список</string>
      <string name="tab_block_log">Журнал</string>
-	 <string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
+     <string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
      <string name="tab_call">Вызовы</string>
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
      <string name="toast_keyword_exist">Ключекое слово уже существует</string>
-	 <string name="toast_keyword_invalid">Неверное ключевое слово</string>
+     <string name="toast_keyword_invalid">Неверное ключевое слово</string>
 </resources>

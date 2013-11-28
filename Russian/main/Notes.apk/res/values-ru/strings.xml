@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
+     <string name="alert_action_edit_anyway">Продолжить</string>
+     <string name="alert_edit_action_delete">Удалить</string>
+     <string name="alert_edit_action_update">Обновить</string>
+     <string name="alert_message_delete_folders">Удалить выбранные папки (%1$s)?</string>
+     <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
+     <string name="alert_message_delete_note">Удалить заметку?</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Confirm to delete the selected %1$s notes? -->
+     <string name="alert_message_delete_notes">Удалить выбранные заметки?</string>
+     <string name="alert_message_discard_changes">Отменить все действия?</string>
+     <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
+     <string name="alert_title_edit_anyway">Вы хотите отредактировать?</string>
+     <string name="app_name">Заметки</string>
+     <string name="app_widget">Заметки</string>
+     <string name="attachment_camera">Камера</string>
+     <string name="attachment_contact">Контакт</string>
+     <string name="attachment_gallery">Галерея</string>
+     <string name="button_new_note">Новая заметка</string>
+     <string name="call_record_folder_name">Голосовые заметки</string>
+     <string name="close">Закрыть</string>
+     <string name="default_folder_name">Заметки</string>
+     <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в режиме \"Без звука\"</string>
+     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
+     <string name="enable_sync">Синхронизация</string>
+     <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
+     <string name="error_contact_not_exist">Контакт не существует</string>
+     <string name="error_note_empty_for_clock">К сожалению, невозможно установить время для пустой заметки</string>
+     <string name="error_note_empty_for_send_to_desktop">Не могу отправить</string>
+     <string name="error_note_not_exist">Заметка не существует</string>
+     <string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту</string>
+     <string name="error_sdcard_unmounted">SD-карта занята и сейчас недоступна</string>
+     <string name="error_unsupport_content">Заметка содержит неподдерживаемое содержимое. Нажмите для обновления системы.</string>
+     <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже на рабочем столе</string>
+     <string name="failed_sdcard_export">Экспорт неудался</string>
+     <string name="folder_exist">Папка %1$s уже существует</string>
+     <string name="format_exported_file_location">Заметка сохранена в файл /%1$s/ в папке %2$s на SD-карте</string>
+     <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
+     <string name="hint_foler_name">Введите имя</string>
+     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
+     <string name="login_sync">Вход и синхронизация</string>
+     <string name="menu_create_folder">Новая папка</string>
+     <string name="menu_delete">Удалить</string>
+     <string name="menu_discard">Сброс</string>
+     <string name="menu_folder_change_name">Переименовать папку</string>
+     <string name="menu_move">Переместить в папку</string>
+     <string name="menu_move_parent_folder">Назад</string>
+     <string name="menu_rename_folder">Переименовать папку</string>
+     <string name="menu_send_to_desktop">На рабочий стол</string>
+     <string name="menu_setting">Настройки</string>
+     <string name="menu_stick">Прикрепить</string>
+     <string name="menu_title_select_folder">Выберите папку</string>
+     <string name="menu_unstick">Открепить</string>
+     <string name="not_now">Не сейчас</string>
+     <string name="note_alert_expired">Просрочено</string>
+     <string name="note_link_email">Отправить E-mail</string>
+     <string name="note_link_other">Посмотреть на карте</string>
+     <string name="note_link_select">Выделить текст</string>
+     <string name="note_link_tel">Позвонить</string>
+     <string name="note_link_web">Открыть браузер</string>
+     <string name="notealert_enter">Посмотреть</string>
+     <string name="notealert_ok">Готово</string>
+     <string name="notelist_menu_new">Новая заметка</string>
+     <string name="notify_alarm_action_mute">Без звука</string>
+     <string name="notify_alarm_action_view">Просмотр</string>
+     <string name="notify_alarm_title">Напоминание</string>
+     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в режиме \"Без звука\"</string>
+     <string name="pref_desc_mode_grid">Сетка</string>
+     <string name="pref_desc_mode_list">Список</string>
+     <string name="pref_title_alarm_when_silent">Сигналы в тихом режиме</string>
+     <string name="pref_title_common">ОБЩИЕ НАСТРОЙКИ</string>
+     <string name="pref_title_data_export_to_sdcard">Экспорт. заметки на SD-карту</string>
+     <string name="pref_title_font_size">Размер шрифта</string>
+     <string name="pref_title_note_style">СТИЛЬ</string>
+     <string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
+     <string name="preferences_title">Настройки</string>
+     <string name="search">Заметки</string>
+     <string name="search_hint">Поиск заметок</string>
+     <string name="search_label">Поиск заметок</string>
+     <string name="search_setting_description">Текст в заметках</string>
+     <string name="select_account_prompt">Включена синхронизация заметок</string>
+     <string name="snippet_image_stub">[Картинка]</string>
+     <string name="success_sdcard_export">Экспорт завершен</string>
+     <string name="time_picker_dialog_title">Установка времени напоминания</string>
+     <string name="toast_folder_privacy_mode">Нельзя изменить папку в гостевом режиме</string>
+     <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_note_privacy_mode">Cannot edit note in guarded mode</string>
+     <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
+     <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
+     <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
+     <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
+</resources>

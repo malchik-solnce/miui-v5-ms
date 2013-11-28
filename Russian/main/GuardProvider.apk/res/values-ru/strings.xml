@@ -1,5 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string name="app_name">MIUI</string>
-  <string name="menu_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">MIUI</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="menu_settings">Настройки</string>
 </resources>
