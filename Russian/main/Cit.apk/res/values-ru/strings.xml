@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="cit_ac_charger_in">Зарядное устройство переменного тока подключено</string>
   <string name="cit_ac_charger_out">Отключите зарядное устройство переменного тока</string>
   <string name="cit_accelermeter_sensor_check_summary">Ускорение движения в направлении X, Y, Z показано в трех векторах</string>
