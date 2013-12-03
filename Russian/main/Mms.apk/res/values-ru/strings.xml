@@ -92,11 +92,7 @@
      <string name="copy_message_text_success">Текст скопирован</string>
      <string name="copy_to_sdcard">Сохранить приложение</string>
      <string name="copy_to_sdcard_fail">Файл не сохранен</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Attachment saved as %s -->
-     <string name="copy_to_sdcard_success">Файл сохранен</string>
+     <string name="copy_to_sdcard_success">Файл сохранен как %s</string>
      <string name="database_corruption">База данных повреждена, пересоздание базы данных</string>
      <string name="delete">Удалить</string>
      <string name="delete_bookmark">Удалить закладку</string>
@@ -142,18 +138,14 @@
      <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
      <string name="festival">Шутки</string>
      <string name="festival_sms_category_count_format">(%s)</string>
-     <string name="festival_sms_loading">Загрузка...</string>
+     <string name="festival_sms_loading">Загрузка…</string>
      <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
      <string name="forward_from">От:</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s
 Вы хотите загрузить их в свой текущий аккаунт %2$s?"</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Download cloud messages from your other SIM cards? -->
-     <string name="found_wild_messages">В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их?</string>
+     <string name="found_wild_messages">В облаке найдены сообщения с других SIM-карт. Вы хотите загрузить их?</string>
      <string name="found_wild_messages_title">Скачка сообщений</string>
      <string name="from_label">"От: "</string>
      <string name="group_message">Групповое сообщение</string>
