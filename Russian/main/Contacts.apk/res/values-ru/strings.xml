@@ -842,6 +842,7 @@
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Принять</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -865,6 +866,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Авторизация…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_hint">Alert</string>
      <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импорт…</string>
@@ -909,6 +911,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_nickname">Восстановить</string>

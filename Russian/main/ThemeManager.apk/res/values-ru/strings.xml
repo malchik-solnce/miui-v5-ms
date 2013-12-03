@@ -87,6 +87,7 @@
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_loading_list">Загрузка комментариев…</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Нет комментариев</string>
      <string name="resource_comment_publish">Отправить</string>
@@ -120,6 +121,7 @@
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Принять</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -131,6 +133,7 @@
      <string name="resource_exchange_share_code_dlg_content">Приобретен код для %1$s: %2$s. Теперь Вы можете поделиться этим с друзьями.</string>
      <string name="resource_exchange_share_code_dlg_title">Отправка кода</string>
      <string name="resource_exchange_success">Наслаждайтесь! :)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_unavailable">The code entered is not valid for this theme</string>
      <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы с магазина тем MIUI</string>
      <string name="resource_exchange_universal_goon">Этот код может быть использован для загрузки любой темы из магазина MIUI</string>
@@ -188,6 +191,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>

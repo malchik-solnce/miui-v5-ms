@@ -41,6 +41,7 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -110,6 +111,7 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>

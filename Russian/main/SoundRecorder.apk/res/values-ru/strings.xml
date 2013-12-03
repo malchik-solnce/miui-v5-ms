@@ -7,6 +7,7 @@
      <string name="audio_db_artist_name">Ваши записи</string>
      <string name="audio_db_playlist_name">Мои записи</string>
      <string name="back">Назад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="call_record">Запись вызова (%d)</string>
      <string name="call_record_or">или</string>

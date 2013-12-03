@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="airplanemode">Unable to launch application. Flight mode on</string>
      <string name="alphabet">Алфавит</string>
      <string name="app_name">Инструменты SIM-карты</string>
      <string name="app_name2">Инструменты SIM-карты 2</string>
