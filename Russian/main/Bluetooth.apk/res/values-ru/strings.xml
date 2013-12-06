@@ -13,6 +13,7 @@
      <string name="bpp_cancel">Отмена</string>
      <string name="bpp_main">Bluetooth печать</string>
      <string name="bpp_printing_button_text">Печать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
      <string name="bpp_session_key_dialog_title">Введите ключ сессии для %1$s</string>
      <string name="bpp_setting_text">Настроики</string>
@@ -50,15 +51,20 @@
      <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
      <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
      <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
      <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
      <string name="ftp_notif_message">Allow root folder access by %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ftp_notif_ticker">Obex authentication request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ftp_notif_title">Session Key Request for FTP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ftp_session_key_dialog_header">Bluetooth session key required</string>
      <string name="ftp_session_key_dialog_title">Type session key for %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hello">Hello World, TestActivity</string>
      <string name="inbound_history_title">Входящие передачи</string>
      <string name="inbound_noti_title">Bluetooth: полученные файлы</string>
@@ -75,6 +81,7 @@
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="map_acceptance_dialog_header">Phone Folder Access</string>
      <string name="map_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
      <string name="map_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
@@ -116,15 +123,23 @@
      <string name="permdesc_handoverStatus">Позволяет получать информацию статуса передачи Bluetooth</string>
      <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
      <string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_prepare">Preparing Bluetooth Share</string>
      <string name="start_server">Запустить TCP-сервер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_aborted_by_printer">Printing failed due to aborted by the printer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_canceled_by_user">Printing has canceled by a user</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_cancelled_by_printer">Printing failed due to canceled by the printer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_disconnected">Printing failed due to bluetooth connection lost</string>
      <string name="status_bpp_door_open">Printing failed due to door-opened</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_marker_failure">Printing failed due to marker failure</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_marker_supply_empty">Printing failed due to marker supply empty</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bpp_marker_supply_low">Printing failed due to marker supply low</string>

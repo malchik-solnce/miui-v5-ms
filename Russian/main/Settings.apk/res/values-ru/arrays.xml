@@ -185,6 +185,7 @@
 ткройте и выберите файл AndroidFileTransfer.dmg для установки"</item>
         <item></item>
      </string-array>
+     <!-- The size of the array does not match! Now: 7 must: 6 -->
      <string-array name="msd_pc_system_install_step_2_summary">
         <item>"2. Мобильное устройство хранения MI-2 появится на вашем компьютере
 Теперь вы можете передавать файлы"</item>
