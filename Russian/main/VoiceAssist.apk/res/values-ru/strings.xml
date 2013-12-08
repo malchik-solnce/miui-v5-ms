@@ -28,8 +28,7 @@
      <string name="alarming">Добавлено ​​напоминание:：%1$s %2$s</string>
      <string name="alert_provider_message">Разрешить приложению использовать ваше текущее местоположение?</string>
      <string name="alert_provider_title">Уведомления местоположения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_resources">All</string>
+     <string name="all_resources">Все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_about_1">v4.0.4</string>
      <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
@@ -100,7 +99,7 @@
      <string name="contacts">通讯录</string>
      <string name="content">Содержание</string>
      <string name="day">日</string>
-     <string name="deleting">Deleting…</string>
+     <string name="deleting">Удаление…</string>
      <string name="descript_format" formatted="false">%s - %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_author">Author</string>

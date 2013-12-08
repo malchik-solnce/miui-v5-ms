@@ -22,7 +22,7 @@
      <string name="add_video">Добавить видео</string>
      <string name="adding_attachments">Добавление. Подождите…</string>
      <string name="adding_attachments_title">Добавление вложений</string>
-     <string name="adding_recipients">Добавление получателей...</string>
+     <string name="adding_recipients">Добавление получателей…</string>
      <string name="app_label">Сообщения</string>
      <string name="attach_image">Изображение</string>
      <string name="attach_record_sound">Записать аудио</string>
@@ -110,7 +110,7 @@
      <string name="done">Готово</string>
      <string name="download">Загрузить</string>
      <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
-     <string name="downloading">Загрузка...</string>
+     <string name="downloading">Загрузка…</string>
      <string name="duration_not_a_number">Должно быть указано числовое значение</string>
      <string name="duration_sec">Продолжительность: (%s с.)</string>
      <string name="duration_selector_title">"Продолжительность показа слайда "</string>
@@ -227,7 +227,7 @@
 SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: онлайн</string>
      <string name="mx_dspt">Отправлять сообщения через интернет</string>
-     <string name="mx_enable">Вкл. облачные сообщения</string>
+     <string name="mx_enable">Облачные сообщения</string>
      <string name="mx_enable_int_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между пользователями MIUI. Для активации будет отправлено международное SMS. Стоимость сообщения зависит от оператора. Активировать сейчас? Вы сможете активировать позже в Настройках.</string>
      <string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется отправка обычного SMS сообщения для активации. Активировать сейчас?</string>
      <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлено международное SMS. Стоимость сообщения зависит от оператора.</string>
@@ -382,8 +382,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="set">Сохранить</string>
      <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
      <string name="show_all_messages">Показать все сообщения</string>
-     <string name="sim_card1">SIM Карта 1</string>
-     <string name="sim_card2">SIM Карта 2</string>
+     <string name="sim_card1">SIM-карта 1</string>
+     <string name="sim_card2">SIM-карта 2</string>
      <string name="sim_card_cloud">%s (облачное сообщение)</string>
      <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
      <string name="sim_delete">Удалить</string>

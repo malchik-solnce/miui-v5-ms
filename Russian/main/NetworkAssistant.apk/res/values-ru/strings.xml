@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about">О программе</string>
-     <string name="adjust_module_miss">Модуль использование данных отсутствует</string>
+     <string name="adjust_module_miss">Модуль использования данных отсутствует</string>
      <string name="adjust_no_network_update_data_fail">Ошибка обновления данных. Проверьте настройки подключения к сети.</string>
      <string name="adjust_traffic_auto_adjust_hint">Система регулярно запрашивает и регулирует Передачу данных от операторов. Вам необходимо ввести информацию о операторах.</string>
      <string name="adjust_traffic_auto_adjust_open_hint">Автокорректировка трафика включена и будет автоматически регулярно регулировать трафик</string>
@@ -123,8 +123,7 @@
      <string name="pref_traffic_adjust_title">Регулировка трафика</string>
      <string name="pref_traffic_daily_limit_settings">Настройки дневного лимита</string>
      <string name="pref_traffic_settings">Настройки трафика</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="process_kernel_label">Android OS</string>
+     <string name="process_kernel_label">Система</string>
      <string name="retry">Повторить</string>
      <string name="running_apps_activity_title">Запущенные приложения</string>
      <string name="save">Сохранить</string>
@@ -162,12 +161,12 @@
      <string name="unknown_free_traffic_text">Я не знаю свой обьем трафика</string>
      <string name="unknown_free_traffic_title">Неизвестный разрешенный трафик</string>
      <string name="unknown_location">Неизвестное местоположение</string>
-     <string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
+     <string name="unknown_traffic_hint">Лимит трафика не установлен. Установить его сейчас?</string>
      <string name="unknown_version">Неизвестная версия</string>
      <string name="update_fail">Ошибка обновления</string>
-     <string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>
+     <string name="update_no_network">Ошибка обновления. Проверьте настройки сети.</string>
      <string name="update_success">Успешно обновлено</string>
-     <string name="updating">Обновление...</string>
+     <string name="updating">Обновление…</string>
      <string name="used_flux">Трафик</string>
      <string name="version_label">Версия:</string>
      <string name="warning_settings_toast">%1$d%% %2$d MB</string>
