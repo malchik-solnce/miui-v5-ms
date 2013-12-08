@@ -15,8 +15,7 @@
      <string name="app_name">Файлы</string>
      <string name="application_size_label">Приложение</string>
      <string name="background">В фоне</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="big5_summary">Traditional Chinese Windows default encoding</string>
+     <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
      <string name="bind_account">Привязка к аккаунту Kuaipan</string>
      <string name="bind_account_summary">Если Вы уже имеете аккаунт KuaiPan, то можно связать его с аккаунтом Xiaomi</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
@@ -83,7 +82,7 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите на ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
-     <string name="empty_dir_cleanup_indication">Пустых папок: %s </string>
+     <string name="empty_dir_cleanup_indication">Пустых папок: %s</string>
      <string name="empty_dir_title">Пустые каталоги</string>
      <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
@@ -94,7 +93,7 @@
      <string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует</string>
      <string name="favorite_photo">Фото</string>
      <string name="favorite_ringtone">Мелодии</string>
-     <string name="favorite_screen_cap">Скриншоты MIUI</string>
+     <string name="favorite_screen_cap">Скриншоты</string>
      <string name="file_cleanup">Очистка файлов</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
@@ -186,7 +185,8 @@
      <string name="operation_decompressing">Распаковка архива…</string>
      <string name="operation_delete">Удалить</string>
      <string name="operation_delete_confirm_message">Подтверждение удаления</string>
-     <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней. </string>
+     <string name="operation_delete_confirm_message_folder">"Удаление папки удалит все файлы в ней. 
+"</string>
      <string name="operation_deleting">Удаление…</string>
      <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
      <string name="operation_download_link">Создание ссылки для скачивания</string>
@@ -220,7 +220,7 @@
      <string name="scanning" formatted="false">Сканирование приложения %d из %d…</string>
      <string name="scanning_on_going">Сканирование…</string>
      <string name="sd_card_available">Свободно: %1$s</string>
-     <string name="sd_card_size">SD-карта: %1$s</string>
+     <string name="sd_card_size">Всего: %1$s</string>
      <string name="sd_full">SD-карта заполнена</string>
      <string name="sd_size_label">Польз. память</string>
      <string name="search_hint">Введите часть или все имя файла</string>
@@ -265,9 +265,9 @@
  для освобождения места"</string>
      <string name="trash_box_message2">"Вы можете удалить не нужные файлы или очистить корзину 
  для освобождения места"</string>
-     <string name="ui_bar_txt_download_progress">%1$d файлов осталось скачать</string>
-     <string name="ui_bar_txt_upload_progress">%1$d файлов осталось загрузить</string>
-     <string name="ui_filechange_btn_download">Загрузка файла</string>
+     <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)…</string>
+     <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)…</string>
+     <string name="ui_filechange_btn_download">Скачать</string>
      <string name="ui_filechange_btn_upload">Загрузить</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>
      <string name="ui_main_menu_option_task_manage">Обмен файлами</string>

@@ -2,9 +2,9 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="number_of_cloudimages">
-        <item quantity="other">%1$d изображений</item>
-        <item quantity="zero">%1$d изображений</item>
-        <item quantity="one">%1$d изображение</item>
+        <item quantity="other">Изображений: %1$d</item>
+        <item quantity="zero">Изображений: %1$d</item>
+        <item quantity="one">Изображений: %1$d</item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>

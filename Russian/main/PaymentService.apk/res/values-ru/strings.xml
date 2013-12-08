@@ -155,12 +155,12 @@
      <string name="label_balance">Баланс:</string>
      <string name="label_order_name">Продукт:</string>
      <string name="label_order_price">Цена:</string>
-     <string name="linkpay_account">卡号:</string>
-     <string name="linkpay_account_cannot_be_null">账号不能为空</string>
+     <string name="linkpay_account">Аккаунт:</string>
+     <string name="linkpay_account_cannot_be_null">Требуется аккаунт</string>
      <string name="linkpay_achieve_charge">完成充值</string>
      <string name="linkpay_app_name">支付</string>
-     <string name="linkpay_back_game">返回游戏</string>
-     <string name="linkpay_cancel">取消</string>
+     <string name="linkpay_back_game">Назад в игру</string>
+     <string name="linkpay_cancel">Отмена</string>
      <string name="linkpay_charge_account">充值账户:</string>
      <string name="linkpay_charge_game">充值游戏</string>
      <string name="linkpay_charge_money">充值金额:</string>
@@ -326,11 +326,7 @@
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Carriers charge a ￥%1$s service fee per top-up -->
-     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1 юань</string>
+     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
@@ -385,7 +381,7 @@
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
-     <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, оплачено %2$s MiCredits</string>
+     <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, куплено: %2$s MiCredits</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
@@ -397,11 +393,11 @@
 2. Сообщите свой серийный номер: %2$s"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
-     <string name="recharge_denomination">%1$s ￥</string>
-     <string name="recharge_grid_edit_hint">Размер (￥)</string>
-     <string name="recharge_grid_edit_limit">%1$s~%2$s ￥</string>
-     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s ￥</string>
-     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s ￥</string>
+     <string name="recharge_denomination">%1$s юань</string>
+     <string name="recharge_grid_edit_hint">Размер (юань)</string>
+     <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
+     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
+     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s юань</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>

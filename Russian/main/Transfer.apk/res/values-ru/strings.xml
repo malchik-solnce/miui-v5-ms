@@ -39,7 +39,7 @@
      <string name="download_succeed">Загрузка завершена</string>
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Поделиться</string>
-     <string name="empty_share_history">История отправки пуста</string>
+     <string name="empty_share_history">История пуста</string>
      <string name="error_bad_file">Поврежденный файл</string>
      <string name="error_connect_service">Не удается подключиться к службе передачи</string>
      <string name="error_download">Ошибка загрузки</string>
@@ -47,15 +47,12 @@
      <string name="error_info_cant_send_folder">Внимание! Папки не могут быть отправлены!</string>
      <string name="error_network">Ошибка сети</string>
      <string name="error_nofile_selected">Нет выбранных файлов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_not_enough_space">Not enough space.</string>
+     <string name="error_not_enough_space">Не хватает места</string>
      <string name="error_not_selected">Файл не выбран</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_peer_disconnected">Peer disconnected.</string>
+     <string name="error_peer_disconnected">Отключен</string>
      <string name="error_select">Ошибка обмена или файл еще не выбран</string>
      <string name="error_transmit">Ошибка обмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_upload">Upload error.</string>
+     <string name="error_upload">Ошибка загрузки</string>
      <string name="fail">Ошибка</string>
      <string name="failed">Ошибка</string>
      <string name="file_download">Скачать файл</string>
@@ -74,7 +71,7 @@
      <string name="generating_share_link">Создание ссылки…</string>
      <string name="get_share_failed">Не удалось поделиться!</string>
      <string name="goback">Вернуться</string>
-     <string name="guide_label">Руководство</string>
+     <string name="guide_label">Инструкция</string>
      <string name="hint_createfolder">Имя папки</string>
      <string name="history">Иcтория</string>
      <string name="history_all">Вся история</string>
@@ -137,8 +134,7 @@
      <string name="received_files">Принятые файлы</string>
      <string name="received_share_file">Отправить принятые файлы</string>
      <string name="received_share_message">Принятые от %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recv_sound">Receive sound</string>
+     <string name="recv_sound">Получить музыку</string>
      <string name="resend">Повторить</string>
      <string name="restart">Возобновить</string>
      <string name="restore_succeed">Успешно восстановлено</string>
@@ -150,16 +146,14 @@
      <string name="scan_file">Обзор файлов</string>
      <string name="scan_tip">"Убедитесь, что получатель имеет
 возможность принять файлы"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scan_title">Please focus the 2D code</string>
+     <string name="scan_title">Пожалуйста, сфокусируйтесь на 2D-коде</string>
      <string name="scanning">Сканирование…</string>
      <string name="sdcard_invalid">SD-карта недоступна!</string>
      <string name="sdcard_unavailable">SD-карта недоступна</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_file_to_share">Выберите файл</string>
      <string name="send">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="send_2d_code">Send with 2D code</string>
+     <string name="send_2d_code">Отправить с 2D-кодом</string>
      <string name="send_cancel_tip">Остановить передачу?</string>
      <string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
      <string name="send_file_to_friends_by_net">Отправка через интернет</string>
@@ -169,16 +163,15 @@
      <string name="send_history_deleted">История загрузок удалена</string>
      <string name="send_nfc">Отправить через NFC</string>
      <string name="send_share_link">Отправить ссылку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="send_sound">Send with sound</string>
+     <string name="send_sound">Отправить со звуком</string>
      <string name="send_tip">Пакетная передача фотографий, музыки, контактов и других файлов</string>
-     <string name="send_to">Отправить на:</string>
+     <string name="send_to">Отправить:</string>
      <string name="send_uncompleted">Отправка не завершена</string>
      <string name="sent">Отправлено</string>
      <string name="settings_auto_pair_sender_summary">Автоматическое сопряжение при передаче аудио</string>
      <string name="settings_auto_pair_sender_title">Автосопряжение аудио</string>
-     <string name="settings_connect">Настройки сети</string>
-     <string name="settings_label">Настройки</string>
+     <string name="settings_connect">Настройки соединения</string>
+     <string name="settings_label">Настройки приложения</string>
      <string name="settings_photo">Аватар</string>
      <string name="settings_photo_camera">Снять фото</string>
      <string name="settings_photo_pick">Выбрать из галереи</string>
@@ -189,7 +182,7 @@
      <string name="share_history">Истария отправки</string>
      <string name="share_item_not_found">Файл не существует</string>
      <string name="share_message">%1$s отправлено</string>
-     <string name="share_msg_model">"Я поделился с тобой файлом
+     <string name="share_msg_model">"Я поделился с Вами файлом:
 [Скачать] %1$s"</string>
      <string name="share_text">MIUIv5 поддерживает передачу файлов без интернет соединения. Кто не является пользователем MIUIv5, может скачать приложение: %1$s</string>
      <string name="shortmessage">Короткое сообщение</string>
@@ -227,6 +220,6 @@
      <string name="waitting">Ожидание…</string>
      <string name="wanna_receive">Получить</string>
      <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети</string>
-     <string name="welcome_tip2">Быстро передавать фотографии, музыку, контакты и многое другое!</string>
-     <string name="you_can">Я могу</string>
+     <string name="welcome_tip2">Быстрая передача фотографий, музыки, контактов и многого другого</string>
+     <string name="you_can">OK</string>
 </resources>

@@ -14,7 +14,7 @@
      <string name="send_sms">Отправить сообщение</string>
      <string name="sharedUserLabel">Основные приложения Android</string>
      <string name="third_party_delete_contact_info">\"%s\" удаляет Ваши контакты XiaoMi. Пожалуйста, используйте приложение контакты для безопасности.</string>
-     <string name="upgrade_msg">Обновление базы данных контактов...</string>
+     <string name="upgrade_msg">Обновление базы данных контактов…</string>
      <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
      <string name="upgrade_out_of_memory_notification_ticker">Необходимо больше памяти для обновления контактов</string>
      <string name="upgrade_out_of_memory_notification_title">Обновление памяти контактов</string>

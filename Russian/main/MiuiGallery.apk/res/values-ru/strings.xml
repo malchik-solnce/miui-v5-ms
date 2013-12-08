@@ -41,7 +41,6 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -83,17 +82,17 @@
      <string name="cleaning_cache">Очистка кэша…</string>
      <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
      <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно просканирует медиа-файлы и заново создаст эскизы позже.</string>
-     <string name="clear_thumbnail_cache_summary">Просмотр фотографий создает эскизы. Очистив кэш можно увеличить память.</string>
+     <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
      <string name="click_top_right">Нажмите на иконку вверху справа</string>
      <string name="close">Закрыть</string>
-     <string name="cloud_album_more_settings">Облачные альбомы и синхронизация</string>
+     <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
      <string name="cloud_album_set_scan_qr_code">QR-код</string>
      <string name="cloud_albums">Облако</string>
      <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии друзей и добавлять свои фотографии в альбом, чтобы поделиться с другими</string>
      <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>
      <string name="cloud_camera_display_name">Не отсортированные</string>
-     <string name="cloud_gallery_no_pictures">Нет изображений в облачном альбоме</string>
+     <string name="cloud_gallery_no_pictures">Нет изображений в MiCloud</string>
      <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
      <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
      <string name="cloud_media_set_set">Облачные альбомы</string>
@@ -111,13 +110,12 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>
      <string name="confirm_delete_cloud_all_item_page" formatted="false">Вы уверены, что хотите удалить %s фотографий в %s альбомах?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
-     <string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить его?</string>
+     <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить его?</string>
      <string name="confirm_delete_videos">%s видео</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
@@ -141,9 +139,9 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
-     <string name="delete_file">Удалить выбранные файлы? (%1$d)</string>
-     <string name="delete_files_and_folders">Удалить %1$d выбранных файлов и %2$d папок?</string>
-     <string name="delete_folder">Удалить выбранные папки? (%1$d)</string>
+     <string name="delete_file">Удалить выбранные файлы: %1$d?</string>
+     <string name="delete_files_and_folders">Удалить выбранные файлы: %1$d и папки: %2$d?</string>
+     <string name="delete_folder">Удалить выбранные папки: %1$d?</string>
      <string name="deleting_files">Удаление файлов…</string>
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
@@ -220,7 +218,7 @@
      <string name="home_my_captured_items">фото</string>
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
-     <string name="how_many_videos">Видео файлов: %d</string>
+     <string name="how_many_videos">Видео: %d</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="immomo_camera">Immomo</string>
@@ -251,14 +249,14 @@
      <string name="manual">Вручную</string>
      <string name="me">я</string>
      <string name="menu_item_sort">Сортировка</string>
-     <string name="menu_item_sort_date_asc">По дате (A-Я)</string>
-     <string name="menu_item_sort_date_desc">По дате (Я-A)</string>
-     <string name="menu_item_sort_name_asc">По имени (A-Я)</string>
-     <string name="menu_item_sort_name_desc">По имени (Я-A)</string>
-     <string name="menu_item_sort_size_asc">По размеру (A-Я)</string>
-     <string name="menu_item_sort_size_desc">По размеру (Я-A)</string>
-     <string name="menu_item_sort_visit_asc">По частоте (A-Я)</string>
-     <string name="menu_item_sort_visit_desc">По частоте (Я-A)</string>
+     <string name="menu_item_sort_date_asc">По дате (-)</string>
+     <string name="menu_item_sort_date_desc">По дате (+)</string>
+     <string name="menu_item_sort_name_asc">По имени (-)</string>
+     <string name="menu_item_sort_name_desc">По имени (+)</string>
+     <string name="menu_item_sort_size_asc">По размеру (-)</string>
+     <string name="menu_item_sort_size_desc">По размеру (+)</string>
+     <string name="menu_item_sort_visit_asc">По частоте (-)</string>
+     <string name="menu_item_sort_visit_desc">По частоте (+)</string>
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="message_no_delete_access_with_count">Невозможно удалить файлы или папки (%d). Возможно они не существуют или доступ к ним запрещен.</string>
@@ -381,7 +379,7 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_image">Выбрать фото</string>
      <string name="select_item">Выбрать файлы</string>
-     <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
+     <string name="select_too_much_to_send_tips">Выбранных фотографий слишком много, чтобы отправить. Максимум: %d.</string>
      <string name="select_video">Выбрать видео</string>
      <string name="send">Отправить</string>
      <string name="send_multiple_files_hint_format">Отправка файлов (%s)</string>
@@ -401,7 +399,7 @@
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Войдите в i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
+     <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
