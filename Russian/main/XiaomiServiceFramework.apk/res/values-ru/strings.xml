@@ -108,6 +108,7 @@
      <string name="forget_password"><u>Забыл пароль</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">ДАННЫЕ И СИНХРОНИЗАЦИЯ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Введите код</string>
      <string name="input_password_hint">Введите пароль</string>

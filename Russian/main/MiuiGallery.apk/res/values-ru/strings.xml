@@ -13,7 +13,6 @@
      <string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
      <string name="add_to_cloud_failed_message_with_count">%2$s фотографий не могут быть добавлены в облачный альбом %1$s</string>
      <string name="add_to_cloud_file_exist_message">Фото уже существует в выбранном альбоме</string>
-     <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
      <string name="add_to_cloud_folder">В облако</string>
      <string name="add_to_cloud_image_limit_exceeded_message">Превышен лимит изображений</string>
      <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен</string>
@@ -41,6 +40,7 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -110,6 +110,7 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>
@@ -117,6 +118,7 @@
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить его?</string>
      <string name="confirm_delete_videos">%s видео</string>
+     <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
@@ -142,6 +144,7 @@
      <string name="delete_file">Удалить выбранные файлы: %1$d?</string>
      <string name="delete_files_and_folders">Удалить выбранные файлы: %1$d и папки: %2$d?</string>
      <string name="delete_folder">Удалить выбранные папки: %1$d?</string>
+     <string name="delete_smb_file_fail">Ошибка удаления smb файла</string>
      <string name="deleting_files">Удаление файлов…</string>
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
@@ -154,6 +157,9 @@
      <string name="done">Готово</string>
      <string name="doodle">Подмалевок</string>
      <string name="doodle_tooltip">Рисуйте на фото пальцем</string>
+     <string name="download">Скачать</string>
+     <string name="download_fail">Ошибка загрузки</string>
+     <string name="download_fail_confirm_continue">Не удалось загрузить %s. Продолжить?</string>
      <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
      <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
      <string name="duotone">Двойной тон</string>
@@ -185,6 +191,7 @@
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы галереи. Диск полон. Приложение будет закрыто.</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
+     <string name="file_not_exist_message">Файл не существует</string>
      <string name="file_size">Размер файла</string>
      <string name="filllight">Осветление</string>
      <string name="fisheye">Рыбий глаз</string>
@@ -245,6 +252,7 @@
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
      <string name="lomoish">Ломо</string>
+     <string name="make_download_dir_fail">Не удалось создать каталог для хранения файлов</string>
      <string name="maker">Автор</string>
      <string name="manual">Вручную</string>
      <string name="me">я</string>
@@ -281,6 +289,7 @@
      <string name="negative">Негатив</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+     <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
      <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
@@ -473,10 +482,7 @@
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
      <string name="user_alias_self">Я</string>
-     <string name="video_download_in_process">Видео загружается. Пожалуйста, подождите.</string>
-     <string name="video_download_start">Началась загрузка</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
-     <string name="video_not_exist">Видео не существует!</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">На рабочий стол</string>

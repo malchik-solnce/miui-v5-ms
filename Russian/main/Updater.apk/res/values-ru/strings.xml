@@ -41,6 +41,7 @@
      <string name="current_version_update_monthly_build">Текущая прошивка:</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Да</string>
      <string name="download_current_rom">Скачать полный пакет</string>
@@ -97,6 +98,7 @@
      <string name="no_updates_warning2">Нет новых версий</string>
      <string name="not_recommend">"Не рекомендую"</string>
      <string name="now">Перезагрузить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="paused_queued_for_network">Waiting for network connection</string>
      <string name="paused_queued_for_wifi">Ожидание сети Wi-Fi</string>
      <string name="previous">Назад</string>

@@ -2,6 +2,4 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище настроек</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="def_tts_synth">com.google.android.tts</string>
 </resources>
