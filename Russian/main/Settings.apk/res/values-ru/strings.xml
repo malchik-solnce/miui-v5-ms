@@ -1445,7 +1445,7 @@
      <string name="optimize_apk_list_empty_content">Установленный приложения не найдены</string>
      <string name="optimize_cache_header_left">Кеш: %d</string>
      <string name="optimize_cache_list_empty_content">Кеш не найден</string>
-     <string name="optimize_done">Готово</string>
+     <string name="optimize_done">Оптимизация завершена</string>
      <string name="optimize_large_file_header_left">Больших файлов: %d</string>
      <string name="optimize_large_file_list_empty_content">Большие файлы не найдены</string>
      <string name="optimize_now">Начать</string>
@@ -2686,6 +2686,7 @@ Attempts Remaining :"</string>
      <string name="virus_scan_virus_title">Найдено вирусов: %d</string>
      <string name="virus_scan_viruslib_version">База данных: %s</string>
      <string name="virus_scanner_auto_update">Автообновление</string>
+	 <string name="virus_scanner_date_formater">d MMMM yyyy</string>
      <string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
      <string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
      <string name="virus_scanner_lib_update_success">Вирусная база данных обновлена автоматически</string>
