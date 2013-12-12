@@ -710,8 +710,8 @@
      <string name="deep_clean_tips_large_file">iconБольшие файлы - файлы больше 10 МБ которые хранится на устройстве. Вы сами решатете, нужны ли они или нет.</string>
      <string name="deep_clean_tips_residual">iconОстаточные файлы (видео, обои, музыка и т.д.), которые были загружены на SD-карту устройства приложениями, которые уже удалены. Будьте внимательны при удалении этих файлов, т.к. некоторые из них возможно нужны Вам.</string>
      <string name="deep_clean_title_cache">Кеш</string>
-     <string name="deep_clean_title_large_file">Большие файлы</string>
-     <string name="deep_clean_title_residual">Остаточные файлы</string>
+     <string name="deep_clean_title_large_file">Файлы</string>
+     <string name="deep_clean_title_residual">Мусор</string>
      <string name="deep_cleaning">Дополнительно</string>
      <string name="default_input_method">Выбор метода ввода по умолчанию</string>
      <string name="default_usb_mode">Тип подключения USB</string>

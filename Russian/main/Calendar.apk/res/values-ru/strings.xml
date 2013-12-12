@@ -112,7 +112,7 @@
      <string name="new_event_dialog_option">Новое мероприятие</string>
      <string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
      <string name="no_syncable_calendars">Нет календарей</string>
-     <string name="no_title_label">(Нет заголовка)</string>
+     <string name="no_title_label">(нет заголовка)</string>
      <string name="not_synced">не синхронизирован</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
      <string name="preferences_about_title">О ПРОГРАММЕ</string>

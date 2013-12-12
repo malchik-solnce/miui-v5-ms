@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="airplanemode">Не удалось запустить приложение. Включен режим полета.</string>
      <string name="alphabet">Алфавит</string>
      <string name="app_name">Инструменты SIM-карты</string>
      <string name="app_name2">Инструменты SIM-карты 2</string>
@@ -22,10 +23,8 @@
      <string name="menu_end_session">Закончить сеанс</string>
      <string name="service_name">Название службы</string>
      <string name="stk_app_state">Состояние приложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="stk_dialog_accept">YES</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="stk_dialog_reject">NO</string>
+     <string name="stk_dialog_accept">Да</string>
+     <string name="stk_dialog_reject">Нет</string>
      <string name="stk_dialog_title">Инструменты SIM-карты</string>
      <string name="stk_no_service">Вне зоны обслуживания</string>
 </resources>

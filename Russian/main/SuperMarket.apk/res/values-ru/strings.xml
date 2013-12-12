@@ -222,16 +222,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notif_description_from_market">from Market</string>
      <string name="notif_install_failed">Сбой установки %1$s</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed. -->
-     <string name="notif_install_successful">%1$s успешно установлено</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed. -->
-     <string name="notif_install_successful_default">%1$s установлено</string>
+     <string name="notif_install_successful">Установлено</string>
+     <string name="notif_install_successful_default">Установлено</string>
      <string name="notif_installing">Установка “%1$s”…</string>
      <string name="notif_summary_auto_update_failed">Auto-update failed.</string>
      <string name="notif_summary_auto_update_successful">%1$s apps have been updated.</string>
@@ -251,19 +243,16 @@
      <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Другие разрешения</string>
      <string name="permissions_title">Разрешения для %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_category_title_notification">Notification</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_category_title_other">Other</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_category_title_version">Version</string>
+     <string name="pref_category_title_notification">Уведомления</string>
+     <string name="pref_category_title_other">Разное</string>
+     <string name="pref_category_title_version">Версия</string>
      <string name="pref_list_use_dev_staging_server">Используйте Dev-промежуточный сервер</string>
      <string name="pref_list_use_online_server">Использовать сервер продукта</string>
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Auto-upgrade via Wi-Fi when screen is locked.</string>
      <string name="pref_summary_data_save">"Won't show pictures over data network"</string>
-     <string name="pref_title_auto_update_via_wifi">Auto-update via Wi-Fi</string>
-     <string name="pref_title_auto_update_via_wifi_checkbox">Auto-update</string>
+     <string name="pref_title_auto_update_via_wifi">Автоматически обновлять приложения по Wi-Fi</string>
+     <string name="pref_title_auto_update_via_wifi_checkbox">Автообновление</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_clear_cache">Clear cache</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
@@ -330,11 +319,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="update_history_title">Update history</string>
      <string name="update_info">Изменения</string>
-     <string name="update_log_hint">Updates:</string>
+     <string name="update_log_hint">Обновлений:</string>
      <string name="update_time">%1$s-%2$s</string>
-     <string name="upgrade_all_description">Upgrade %1$s and %2$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="upgrade_all_title">Upgrade all</string>
+     <string name="upgrade_all_description">Обновить %1$s и %2$s?</string>
+     <string name="upgrade_all_title">Обновить все</string>
      <string name="verifying">Проверка...</string>
      <string name="version_label">Версия:</string>
      <string name="version_name">Версия: %1$s</string>

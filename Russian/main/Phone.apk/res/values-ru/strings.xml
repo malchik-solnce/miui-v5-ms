@@ -5,8 +5,7 @@
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM-карту</string>
      <string name="accessibility_call_muted">Звук выключен</string>
      <string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="addSimEntries">Add SIM Contact</string>
+     <string name="addSimEntries">Добавить контакт на SIM</string>
      <string name="add_button_miui">Добавить</string>
      <string name="add_fdn_contact">Добавить номер ограниченного набора</string>
      <string name="add_sip_account">Добавить аккаунт</string>
@@ -28,8 +27,8 @@
      <string name="alert_dialog_no">Нет</string>
      <string name="alert_dialog_ok">ОК</string>
      <string name="alert_dialog_yes">Да</string>
-     <string name="allContactdeleteFailed">Не удалось удалить все контакты с SIM-карты!!!</string>
-     <string name="allContactdeleteSuccess">Все контакты с SIM-карты успешно удалены</string>
+     <string name="allContactdeleteFailed">Не удалось удалить все контакты с SIM-карты!</string>
+     <string name="allContactdeleteSuccess">Все контакты с SIM-карты удалены</string>
      <string name="always_enable_mms_miui">Всегда получать MMS</string>
      <string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
      <string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
@@ -1091,13 +1090,8 @@
      <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
 Следующий период начнется в течение %4$d дн. (%5$s)"</string>
      <string name="throttle_time_frame">Время передачи данных</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 3
-	%s: 1 must: 1
-	%d: 1 must: 2 -->
-     <!-- Original string: "%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)" -->
-     <string name="throttle_time_frame_subtext">"%1$s превышен максимум.
-Частота данных уменьшена до %2$d кБ/с"</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ истекло.
+Следующий переиод начнется через %2$d дн. (%3$s)"</string>
      <string name="title_data_settings">Настройки данных</string>
      <string name="transport_title">Протокол</string>
      <string name="tty_mode_option_summary">Установить режим телетайпа</string>
@@ -1164,7 +1158,6 @@ Next period starts in %2$d days (%3$s)" -->
      <string name="xdivert_setting">Настройки X-переадресации</string>
      <string name="xdivert_status">X-Divert Status</string>
      <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xdivert_summary">CFNRc Settings</string>
+     <string name="xdivert_summary">Настройки CFNRc</string>
      <string name="xdivert_title">X-Divert</string>
 </resources>

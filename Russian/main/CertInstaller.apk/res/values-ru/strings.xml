@@ -10,7 +10,7 @@
      <string name="credential_info">Пакет содержит:</string>
      <string name="credential_name">Название сертификата:</string>
      <string name="credential_password">Введите пароль для извлечения сертификатов</string>
-     <string name="extracting_pkcs12">Извлечение...</string>
+     <string name="extracting_pkcs12">Извлечение…</string>
      <string name="generic_no_cert_file_found">Не найдено файла сертификата в хранилище</string>
      <string name="generic_sdcard_not_present">Нет хранилища</string>
      <string name="invalid_cert">Сертификат недействителен</string>
@@ -18,6 +18,7 @@
      <string name="name_char_error">Имя должно состоять из букв и цифр</string>
      <string name="name_credential_dialog_title">Укажите название сертификата</string>
      <string name="name_empty_error">Введите название</string>
+	 <string name="no_cert_file_found_sd">На SD-карте отсутствует файл сертификата</string>
      <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата</string>
      <string name="no_cert_to_saved">Отсутствует сертификат для установки</string>
      <string name="one_cacrt">один сертификат центра сертификации</string>
@@ -32,6 +33,7 @@
      <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
      <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
      <string name="sdcard_not_present">SD-карта отсутствует</string>
+	 <string name="sdcard_not_present_sd">SD-карта отсутствует</string>
      <string name="storage_error">Не удается сохранить сертификат. Нажмите ОК и повторите попытку.</string>
      <string name="unable_to_save_cert">Не удается сохранить сертификат. Хранилище регистрационных данных не включено или некорректно инициализировано.</string>
 </resources>
