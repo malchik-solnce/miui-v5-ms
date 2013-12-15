@@ -44,7 +44,7 @@
      <string name="antispam_marked_count">Отклонино: %1$d</string>
      <string name="antispam_notification_title">Неизвестный</string>
      <string name="antispam_provider">Поставщик: %s</string>
-     <string name="apn_settings">Точки доступа (APN)</string>
+     <string name="apn_settings">Точки доступа интернет</string>
      <string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
      <string name="areacode_required_miui">Вводить свой код города</string>
      <string name="atr_disable">Информация о пробках отключена</string>
@@ -320,8 +320,8 @@
      <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
      <string name="cw_title_miui">Ожидание вызова</string>
      <string name="data_connected_change">Невозможно сменить сеть когда она используется. Остановить использование сети и переключиться на другую?</string>
-     <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
-     <string name="data_enabled">Передача данных</string>
+     <string name="data_enable_summary">Включить мобильный интернет от оператора</string>
+     <string name="data_enabled">Мобильный интрнет</string>
      <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается</string>
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Код страны по умолчанию</string>
@@ -623,7 +623,7 @@
      <string name="mmiCancelled">Запрос отменен</string>
      <string name="mmiStarted">Выполняется запрос…</string>
      <string name="mobile_network_setting">Настройки моб. сети</string>
-     <string name="mobile_networks">Настройки сотовой сети</string>
+     <string name="mobile_networks">Настройки мобильной сети</string>
      <string name="mobile_networks_miui">Настройки сотовой сети</string>
      <string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
      <string name="multi_category_enable">Подборка из нескольких категорий включена</string>
@@ -636,7 +636,7 @@
      <string name="network_settings_sel_sub">Выберите подписку</string>
      <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
      <string name="networks">Операторы связи</string>
-     <string name="networks_title_miui">Сетевые операторы</string>
+     <string name="networks_title_miui">Оператор связи</string>
      <string name="newPin2Label">Новый PIN2</string>
      <string name="newPinLabel">Новый PIN</string>
      <string name="new_cards_available">Доступна новая карта. Пожалуйста, настройте подписку.</string>
@@ -815,11 +815,11 @@
      <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G. 
 Нажмите OK для продолжения."</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
-     <string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
+     <string name="preferred_network_type_pref_entries_auto_miui">Автоматический</string>
      <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
-     <string name="preferred_network_type_pref_entries_only_2g_miui">2G (энергосбережение)</string>
+     <string name="preferred_network_type_pref_entries_only_2g_miui">Только 2G</string>
      <string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
-     <string name="preferred_network_type_title_miui">Выбор типа сети</string>
+     <string name="preferred_network_type_title_miui">Тип сети</string>
      <string name="primary_account_summary_with">Основной аккаунт - %s</string>
      <string name="private_num">Скрытый номер</string>
      <string name="proceed">Далее</string>
@@ -925,9 +925,9 @@
      <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rnw2_unlock_success">RUIM Network2 unlock successful.</string>
-     <string name="roaming">Интернет-роуминг</string>
-     <string name="roaming_disable">Подключаться к службам передачи данных в роуминге</string>
-     <string name="roaming_enable">Подключаться к службам передачи данных в роуминге</string>
+     <string name="roaming">Интернет в роуминге</string>
+     <string name="roaming_disable">Использовать интернет в роуминге</string>
+     <string name="roaming_enable">Использовать интернет в роуминге</string>
      <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
      <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1058,7 +1058,7 @@
      <string name="sum_loading_settings">Загрузка настроек…</string>
      <string name="sum_search_networks">Поиск всех доступных сетей…</string>
      <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
-     <string name="sum_select_automatically_option_miui">Автом. выбор предпочтительной сети, %s</string>
+     <string name="sum_select_automatically_option_miui">Автоматический выбор мобильного оператора: %s</string>
      <string name="sum_show_caller_id">Количество отображаемых в исходящих звонках</string>
      <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
      <string name="sum_xdivert_disabled">X-Divert Disabled</string>

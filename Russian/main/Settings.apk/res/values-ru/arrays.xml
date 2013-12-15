@@ -88,12 +88,6 @@
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
-     <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-     </integer-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Сильный</item>
         <item>Средний</item>
@@ -195,10 +189,10 @@
         <item></item>
      </string-array>
 	 <string-array name="multi_sim_entries">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
+       <item>Подписка 1</item>
+       <item>Подписка 2</item>
      </string-array>
-     <string-array name="multi_sim_entries_voice">
+    <string-array name="multi_sim_entries_voice">
         <item>Подписка 1</item>
         <item>Подписка 2</item>
         <item>Запрос</item>
@@ -232,9 +226,9 @@
         <item>Никогда</item>
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
-        <item>Производительность</item>
-        <item>Умеренный</item>
-        <item>Энергосбережение</item>
+        <item>Высокое</item>
+        <item>Умеренное</item>
+        <item>Низкое</item>
      </string-array>
      <string-array name="power_dialog_sleep_items">
         <item>15 секунд</item>
@@ -441,12 +435,6 @@
      <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
-     </string-array>
-     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Слабый</item>

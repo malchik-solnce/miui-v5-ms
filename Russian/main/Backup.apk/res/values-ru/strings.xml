@@ -46,6 +46,7 @@
      <string name="button_delete">Удалить</string>
      <string name="button_finish">Готово</string>
      <string name="button_next">Вперед</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="button_restore">Восстановить</string>
      <string name="button_return">Назад</string>
