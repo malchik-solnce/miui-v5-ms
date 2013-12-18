@@ -542,6 +542,7 @@
      <string name="clear_failed_dlg_title">Стереть данные</string>
      <string name="clear_user_data_text">Стереть данные</string>
      <string name="close_rule">Отключить правила брэндмаузера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comfirm">OK</string>
      <string name="comfirm_exit">Выйти?</string>
      <string name="common_settings">Частые</string>
@@ -549,6 +550,7 @@
      <string name="computing_size">Вычисление…</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_clear_blacklist">Очистить черный список?</string>
      <string name="confirm_clear_whitelist">Очистить белый список?</string>
@@ -1426,6 +1428,8 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -1578,7 +1582,6 @@
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Управляемые приложения (%1$d)</string>
-     <string name="perm_notice">Оповещение безопасности</string>
      <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
      <string name="perm_privacy_app_count">%1$d разрешения</string>
@@ -1699,6 +1702,7 @@
      <string name="power_customizer_cancel">Отмена</string>
      <string name="power_customizer_delete">Удалить</string>
      <string name="power_customizer_my_mode">Мой режим</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_customizer_ok">OK</string>
      <string name="power_customizer_save">Сохранить</string>
      <string name="power_customizer_sleep_mode">Режим сна</string>
@@ -1724,6 +1728,7 @@
  Вам нужно изменить настройки батареи, прежде чем удалить эту конфигурацию."</string>
      <string name="power_dialog_delete_dialog_delete">Удалить пользовательскую настройку? Действие нельзя будет отменить.</string>
      <string name="power_dialog_delete_dialog_title">Удаление конфигурации</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_dialog_ok">OK</string>
      <string name="power_dialog_screen_brightness_automatic">Автонастройка яркости</string>
      <string name="power_dialog_screen_brightness_automatic_off">Яркость экрана будет оставаться неизменной при любом окружающем освещении</string>
@@ -1808,7 +1813,11 @@
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Состояние батареи</string>
      <string name="power_used_hours">ч.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_used_hours_test">8</string>
      <string name="power_used_mins">мин.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_used_mins_test">23</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка</string>
@@ -2581,6 +2590,10 @@ Attempts Remaining :"</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
      <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
      <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="versionCode">1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="versionName">1.0.131203</string>
      <string name="version_text">Версия %1$s</string>
      <string name="vibrate_category_title">ВИБРАЦИЯ</string>
      <string name="vibrate_in_normal_title">В \"Обычном режиме\"</string>
@@ -2610,6 +2623,10 @@ Attempts Remaining :"</string>
      <string name="virus_scan_app_solve">Вся обработка</string>
      <string name="virus_scan_app_stop">Остановить</string>
      <string name="virus_scan_app_stop_scan">Остановить</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: Remove (% d) -->
      <string name="virus_scan_app_uninstall">Удалить (%d)</string>
      <string name="virus_scan_app_waiting">Ожидание…</string>
      <string name="virus_scan_can_use_wifi">Использовать облачную базу данных</string>
@@ -2672,11 +2689,13 @@ Attempts Remaining :"</string>
      <string name="virus_scanner_lib_update_success">Вирусная база данных обновлена автоматически</string>
      <string name="virus_scanner_lib_updating">Обновление базы данных…</string>
      <string name="virus_scanner_manual_update">Обновлено %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="virus_scanner_module">Tencent</string>
      <string name="virus_scanner_provider">Техподдержка: %s</string>
      <string name="virus_scanner_scan">Антивирус</string>
      <string name="virus_scanner_scanning">Проверить приложения на вирусы</string>
      <string name="virus_scanner_select_Cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="virus_scanner_select_OK">OK</string>
      <string name="virus_scanner_select_lib">Вирусная база</string>
      <string name="virus_scanner_select_multi">Выбор более чем одной вирусной базы данных, требует переустановки</string>

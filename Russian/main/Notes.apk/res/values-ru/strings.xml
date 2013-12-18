@@ -8,11 +8,7 @@
      <string name="alert_message_delete_folders">Удалить выбранные папки (%1$s)?</string>
      <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
      <string name="alert_message_delete_note">Удалить заметку?</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Confirm to delete the selected %1$s notes? -->
-     <string name="alert_message_delete_notes">Удалить выбранные заметки?</string>
+     <string name="alert_message_delete_notes">Удалить выбранные заметки (%1$s)?</string>
      <string name="alert_message_discard_changes">Отменить все действия?</string>
      <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемое содержимое. Редактирование может привести к потере данных.</string>
      <string name="alert_title_edit_anyway">Вы хотите отредактировать?</string>
@@ -38,7 +34,7 @@
      <string name="error_unsupport_content">Заметка содержит неподдерживаемое содержимое. Нажмите для обновления системы.</string>
      <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже на рабочем столе</string>
      <string name="failed_sdcard_export">Экспорт неудался</string>
-     <string name="folder_exist">Папка %1$s уже существует</string>
+     <string name="folder_exist">Папка с таким именем уже существует</string>
      <string name="format_exported_file_location">Заметка сохранена в файл /%1$s/ в папке %2$s на SD-карте</string>
      <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
      <string name="hint_foler_name">Введите имя</string>
@@ -89,8 +85,7 @@
      <string name="time_picker_dialog_title">Установка времени напоминания</string>
      <string name="toast_folder_privacy_mode">Нельзя изменить папку в гостевом режиме</string>
      <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_note_privacy_mode">Cannot edit note in guarded mode</string>
+     <string name="toast_note_privacy_mode">Нельзя изменить заметку в гостевом режиме</string>
      <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
      <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
      <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
