@@ -99,7 +99,7 @@
      <string name="auto_retry_mode_title">Автодозвон</string>
      <string name="auto_retry_mode_title_miui">Автодозвон</string>
      <string name="autoip_miui">Умный набор</string>
-     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
+     <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже.</string>
      <string name="back_miui">Назад</string>
      <string name="badPin">Введен неверный прежний PIN. Повторите попытку.</string>
      <string name="badPin2">Введен неверный прежний код PIN2. Повторите попытку</string>
@@ -384,9 +384,9 @@
      <string name="display_name_title">Отображаемое имя</string>
      <string name="domain_address_title">Сервер</string>
      <string name="doneButton">Готово</string>
-     <string name="dtmf_tone_enable_title">Тон набора сенсорной панели</string>
-     <string name="dtmf_tone_entries_long_miui">Долгие</string>
-     <string name="dtmf_tone_entries_normal_miui">Обычные</string>
+     <string name="dtmf_tone_enable_title">Тон набора</string>
+     <string name="dtmf_tone_entries_long_miui">Долгий</string>
+     <string name="dtmf_tone_entries_normal_miui">Обычный</string>
      <string name="dtmf_tones_summary">Настроить длительность тональных сигналов DTMF</string>
      <string name="dtmf_tones_summary_miui">Установка длины тона DTMF</string>
      <string name="dtmf_tones_title">Тональные сигналы DTMF</string>
@@ -438,8 +438,8 @@
      <string name="enable_proximity_title_miui">Датчик приближения</string>
      <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
      <string name="enable_sim_pin_miui">Включить запрос PIN SIM-карты</string>
-     <string name="enable_telocation_title_miui">Пок. свойства номера</string>
-     <string name="enforce_proximity_summary_miui">Предотвращение ошибки соединения, когда мобильный телефон в кармане брюк</string>
+     <string name="enable_telocation_title_miui">Свойства номера</string>
+     <string name="enforce_proximity_summary_miui">Предотвращение ошибки соединения, когда телефон в кармане брюк</string>
      <string name="enforce_proximity_title_miui">Датчик приближения</string>
      <string name="enterName">Введите имя:</string>
      <string name="enterNumber">Введите номер телефона:</string>
@@ -789,8 +789,8 @@
      <string name="place_a_call1">Подписка 1</string>
      <string name="place_a_call2">Подписка 2</string>
      <string name="port_title">Номер порта</string>
-     <string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
-     <string name="pref_custom_location_title_miui">Настройка приставок</string>
+     <string name="pref_custom_location_summary_miui">Настройка региональных приставок и других параметров</string>
+     <string name="pref_custom_location_title_miui">Мои места</string>
      <string name="prefer_2g">Только 2G</string>
      <string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
      <string name="preference_category_ringtone">Рингтон</string>
