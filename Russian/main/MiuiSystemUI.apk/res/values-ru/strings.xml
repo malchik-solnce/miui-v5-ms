@@ -177,7 +177,7 @@
      <string name="settings_show_statusBar_notification">Уведомления в строке</string>
      <string name="settings_status_bar">Панель уведомлений</string>
      <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
-     <string name="settings_toggle_layout_style">Стиль</string>
+     <string name="settings_toggle_layout_style">Стиль панели</string>
      <string name="settings_toggle_layout_style_applying">Применение стиля…</string>
      <string name="settings_toggle_layout_style_compact">Компакт</string>
      <string name="settings_toggle_layout_style_single_page">Полный</string>
@@ -190,7 +190,7 @@
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
      <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
-     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
+     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Всего: %3$s</string>
      <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
@@ -210,7 +210,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к интернету</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
      <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-     <string name="status_bar_style_settings">Настройки статус бара</string>
+     <string name="status_bar_style_settings">Настройки панели</string>
      <string name="status_bar_toggle_ac">Контроль доступа</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

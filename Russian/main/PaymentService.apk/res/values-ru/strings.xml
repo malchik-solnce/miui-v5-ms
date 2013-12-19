@@ -441,7 +441,7 @@
      <string name="title_gesture">Графический ключ</string>
      <string name="title_giftcard">Акции</string>
      <string name="title_lockpattern">Включить блокировку</string>
-     <string name="title_mili_center">Мои MiCredits</string>
+     <string name="title_mili_center">Мои кредиты</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>
