@@ -411,6 +411,7 @@
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
+	<string name="v5_date_time_picker_dialog_title">Время напоминания</string>
     <string name="v5_deselect_all">Отменить все</string>
     <string name="v5_edit_mode_title_empty">Выберите</string>
     <string name="v5_icon_menu_bar_more_item_label">Еще</string>
@@ -425,7 +426,7 @@
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
     <string name="volume_icon_description_ringer">Мелодия</string>
-    <string name="wake_alarm_message">Уведомление о выключении прозвучит через %s</string>
+    <string name="wake_alarm_message">Уведомление о выключении через %s</string>
     <string name="white_dews">Белые росы</string>
     <string name="winter_begins">Начало зимы</string>
     <string name="winter_solstice">Зимнее солнцестояние</string>
@@ -464,7 +465,7 @@
     <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Включить Wi-Fi</string>
-    <string name="lock_screen_date">"dd MMMM yyyy 
+    <string name="lock_screen_date">"d MMMM yyyy 
  EEEE"</string>
     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="send">Отправить</string>
