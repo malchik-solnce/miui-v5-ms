@@ -33,6 +33,18 @@
         <item quantity="other">%d сек. назад</item>
         <item quantity="one">1 сек. назад</item>
      </plurals>
+     <plurals name="duration_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">1 ч.</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
+     </plurals>
+     <plurals name="duration_seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">1 сек.</item>
+     </plurals>
      <plurals name="in_num_days">
         <item quantity="other">через %d дн.</item>
         <item quantity="one">завтра</item>
@@ -73,11 +85,11 @@
         <item quantity="one">1 секунду назад</item>
      </plurals>
      <plurals name="wifi_available">
-        <item quantity="other">Доступна сеть Wi-Fi</item>
-        <item quantity="one">Доступна сеть Wi-Fi</item>
+        <item quantity="other">Доступны Wi-Fi сеть</item>
+        <item quantity="one">Доступна Wi-Fi сеть</item>
      </plurals>
      <plurals name="wifi_available_detailed">
-        <item quantity="other">Найдены доступные сети Wi-Fi</item>
-        <item quantity="one">Найдена доступная сеть Wi-Fi</item>
+        <item quantity="other">Найдены доступные Wi-Fi сети</item>
+        <item quantity="one">Найдена доступная Wi-Fi сеть</item>
      </plurals>
 </resources>

@@ -13,15 +13,17 @@
         <item>Другой</item>
         <item>Создать</item>
      </string-array>
-     <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
+     <string-array name="lockscreen_num_pad_klondike">
+        <item></item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
      </string-array>
      <string-array name="organizationTypes">
         <item>Рабочий</item>

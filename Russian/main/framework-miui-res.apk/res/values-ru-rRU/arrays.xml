@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="alphabet_table">
+     <string-array name="alarm_in_future">
+        <item>Будильник менее чем через минуту</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s %3$s</item>
+        <item>Будильник через %2$s %3$s</item>
+        <item>Будильник через %1$s %2$s %3$s</item>
+     </string-array>
+     <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
         <item>Б</item>
@@ -30,8 +41,8 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
+     </string-array>
+     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
         <item>А</item>
@@ -62,12 +73,12 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-    </string-array>
-	<string-array name="contact_entries">
+     </string-array>
+     <string-array name="contact_entries">
         <item>Имя</item>
         <item>Ник</item>
         <item>Телефон</item>
-        <item>E-Mail</item>
+        <item>Почта</item>
         <item>Организация</item>
         <item>IM</item>
         <item>Номер SIP</item>
@@ -75,15 +86,5 @@
         <item>Сайт</item>
         <item>Адрес</item>
         <item>Заметка</item>
-    </string-array>
-    <string-array name="alarm_in_future">
-        <item>Будильник менее чем через минуту</item>
-        <item>Будильник через %1$s</item>
-        <item>Будильник через %2$s</item>
-        <item>Будильник через %1$s %2$s</item>
-        <item>Будильник через %3$s</item>
-        <item>Будильник через %1$s %3$s</item>
-        <item>Будильник через %2$s %3$s</item>
-        <item>Будильник через %1$s %2$s %3$s</item>
-    </string-array>
+     </string-array>
 </resources>
