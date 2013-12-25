@@ -1071,7 +1071,7 @@
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Изменить размер шрифта</string>
      <string name="global_locale_change_title">Сменить язык</string>
-     <string name="gsm_to_wifi_connect_type_title">Cellular->WLAN</string>
+     <string name="gsm_to_wifi_connect_type_title">Настройки &gt; Wi-Fi</string>
      <string name="haptic_feedback_enable_title">Включить виброотклик</string>
      <string name="haptic_feedback_level">Уровень вибрации</string>
      <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
@@ -1085,7 +1085,7 @@
      <string name="hdmi_3dplay_control_enable_subtext">3D выход на внешний 3D-дисплей включен</string>
      <string name="hdmi_3dplay_control_text">Включить 3D</string>
      <string name="hdmi_3dplay_settings_title">HDMI</string>
-     <string name="hdmi_color_calibration_none">Нативный</string>
+     <string name="hdmi_color_calibration_none">Натуральный</string>
      <string name="hdmi_color_calibration_srgb">sRGB</string>
      <string name="header_account_settings">Настройки аккаунта</string>
      <string name="header_add_an_account">Добавление аккаунта</string>
@@ -2480,12 +2480,12 @@ Attempts Remaining :"</string>
      <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
      <string name="total_size">"всего %s   "</string>
      <string name="total_size_label">Всего</string>
-     <string name="touch_sensitive_summary">Повышает чувствительность сенсорного экрана для обеспечения лучшего пользования в перчатках</string>
-     <string name="touch_sensitive_title">Режим \"Перчатки\"</string>
+     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для обеспечения лучшего пользования в перчатках</string>
+     <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">OK</string>
      <string name="touch_sensitive_turn_off_summary">Также отключить режим защиты датчиком?</string>
-     <string name="touch_sensitive_turn_off_title">Режим \"Перчатки\" выключен</string>
+     <string name="touch_sensitive_turn_off_title">Режим \"В перчатках\" выключен</string>
      <string name="touch_title">Нажатия</string>
      <string name="track_frame_time">Время отрисовки</string>
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
