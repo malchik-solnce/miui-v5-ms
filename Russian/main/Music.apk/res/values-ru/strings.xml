@@ -178,7 +178,7 @@
      <string name="mi_effect">Mi Sound</string>
      <string name="mi_effect_summary">Всегда использовать усилитель MiSound при прослушивании через динамики</string>
      <string name="mi_effect_title">Усилитель MiSound</string>
-     <string name="mobile_connect_settings">МОБИЛЬНАЯ СЕТЬ</string>
+     <string name="mobile_connect_settings">Настройки сети</string>
      <string name="modify_id3_for_list">Будет отредактирована информация ID3 песен из текущего списка</string>
      <string name="modify_id3_for_selected">Будет отредактирована информация ID3 выбранных песен</string>
      <string name="modify_meta">Изменить</string>
@@ -207,6 +207,7 @@
      <string name="overwrite_confirm">Перезаписать</string>
      <string name="pay_service_guide_dowload">Качество скачивания</string>
      <string name="pay_service_guide_listen">Качество потока</string>
+	 <string name="pay_service_guide_new">Доступна музыка в высоком качестве</string>
      <string name="payment_fail">Платеж не удался</string>
      <string name="payment_success">Успешно оплачено</string>
      <string name="play_all">Воспроизвести все</string>
@@ -218,7 +219,7 @@
      <string name="playback_failed_by_network">%s невозможно проиграть. Проверьте сетевое подключение.</string>
      <string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трек. Не поддерживается формат файла.</string>
      <string name="playback_failed_no_title_by_network">Невозможно проиграть трек. Проверьте сетевое подключение.</string>
-     <string name="player_display_settings">ПРОИГРЫВАТЕЛЬ</string>
+     <string name="player_display_settings">Настройки отображения</string>
      <string name="playlist_deleted_message">Плейлист удален</string>
      <string name="playlist_favorite">Избранные</string>
      <string name="playlist_frequently_played">Часто воспроизводимые</string>
@@ -274,7 +275,7 @@
      <string name="send_to">Отправить</string>
      <string name="send_to_application">Отправить в другое приложение</string>
      <string name="server_error">Ошибка сервера</string>
-     <string name="shake_and_skip">ВСТРЯХИВАНИЕ</string>
+     <string name="shake_and_skip">Настройки датчика</string>
      <string name="shake_degree_desc">Чувствительность</string>
      <string name="shake_degree_high">Высокая</string>
      <string name="shake_degree_low">Низкая</string>
@@ -290,7 +291,7 @@
      <string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
      <string name="streamloadingtext">Подключение к %s</string>
      <string name="synchronize_guide_toast">Включение синхронизации, в настройках > Сихронизация плейлистов</string>
-     <string name="synchronize_playlist_setting">Синхр. плейлисты</string>
+     <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="synchronize_to_baidu_cloud">Резервное копирование онлайн песен в плейлисты с Baidu Cloud</string>
      <string name="track_bit_rate_hd">Высокое</string>
