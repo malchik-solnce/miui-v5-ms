@@ -110,7 +110,6 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>
@@ -121,6 +120,8 @@
      <string name="confirm_delete_this_video">Удалить это видео?</string>
      <string name="confirm_delete_videos">%s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
+	 <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
+     <string name="confirm_download_video_title">Загрузка видео</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
@@ -228,8 +229,8 @@
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
+	 <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
@@ -249,8 +250,11 @@
      <string name="kick_sharer_successfully">Получатель удален</string>
      <string name="loading">Загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
+	 <string name="loading_image">Загрузка изображения…</string>
      <string name="loading_members">Загрузка пользователей…</string>
+	 <string name="loading_suspend">Загрузка приостановлена​​: возобновится при доступном Wi-Fi соединении</string>
      <string name="loading_thumbnail">Загрузка эскизов…</string>
+	 <string name="loading_video">Загрузка видео…</string>
      <string name="local_albums">Альбомы</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>

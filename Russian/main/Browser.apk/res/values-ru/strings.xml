@@ -200,23 +200,20 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Нет данных</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_button_text">Evaluate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
      <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
-     <string name="exit_browser_warning">Вы действительно хотите выйти из браузера?</string>
+     <string name="exit_browser_warning">Выйти из браузера?</string>
      <string name="file_dir">Папка</string>
-     <string name="file_name">Имя файла</string>
+     <string name="file_name">Имя</string>
      <string name="file_picker">Обзор</string>
      <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
      <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они были удалены автоматически.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
-     <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
      <string name="general_set_default_browser_dialog_ok_txt">OK</string>
      <string name="general_set_default_browser_dialog_summary">Браузер будет использоваться в системе по умолчанию</string>
      <string name="general_set_default_browser_title">Сделать по умолчанию</string>
@@ -281,7 +278,6 @@
      <string name="menu_hv_swap2">Вертикальный режим</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
      <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц и показа изображений</string>
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
@@ -289,6 +285,10 @@
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
+	 <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск</string>
+     <string name="miui_quicksearch_enable_pref_title">Быстрый поиск уведомлений</string>
+     <string name="miui_search_notification_message">Открыть быстрый поиск</string>
+     <string name="miui_search_notification_title">Быстрый поиск</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
      <string name="move_to_up_folder">Вверх</string>
      <string name="multi_select_title">Выбрано %1$s штук(а)</string>
@@ -335,6 +335,7 @@
      <string name="pref_content_auto_light_mode">Автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
+	 <string name="pref_content_block_float_popups">Блокир. всплыв. окна</string>
      <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
@@ -510,7 +511,7 @@
      <string name="same_folder_name_warning">Эта папка уже существует</string>
      <string name="save">ОК</string>
      <string name="save_bookmark">В избранное</string>
-     <string name="save_dialog_title">Сохранить</string>
+     <string name="save_dialog_title">Сохранение файла</string>
      <string name="save_file_already_exist_alert_message">Файл уже существует. Перезаписать его?</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>

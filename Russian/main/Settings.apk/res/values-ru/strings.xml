@@ -182,7 +182,7 @@
      <string name="app_forward_locked">Приложение защищено от копирования</string>
      <string name="app_install_location_summary">Изменить папку для установки приложений</string>
      <string name="app_install_location_title">Место установки</string>
-     <string name="app_log_tab_title">Журнал</string>
+     <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
      <string name="app_name">Безопасность</string>
      <string name="app_name_label">Приложение</string>
@@ -801,6 +801,7 @@
      <string name="dialog_title_hdmi_color_calibration">Цветовые предустановки</string>
      <string name="dirac_control">Технология \"MI Sound\"</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
+	 <string name="dirac_mode_general">Общие</string>
      <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
      <string name="dirac_mode_off">Отключено</string>
      <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
@@ -1310,7 +1311,7 @@
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>
      <string name="manage_space_text">Управление местом</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
-     <string name="manageapplications_settings_title">Управление приложениями</string>
+     <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>
      <string name="mark_number_dialog_maintitle">Блокировать и сообщить</string>
      <string name="mark_number_dialog_subtitle">Совместно с Sogou</string>
@@ -1696,7 +1697,7 @@
      <string name="perm_log">Журнал</string>
      <string name="perm_log_clear_content">Все журналы будут удалены. Продолжить?</string>
      <string name="perm_log_clear_title">Очистить журнал</string>
-     <string name="perm_log_empty">Журнал пустой</string>
+     <string name="perm_log_empty">Журнал пуст</string>
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Управляемые приложения (%1$d)</string>

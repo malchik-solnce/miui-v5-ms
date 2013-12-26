@@ -140,13 +140,14 @@
      <string name="sync_fail_notify_title">Ошибка синхронизации</string>
      <string name="sync_traffic_fail_message">Синхронизация с оператором мобильной связи не удалась, сервер занят. Пожалуйста, повторите попытку позже или обратитесь в справочную %s</string>
      <string name="sync_traffic_fail_title">Ошибка синхронизации</string>
-     <string name="sync_traffic_ing">Синхронизация с оператором, пожалуйста, подождите…</string>
+     <string name="sync_traffic_ing">Синхронизация с оператором, подождите…</string>
      <string name="sync_traffic_no_cmd_detail">"Подтвердите Ваш город или провинцию, ICC и операторы связи тут: http://www.miui.com/forum-172-1.html. Спасибо"</string>
      <string name="sync_traffic_no_cmd_detail_custom_config">"Вы можете: 1.Параметры >> Настроить трафик >> Пользовательские настройки, или на главной странице Настроить трафик >> Пользовательские настроки; 2.Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо."</string>
      <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
      <string name="sync_traffic_success">Данные оператора синхронизированны, трафик успешно регулируется</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Сохранить</string>
+	 <string name="traffic_bought">Трафик куплен</string>
      <string name="traffic_none">Н/д</string>
      <string name="traffic_remain">Осталось</string>
      <string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
@@ -159,7 +160,7 @@
      <string name="unknown">Нет данных</string>
      <string name="unknown_free_traffic_hint">Если вы не знаете свой обьем трафика, пожалуйста обратитесь за помощью к оператору</string>
      <string name="unknown_free_traffic_text">Я не знаю свой обьем трафика</string>
-     <string name="unknown_free_traffic_title">Неизвестный разрешенный трафик</string>
+     <string name="unknown_free_traffic_title">Предупреждение</string>
      <string name="unknown_location">Неизвестное местоположение</string>
      <string name="unknown_traffic_hint">Лимит трафика не установлен. Установить его сейчас?</string>
      <string name="unknown_version">Неизвестная версия</string>
