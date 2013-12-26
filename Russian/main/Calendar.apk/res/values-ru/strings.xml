@@ -46,19 +46,19 @@
      <string name="calendar_refresh">Обновить</string>
      <string name="change_response_title">Изменить ответ</string>
      <string name="copy_db">Отправить базу данных</string>
-     <string name="copy_email">Скопировать email адрес</string>
+     <string name="copy_email">Скопировать адрес почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
      <string name="create_an_account_desc">"Подключите Календарь к аккаунту Google, чтобы: 
 
 • Всегда иметь под рукой обновленные данные – на любом устройстве.
-• Синхронизировать все мероприятия – вы никогда не потеряете их."</string>
+• Синхронизировать все мероприятия – Вы никогда не потеряете их."</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
      <string name="daily">Ежедневно</string>
      <string name="day_view">День</string>
      <string name="day_view_new_event_hint">Создать</string>
-	 <string name="default_reminder_mode">Режим напоминая по умолчанию</string>
+	 <string name="default_reminder_mode">Режим напоминания</string>
      <string name="delete_label">Удалить</string>
      <string name="delete_recurring_event_title">Удалить %s?</string>
      <string name="delete_this_event_title">Удалить мероприятие?</string>
@@ -66,7 +66,7 @@
      <string name="directory_searching_fmt">Поиск в %s…</string>
      <string name="discard_label">Отмена</string>
      <string name="dismiss_all_label">Удалить все</string>
-     <string name="do_not_check">Не проверять -&gt;</string>
+     <string name="do_not_check">Не проверять -></string>
      <string name="does_not_repeat">Однократное мероприятие</string>
      <string name="done">Готово</string>
      <string name="edit_event_all_day_label">Целый день</string>
@@ -121,7 +121,7 @@
      <string name="modify_event">Изменить только это мероприятие</string>
      <string name="month_view">Месяц</string>
      <string name="monthly">Ежемесячно</string>
-     <string name="monthly_on_day">Ежемесячно (%s числа)</string>
+     <string name="monthly_on_day">Ежемесячно (в один и тот же день)</string>
      <string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
      <string name="more_string">Еще %1$s...</string>
      <string name="new_event_dialog_label">Новое мероприятие</string>
@@ -177,7 +177,8 @@
      <string name="select_synced_calendars_button">Синхронизировать</string>
      <string name="select_synced_calendars_title">Синхронизировать календари</string>
      <string name="select_visible_calendars_title">Отображать календари</string>
-	 <string name="show_all_lunar">Показывать лунный календарь</string>
+	 <string name="show_all_lunar">Лунный календарь</string>
+	 <string name="show_almanac">Показывать альманах</string>
      <string name="show_controls">Показать боковую панель</string>
      <string name="show_day_view">Показать день</string>
      <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>

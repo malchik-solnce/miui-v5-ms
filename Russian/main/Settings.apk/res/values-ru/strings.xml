@@ -33,9 +33,11 @@
      <string name="accessibility_global_gesture_preference_summary_on">Вкл.</string>
      <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
      <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
+	 <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
      <string name="accessibility_menu_item_settings">Настройки</string>
      <string name="accessibility_no_services_installed">Службы не установлены</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+	 <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_screen_magnification_enable">Жесты для увеличения</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран..
 
@@ -52,7 +54,8 @@
      <string name="accessibility_script_injection_button_disallow">Запретить</string>
      <string name="accessibility_script_injection_disallowed">Запрещена</string>
      <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
-     <string name="accessibility_service_default_description">Нет описания</string>
+     <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
+	 <string name="accessibility_service_default_description">Нет описания</string>
      <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
      <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
@@ -486,6 +489,7 @@
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
      <string name="bluetooth_unknown" />
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
+	 <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="breathing_light_color_menu_title">Светлый цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для новых уведомлений</string>
@@ -876,19 +880,27 @@
      <string name="dolby_bassboost_low">Низкое</string>
      <string name="dolby_bassboost_normal">Нормальное</string>
      <string name="dolby_bassboost_title">Усиление баса:</string>
+	 <string name="dolby_dialogue_enhancer">Усилитель диалога</string>
      <string name="dolby_effects">Эффекты Dolby</string>
      <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
      <string name="dolby_eq_enter_alert_title">Dolby Music</string>
+	 <string name="dolby_ieq_flat">Выкл</string>
+     <string name="dolby_ieq_focused">Фокусированный</string>
+     <string name="dolby_ieq_open">Открытый</string>
+     <string name="dolby_ieq_rich">Глубокий</string>
      <string name="dolby_mode_movie">Фильм</string>
      <string name="dolby_mode_music">Музыка</string>
      <string name="dolby_mode_off">Выключить</string>
      <string name="dolby_movie_advance">Расширенные настройки видео</string>
      <string name="dolby_music_advance">Расширенные настройки звука</string>
+	 <string name="dolby_preset_select">Выберите предуставноку</string>
      <string name="dolby_roomsize_high">Большая комната</string>
      <string name="dolby_roomsize_low">Маленькая комната</string>
      <string name="dolby_roomsize_normal">Обычная комната</string>
      <string name="dolby_roomsize_summary">Доступно только при использовании наушников</string>
      <string name="dolby_roomsize_title">Объемное звучание:</string>
+	 <string name="dolby_surround_virtualizer">Объемная визуализация</string>
+     <string name="dolby_volume_leveler">Громкость звука</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
@@ -1236,6 +1248,9 @@
      <string name="location_title">Мое местоположение</string>
      <string name="lock_after_timeout">Автоблокировка</string>
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
+	 <string name="lock_intro_message">"Чтобы никто, кроме Вас, не мог воспользоваться устройством, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. 
+
+Чтобы начать, нажмите \"Далее\"."</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
      <string name="lock_settings_common_title">Настройка блокировки</string>
@@ -1244,6 +1259,7 @@
      <string name="lock_settings_title">Блокировка экрана</string>
      <string name="lock_setup">Настройка завершена</string>
      <string name="lock_sounds_enable_title">Блокировка экрана</string>
+	 <string name="lock_title">Обеспечение безопасности</string>
      <string name="lockpassword_cancel_label">Отмена</string>
      <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
      <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
@@ -2062,6 +2078,7 @@
      <string name="radio_info_smsc_refresh_label">Обновление</string>
      <string name="radio_info_smsc_update_label">Обновить</string>
      <string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
+	 <string name="read_only">" (только для чтения)"</string>
      <string name="really_remove_account_message">Удаление этого аккаунта приведет к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне</string>
      <string name="really_remove_account_title">Удалить аккаунт?</string>
      <string name="realtime_protection">Защита</string>
@@ -2156,6 +2173,8 @@
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
      <string name="screen_timeout_title">Спящий режим</string>
+	 <string name="screensaver_activate_on_dock_title">Включать в док-станции</string>
+     <string name="screensaver_component_title">Заставка</string>
      <string name="screensaver_settings_button">Настройки</string>
      <string name="screensaver_settings_disabled_prompt">Чтобы знать, что происходит с телефоном, когда он подключен к док-станции или находится в спящем режиме, включите заставку</string>
      <string name="screensaver_settings_dream_start">Включить</string>
@@ -2163,9 +2182,14 @@
      <string name="screensaver_settings_summary_either_long">При подключении к док-станции, при переходе в спящий режим и во время зарядки</string>
      <string name="screensaver_settings_summary_either_short">Всегда</string>
      <string name="screensaver_settings_summary_off">Выключено</string>
+	 <string name="screensaver_settings_summary_on">Активация в спящем режиме при зарядке</string>
      <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
      <string name="screensaver_settings_title">Заставка</string>
      <string name="screensaver_settings_when_to_dream">Когда включать</string>
+	 <string name="screensaver_test">Попробовать</string>
+     <string name="screensaver_timeout_summary">После %1$s бездействия</string>
+     <string name="screensaver_timeout_title">Время до активации</string>
+     <string name="screensaver_timeout_zero_summary">Никогда</string>
      <string name="sd_card_settings_label">SD-карта</string>
      <string name="sd_card_storage">SD-карта</string>
      <string name="sd_eject">Извлечь SD-карту</string>
@@ -2337,6 +2361,7 @@ Attempts Remaining :"</string>
      <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
+	 <string name="skip_button_label">Отмена</string>
      <string name="skip_label">Далее</string>
      <string name="skip_step">Пропустить этот шаг</string>
      <string name="slot_status_title">Информация IMEI</string>
@@ -2637,6 +2662,7 @@ Attempts Remaining :"</string>
      <string name="user_confirm_remove_title">Удалить пользователя?</string>
      <string name="user_delete_button">Удалить</string>
      <string name="user_delete_user_description">Удалить пользователя</string>
+	 <string name="user_details_title">Редактировать</string>
      <string name="user_dict_multiple_settings_title">Пользовательские словари</string>
      <string name="user_dict_settings_add_dialog_less_options">Меньше</string>
      <string name="user_dict_settings_add_dialog_more_options">Больше</string>
@@ -2656,13 +2682,20 @@ Attempts Remaining :"</string>
      <string name="user_dict_settings_summary" />
      <string name="user_dict_settings_titlebar">Словарь пользователя</string>
      <string name="user_dict_single_settings_title">Пользовательский словарь</string>
+	 <string name="user_discard_user_menu">Отмена</string>
      <string name="user_info_settings_title">Информация о пользователе</string>
+	 <string name="user_information_heading">Информация</string>
      <string name="user_list_title">Пользователи</string>
+	 <string name="user_market_apps_heading">Установленные приложения</string>
+     <string name="user_market_requires_pin">Запрос PIN</string>
+     <string name="user_max_content_rating">Рейтинг содержимого</string>
+     <string name="user_name_title">Имя</string>
      <string name="user_new_user_name">Имя пользователя</string>
      <string name="user_nickname">Ник</string>
      <string name="user_owner">Владелец</string>
      <string name="user_picture_title">Фотография</string>
      <string name="user_remove_user_menu">Удалить пользователя %1$s</string>
+	 <string name="user_restrictions_heading">Ограничения содержимого</string>
      <string name="user_settings_title">Пользователи и ограничения</string>
      <string name="user_setup_button_setup_later">Не сейчас</string>
      <string name="user_setup_button_setup_now">Настроить</string>
@@ -2671,6 +2704,7 @@ Attempts Remaining :"</string>
      <string name="user_summary_active">Активен</string>
      <string name="user_summary_inactive">Не активен</string>
      <string name="user_summary_not_set_up">Не настроен</string>
+	 <string name="user_system_apps_heading">Системные приложения</string>
      <string name="user_you_section">Вы</string>
      <string name="valuation">Рекомендуется очистка</string>
      <string name="verify_applications">Проверка приложений</string>

@@ -204,6 +204,7 @@
      <string name="flip">Отразить</string>
      <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
      <string name="focal_length">Фокус. расст.</string>
+	 <string name="folder_holder_file">необходимо удалить этот файл позже</string>
      <string name="frame_black">Черная</string>
      <string name="frame_button">Рамка</string>
      <string name="frame_classic">Классическая</string>
@@ -468,12 +469,11 @@
      <string name="tencent_mobile_qq_img_save">QQ2012</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qq_hd_pic">QQ HD</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qzonepic">Qzone</string>
      <string name="there_is_no_image">Нет изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
+	 <string name="time_line_view">TimeLine_View</string>
      <string name="times">Даты</string>
      <string name="tint">Оттенок</string>
      <string name="title">Название</string>
@@ -487,8 +487,6 @@
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
      <string name="user_alias_self">Я</string>
-     <string name="video_download_in_process">Загрузка видео</string>
-     <string name="video_download_start">Начало загрузки</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
      <string name="video_not_exist">Видео не существует</string>
      <string name="view_sharers">Посмотреть поделившихся</string>

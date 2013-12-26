@@ -57,7 +57,7 @@
         <item>1 неделя</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
-        <item>Региональные настройки по умолчанию</item>
+        <item>По региону</item>
         <item>Суббота</item>
         <item>Воскресенье</item>
         <item>Понедельник</item>
@@ -69,12 +69,13 @@
         <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание"</item>
      </string-array>
      <string-array name="reminder_methods_labels">
-        <item>Оповещение</item>
+        <item>Уведомление</item>
         <item>Эл. почта</item>
-        <item>SMS</item>
+        <item>Сообщение</item>
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
+	    <item>Нет</item>
         <item>0 минут</item>
         <item>1 минута</item>
         <item>5 минут</item>
