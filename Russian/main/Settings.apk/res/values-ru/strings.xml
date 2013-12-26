@@ -587,7 +587,6 @@
      <string name="computing_size">Вычисление…</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_clear_blacklist">Очистить черный список?</string>
      <string name="confirm_clear_whitelist">Очистить белый список?</string>
@@ -1364,7 +1363,7 @@
      <string name="mem_lock">Заблокировать</string>
      <string name="mem_unlock">Разблокировать</string>
      <string name="member_firewall_log" formatted="false">Заблокирован: номер %d, подробнее %d</string>
-     <string name="memory">RAM:</string>
+     <string name="memory">Память RAM:</string>
      <string name="memory_apps_usage">Приложения</string>
      <string name="memory_available">Доступно</string>
      <string name="memory_available_read_only">доступно (только для чтения)</string>
@@ -1752,7 +1751,7 @@
      <string name="perm_user_app">Загруженные приложения (%d)</string>
      <string name="perm_version">версия: %1$s</string>
      <string name="permission_detail_info">Сведения о разрешениях</string>
-     <string name="permission_detail_info_summary">Разрешения: безопасности %1$d | конфид. %2$d | другие %3$d</string>
+     <string name="permission_detail_info_summary">Разрешения: безопасности %1$d, конфид. %2$d, другие %3$d</string>
      <string name="permission_manage">Управление разрешениями</string>
      <string name="permission_manage_summary">Автозапуск, конфиденциальность, управление правами</string>
      <string name="permission_manage_title">Разрешения %s</string>
@@ -1796,10 +1795,10 @@
      <string name="power_center_low_battery_title">По питанию</string>
      <string name="power_center_on_time_summary_default">Смена режима по времени</string>
      <string name="power_center_on_time_summary_dynamic">С %1$s до %2$s активен %3$s</string>
-     <string name="power_center_on_time_title">По расписанию</string>
+     <string name="power_center_on_time_title">По времени</string>
      <string name="power_center_state_off">Выкл.</string>
      <string name="power_center_state_on">Вкл.</string>
-     <string name="power_center_title">Батарея</string>
+     <string name="power_center_title">Центр управления батареей</string>
      <string name="power_chooser_check_box_summary">Выберите один из режимов, чтобы продлить жизнь батареи</string>
      <string name="power_chooser_check_box_title">Включить</string>
      <string name="power_chooser_mine_summary">Пользовательские настройки</string>
@@ -1822,7 +1821,6 @@
      <string name="power_customizer_cancel">Отмена</string>
      <string name="power_customizer_delete">Удалить</string>
      <string name="power_customizer_my_mode">Мой режим</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_customizer_ok">OK</string>
      <string name="power_customizer_save">Сохранить</string>
      <string name="power_customizer_sleep_mode">Режим сна</string>
@@ -1848,7 +1846,6 @@
  Вам нужно изменить настройки батареи, прежде чем удалить эту конфигурацию."</string>
      <string name="power_dialog_delete_dialog_delete">Удалить пользовательскую настройку? Действие нельзя будет отменить.</string>
      <string name="power_dialog_delete_dialog_title">Удаление конфигурации</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_dialog_ok">OK</string>
      <string name="power_dialog_screen_brightness_automatic">Автонастройка яркости</string>
      <string name="power_dialog_screen_brightness_automatic_off">Яркость экрана будет оставаться неизменной при любом окружающем освещении</string>
@@ -2318,7 +2315,6 @@
      <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
      <string name="sim_enter_cancel">Отмена</string>
      <string name="sim_enter_new">Новый PIN-код SIM-карты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_enter_ok">OK</string>
      <string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
      <string name="sim_enter_pin">PIN-код SIM-карты</string>
@@ -2378,7 +2374,6 @@ Attempts Remaining :"</string>
      <string name="status_bar_settings">Панель уведомлений</string>
      <string name="status_bt_address">Адрес Bluetooth</string>
      <string name="status_data_state">Передача данных в моб. сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_esn_number">ESN</string>
      <string name="status_network_type">Тип мобильной сети</string>
      <string name="status_number">Мой номер телефона</string>
@@ -3077,7 +3072,7 @@ Attempts Remaining :"</string>
      <string name="wifi_show_advanced">Дополнительно</string>
      <string name="wifi_show_password">Показывать пароль</string>
      <string name="wifi_signal">Уровень сигнала</string>
-     <string name="wifi_signal_found_msg">Found available WLAN AP, connect now？</string>
+     <string name="wifi_signal_found_msg">Найдена доступна точка Wi-Fi. Покдлючиться сейчас?</string>
      <string name="wifi_skip_anyway">Пропустить</string>
      <string name="wifi_skipped_message">"Внимание: может взиматься дополнительная плата за подключение.
 
