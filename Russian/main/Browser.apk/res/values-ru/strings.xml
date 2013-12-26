@@ -389,7 +389,7 @@
      <string name="pref_fling_on_border_enabled">Слайд по границе</string>
      <string name="pref_fling_on_border_enabled_title_summary">Слайд от границе экрана</string>
      <string name="pref_font_size_category">РАЗМЕР ТЕКСТА</string>
-     <string name="pref_force_userscalable">Фикс. масштаб</string>
+     <string name="pref_force_userscalable">Фиксировать масштаб</string>
      <string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
      <string name="pref_general_autofill_title">АВТОЗАПОЛНЕНИЕ</string>
      <string name="pref_general_exit_setting_title">НАСТРОЙКИ ВЫХОДА</string>

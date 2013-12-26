@@ -83,7 +83,7 @@
      <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
      <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно просканирует медиа-файлы и заново создаст эскизы позже.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
-     <string name="click_top_right">Нажмите на иконку вверху справа</string>
+     <string name="click_top_right">Нажмите на иконку здесь</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
@@ -99,8 +99,9 @@
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
      <string name="cloud_screenshots_display_name">Скриншоты</string>
      <string name="cloud_share_guide_message">"Вы можете поделиться облачным альбомом с
-друзьями"</string>
-     <string name="cloud_share_guide_title">Отправка MiCloud!</string>
+друзьями. Просматривайте и обновляйте
+альбом из любого места."</string>
+     <string name="cloud_share_guide_title">Простой обмен</string>
      <string name="cloud_tab_albums">Альбомы</string>
      <string name="cloud_tab_all">Все</string>
      <string name="cloud_tab_locations">Местоположение</string>
@@ -136,11 +137,8 @@
      <string name="crossprocess">Кроссобработка</string>
      <string name="cut">Обрезать</string>
      <string name="damaged_file">Файл поврежден</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_100media">Taobao TMall</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_opaipic">Opaipic</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
@@ -163,8 +161,6 @@
      <string name="download">Скачать</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_fail_confirm_continue">Не удалось загрузить %s. Продолжить?</string>
-     <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
-     <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
      <string name="duotone">Двойной тон</string>
      <string name="duration">Длительность</string>
      <string name="edit">Изменить</string>
@@ -364,7 +360,6 @@
      <string name="remove_recent_album">Удалить из последних альбомов</string>
      <string name="rename_failed">Не удалось переименовать</string>
      <string name="rename_failed_duplicated_name">Имя уже существует</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="renren_image">RenRen</string>
      <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
      <string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
@@ -432,7 +427,6 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">На карте</string>
      <string name="show_videos_only">Только видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>

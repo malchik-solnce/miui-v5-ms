@@ -147,9 +147,9 @@
      <string name="anti_stranger_title">Блокировать неизвестные</string>
      <string name="apk_status_damage">Поврежден</string>
      <string name="apk_status_duplicate">Дубликат</string>
-     <string name="apk_status_install">Установлен</string>
+     <string name="apk_status_install">Установлено</string>
      <string name="apk_status_installed_old">Старая версия</string>
-     <string name="apk_status_uninstalled">Не установлен</string>
+     <string name="apk_status_uninstalled">Не установлено</string>
      <string name="apn_auth_type">Тип аутентификации</string>
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
@@ -525,10 +525,10 @@
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_view">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
-     <string name="cache_header_label">КЭШ</string>
+     <string name="cache_header_label">КЕШ</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
      <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
-     <string name="cache_manager_actionbar_title">Системный кэш</string>
+     <string name="cache_manager_actionbar_title">Файлы кеша</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cached">Кэшированный фоновый процесс</string>
      <string name="call_log_tab_title">Журнал вызовов</string>
@@ -756,8 +756,8 @@
      <string name="deep_clean_tips_cache_title">Кешированные файлы</string>
      <string name="deep_clean_tips_large_file_content">Большие файлы (более 10 МБ), которые занимают место на устройстве</string>
      <string name="deep_clean_tips_large_file_title">Большие файлы</string>
-     <string name="deep_clean_tips_residual_content">"Остаточные файлы были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
-     <string name="deep_clean_tips_residual_title">Остаточные файлы</string>
+     <string name="deep_clean_tips_residual_content">"Остаточные файлы, которые были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
+     <string name="deep_clean_tips_residual_title">Мусор</string>
      <string name="deep_clean_title_cache">Кеш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
      <string name="deep_clean_title_residual">Мусор</string>
@@ -1557,7 +1557,6 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
-     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -1567,7 +1566,7 @@
      <string name="opt_waiting">Ожидание</string>
      <string name="optimize_ad_header_left">Реклама: %d</string>
      <string name="optimize_ad_list_empty_content">Реклама не найдена</string>
-     <string name="optimize_apk_header_left">Приложений: %d</string>
+     <string name="optimize_apk_header_left">Файлов: %d</string>
      <string name="optimize_apk_list_empty_content">Установочные пакеты не найдены</string>
      <string name="optimize_cache_header_left">Кеш: %d</string>
      <string name="optimize_cache_list_empty_content">Кеш не найден</string>
@@ -1580,15 +1579,14 @@
      <string name="optimize_tips_ad_content">Изображения, текст и другие виды рекламы сторонних приложений, сохраненные на устройстве</string>
      <string name="optimize_tips_ad_title">Рекламные файлы</string>
      <string name="optimize_tips_apk_content">Все доступные для установки файлы хранящиеся на устройстве</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="optimize_tips_apk_title">Apk</string>
+     <string name="optimize_tips_apk_title">Файлы Apk</string>
      <string name="optimize_tips_cache_content">Временные файлы приложений и процессов (например миниатюры)</string>
      <string name="optimize_tips_cache_title">Кеш</string>
      <string name="optimize_tips_residual_content">Остаточный контент созданный приложениями, которые уже удалены. Рекомендуем использовать расширеную очистку, т.к. некоторые из этих файлов возможно все еще нужны.</string>
      <string name="optimize_tips_residual_title">Мусор</string>
      <string name="optimize_tips_title">Помощь</string>
      <string name="optimize_title_ad">Реклама</string>
-     <string name="optimize_title_apk">Файлы</string>
+     <string name="optimize_title_apk">Файлы apk</string>
      <string name="optimize_title_cache">Кеш</string>
      <string name="optimize_title_residual">Мусор</string>
      <string name="optimizing">Оптимизация</string>
@@ -1647,10 +1645,8 @@
      <string name="perm_hips_group_root">Суперпользователь</string>
      <string name="perm_hips_listen_call_state">контролировать состояние вызова</string>
      <string name="perm_hips_location_access">получать Ваше местоположение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="perm_hips_location_cell_location">obtain cellular location</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="perm_hips_location_cellinfo">obtain cellular location</string>
+     <string name="perm_hips_location_cell_location">Получить местоположение</string>
+     <string name="perm_hips_location_cellinfo">Получить местоположение</string>
      <string name="perm_hips_location_monitor">отслеживать местоположение</string>
      <string name="perm_hips_location_source_cellular">Источник: сотовая сеть</string>
      <string name="perm_hips_location_source_gps">Источник: GPS</string>
@@ -2557,7 +2553,7 @@ Attempts Remaining :"</string>
      <string name="tts_play_example_title">Прослушать пример</string>
      <string name="tts_settings">Настройки синтеза речи</string>
      <string name="tts_settings_changed_demo">Ваши настройки изменены. Вот пример того, как это звучит.</string>
-     <string name="tts_settings_title">Синтез речи</string>
+     <string name="tts_settings_title">Синтезатор речи</string>
      <string name="turn_off_radio">Отключить радио</string>
      <string name="turn_off_security_lock">Отключить блокировку</string>
      <string name="turn_on_radio">Включить радио</string>
@@ -2727,15 +2723,15 @@ Attempts Remaining :"</string>
      <string name="virus_scan">Антивирус</string>
      <string name="virus_scan_app_continue">Продолжить</string>
      <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
-     <string name="virus_scan_app_finish">Закрыть</string>
-     <string name="virus_scan_app_force_stop">Сканирование оставнолено</string>
+     <string name="virus_scan_app_finish">Готово</string>
+     <string name="virus_scan_app_force_stop">Сканирование остановлено</string>
      <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
-     <string name="virus_scan_app_multi_engines">Выбор двигателя, время сканирования может занять больше времени</string>
-     <string name="virus_scan_app_no_risk">Угрозы не найдены</string>
+     <string name="virus_scan_app_multi_engines">Выбранный движок может замедлить сканирование</string>
+     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
      <string name="virus_scan_app_passed">Сканирование завершено: угроз нет</string>
      <string name="virus_scan_app_risk">Найдена угроза!</string>
      <string name="virus_scan_app_safe_scanning">Сканирование…</string>
-     <string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
+     <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
      <string name="virus_scan_app_scanning">Сканирование…</string>
      <string name="virus_scan_app_solve">Вся обработка</string>
      <string name="virus_scan_app_stop">Остановить</string>
@@ -2744,12 +2740,12 @@ Attempts Remaining :"</string>
      <string name="virus_scan_app_waiting">Ожидание…</string>
      <string name="virus_scan_can_use_wifi">Использовать облачную базу данных</string>
      <string name="virus_scan_clear">Удалить</string>
-     <string name="virus_scan_dangerous">Риск</string>
+     <string name="virus_scan_dangerous">Имеются угрозы</string>
      <string name="virus_scan_description">Это приложение является одним из основных рисков для безопасности устройства</string>
-     <string name="virus_scan_file_type_risk_apk">Подозрительное приложение (установить)</string>
-     <string name="virus_scan_file_type_risk_installed">Подозрительное приложение (установлено)</string>
-     <string name="virus_scan_file_type_virus_apk">Вирус (установить)</string>
-     <string name="virus_scan_file_type_virus_installed">Вирус (установлено)</string>
+     <string name="virus_scan_file_type_risk_apk">Обнаружена угроза (apk)</string>
+     <string name="virus_scan_file_type_risk_installed">Обнаружена угроза (установлено)</string>
+     <string name="virus_scan_file_type_virus_apk">Обнаружен вирус (apk)</string>
+     <string name="virus_scan_file_type_virus_installed">Обнаружен вирус (установлено)</string>
      <string name="virus_scan_find">Обнаружено угроз: %d</string>
      <string name="virus_scan_finish">Готово</string>
      <string name="virus_scan_finish_text">Теперь все в порядке :)</string>
@@ -2760,7 +2756,7 @@ Attempts Remaining :"</string>
      <string name="virus_scan_judge_is_virus">Проверять приложения на вирусы перед установкой</string>
      <string name="virus_scan_last_risk">Подозрительные файлы не были удалены</string>
      <string name="virus_scan_last_scan_date">Последняя проверка: %d дн. назад</string>
-     <string name="virus_scan_last_scan_today">"Последняя проверка: сегодня "</string>
+     <string name="virus_scan_last_scan_today">"Последняя проверка: сегодня в "</string>
      <string name="virus_scan_last_scan_yesterday">"Последняя проверка: вчера "</string>
      <string name="virus_scan_last_time">Последняя проверка: %s</string>
      <string name="virus_scan_last_virus">Найдены вирусы в последней проверке</string>
