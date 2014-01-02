@@ -37,7 +37,7 @@
      <string name="accessibility_menu_item_settings">Настройки</string>
      <string name="accessibility_no_services_installed">Службы не установлены</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
-	 <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
+	 <string name="accessibility_power_button_ends_call_title">Кнопка питания завер. вызов</string>
      <string name="accessibility_screen_magnification_enable">Жесты для увеличения</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран..
 
@@ -62,14 +62,18 @@
      <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона.</string>
      <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
+	 <string name="accessibility_service_state_off">Отключено</string>
+     <string name="accessibility_service_state_on">Включено</string>
      <string name="accessibility_services_title">Службы</string>
      <string name="accessibility_settings">Спец. возможности</string>
      <string name="accessibility_settings_title">Настройки специальных возможностей</string>
+	 <string name="accessibility_speak_password_title">Озвучивать пароли</string>
      <string name="accessibility_sync_disabled">Синхронизация отключена</string>
      <string name="accessibility_sync_enabled">Синхронизация включена</string>
      <string name="accessibility_sync_error">Ошибка синхронизации</string>
      <string name="accessibility_system_title">Система</string>
      <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
+	 <string name="accessibility_toggle_large_text_title">Большой текст</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
      <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
@@ -424,6 +428,7 @@
      <string name="bluetooth_menu_advanced">Расширенные</string>
      <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
      <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
+	 <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
      <string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth устройств</string>
      <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
      <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
@@ -491,6 +496,7 @@
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
 	 <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
+	 <string name="bluetooth_visibility_timeout_summary">Время видимости устройства</string>
      <string name="breathing_light_color_menu_title">Светлый цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для новых уведомлений</string>
      <string name="breathing_light_color_title">цвет светодиода</string>
@@ -524,7 +530,7 @@
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_view">Посмотреть</string>
-     <string name="cache_garbage">Кэш</string>
+     <string name="cache_garbage">Кеш</string>
      <string name="cache_header_label">КЕШ</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
      <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
@@ -761,7 +767,7 @@
      <string name="deep_clean_title_cache">Кеш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
      <string name="deep_clean_title_residual">Мусор</string>
-     <string name="deep_cleaning">Дополнительно</string>
+     <string name="deep_cleaning">Е</string>
      <string name="default_input_method">Выбор метода ввода по умолчанию</string>
      <string name="default_usb_mode">Тип подключения USB</string>
      <string name="delete">Удалить</string>
@@ -789,6 +795,7 @@
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
      <string name="device_internal_memory">Внутренняя память:</string>
+	 <string name="device_memory">Память RAM:</string>
      <string name="device_miui_version">Версия MIUI:</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства. Введите еще ​​раз.</string>
@@ -1712,6 +1719,7 @@
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Управляемые приложения (%1$d)</string>
+	 <string name="perm_notice">Внимание!</string>
      <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
      <string name="perm_privacy_app_count">%1$d разрешения</string>
@@ -1746,7 +1754,7 @@
      <string name="perm_su_enable_content">"Включение позволит приложениям запрашивать доступ от имени суперпользователя.
 Внимание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Влючить суперпользователя?"</string>
      <string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, откройте приложение Безопасность - Разрешения.</string>
-     <string name="perm_su_enable_summary">Приложения могут получить разрешения суперпользователя</string>
+     <string name="perm_su_enable_summary">Приложения смогут получать права суперпользователя</string>
      <string name="perm_su_enable_title">Суперпользователь</string>
      <string name="perm_su_switch">Суперпользователь</string>
      <string name="perm_summary_disabled">Выкл</string>
@@ -1941,11 +1949,7 @@
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Состояние батареи</string>
      <string name="power_used_hours">ч.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_hours_test">8</string>
      <string name="power_used_mins">мин.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_mins_test">23</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка</string>
@@ -2109,7 +2113,7 @@
      <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
      <string name="residual_cancel">Отмена</string>
      <string name="residual_clean">Удалить</string>
-     <string name="residual_tips_hints">На SD-карте найдено остаточных файлов: %s</string>
+     <string name="residual_tips_hints">Найдено остаточных файлов: %s</string>
      <string name="restore_default_apn">Восстановление настроек…</string>
      <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
      <string name="restore_default_settings">Сбросить настройки</string>

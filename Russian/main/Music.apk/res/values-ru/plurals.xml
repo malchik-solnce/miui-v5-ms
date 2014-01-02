@@ -2,16 +2,16 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d песен были удалены</item>
-        <item quantity="one">1 песня была удалена</item>
+        <item quantity="other">%d песен удалено</item>
+        <item quantity="one">Трек удалена</item>
      </plurals>
      <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d треков добавлено в плейлист</item>
-        <item quantity="one">1 трек добавлен в плейлист</item>
+        <item quantity="one">Трек добавлен в избранные</item>
      </plurals>
      <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">1 песня добавлена в плейлист</item>
+        <item quantity="one">Трек добавлен в плейлист</item>
      </plurals>
      <plurals name="NTrackstoDownload">
         <item quantity="other">%d треков будет скачано</item>
@@ -28,6 +28,14 @@
      <plurals name="Nartists">
         <item quantity="other">исполнители</item>
         <item quantity="one">исполнитель</item>
+     </plurals>
+	 <plurals name="Nexpiration_reminder">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
      </plurals>
      <plurals name="Nfolders">
         <item quantity="other">" папки"</item>
@@ -82,8 +90,11 @@
         <item quantity="one">%d трек</item>
      </plurals>
      <plurals name="Ntracks_total">
-        <item quantity="other">%d треков</item>
-        <item quantity="one">%d трек</item>
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: %d</item>
+     </plurals>
+	 <plurals name="Nvip_expired_remind">
+        <item quantity="other">Доступ к музыке в высоком качестве истекает через %d дн.</item>
      </plurals>
      <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d песен</item>

@@ -82,7 +82,7 @@
      </string-array>
      <string-array name="entries_color_calibration">
         <item>sRGB</item>
-        <item>Нативный</item>
+        <item>Натуральный</item>
      </string-array>
      <string-array name="entries_font_size">
         <item>Мелкий</item>
@@ -275,7 +275,6 @@
         <item>Камера</item>
         <item>Галерея</item>
         <item>Музыка</item>
-        <item>Видео</item>
         <item>Почта</item>
      </string-array>
      <string-array name="score_descriptions">

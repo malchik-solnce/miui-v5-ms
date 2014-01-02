@@ -285,8 +285,8 @@
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
-	 <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск</string>
-     <string name="miui_quicksearch_enable_pref_title">Быстрый поиск уведомлений</string>
+	 <string name="miui_quicksearch_enable_pref_summary">Включает быстрый поиск</string>
+     <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Открыть быстрый поиск</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
@@ -320,7 +320,7 @@
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Специальные возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинации букв могут быть введены в одно нажатие</string>
-     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
      <string name="pref_allow_apptabs">Разрешить несколько вкладок на приложение</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
@@ -335,7 +335,7 @@
      <string name="pref_content_auto_light_mode">Автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
-	 <string name="pref_content_block_float_popups">Блокир. всплыв. окна</string>
+	 <string name="pref_content_block_float_popups">Блокир. плав. окна</string>
      <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
@@ -375,7 +375,7 @@
      <string name="pref_development_viewport">Исполь. широкое окно просмотра</string>
      <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">По посл. вкладке</string>
-     <string name="pref_extras_reset_default">Сброс натсроек</string>
+     <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
      <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
      <string name="pref_extras_reset_default_title">СБРОС НАСТРОЕК</string>
@@ -419,7 +419,7 @@
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Не разрешать браузеру предварительно загружать веб-страницы в фоновом режиме</string>
      <string name="pref_min_font_size">Мин. размер шрифта</string>
-     <string name="pref_min_font_size_value">%d pt</string>
+     <string name="pref_min_font_size_value">%d %</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
      <string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
      <string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
@@ -429,9 +429,9 @@
      <string name="pref_privacy_clear_form_data">Очистить данные формы</string>
      <string name="pref_privacy_clear_form_data_dlg">Удалить все сохраненные данные форм?</string>
      <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
-     <string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
-     <string name="pref_privacy_clear_geolocation_access_dlg">Закрыть геоданные?</string>
-     <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о вашем местоположении</string>
+     <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
+     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
+     <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
      <string name="pref_privacy_clear_history">Очистить историю</string>
      <string name="pref_privacy_clear_history_by_group_dlg">Вы хотите очистить историю?</string>
      <string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
