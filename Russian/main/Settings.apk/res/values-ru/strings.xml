@@ -1962,12 +1962,12 @@
      <string name="preferred_app_settings_default">По умолчанию</string>
      <string name="preferred_app_settings_reset">Сбросить настройки</string>
      <string name="preferred_app_settings_reset_message">Восстановить все значения настроек приложений по умолчанию?</string>
-     <string name="preferred_application_title">По умолчанию: %s</string>
+     <string name="preferred_application_title">%s</string>
      <string name="preferred_application_warning_message">"Замена приложения \"%1$s\" может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. 
 Рекомендуем использовать приложение \"%2$s\"."</string>
      <string name="preferred_application_warning_replace">Заменить</string>
      <string name="preferred_application_warning_title">Замена \"%s\"</string>
-     <string name="preferred_application_warning_use_system">\"%s\"</string>
+     <string name="preferred_application_warning_use_system">Отмена</string>
      <string name="preferred_launcher_title">Рабочий стол</string>
      <string name="preferred_media_app_summary">Выберите аудиоплеер</string>
      <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую информацию для защиты привата</string>
@@ -3034,7 +3034,7 @@ Attempts Remaining :"</string>
      <string name="wifi_security_none">Нет</string>
      <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
      <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
-     <string name="wifi_setting_frequency_band_title">Полоса частот Wi-Fi</string>
+     <string name="wifi_setting_frequency_band_title">Диапазон частот</string>
      <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
      <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
      <string name="wifi_settings">Wi-Fi</string>
@@ -3177,7 +3177,7 @@ Attempts Remaining :"</string>
      <string name="window_animation_scale_title">Окно: масштаб</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
      <string name="work_done">Готово</string>
-     <string name="wps_category">Безопасное и быстрое подключение</string>
+     <string name="wps_category">Безопасное подключение</string>
      <string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор поддерживает и включен WPS</string>
      <string name="wps_connect_title">Подключить WPS</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>

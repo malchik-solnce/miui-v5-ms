@@ -78,9 +78,9 @@
      <string name="detail_recharge_account">ID пополнения</string>
      <string name="detail_recharge_amount">Сумма</string>
      <string name="detail_recharge_method">Метод</string>
-     <string name="detail_recharge_order">Номер заказа пополнения</string>
+     <string name="detail_recharge_order">Номер заказа</string>
      <string name="detail_recharge_time">Время</string>
-     <string name="detail_recharge_title">Записи поплнения</string>
+     <string name="detail_recharge_title">Пополнения</string>
      <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
 Пожалуйста, войдите занова."</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
@@ -338,18 +338,13 @@
      <string name="mibi_license_message">Нажмите OK, если согласны с правилами и условиями, описанными в %1$s</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
@@ -438,9 +433,9 @@
      <string name="security_setting">Настройки безопасности</string>
      <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
-     <string name="title_discounts">Скидки</string>
+     <string name="title_discounts">Акции и скидки</string>
      <string name="title_gesture">Графический ключ</string>
-     <string name="title_giftcard">Акции</string>
+     <string name="title_giftcard">Подарочные карты</string>
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои кредиты</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
@@ -448,9 +443,9 @@
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
-     <string name="title_pay_record">История платежей</string>
+     <string name="title_pay_record">Платежи</string>
      <string name="title_recharge">Пополнить MiCredits</string>
-     <string name="title_recharge_record">История пополнений</string>
+     <string name="title_recharge_record">Пополнения</string>
      <string name="title_transaction">Операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
      <string name="voucher_edit_hint">Код</string>
