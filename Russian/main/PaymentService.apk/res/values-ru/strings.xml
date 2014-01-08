@@ -350,7 +350,7 @@
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
-     <string name="msg_telecom_order_denom">%1s￥ （не включая передачу данных）</string>
+     <string name="msg_telecom_order_denom">%1s юань （не включая передачу данных）</string>
      <string name="msg_telecom_order_denom_label">Сумма долга:</string>
      <string name="msg_telecom_order_goods">%1s MiCredits</string>
      <string name="msg_telecom_order_goods_label">О заказе:</string>
@@ -361,6 +361,7 @@
      <string name="msg_telecom_sending">Ожидание провайдера сети…</string>
      <string name="order_price">%1$s MiCredits</string>
      <string name="password_error">Неверный пароль</string>
+	 <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
      <string name="pay_record_empty">Нет записей</string>
      <string name="pay_record_typeall">Все</string>

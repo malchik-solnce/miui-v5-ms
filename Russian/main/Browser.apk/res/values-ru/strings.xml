@@ -285,14 +285,15 @@
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
-	 <string name="miui_quicksearch_enable_pref_summary">Включает быстрый поиск</string>
+	 <string name="miui_quicksearch_enable_pref_summary">Включает панель быстрого поиска в уведомлениях</string>
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
-     <string name="miui_search_notification_message">Открыть быстрый поиск</string>
+     <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
      <string name="move_to_up_folder">Вверх</string>
      <string name="multi_select_title">Выбрано %1$s штук(а)</string>
      <string name="name">Ярлык</string>
+	 <string name="network_alert_message">Wi-Fi сеть недоступна. Использовать мобильный интернет?</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
      <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомлять о Wi-Fi</string>
@@ -301,6 +302,7 @@
      <string name="new_folder">Новая папка</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
+	 <string name="no">Нет</string>
      <string name="no_subfolders">Нет подпапок</string>
      <string name="not_enough_disk_space_alert">Не хватает места на диске</string>
      <string name="not_remind_again">Больше не напоминать</string>
@@ -591,16 +593,7 @@
      <string name="warning">Внимание</string>
      <string name="webapp_add_to_desktop">Добавить на стол</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
-     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="webapp_app_name">MiMarket Web Store</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="webapp_autohority">miui.browser.webapps</string>
+     <string name="webapp_app_name">Веб-маркет приложений</string>
      <string name="webapp_bottom_bar_addtodesk">На стол</string>
      <string name="webapp_bottom_bar_exit">Выход</string>
      <string name="webapp_bottom_bar_hidebar">Скрыть бар</string>
@@ -622,4 +615,5 @@
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
+	 <string name="yes">Да</string>
 </resources>
