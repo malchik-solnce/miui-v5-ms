@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="add_alarm">Добавить будильник</string>
-     <string name="alarm_alert">Мелодия будильника</string>
+     <string name="alarm_alert">Мелодия</string>
      <string name="alarm_alert_alert_silenced">Будильник звонил %d мин. назад</string>
      <string name="alarm_alert_snooze_set">Повторить через %d мин.</string>
      <string name="alarm_ascending_mode_summary">Нарастание громкости будильника до установленной</string>
@@ -15,7 +15,7 @@
      <string name="alarm_notify_snooze_label">%s (отложено)</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>
      <string name="alarm_repeat">Дни недели</string>
-     <string name="alarm_screen">Тема будильника</string>
+     <string name="alarm_screen">Тема</string>
      <string name="alarm_settings">НАСТРОЙКИ ТЕМЫ</string>
      <string name="alarm_vibrate">Вибрация</string>
      <string name="alarm_volume_summary">Настройка громкости будильника</string>
@@ -36,13 +36,13 @@
      <string name="day">1 день</string>
      <string name="day_concat">", "</string>
      <string name="days">%s дн.</string>
-     <string name="default_alarm_alert">Мелодия</string>
+     <string name="default_alarm_alert">Мелодия и тема</string>
      <string name="default_alarm_title">Стандартная мелодия</string>
      <string name="default_label">Будильник</string>
      <string name="delelte_selected_timezone">Удалить выбранный часовой пояс(а)?</string>
      <string name="delete">Удалить</string>
      <string name="delete_alarm">Удаление</string>
-     <string name="delete_alarm_confirm">Вы действительно хотите удалить будильник(и)?</string>
+     <string name="delete_alarm_confirm">Удалить будильник?</string>
      <string name="delete_timezone_title">Удалить часовой пояс</string>
      <string name="dialog_confirm_abort">Отменить изменения?</string>
      <string name="done">Готово</string>
@@ -54,7 +54,7 @@
      <string name="keep_screen_on">Экран включен</string>
      <string name="label">Описание</string>
      <string name="lap">Круг</string>
-     <string name="lap_num">Круг</string>
+     <string name="lap_num">круг</string>
      <string name="legal_workday">Рабочие дни</string>
      <string name="legal_workday_invalidate">Данные просрочены (сейчас будильник звонит с пон. по пят.)</string>
      <string name="legal_workday_invalidate_message">(Данные просрочены. Обновите в разделе Настройки.)</string>
@@ -92,7 +92,7 @@
      <string name="timer_message_with_hour">таймер на %1$d ч. и %2$d мин.</string>
      <string name="timer_start_alarm">Время таймера вышло</string>
      <string name="timer_title">Таймер</string>
-     <string name="timezone_exist_error_message">Не удалось добавить часовой пояс. Часовой пояс уже существует, пожалуйста, повторите.</string>
+     <string name="timezone_exist_error_message">Часовой пояс уже существует</string>
      <string name="volume_button_setting_summary">Функция клавиши во время будильника</string>
      <string name="volume_button_setting_title">Клавиша громкости</string>
      <string name="workday_alarm_clock">По рабочим дням</string>

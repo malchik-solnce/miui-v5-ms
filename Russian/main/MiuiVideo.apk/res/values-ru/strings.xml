@@ -101,7 +101,7 @@
     <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
     <string name="file_not_exist">Файл не найден</string>
     <string name="play">Смотреть</string>
-    <string name="favorite">Избранное</string>
+    <string name="favorite">избранное</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>
     <string name="waitfornewset">Следовать</string>
@@ -114,7 +114,7 @@
     <string name="count_myfavorite">" избранное"</string>
     <string name="myfavorite">Избранное</string>
     <string name="no_myfavorite">Пусто</string>
-    <string name="no_myfavorite_advice">Рекомендованное</string>
+    <string name="no_myfavorite_advice">Рекомендуем добавить</string>
     <string name="myfavorite_onlylocal">Избранное</string>
     <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
     <string name="alreadyselected">Выбрано</string>
@@ -137,7 +137,7 @@
     <string name="comment_publish">Отправить</string>
     <string name="write_comment">Добавить</string>
     <string name="delete_media">Удалить</string>
-    <string name="delete_media_content">Удалить этот элемент?</string>
+    <string name="delete_media_content">Удалить выбранные файлы?</string>
     <string name="clear_playhistory">Очистить историю просмотра</string>
     <string name="clear_playhistory_tip">Вся история просмотра в плеере будет удалена. Продолжить?</string>
     <string name="filter_mediaex">Фильтрация</string>

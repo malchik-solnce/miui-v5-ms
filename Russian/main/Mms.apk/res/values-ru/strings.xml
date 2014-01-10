@@ -90,17 +90,17 @@
      <string name="converting_to_text_message">Преобразование в SMS сообщение…</string>
      <string name="copy_message_text">Скопировать текст</string>
      <string name="copy_message_text_success">Текст скопирован</string>
-     <string name="copy_to_sdcard">Сохранить приложение</string>
+     <string name="copy_to_sdcard">Сохранить вложение</string>
      <string name="copy_to_sdcard_fail">Файл не сохранен</string>
      <string name="copy_to_sdcard_success">Файл сохранен как %s</string>
      <string name="database_corruption">База данных повреждена, пересоздание базы данных</string>
      <string name="delete">Удалить</string>
-     <string name="delete_bookmark">Удалить закладку</string>
+     <string name="delete_bookmark">Убрать из избранных</string>
      <string name="delete_message">Удалить</string>
      <string name="delete_phrase">Удалить фразу</string>
-     <string name="delete_unlocked">Удалить заблокированные сообщения</string>
+     <string name="delete_unlocked">Удалить закрепленные сообщения</string>
      <string name="delivery_report_activity">Отчет о доставке</string>
-     <string name="delivery_toast_body">%s: сообщение доставлено</string>
+     <string name="delivery_toast_body">Сообщение доставлено %s</string>
      <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
      <string name="discard">Отменить</string>
      <string name="discard_message">Отмена</string>
@@ -112,7 +112,7 @@
      <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
      <string name="downloading">Загрузка…</string>
      <string name="duration_not_a_number">Должно быть указано числовое значение</string>
-     <string name="duration_sec">Продолжительность: (%s с.)</string>
+     <string name="duration_sec">Продолжительность: (%s сек.)</string>
      <string name="duration_selector_title">"Продолжительность показа слайда "</string>
      <string name="duration_zero">Значение должно быть больше нуля</string>
      <string name="edit">Изменить</string>
@@ -144,8 +144,8 @@
      <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
      <string name="forward_from">От:</string>
      <string name="forward_prefix">"От: "</string>
-     <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s
-Вы хотите загрузить их в свой текущий аккаунт %2$s?"</string>
+     <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s.
+Вы хотите загрузить их в текущий аккаунт %2$s?"</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
      <string name="found_wild_messages">В облаке найдены сообщения с других SIM-карт. Вы хотите загрузить их?</string>
      <string name="found_wild_messages_title">Скачка сообщений</string>
@@ -157,7 +157,7 @@
      <string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
      <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
      <string name="hidden_sender_address">Адрес отправителя скрыт</string>
-     <string name="hint_search_sms">%d сообщений</string>
+     <string name="hint_search_sms">Сообщений: %d</string>
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик…</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -288,8 +288,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
      <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщения на экране блокировки и в строке состояния</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен при гостевом режиме</string>
-     <string name="pref_summary_off_system_mms_priority">Другие приложения будут получать MMS первыми</string>
-     <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать MMS первым</string>
+     <string name="pref_summary_off_system_mms_priority">Другие приложения будут получать сообщения</string>
+     <string name="pref_summary_on_system_mms_priority">Приложение будет получать сообщения</string>
      <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
      <string name="pref_summary_wake_up_screen">Включать экран при получении нового сообщения</string>
      <string name="pref_system_title">СИСТЕМНЫЕ НАСТРОЙКИ</string>
@@ -311,7 +311,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Макс. количество SMS</string>
-     <string name="pref_title_system_mms_priority">Приоритет для MMS</string>
+     <string name="pref_title_system_mms_priority">Приоритет для СМС</string>
      <string name="pref_title_vcard">Отправить через vCard</string>
      <string name="pref_title_wake_up_screen">Включение экрана</string>
      <string name="preferences_title">Настройки</string>
@@ -380,7 +380,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="send_to">Для:</string>
      <string name="send_to_count">Успешно отправлено для %1$s</string>
      <string name="send_to_index_contact">Отправлено %1$s из %2$s…</string>
-     <string name="sent_label">"Отправленные: "</string>
+     <string name="sent_label">"Отправлено: "</string>
      <string name="service_message_not_found">Срок действия сообщения истек или оно не доступно</string>
      <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>

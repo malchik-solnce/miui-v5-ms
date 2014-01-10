@@ -160,9 +160,10 @@
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
      <string name="apn_edit">Изменить</string>
-     <string name="apn_general">Интернет</string>
+     <string name="apn_general">Точки доступа интернет</string>
      <string name="apn_http_port">Порт</string>
      <string name="apn_http_proxy">Прокси</string>
+	 <string name="apn_mms">Точки доступа MMS</string>
      <string name="apn_mms_port">Порт MMS</string>
      <string name="apn_mms_proxy">Прокси-сервер MMS</string>
      <string name="apn_name">Имя</string>
@@ -2320,8 +2321,6 @@
      <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
      <string name="settings_safetylegal_title">Сведения о безопасности</string>
      <string name="settings_shortcut">Ярлык настроек</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="seventy">70</string>
      <string name="show_all_anrs">Все ANR</string>
      <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
      <string name="show_background_processes">Показать процессы в кэше</string>
