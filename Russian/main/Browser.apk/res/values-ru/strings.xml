@@ -11,7 +11,7 @@
      <string name="accessibility_button_go">Перейти</string>
      <string name="accessibility_button_more">Другие варианты</string>
      <string name="accessibility_button_navscreen">Менеджер страниц</string>
-     <string name="accessibility_button_newincognitotab">Открыть новую вкладку в режиме инкогнито</string>
+     <string name="accessibility_button_newincognitotab">Открыть новую вкладку инкогнито</string>
      <string name="accessibility_button_newtab">Новая вкладка</string>
      <string name="accessibility_button_refresh">Обновить страницу</string>
      <string name="accessibility_button_search">Поиск</string>
@@ -23,7 +23,7 @@
      <string name="accessibility_transition_navscreen">Управление вкладками</string>
      <string name="account">Аккаунт</string>
      <string name="account_chooser_dialog_title">Выберите аккаунт</string>
-     <string name="action">Вход</string>
+     <string name="action">Войти</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_bookmark_short">Добавить</string>
      <string name="add_folder">Добавить папку</string>
@@ -130,7 +130,7 @@
      <string name="contextheader_folder_empty">Папка пуста</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
-     <string name="contextmenu_copylink">Копировать URL ссылки</string>
+     <string name="contextmenu_copylink">Копировать ссылку</string>
      <string name="contextmenu_dial_dot">Набор номера…</string>
      <string name="contextmenu_download_image">Сохранить изображение</string>
      <string name="contextmenu_download_image_as">Сохранить изображение как</string>
@@ -143,14 +143,14 @@
      <string name="contextmenu_set_wallpaper">Установить как фоновый рисунок</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
-     <string name="copy_link">Ссылка</string>
+     <string name="copy_link">Скопировать</string>
      <string name="copy_page_url">Скопировать URL страницы</string>
      <string name="crash_recovcery_message">Браузер был завершен с ошибкой. Восстановить прошлую сессию?</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
      <string name="current_page">"на "</string>
      <string name="defaultBookmarksUpButton">Закладки</string>
      <string name="delete">Удалить</string>
-     <string name="delete_bookmark">Из избранного</string>
+     <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
@@ -512,7 +512,7 @@
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
      <string name="save">ОК</string>
-     <string name="save_bookmark">В избранное</string>
+     <string name="save_bookmark">В закладки</string>
      <string name="save_dialog_title">Сохранение файла</string>
      <string name="save_file_already_exist_alert_message">Файл уже существует. Перезаписать его?</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
@@ -521,34 +521,16 @@
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_dianping">Cate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_easou">Easou</string>
      <string name="search_hint">Введите адрес или поиск</string>
      <string name="search_label">Браузер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_shipin">Video</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_sogou">Segou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_taobao">Taobao</string>
-     <string name="search_the_web">Поиск в Интернете</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_tupian">Image</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_yahoo">Yahoo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_yicha">Yicha</string>
+     <string name="search_the_web">Поиск в интернете</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-     <string name="send_to_popular">В популярные</string>
+     <string name="send_to_popular">На главную</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
-     <string name="share_link">Отправить ссылку</string>
+     <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>
      <string name="shortcut_bookmark">Закладка</string>
      <string name="shortcut_bookmark_title">Выберите закладку</string>
@@ -574,9 +556,9 @@
      <string name="tab_bookmarks">Закладки</string>
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
-     <string name="tab_quicklinks">Ссылки</string>
+     <string name="tab_quicklinks">Полезные</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
-     <string name="tab_yellowpage">Интересы</string>
+     <string name="tab_yellowpage">Популярные</string>
      <string name="title_bar_loading">Загрузка…</string>
      <string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
      <string name="too_many_subwindows_dialog_title">Всплывающее окно уже открыто</string>
@@ -585,7 +567,7 @@
      <string name="ua_switcher_desktop">Полная версия</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
-     <string name="url_hint">Введите адрес</string>
+     <string name="url_hint">Введите адрес или поиск</string>
      <string name="user_defined_webpage">Добавить страницу</string>
      <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
      <string name="username">Имя</string>
@@ -600,7 +582,6 @@
      <string name="webapp_bottom_bar_openbrowser">Открыть в браузере</string>
      <string name="webapp_bottom_bar_showbar">Показать бар</string>
      <string name="webapp_dialog_title">Добавить приложение на рабочий стол?</string>
-     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="webapp_splashview_loading">Загрузка, подождите…</string>
      <string name="webapp_web_forward">Вперед</string>
      <string name="webapp_web_goback">Назад</string>

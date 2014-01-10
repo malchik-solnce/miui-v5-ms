@@ -388,7 +388,7 @@
      <string name="group_delete_success_toast">Группа удалена</string>
      <string name="group_edit_field_hint_text">Название группы</string>
      <string name="group_member_remove_toast">Контакт удален из группы</string>
-	 <string name="group_name">Мои группы</string>
+	 <string name="group_name">Группы</string>
      <string name="group_name_hint">Название группы</string>
      <string name="group_read_only">Здесь доступно только для чтения</string>
      <string name="group_rename_dialog_title">Переименование группы</string>
