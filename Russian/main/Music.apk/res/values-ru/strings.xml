@@ -12,7 +12,7 @@
      <string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя. Рекомендуется включить.</string>
      <string name="album_download">Загрузить обложку</string>
      <string name="album_edit">Альбом</string>
-     <string name="album_picker_not_found">Галерея не найден на устройстве</string>
+     <string name="album_picker_not_found">Галерея не найдена на устройстве</string>
      <string name="album_search_failed">Обложки альбома не найдены!</string>
      <string name="album_search_local_descript">Телефон | %1$d x %2$d</string>
      <string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
@@ -130,8 +130,8 @@
      <string name="frequentlyplayed_title">Часто воспроизводимые</string>
      <string name="headphone_settings">Настройка типа наушников</string>
      <string name="high_quality">Высокое качество</string>
-     <string name="higher_quality_music">Музыка высокого качества</string>
-     <string name="higher_quality_music_summary">Слушайте и скачивайте музыку в высоком качестве</string>
+     <string name="higher_quality_music">Качественная музыка</string>
+     <string name="higher_quality_music_summary">Слушайте и скачивайте в высоком качестве</string>
      <string name="hot_artists">Популярные исполнители</string>
      <string name="i_know">OK</string>
      <string name="id3_edit">Изменить ID3 информацию</string>
@@ -180,7 +180,7 @@
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
      <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
      <string name="mediaplaybacklabel">Музыка</string>
-	 <string name="menu_higher_quality_music">Высококачественная музыка (ежемесячно)</string>
+	 <string name="menu_higher_quality_music">Качественная музыка</string>
      <string name="mi_effect">Mi Sound</string>
      <string name="mi_effect_summary">Всегда использовать усилитель MiSound при прослушивании через динамик</string>
      <string name="mi_effect_title">Усилитель MiSound</string>
@@ -194,9 +194,9 @@
      <string name="music_filter">ФИЛЬТРАЦИЯ ФАЙЛОВ</string>
      <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки-Файловый фильтр.</string>
      <string name="music_not_loaded">Музыка не загружена</string>
-     <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
+     <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
-	 <string name="music_quality">Качество музыки</string>
+	 <string name="music_quality">Платные сервисы</string>
      <string name="music_settings">Настройки</string>
      <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
      <string name="new_albums">Новые альбомы</string>
@@ -292,7 +292,7 @@
      <string name="shuffle_all">Перемешать все</string>
      <string name="sort_by_album">Альбомы</string>
      <string name="sort_by_artist">Исполнители</string>
-     <string name="sort_by_track">Сортировать по песням</string>
+     <string name="sort_by_track">Песни</string>
      <string name="start_to_download_album">Загрузка обложки альбома…</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
@@ -316,10 +316,10 @@
      <string name="vip_rebuy">Обновить</string>
      <string name="vip_recommend_buy">Купить (5 юаней в месяц)</string>
      <string name="vip_recommend_exchange">Подарочный код</string>
-     <string name="vip_recommend_main_title">Неограниченная качественная музыка (320 кбит/c)</string>
+     <string name="vip_recommend_main_title">Качественная музыка (320 кбит/c)</string>
 	 <string name="vip_recommend_rebuy">Продолжить (5 MiCredits за 30 дней)</string>
-     <string name="vip_recommend_sub_title">Всего 5 юаней в месяц</string>
-     <string name="vip_recommend_summary">Слушайте онлайн или скачивайте любимые песни исполнителей в высоком качестве через сервис Baidu Music</string>
+     <string name="vip_recommend_sub_title">За 5 юаней в месяц</string>
+     <string name="vip_recommend_summary">Слушайте онлайн или скачивайте любимые песни исполнителей</string>
      <string name="vip_recommend_title">Высококачественная музыка</string>
      <string name="where_is_barcode">Где QR-код?</string>
      <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
