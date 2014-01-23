@@ -264,7 +264,6 @@
      <string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
      <string name="device_import_account_dialog_title_suffix">"
 (найдено %1$s контактов)"</string>
-     <string name="device_import_done_toast">%1$d контактов импортированно</string>
      <string name="device_import_failed_message">Ошибка импорта!</string>
      <string name="device_import_local_account">Телефон</string>
      <string name="device_import_message">Импорт</string>
@@ -402,9 +401,6 @@
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать объединение контактов</string>
-     <string name="hint_search_contacts">Контактов: %d</string>
-     <string name="hint_search_emails">Адресов эл. почты: %d</string>
-     <string name="hint_search_phone_numbers">Контактов с номером: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
@@ -474,7 +470,6 @@
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
-     <string name="login_before_recharging">Перед пополнением нужно войти в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
      <string name="make_primary">Запомнить выбранное</string>
@@ -667,12 +662,8 @@
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">В телефоне нет картинок</string>
      <string name="photo_package_activity_title">Пакет изображений</string>
-     <string name="pick_favorites_contacts_list_title">Всего избранных контактов: %1$d</string>
-     <string name="pick_favorites_list_title">Избранных контактов: %1$d</string>
      <string name="pick_new_photo">Новое изображение из галереи</string>
      <string name="pick_photo">Изображение из галереи</string>
-     <string name="pick_recent_contacts_list_title">Всего недавних контактов: %1$d</string>
-     <string name="pick_recent_list_title">Всего недавних контактов: %1$d</string>
      <string name="pickerNewContactHeader">Новый контакт</string>
      <string name="pickerNewContactText">Новый контакт</string>
      <string name="picker_all_list_empty">Нет контактов</string>
@@ -1115,5 +1106,6 @@
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выберите город</string>
+	 <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
      <string name="zero_items_selected">Выберите контакты</string>
 </resources>

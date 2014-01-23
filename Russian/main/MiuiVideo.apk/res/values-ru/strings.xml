@@ -111,10 +111,10 @@
     <string name="success_cancel_myfavorite">Убрано из избранного</string>
     <string name="success_cancel_waitfornewset">Слежение остановлено</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>
-    <string name="count_myfavorite">" избранное"</string>
+    <string name="count_myfavorite">" избранные"</string>
     <string name="myfavorite">Избранное</string>
     <string name="no_myfavorite">Пусто</string>
-    <string name="no_myfavorite_advice">Рекомендуем добавить</string>
+    <string name="no_myfavorite_advice" />
     <string name="myfavorite_onlylocal">Избранное</string>
     <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
     <string name="alreadyselected">Выбрано</string>
@@ -319,4 +319,8 @@
     <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
     <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
     <string name="toast_message_set_misound">Установите MiSound в настройках</string>
+	<string name="menu_item_disable_3d_mode">Отключить 3D</string>
+	<string name="menu_item_enable_3d_mode">Включить 3D</string>
+	<string name="airkan_tips">"Нажмите здесь, чтобы смотреть видео 
+на Xiaomi TV Box"</string>
 </resources>

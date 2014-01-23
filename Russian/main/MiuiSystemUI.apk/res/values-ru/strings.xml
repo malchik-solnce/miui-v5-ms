@@ -144,6 +144,8 @@
      <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
      <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
      <string name="notifications_off_title">Уведомления выключены</string>
+	 <string name="oldman_airplane_mode_text">Режим полета</string>
+     <string name="oldman_incall_text">incall</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
      <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
