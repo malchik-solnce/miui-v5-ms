@@ -123,7 +123,7 @@
      <string name="cloud_no_backup">Нет резервных копий</string>
      <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
 Вы также можете восстановить %s из Бэкапа"</string>
-     <string name="cloud_restore_title">Восстановить</string>
+     <string name="cloud_restore_title">Восстановление</string>
      <string name="cloud_restore_window_title">Облачное восстановление</string>
      <string name="cloud_search">Поиск…</string>
      <string name="compute_backup_info">Получение информации резервного копирования</string>
@@ -190,7 +190,7 @@
      <string name="prompt_writing">Запись…</string>
      <string name="read_encrypt_fail">Не удалось расшифровать</string>
      <string name="refresh">Обновление</string>
-     <string name="restore">Восстановление</string>
+     <string name="restore">Восстановить</string>
      <string name="restore_contact">Восстановление контактов</string>
      <string name="restore_contact_content">"При восстановлении адресной книги может произойти дублирование контактов. Продолжить?
 Примечание: Вы можете объединить повторяющиеся контакты в настройках списка контактов."</string>

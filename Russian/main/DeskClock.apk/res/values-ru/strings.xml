@@ -41,7 +41,7 @@
      <string name="default_label">Будильник</string>
      <string name="delelte_selected_timezone">Удалить выбранный часовой пояс(а)?</string>
      <string name="delete">Удалить</string>
-     <string name="delete_alarm">Удаление</string>
+     <string name="delete_alarm">Удалить</string>
      <string name="delete_alarm_confirm">Удалить будильник?</string>
      <string name="delete_timezone_title">Удалить часовой пояс</string>
      <string name="dialog_confirm_abort">Отменить изменения?</string>
