@@ -164,18 +164,20 @@
      <string name="screenshot_saving_text">Сохранение…</string>
      <string name="screenshot_saving_ticker">Сохранение…</string>
      <string name="screenshot_saving_title">Сохранение…</string>
+	 <string name="settings_advanced">Дополнительные настройки</string>
      <string name="settings_all_app_display_loading">Загрузка, подождите…</string>
+	 <string name="settings_basic_settings">Основные настройки</string>
+     <string name="settings_custom_carrier">Имя оператора</string>
      <string name="settings_custom_notification">Настроить уведомления</string>
-     <string name="settings_expandable_under_fullscreen">В полноэкранном режиме</string>
-     <string name="settings_expandable_under_fullscreen_summary">Сдвинув вниз от верхней части экрана</string>
      <string name="settings_expandable_under_keyguard">На экране блокировки</string>
-     <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
-     <string name="settings_expanded_view">Настройки выдвижения</string>
+	 <string name="settings_no_carrier">Ничего</string>
      <string name="settings_notification_bar">Панель уведомлений</string>
-     <string name="settings_screenshot_notification_disabled">Скрывать скриншоты</string>
+	 <string name="settings_show_carrier">Имя оператора</string>
+     <string name="settings_show_carrier_summary">Отображать только на экране блокировки</string>
      <string name="settings_show_flow_info">Показывать трафик</string>
      <string name="settings_show_network_speed">Скорость сети</string>
      <string name="settings_show_notificationBar_notification">Уведомления в панели</string>
+	 <string name="settings_show_screenshot_notification">Показывать скриншоты</string>
      <string name="settings_show_statusBar_notification">Уведомления в строке</string>
      <string name="settings_status_bar">Панель уведомлений</string>
      <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
@@ -188,6 +190,7 @@
      <string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
      <string name="settings_toggle_position_reset">Сбросить переключатели</string>
      <string name="share">Поделиться</string>
+	 <string name="status_bar_and_notification_bar">Панель уведомлений и статус-бар</string>
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
