@@ -1399,7 +1399,7 @@
      <string name="memory_apps_usage">Приложения</string>
      <string name="memory_available">Доступно</string>
      <string name="memory_available_read_only">доступно (только для чтения)</string>
-	 <string name="memory_available_suffix">Доступно</string>
+	 <string name="memory_available_suffix">свободно</string>
      <string name="memory_calculating_size">Подсчет…</string>
      <string name="memory_clear_cache_message">Удалить данные всех приложений?</string>
      <string name="memory_clear_cache_title">Очистка кэша</string>
@@ -1412,7 +1412,7 @@
      <string name="memory_size">Всего места</string>
 	 <string name="memory_suffix">ГБ</string>
      <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
-	 <string name="memory_used_suffix">Занято</string>
+	 <string name="memory_used_suffix">занято</string>
      <string name="menu_cancel">Отмена</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_edit">Изменить</string>
@@ -1424,7 +1424,7 @@
      <string name="menu_item_notification_garbage_text">%s</string>
      <string name="menu_item_notification_garbage_text_error">Ошибка</string>
      <string name="menu_item_notification_power_text">Питание</string>
-     <string name="menu_item_notification_title">Показывать в панели уведомлений</string>
+     <string name="menu_item_notification_title">В панеле уведомлений</string>
      <string name="menu_item_settings_title">Настройки</string>
      <string name="menu_item_shortcut">Создать ярлыки</string>
      <string name="menu_item_shortcut_summary">Отправить ярлыки модулей на рабочий стол</string>
@@ -1512,7 +1512,7 @@
      <string name="msd_install_windows_xp_step_2_1">"1. Если отображается мастер установки, 
 пожалуйста, следуйте инструкциям, чтобы завершить установку драйвера"</string>
      <string name="msg_cleanup_db_update_checking">Проверка…</string>
-     <string name="msg_cleanup_db_update_time_unknown">Обновление：неизвестно</string>
+     <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
      <string name="msg_update_error_code_already_running">Обновление</string>
      <string name="msg_update_error_code_network_error">Ошибка сети. Повторите позже.</string>
      <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
@@ -1996,9 +1996,9 @@
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка</string>
      <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
-	 <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления база данных очистки</string>
+	 <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
      <string name="pref_operational_key">Остальные кнопки</string>
-	 <string name="pref_summary_auto_update_cleanup_db">Обновлено：%s</string>
+	 <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
      <string name="pref_volume_wake_summary">Нажатие увеличения/уменьшения громкости для пробуждения устройства</string>
@@ -2057,7 +2057,7 @@
      <string name="proxy_settings_title">Настройки прокси-сервера</string>
      <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений</string>
      <string name="quick_clean">Очистить</string>
-	 <string name="quick_cleanup">Очистка</string>
+	 <string name="quick_cleanup">Очистка памяти</string>
      <string name="quick_launch_assign_application">Назначить приложение</string>
      <string name="quick_launch_clear_cancel_button">Отмена</string>
      <string name="quick_launch_clear_dialog_message">Ярлык для %1$s (%2$s) будет удален</string>
@@ -2200,7 +2200,7 @@
      <string name="scan_done">Сканирование завершено</string>
      <string name="scan_list_label">"Результат сканирования: "</string>
 	 <string name="scanning_prefix">Сканирование:%s</string>
-     <string name="scanning_start_hints">Запуска движка сканирования</string>
+     <string name="scanning_start_hints">Запуск движка</string>
      <string name="scanning_virus">Сканирование…</string>
      <string name="score">Состояние</string>
      <string name="score_good_state">Устройство потимизировано</string>
