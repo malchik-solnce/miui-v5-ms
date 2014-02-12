@@ -2,10 +2,10 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="activate">Включить</string>
-     <string name="activate_fail_notification_title">Активируйте повторно услугу Xiaomi синхронизации</string>
+     <string name="activate_fail_notification_title">Активируй повторно услугу Xiaomi синхронизации</string>
      <string name="activating">Активация…</string>
      <string name="alwaysUsePrompt">Использовать по умолчанию</string>
-     <string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт Xiaomi</string>
+     <string name="android_lockscreen_glogin_instructions">Для разблокировки войди в аккаунт Xiaomi</string>
      <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
      <string name="anti_aggression_day">反侵略日</string>
      <string name="app_no_notification">Ничего</string>
@@ -26,7 +26,7 @@
      <string name="christmas_day">Рождество</string>
      <string name="clear_and_bright">Чинг Минг</string>
      <string name="cold_dews">Холодные росы</string>
-     <string name="contact_carrier_message">Пожалуйста, свяжитесь с оператором по любому вопросу</string>
+     <string name="contact_carrier_message">Пожалуйста, свяжись с оператором по любому вопросу</string>
      <string name="country_name_ac">Вознесение</string>
      <string name="country_name_ad">Андорра</string>
      <string name="country_name_ae">Объединенные Арабские Эмираты</string>
@@ -317,29 +317,29 @@
      <string name="error_unauthorized">Слишком много неудач для аутентификации. Синхронизация отключена.</string>
      <string name="every_day">Каждый день</string>
      <string name="experimental_validate">Подтверждение</string>
-     <string name="experimental_validate_fail">Подтверждение не удалось. Повторите еще раз.</string>
+     <string name="experimental_validate_fail">Подтверждение не удалось. Повтори еще раз.</string>
      <string name="experimental_validate_password">Пароль</string>
      <string name="experimental_validate_progress">Проверка, подождтите…</string>
      <string name="experimental_validate_thanks">Спасибо!</string>
      <string name="experimental_validate_username">Имя пользователя</string>
-     <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
+     <string name="experimental_validate_warning">Каждое твое исследование помогает стать MIUI лучше!</string>
      <string name="find_device_check_sim">Проверка SIM-карты…</string>
-     <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано.
-Вставьте SIM-карту или введите пароль для аккаунта Xiaomi."</string>
-     <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано.
-Пожалуйста, вставьте SIM-карту."</string>
-     <string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
-     <string name="find_device_turn_off_flight_mode_instructions">"Ваш телефон заблокирован.
-Пожалуйста, отключите режим полета."</string>
+     <string name="find_device_sim_change_instructions">"Твое устройство заблокировано.
+Вставь SIM-карту или введи пароль для аккаунта Xiaomi."</string>
+     <string name="find_device_sim_change_instructions_no_network">"Твое устройство заблокировано.
+Пожалуйста, вставь SIM-карту."</string>
+     <string name="find_device_turn_off_flight_mode">Отключи режим полета</string>
+     <string name="find_device_turn_off_flight_mode_instructions">"Твое устройство заблокировано.
+Пожалуйста, отключи режим полета."</string>
      <string name="firewall_setting">Черный список</string>
-     <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
+     <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайди в:
 
 Настройки -> Система -> Кнопки"</string>
      <string name="fools_day">День дураков</string>
      <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-     <string name="forget_password_string">Забыли пароль?</string>
+     <string name="forget_password_string">Забыл пароль?</string>
      <string name="format_time_in_12_hours">hh:mma</string>
-     <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
+     <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также ты не сможешь редактировать рабочий стол</string>
      <string name="global_action_toggle_privacy_mode">Гость</string>
      <string name="good_friday">耶穌受難節</string>
      <string name="grain_buds" />
@@ -362,11 +362,11 @@
      <string name="incorrect_pukcode">Неверный PUK-код</string>
      <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
      <string name="input_pin_code">PIN-код</string>
-     <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
+     <string name="input_pin_code_to_unlock">Введи PIN-код для разблокировки</string>
      <string name="input_puk_code">PUK-код</string>
-     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
+     <string name="input_puk_code_to_unlock">Введи PUK-код для разблокировки устройства</string>
      <string name="insects_awaken">Пробуждение насекомых</string>
-     <string name="international_womens_day">Международный Женский день</string>
+     <string name="international_womens_day">Международный женский день</string>
      <string name="labour_day">Первомайские</string>
      <string name="lantern_festival">Фестиваль фонарей</string>
      <string name="light_snow">Легкий снег</string>
@@ -379,21 +379,21 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_access_pattern_start">Pattern started</string>
      <string name="lockscreen_emergency_call">Экстренный вызов</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать телефон с помощью аккаунта.
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, тебе будет предложено разблокировать телефон с помощью аккаунта.
 
- Попробуйте снова через %d секунд."</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
-     <string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
-     <string name="lockscreen_pattern_wrong">Попробуйте еще раз</string>
-     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите через %d секунд</string>
+ Попробуй снова через %d секунд."</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыл пароль?</string>
+     <string name="lockscreen_pattern_instructions">Нарисуй шаблон, чтобы разблокировать</string>
+     <string name="lockscreen_pattern_wrong">Попробуй еще раз</string>
+     <string name="lockscreen_too_many_failed_attempts_countdown">Повтори через %d секунд</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_transport_next_description">Next track button</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_transport_play_description">Play button</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_transport_prev_description">Previous track button</string>
-     <string name="lockscreen_unlock_sim_via_puk">Введите PUK-код, чтобы разблокировать SIM-карту</string>
-     <string name="login_website_in_case_forget_password">Посетите http://i.xiaomi.com для сброса пароля</string>
+     <string name="lockscreen_unlock_sim_via_puk">Введи PUK-код, чтобы разблокировать SIM-карту</string>
+     <string name="login_website_in_case_forget_password">Посети http://i.xiaomi.com для сброса пароля</string>
      <string name="lunar_ba" />
      <string name="lunar_calendar">Лунный календарь</string>
      <string name="lunar_chu" />
@@ -418,14 +418,15 @@
      <string name="lunar_yue" />
      <string name="lunar_zheng" />
      <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
-     <string name="memory_clear_result">Освобождено: %1$s | Доступно: %2$s</string>
+     <string name="memory_clear_result">"Очищено: %1$s
+Доступно: %2$s"</string>
      <string name="minutes">%d минут</string>
      <string name="miui_copyright_title">Авторские права</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="miui_device_name">Android</string>
+     <string name="miui_device_name">MIUI v5 MS</string>
      <string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
      <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
-     <string name="miui_unlockscreen_password_wrong">Попробуйте еще раз</string>
+     <string name="miui_unlockscreen_password_wrong">Попробуй еще раз</string>
      <string name="miui_user_agreement_title">Пользовательское соглашение</string>
      <string name="miui_user_manual_title">Руководство</string>
      <string name="month_of_april">Апр</string>
@@ -463,7 +464,7 @@
      <string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
      <string name="permlab_accessNote">Доступ к заметкам</string>
      <string name="pin_operation_failed">Ошибка PIN кода</string>
-     <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбросьте его здесь.</string>
+     <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбрось его здесь.</string>
      <string name="private_num">Скрытый номер</string>
      <string name="provider_114">Предоставлено 114号码百事通</string>
      <string name="provider_sougou">Предоставлено Sogou</string>
@@ -475,30 +476,30 @@
      <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
-     <string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
+     <string name="screen_button_notification_text">"Нажми 'Home'+'Power' для включения"</string>
      <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
-     <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе 'Настройки - Параметры экрана'."</string>
-     <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю половину экрана</string>
+     <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе 'Настройки - Параметры экрана'."</string>
+     <string name="screen_on_proximity_sensor_summary">Не закрывай верхнюю часть экрана</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
      <string name="sd_not_available">SD-карта не доступна</string>
      <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
      <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
-     <string name="sd_not_available_use_internal_storage">SD-карта не доступна, будет использована внутренняя память</string>
+     <string name="sd_not_available_use_internal_storage">SD-карта не доступна. Будет использована внутренняя память.</string>
      <string name="select">Выбрать</string>
      <string name="select_all">Выбрать все</string>
      <string name="send">Отправить</string>
      <string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации. Продолжить?</string>
      <string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
      <string name="share">Поделиться</string>
-     <string name="short_pincode_error_msg">Введите 4-8 цифр</string>
-     <string name="short_pukcode_error_msg">Введите не меньше 8 цифр</string>
+     <string name="short_pincode_error_msg">Введи 4-8 цифр</string>
+     <string name="short_pukcode_error_msg">Введи не меньше 8 цифр</string>
      <string name="shutdown_confirm_title">Выключить устройство?</string>
      <string name="sim_account_name">SIM-карта</string>
      <string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международного SMS для активации услуги Xiaomi синхронизации. Продолжить?</string>
      <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
-     <string name="sim_in_airplane_mode">Отключите режим полета</string>
+     <string name="sim_in_airplane_mode">Отключи режим полета</string>
      <string name="sim_locked">SIM-карта заблокирована</string>
-     <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
+     <string name="sim_not_ready">SIM-карта не готова. Попробуй позже.</string>
      <string name="sim_unavailable">SIM-карта отсутствует</string>
      <string name="slight_cold">Осаму</string>
      <string name="slight_heat">Тепло</string>
@@ -532,20 +533,20 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
-     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
+     <string name="unlockscreen_low_battery">Подключи зарядное устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
-     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитайте</string>
+     <string name="user_agreement1">Ты будешь использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитай</string>
      <string name="user_agreement2">" Пользовательское соглашение "</string>
      <string name="user_agreement3">" и "</string>
      <string name="user_agreement4">Политику конфиденциальности</string>
-     <string name="user_agreement5">, Нажмите ОК, для соглашения с вышеуказанным, нажмите Отмена для выхода</string>
+     <string name="user_agreement5">, Нажми ОК, для соглашения с вышеуказанным, нажми Отмена для выхода</string>
      <string name="v5_date_picker_label_day" />
      <string name="v5_date_picker_label_month" />
      <string name="v5_date_picker_label_year" />
      <string name="v5_date_time_picker_dialog_title">Время напоминания</string>
      <string name="v5_deselect_all">Отменить все</string>
-     <string name="v5_edit_mode_title_empty">Выберите</string>
+     <string name="v5_edit_mode_title_empty">Выбери</string>
      <string name="v5_icon_menu_bar_more_item_label">Еще</string>
      <string name="v5_select_all">Выбрать все</string>
      <string name="v5_time_picker_label_hour">ч</string>
