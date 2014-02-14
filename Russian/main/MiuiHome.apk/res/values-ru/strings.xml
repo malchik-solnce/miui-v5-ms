@@ -101,8 +101,8 @@
      <string name="menu_sort">Сортировка</string>
      <string name="menu_wallpaper">Настройки обоев</string>
      <string name="menu_workspace_preview">Просмотр столов</string>
-	 <string name="multi_selecting_tips">Нажми иконку для начала</string>
-     <string name="online_wallpaper">Онлайн обои</string>
+	 <string name="multi_selecting_tips">Нажми на иконку</string>
+     <string name="online_wallpaper">Онлайн</string>
      <string name="out_of_space">На этом экране нет свободного места</string>
      <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
      <string name="permdesc_install_widget">Позволяет приложению добавлять виджеты без вмешательства пользователя</string>

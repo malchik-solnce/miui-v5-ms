@@ -40,7 +40,7 @@
      </string-array>
      <string-array name="transformation_entries">
         <item>По умолчанию</item>
-        <item>По умолчанию (без проскакивания)</item>
+        <item>Без проскакивания</item>
         <item>Угасание</item>
         <item>Поворот</item>
         <item>Страница</item>
