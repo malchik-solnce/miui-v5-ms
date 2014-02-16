@@ -21,7 +21,7 @@
      <string name="account_and_calendar_to_display">Аккаунт и календарь</string>
      <string name="accounts">Аккаунты</string>
      <string name="acct_not_synced">"Этот аккаунт не синхронизируется,
- поэтому Ваши календари не обновляются"</string>
+ поэтому твои календари не обновляются"</string>
      <string name="acessibility_cal_notification">Уведомление календаря</string>
      <string name="acessibility_selected_marker_description">Выбранное событие</string>
      <string name="acessibility_snooze_notification">Отложить событие</string>
@@ -35,12 +35,12 @@
      <string name="alert_title">Уведомления календаря</string>
      <string name="app_label">Календарь</string>
      <string name="attendees_label">Гости</string>
-     <string name="birthday_calendar_display_name">Напоминание о Дне Рождения</string>
-     <string name="birthday_event_description">Сегодня День Рождения у %1$s!</string>
+     <string name="birthday_calendar_display_name">Напоминание о дне рождения</string>
+     <string name="birthday_event_description">Сегодня день рождения у %1$s!</string>
      <string name="birthday_notification_text_three_days_later">3 дня до дня рождения (%3$s)</string>
-     <string name="birthday_notification_text_today">Не забудьте поздравить С Днем Рождения!</string>
-     <string name="birthday_notification_title_three_days_later">Через 3 дня у %1$s День Рождения</string>
-     <string name="birthday_notification_title_today">День Рождения у %1$s</string>
+     <string name="birthday_notification_text_today">Не забудь поздравить с днем рождения!</string>
+     <string name="birthday_notification_title_three_days_later">Через 3 дня у %1$s день рождения</string>
+     <string name="birthday_notification_title_today">День рождения у %1$s</string>
 	 <string name="button_day">Д</string>
      <string name="button_month">М</string>
      <string name="calendar_refresh">Обновить</string>
@@ -48,10 +48,10 @@
      <string name="copy_db">Отправить базу данных</string>
      <string name="copy_email">Скопировать адрес почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
-     <string name="create_an_account_desc">"Подключите Календарь к аккаунту Google, чтобы: 
+     <string name="create_an_account_desc">"Подключи календарь к аккаунту Google, чтобы: 
 
-• Всегда иметь под рукой обновленные данные – на любом устройстве.
-• Синхронизировать все мероприятия – Вы никогда не потеряете их."</string>
+• Всегда иметь под рукой обновленные данные – на любом устройстве
+• Синхронизировать все мероприятия – ты никогда не потеряешь их"</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
@@ -87,7 +87,7 @@
 	 <string name="event_hide_more">Скрыть</string>
      <string name="event_info_descrip">"Описание: "</string>
      <string name="event_info_organizer">"Организатор: "</string>
-     <string name="event_info_reminders_label">Напоминания</string>
+     <string name="event_info_reminders_label">Напоминание</string>
 	 <string name="event_info_repeat">"Повторение: "</string>
      <string name="event_info_title">Просмотр мероприятия</string>
      <string name="event_info_title_invite">Приглашение на встречу</string>
@@ -144,7 +144,7 @@
      <string name="more_string">Еще %1$s...</string>
      <string name="new_event_dialog_label">Новое мероприятие</string>
      <string name="new_event_dialog_option">Новое мероприятие</string>
-     <string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
+     <string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажми \"Добавить аккаунт\" или если аккаунт уже добавлен, дождись окончания синхронизации и повтори попытку. Либо нажми \"Отмена\" и сделай видимым хотя бы один календарь.</string>
      <string name="no_syncable_calendars">Нет календарей</string>
      <string name="no_title_label">(нет заголовка)</string>
      <string name="not_synced">не синхронизирован</string>
@@ -200,8 +200,8 @@
      <string name="show_controls">Показать боковую панель</string>
      <string name="show_day_view">Показать день</string>
 	 <string name="show_gou_piao">Показывать календарь билетов</string>
-     <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
-     <string name="show_older_events">Нажмите для поиска других мероприятий до %1$s</string>
+     <string name="show_newer_events">Нажми для поиска других мероприятий после %1$s</string>
+     <string name="show_older_events">Нажми для поиска других мероприятий до %1$s</string>
      <string name="snooze_all_label">Напомнить</string>
      <string name="snooze_label">Отложить</string>
      <string name="synced">синхронизирован</string>
@@ -223,7 +223,7 @@
      <string name="where_label">Где</string>
 	 <string name="widget_events">Предстоящие события</string>
      <string name="widget_no_events">Нет событий</string>
-     <string name="widget_select_style">Выберите стиль виджета</string>
+     <string name="widget_select_style">Выбери стиль виджета</string>
      <string name="work_day_indication">:(</string>
      <string name="yearly">Ежегодно (%s)</string>
      <string name="yearly_plain">Ежегодно</string>

@@ -19,7 +19,7 @@
      <string name="bind_account">Привязка к аккаунту Kuaipan</string>
      <string name="bind_account_summary">Если Вы уже имеете аккаунт KuaiPan, то можно связать его с аккаунтом Xiaomi</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
-     <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
+     <string name="binded_accout_title">В настоящее время уже есть связка с KuaiPan</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_app_garbage_cleanup">Отмена</string>
@@ -36,7 +36,7 @@
      <string name="category_video">Видео</string>
      <string name="category_zip">Архивы</string>
      <string name="choose_send_type">Выбор метода отправки</string>
-     <string name="choose_upload_location">Выберите место загрузки</string>
+     <string name="choose_upload_location">Выбери место загрузки</string>
      <string name="clean_app_garbage">Очистить мусор (%d)</string>
      <string name="clean_message">Удаление %1$s</string>
      <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
@@ -46,7 +46,7 @@
      <string name="cleanup_complete">Готово</string>
      <string name="cleanup_stopped">Очистка остановлена</string>
      <string name="close">Закрыть</string>
-     <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
+     <string name="compress_fail">Ошибка архивирования. Файл уже существует.</string>
      <string name="compress_message">Архивация в…</string>
      <string name="compress_title">Архивация</string>
      <string name="confirm">ОК</string>
@@ -66,11 +66,11 @@
      <string name="decompress_to">Распаковать в…</string>
      <string name="decompress_to_here">Распаковать в эту папку</string>
      <string name="delete_failed">Ошибка удаления</string>
-     <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
+     <string name="delete_file">Удалить этот файл?</string>
      <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
      <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
-     <string name="delete_folder">Вы уверены, что хотите удалить?</string>
-     <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
+     <string name="delete_folder">Удалить эту папку?</string>
+     <string name="delete_folders">Удалить выбранные папки (%1$d)?</string>
      <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
      <string name="dialog_select_type">Выберите тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
@@ -78,19 +78,19 @@
      <string name="dialog_type_text">Текст</string>
      <string name="dialog_type_video">Видео</string>
      <string name="directory_no_item">пустая папка</string>
-     <string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>
+     <string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуй позже.</string>
      <string name="download_failed">Ошибка загрузки</string>
-     <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите на ссылку внизу для просмотра:</string>
+     <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажми на ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
      <string name="empty_dir_cleanup_indication">Пустых папок: %s</string>
      <string name="empty_dir_title">Пустые каталоги</string>
-     <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
+     <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется. Чтобы видеть ее содержимое, отключи режим накопителя.</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
      <string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
-     <string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
+     <string name="fail_to_create_folder">Не удалось создать папку. Папка с таким именем уже существует.</string>
      <string name="fail_to_create_folder_unknown">Не удается создать: неизвестная ошибка</string>
-     <string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует</string>
+     <string name="fail_to_rename">Не удалось переименовать файл или папку. Имя уже существует.</string>
      <string name="favorite_photo">Фото</string>
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
@@ -105,11 +105,11 @@
      <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
      <string name="finished">Завершено</string>
      <string name="folder_exist">Папка уже существует</string>
-     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
+     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажми сюда&lt;/a>для очистки корзины</string>
      <string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
      <string name="ftp_anonymous_login">Анонимный FTP</string>
      <string name="ftp_invalid_username_or_password">Ошибка аутентификации</string>
-     <string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт. Проверьте подключение к сети и попробуйте еще раз.</string>
+     <string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт. Проверь подключение к сети и попробуй еще раз.</string>
      <string name="ftp_password_hint">Пароль</string>
      <string name="ftp_port_number">Порт</string>
      <string name="ftp_transfer_secure">Защищенная FTP-передача</string>
@@ -117,7 +117,7 @@
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="garbage_size_metric">"%s 
 мусора"</string>
-     <string name="gbk_summary">Если Вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
+     <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
      <string name="give_up_cleaning">Отмена</string>
      <string name="header_text_cleaned">мусора очищено</string>
      <string name="header_text_cleaning">мусора осталось</string>
@@ -126,7 +126,7 @@
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
-     <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+     <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -256,13 +256,13 @@
      <string name="thumbnail_title">Кэш миниатюр</string>
      <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
      <string name="trans_task">Передача</string>
-     <string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
+     <string name="trans_task_delete_confirm_message">Удалить задачи (%1$d)?</string>
      <string name="transing">Отправка</string>
      <string name="trash_box_capacity">Объем корзины: %1$s</string>
-     <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
-     <string name="trash_box_message1">"Вы можете удалить не нужные файлы 
+     <string name="trash_box_link">Посети pan.xiaomi.com для очистки корзины</string>
+     <string name="trash_box_message1">"Ты можешь удалить не нужные файлы 
  для освобождения места"</string>
-     <string name="trash_box_message2">"Вы можете удалить не нужные файлы или очистить корзину 
+     <string name="trash_box_message2">"Ты можешь удалить не нужные файлы или очистить корзину 
  для освобождения места"</string>
      <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)…</string>
      <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)…</string>
@@ -276,7 +276,7 @@
      <string name="uninstall_app_data">Удалить приложение и данные</string>
      <string name="unmount_inform_text">USB-накопитель будет отключен</string>
      <string name="upload_failed">Ошибка загрузки</string>
-     <string name="upload_file_toolarge_message">%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в управлении передачами.</string>
+     <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Проверь в управлении передачами.</string>
      <string name="uploading">Загрузка</string>
      <string name="used">Занято:</string>
      <string name="user_guide">Руководство пользователя</string>
@@ -287,7 +287,7 @@
      <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
      <string name="user_guide_summary">Руководство</string>
      <string name="user_guide_upload_to_kuaipan">"С телефона,
-просто скопируйте и вставьте в Kuaipan"</string>
+просто скопируй и вставь в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
      <string name="version_text">версия %1$s</string>
      <string name="wait_net">Ожидание сети</string>

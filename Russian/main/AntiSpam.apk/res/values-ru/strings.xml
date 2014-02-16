@@ -11,10 +11,10 @@
      <string name="dlg_add_manual_hint">Введите номер телефона</string>
      <string name="dlg_add_manual_ok">Добавить</string>
      <string name="dlg_bl_add_manual">Добавить номер в черный список</string>
-     <string name="dlg_clear_all_call">Вы хотите удалить все заблокированные вызовы?</string>
+     <string name="dlg_clear_all_call">Удалить все заблокированные вызовы?</string>
      <string name="dlg_clear_all_ok">Удалить все</string>
-     <string name="dlg_clear_all_sms">Вы хотите удалить все заблокированные сообщения?</string>
-     <string name="dlg_clear_blacklist">Вы хотите очистить черный список?</string>
+     <string name="dlg_clear_all_sms">Удалить все заблокированные сообщения?</string>
+     <string name="dlg_clear_blacklist">Очистить черный список?</string>
      <string name="dlg_clear_blacklist_ok">Очистить</string>
      <string name="dlg_clear_current_call">Удалить все заблокированные вызовы от этого номера?</string>
      <string name="dlg_clear_current_ok">Удалить</string>
@@ -46,8 +46,8 @@
      <string name="menu_call">Вызов</string>
      <string name="menu_clear_all_call">Удалить все заблокированные вызовы</string>
      <string name="menu_clear_all_sms">Удалить все заблокированные сообщения</string>
-     <string name="menu_clear_current_call">Удалите все заблокированные вызовы, которые звонили с этого номера</string>
-     <string name="menu_clear_current_sms">Удалите все заблокированные сообщения отправлять на этот номер</string>
+     <string name="menu_clear_current_call">Удалить текеущие заблокированные вызовы</string>
+     <string name="menu_clear_current_sms">Удалите текущие заблокированные сообщения</string>
      <string name="menu_edit">Изменить</string>
      <string name="menu_mark">Отметить</string>
      <string name="menu_no_block">Не блокировать</string>
@@ -66,7 +66,7 @@
      <string name="st_call_group">При получении вызова</string>
      <string name="st_common_setting_group">Быстрая блокировка</string>
      <string name="st_filter_keywords_setting_summary1">Сообщения, отправленные неизвестными и содержащее следующие слова, будут заблокированы</string>
-     <string name="st_filter_keywords_setting_summary2">Вы можете добавить несколько ключевых слов, разделяя запятой</string>
+     <string name="st_filter_keywords_setting_summary2">Можно добавить несколько ключевых слов, разделяя запятой</string>
      <string name="st_filter_keywords_setting_title">По ключевым словам</string>
      <string name="st_filter_keywords_title">Ключевые слова для сообщений</string>
      <string name="st_filter_sms_button">Фильтровать сообщения</string>

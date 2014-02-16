@@ -30,6 +30,6 @@
         <item quantity="one">" и еще 1"</item>
      </plurals>
      <plurals name="weekN">
-        <item quantity="other">Неделя %d</item>
+        <item quantity="other">%d нед.</item>
      </plurals>
 </resources>

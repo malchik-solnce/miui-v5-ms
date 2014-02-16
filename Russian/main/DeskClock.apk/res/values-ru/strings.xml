@@ -10,7 +10,7 @@
      <string name="alarm_disabled">Отключен</string>
      <string name="alarm_in_silent_mode_title">В режиме \"Без звука\"</string>
      <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
-     <string name="alarm_label_hint">Введите название будильника</string>
+     <string name="alarm_label_hint">Введи название будильника</string>
      <string name="alarm_list_title">Будильник</string>
      <string name="alarm_notify_snooze_label">%s (отложено)</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>

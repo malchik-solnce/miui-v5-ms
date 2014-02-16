@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Удаленное управление</string>
+    <string name="dialog_ok">OK</string>
+    <string name="rcv_0000_msg">Сообщение было успешно получено</string>
+    <string name="rcv_0200_msg">Parameter is missing or has no value.</string>
+    <string name="rcv_0201_msg">The value of the parameter is not valid.</string>
+    <string name="rcv_0202_msg">The length of the parameter is not suitable.</string>
+    <string name="rcv_0203_msg">The number of parameters is not accurate.</string>
+    <string name="rcv_0204_msg">The message is not delimited.</string>
+    <string name="rcv_0210_msg">Произошла неизвестная ошибка</string>
+</resources>

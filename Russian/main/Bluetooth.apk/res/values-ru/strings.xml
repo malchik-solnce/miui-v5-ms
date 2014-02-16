@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
+     <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повтори попытку позднее.</string>
      <string name="ack_record">Запись подтверждения</string>
      <string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth</string>
      <string name="airplane_error_title">Режим полета</string>
@@ -15,7 +15,7 @@
      <string name="bpp_printing_button_text">Печать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
-     <string name="bpp_session_key_dialog_title">Введите ключ сессии для %1$s</string>
+     <string name="bpp_session_key_dialog_title">Введи ключ сессии для %1$s</string>
      <string name="bpp_setting_text">Настроики</string>
      <string name="bt_enable_cancel">Отмена</string>
      <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, сначала включите адаптер Bluetooth</string>
@@ -78,7 +78,7 @@
      <string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
      <string name="incoming_file_confirm_timeout_ok">ОК</string>
      <string name="incoming_file_confirm_title">Передача файла</string>
-     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
+     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтверди, что хочешь загрузить его.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

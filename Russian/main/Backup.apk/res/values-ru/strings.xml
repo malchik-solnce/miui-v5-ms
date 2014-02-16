@@ -10,11 +10,11 @@
      <string name="auto_backup_all_user_apps">Все приложения</string>
      <string name="auto_backup_choose">Данные</string>
      <string name="auto_backup_choose_empty">Нет резервных копий</string>
-     <string name="auto_backup_choose_title">Выберите приложения</string>
+     <string name="auto_backup_choose_title">Выбери приложения</string>
      <string name="auto_backup_date">Дата</string>
      <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
      <string name="auto_backup_open">Автоматический бэкап</string>
-     <string name="auto_backup_progress">Идет копирование, подождите…</string>
+     <string name="auto_backup_progress">Копирование, подождите…</string>
      <string name="auto_backup_select_user_apps">Выбор приложений</string>
      <string name="auto_backup_selected_user_apps">Выбранные приложения</string>
      <string name="auto_backup_setting">Настройки автобэкапа</string>
@@ -25,12 +25,12 @@
      <string name="backup_data">Данные бэкапа</string>
      <string name="backup_delete">Удалить</string>
      <string name="backup_empty">Резервные копии не найдены</string>
-     <string name="backup_empty_info">Резервное копирование данных, настроек и приложений</string>
+     <string name="backup_empty_info">" Резервное копирование данных, настроек и приложений"</string>
      <string name="backup_error">Ошибка</string>
      <string name="backup_failed">Резервное копирование не удалось</string>
-     <string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
+     <string name="backup_file_error">Файлы резерной копии повреждены. Операция не завершена.</string>
      <string name="backup_finished">Готово</string>
-     <string name="backup_hint">Не выключайте телефон</string>
+     <string name="backup_hint">Не выключай телефон</string>
      <string name="backup_items_app_tailer">" - данные приложений"</string>
      <string name="backup_items_sysdata_tailer">" - системные данные"</string>
      <string name="backup_new">Новый</string>
@@ -55,7 +55,7 @@
      <string name="cancel_restore">Отменить</string>
      <string name="cloud_app_backup_cancel">Остановка резервного копирования…</string>
      <string name="cloud_app_backup_cancel_prompt_message">"Бэкап не закончен.
-Нажмите OK, чтобы отменить."</string>
+Нажми OK, чтобы отменить."</string>
      <string name="cloud_app_backup_cancel_prompt_title">Остановка копирования</string>
      <string name="cloud_app_backup_date">"Сохранено "</string>
      <string name="cloud_app_backup_pending">В очереди…</string>
@@ -70,11 +70,11 @@
      <string name="cloud_app_delete_data">Удалить копию</string>
      <string name="cloud_app_device">Устройство</string>
      <string name="cloud_app_dont_restore">Не восстанавливать</string>
-     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
-     <string name="cloud_app_find_backup_prompt_2">Если Вы откажитесь сейчас, она будет перезаписана при восстановлении</string>
-     <string name="cloud_app_function_summary">Созданные резервные копии в облаке, Вы сможете быстро восстановить потом на любом устройстве</string>
-     <string name="cloud_app_invalid_op">Вы не можете просматривать облачные данные во время резервного копирования или восстановления</string>
-     <string name="cloud_app_invalid_op_when_removing">Вы не можете просматривать облачные данные, если они удалены</string>
+     <string name="cloud_app_find_backup_prompt_1">Хочешь сохранить локальные данные перед восстановлением?</string>
+     <string name="cloud_app_find_backup_prompt_2">Если откажишься, она будет перезаписана при восстановлении</string>
+     <string name="cloud_app_function_summary">Созданные резервные копии в облаке, можно быстро восстановить потом на любом устройстве</string>
+     <string name="cloud_app_invalid_op">Идет копирование или восстановление</string>
+     <string name="cloud_app_invalid_op_when_removing">Данные удалены</string>
      <string name="cloud_app_just_show_in_current_device">Приложения на устройстве</string>
      <string name="cloud_app_load_data">Запрос данных…</string>
      <string name="cloud_app_load_data_timeout">Тайм-аут запроса данных из облака</string>
@@ -89,7 +89,7 @@
      <string name="cloud_app_other_devices">Другие устройства</string>
      <string name="cloud_app_remove_cancel">Отмена удаления…</string>
      <string name="cloud_app_remove_cancel_prompt_message">"Удаление не закончено.
-Нажмите OK, чтобы отменить."</string>
+Нажми OK, чтобы отменить."</string>
      <string name="cloud_app_remove_cancel_prompt_title">Остановка удаления</string>
      <string name="cloud_app_remove_error">Ошибка удаления</string>
      <string name="cloud_app_remove_pending">Ожидание…</string>
@@ -99,7 +99,7 @@
      <string name="cloud_app_restore_app_and_data">Восстановление приложений и пользовательских данных</string>
      <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
      <string name="cloud_app_restore_cancel_prompt_message">"Восстановление не закончено.
-Нажмите OK, чтобы отменить восстановление."</string>
+Нажми OK, чтобы отменить восстановление."</string>
      <string name="cloud_app_restore_cancel_prompt_title">Остановка восстанивления</string>
      <string name="cloud_app_restore_data">Восстановление ранее установленных приложений</string>
      <string name="cloud_app_restore_data_title">Восстановить данные</string>
@@ -110,19 +110,19 @@
      <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к ним.</string>
      <string name="cloud_app_restore_success">Приложений восстановлено</string>
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
-     <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к интернету через Wi-Fi для восстановления приложений и пользовательских данных</string>
+     <string name="cloud_app_restore_wifi_prompt">Необходимо подключиться к интернету через Wi-Fi для восстановления приложений и пользовательских данных</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
      <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
      <string name="cloud_app_wait_wifi">Ожидание Wi-Fi</string>
-     <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
+     <string name="cloud_backup_hint">Войди в систему для онлайн резервного копирования</string>
      <string name="cloud_backup_login">Войти в MIUI</string>
      <string name="cloud_backup_window_title">Облако</string>
      <string name="cloud_home_title">Онлайн</string>
      <string name="cloud_item_info_summary">" (Локально: %1$s|Онлайн: %2$s)"</string>
      <string name="cloud_last_backup">Последняя:</string>
      <string name="cloud_no_backup">Нет резервных копий</string>
-     <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
-Вы также можете восстановить %s из Бэкапа"</string>
+     <string name="cloud_restore_guide">"Нажми кнопку начать для восстановления данных
+Вы также можешь восстановить %s из бэкапа"</string>
      <string name="cloud_restore_title">Восстановление</string>
      <string name="cloud_restore_window_title">Облачное восстановление</string>
      <string name="cloud_search">Поиск…</string>
@@ -134,7 +134,7 @@
      <string name="customization"><u>Настроить</u></string>
      <string name="customization_under_wifi_prompt">Поддерживается только по Wi-Fi</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
-     <string name="data_no_enough_space_message">Восстановление может потерпеть неудачу, пожалуйста, освободите немного места и попробуйте еще раз</string>
+     <string name="data_no_enough_space_message">Восстановление может потерпеть неудачу. Освободи немного места и попробуй еще раз.</string>
      <string name="delete">Удалить</string>
      <string name="delete_backup_process">Выполняется удаление, подождите…</string>
      <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки, невозможно восстановить</string>
@@ -160,8 +160,8 @@
 \u0009http://www.miliao.com
  
 3.\u0009Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
-     <string name="import_from_xiaomi_account_hint2">Примечание: перейдите к следующему шагу, если резервная копия уже существует</string>
-     <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
+     <string name="import_from_xiaomi_account_hint2">Примечание: перейди к следующему шагу, если резервная копия уже существует</string>
+     <string name="import_from_xiaomi_account_hint_title">Используй MiTalk для резервного копирования контактов на других устройствах</string>
      <string name="just_support_op_with_wifi_connected">Поддерживается только по Wi-Fi</string>
      <string name="local_app_name">Бэкап</string>
      <string name="local_backup_window_title">Локальное</string>
@@ -180,7 +180,7 @@
      <string name="my_phone">Мой телефон</string>
      <string name="no_encrypt_password">Нет шифрования пароля</string>
      <string name="no_network">"Нет сетевого соединения.
- Проверьте ваше соединение и попробуйте еще раз."</string>
+ Проверь соединение и попробуй еще раз."</string>
      <string name="note_title">Заметки</string>
      <string name="nothing_searched">Ничего не найдено</string>
      <string name="progress_backup_hint">Резервное копирование…</string>
@@ -193,7 +193,7 @@
      <string name="restore">Восстановить</string>
      <string name="restore_contact">Восстановление контактов</string>
      <string name="restore_contact_content">"При восстановлении адресной книги может произойти дублирование контактов. Продолжить?
-Примечание: Вы можете объединить повторяющиеся контакты в настройках списка контактов."</string>
+Примечание: Ты можешь объединить повторяющиеся контакты в настройках списка контактов."</string>
      <string name="restore_contacts_hit">Примечание: для восстановления контактов необходимо вручную создать оригинальный аккаунт</string>
      <string name="restore_counts">Восстановление:</string>
      <string name="restore_data">Восстановить</string>
@@ -215,7 +215,7 @@
      <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
      <string name="sc_unauthorized">Сертификация не действительна</string>
      <string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
-     <string name="sdcard_no_enough_space_message">Резервное копирование может не сработать. Освободите немного места и попробуйте еще раз.</string>
+     <string name="sdcard_no_enough_space_message">Резервное копирование может не сработать. Освободи немного места и попробуй еще раз.</string>
      <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_backup_item">Выбор бэкапа</string>
@@ -234,28 +234,28 @@
      <string name="task_canceled_all_local">Все задачи отменены</string>
      <string name="task_canceled_local">Задач отменено: %s</string>
      <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено.
-Нажмите кнопку OK, чтобы отменить незавершенную задачу."</string>
+Нажми кнопку OK, чтобы отменить незавершенную задачу."</string>
      <string name="task_failed">Не удалось</string>
      <string name="task_failed_all_local">Ошибки во всех задачах</string>
      <string name="task_failed_local">Ошибка в задачах %s</string>
      <string name="task_finished">Завершено</string>
      <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
-Нажмите кнопку OK, чтобы удалить эту резервную копию."</string>
+Нажми кнопку OK, чтобы удалить эту резервную копию."</string>
      <string name="task_pending">В ожидании</string>
      <string name="task_post_running">Пост-обработка…</string>
      <string name="task_pre_running">Подготовка</string>
      <string name="task_progress">Прогресс</string>
-     <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
+     <string name="task_restore_cancel_dialog">"Ты собираешься отменить операцию.
 Это может привести к потере данных!"</string>
      <string name="task_restore_cancel_progress">Остановка процесса…</string>
      <string name="task_restore_finished_local">Восстановление завершено</string>
      <string name="task_restore_none">Не нуждается в восстановлении</string>
-     <string name="task_running_backup_dialog">Резервное копирование в процессе. Нажмите кнопку OK для просмотра.</string>
-     <string name="task_running_backup_hint">Сервис запущен в фоне. Попробуйте снова сделать резервное копирование!</string>
-     <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
-     <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
-     <string name="task_running_restore_dialog">Восстановление в процессе. Нажмите кнопку OK для просмотра.</string>
-     <string name="task_running_restore_hint">Сервис запущен в фоне. Попробуйте снова сделать восстановление!</string>
+     <string name="task_running_backup_dialog">Резервное копирование в процессе. Нажми кнопку OK для просмотра.</string>
+     <string name="task_running_backup_hint">Сервис запущен в фоне. Попробуй снова сделать резервное копирование!</string>
+     <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажми ОК</string>
+     <string name="task_running_hint">Служба работает в фоновом режиме. Попробуй еще раз, чтобы восстановить эту резервную копию!</string>
+     <string name="task_running_restore_dialog">Восстановление в процессе. Нажми кнопку OK для просмотра.</string>
+     <string name="task_running_restore_hint">Сервис запущен в фоне. Попробуй снова сделать восстановление!</string>
      <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
      <string name="task_stopped_exception">Прервано</string>
      <string name="total_num">Всего записей: %d</string>
