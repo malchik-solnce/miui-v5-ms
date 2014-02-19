@@ -68,7 +68,6 @@
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Удалить этот файл?</string>
      <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
-     <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
      <string name="delete_folder">Удалить эту папку?</string>
      <string name="delete_folders">Удалить выбранные папки (%1$d)?</string>
      <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
@@ -264,8 +263,6 @@
  для освобождения места"</string>
      <string name="trash_box_message2">"Ты можешь удалить не нужные файлы или очистить корзину 
  для освобождения места"</string>
-     <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)…</string>
-     <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)…</string>
      <string name="ui_filechange_btn_download">Скачать</string>
      <string name="ui_filechange_btn_upload">Загрузить</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>

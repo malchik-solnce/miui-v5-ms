@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_smart_antispam_summary">О идентификации</string>
-     <string name="about_telephone_fraud">О машенничестве</string>
+     <string name="about_telephone_fraud">О мошенничестве</string>
      <string name="agree">Принимаю</string>
      <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
@@ -81,7 +81,8 @@
      <string name="navigation_search_positioning_failed">Выберите город</string>
 	 <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
-     <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
+     <string name="network_unavaliable">Сеть не доступна. Проверь настройки сети.</string>
+	 <string name="no_more_result">Ничего не найдено</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
