@@ -3,12 +3,12 @@
     <string-array name="channel_tabs">
         <item>Хиты</item>
         <item>Топ</item>
-        <item>Последние</item>
+        <item>Новые</item>
     </string-array>
     <string-array name="channel_featured_tabs">
         <item>Хиты</item>
         <item>Топ</item>
-        <item>Последние</item>
+        <item>Новые</item>
     </string-array>
     <string-array name="home_tabs">
         <item>Онлайн</item>

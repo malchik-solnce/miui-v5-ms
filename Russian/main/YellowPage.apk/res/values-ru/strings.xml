@@ -139,6 +139,11 @@
      <string name="select_package_before_buy">Выберите пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
+	 <string name="sina_share_fail">Не удалось отправить</string>
+     <string name="sina_share_pendding">Отправка…</string>
+     <string name="sina_share_success">Отправлено</string>
+     <string name="sina_token_expired_warning">Weibo аккаунт истек: свяжите повторно</string>
+     <string name="sina_token_invalid_warning">Weibo аккаунт неверный: свяжите повторно</string>
      <string name="smart_antispam">Идентификация номеров</string>
      <string name="title_about_yellow_page">О программе</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>

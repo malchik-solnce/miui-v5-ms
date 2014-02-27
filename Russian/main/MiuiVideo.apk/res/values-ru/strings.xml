@@ -31,6 +31,7 @@
     <string name="add_review">Добавить отзыв</string>
     <string name="all_reviews">Все комментарии</string>
     <string name="recommendation">Рекомендуем</string>
+    <string name="app_recommendation">Рекомендуем</string>
     <string name="special_subject">Специальные</string>
     <string name="rank">Топ</string>
     <string name="others">Прочие</string>
@@ -54,7 +55,7 @@
     <string name="day">День</string>
     <string name="update">Обновлено</string>
     <string name="manage">Управление</string>
-	<string name="finish">Готово</string>
+    <string name="finish">Готово</string>
     <string name="di_count_ji">%d серия</string>
     <string name="di_count_qi">%s сезон</string>
     <string name="update_to_count_ji">Добавлена %d серия</string>
@@ -101,7 +102,7 @@
     <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
     <string name="file_not_exist">Файл не найден</string>
     <string name="play">Смотреть</string>
-    <string name="favorite">избранное</string>
+    <string name="favorite">Избранное</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>
     <string name="waitfornewset">Следовать</string>
@@ -116,7 +117,7 @@
     <string name="no_myfavorite">Пусто</string>
     <string name="no_myfavorite_advice" />
     <string name="myfavorite_onlylocal">Избранное</string>
-    <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
+    <string name="no_myfavorite_advice_onlylocal" />
     <string name="alreadyselected">Выбрано</string>
     <string name="mediasetupdated">Серии обновлены</string>
     <string name="updatedalready">Обновлено</string>
@@ -145,6 +146,7 @@
     <string name="pick_video_to_myfavorite">Выберите</string>
     <string name="pick_myfavorite_to_cancel">Выберите</string>
     <string name="fullscreen_to_play">Полный экран</string>
+	<string name="to_play_airekan">Cast</string>
     <string name="connecting">Подключение…</string>
     <string name="retrieving">Получение…</string>
     <string name="cant_connecting">Не удается подключиться к серверу</string>
@@ -167,6 +169,12 @@
     <string name="to_live_status">Ожидание начала</string>
     <string name="will_live_status">Live</string>
     <string name="end_live_status">Завершен</string>
+	<string name="quarter_bell_alert_message">После бронирования, вы получите напоминание до начала программы</string>
+    <string name="quarter_bell_alert_message_cancel">После отмены бронирования, вы не будете получать напоминания до начала программы</string>
+    <string name="quarter_bell_alert_title">Напоминание</string>
+    <string name="quarter_bell_alert_button_cancel">Отмена</string>
+    <string name="quarter_bell_alert_button_makeappointment">Напоминать</string>
+    <string name="quarter_bell_alert_button_cancelappointment">Удалить</string>
     <string name="reloading_tip">Не удается подключиться к сети</string>
     <string name="retry">Повторить</string>
     <string name="no_subject">Ничего нет</string>
@@ -191,12 +199,12 @@
     <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
     <string name="clear_cache_summary">Очистить кешированные файлы изображений</string>
     <string name="clear_offline_summary">Очистить кешированные файлы видео</string>
-	<string name="load_file_fail">Файл поврежден</string>
+    <string name="load_file_fail">Файл поврежден</string>
     <string name="load_offline_file_fail">Файл поврежден</string>
     <string name="load_failed_to_try">Ошибка загрузки</string>
     <string name="offline_media">Оффлайн</string>
     <string name="have_no_offlinemedia">Пусто</string>
-	<string name="in_download_notification">%d видео уже загружается</string>
+    <string name="in_download_notification">%d видео уже загружается</string>
     <string name="start_download">Скачать</string>
     <string name="pause_download">Загрузка приостановлена</string>
     <string name="finish_download">Загрузка завершена</string>
@@ -204,17 +212,17 @@
     <string name="in_waiting">Ожидание</string>
     <string name="in_pause">Приостановлено</string>
     <string name="paused">Приостановлено</string>
-	<string name="offline_continue">Продолжить</string>
+    <string name="offline_continue">Продолжить</string>
     <string name="offline_episode">%d</string>
     <string name="offline_media_more">Еще</string>
     <string name="media_source_unavailable">Источник недоступен</string>
     <string name="download_add_success">Загрузка добавлена</string>
-	<string name="download_is_in_tasklist">В списке загрузок</string>
+    <string name="download_is_in_tasklist">В списке загрузок</string>
     <string name="download_is_success">Загружено</string>
     <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
     <string name="download_geturl_fail">Не удалось получить URL. Проверьте сеть.</string>
     <string name="download_fail">Ошибка загрузки</string>
-	<string name="download_finish">Загрузка завершена</string>
+    <string name="download_finish">Загрузка завершена</string>
     <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
     <string name="offline_alert_title">Уведомление загрузки</string>
     <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверьте в настройках опцию мобильный интернет, если хотите продолжить.</string>
@@ -293,6 +301,8 @@
     <string name="buffering">Буферизация…</string>
     <string name="airkan_video_playing_in">Видео</string>
     <string name="airkan_video_playing">воспроизводится</string>
+    <string name="airkan_tips">"Нажмите здесь, чтобы смотреть видео 
+на Xiaomi TV Box"</string>
     <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
@@ -318,10 +328,7 @@
     <string name="nowifi_alert_dialog_exit">Нет</string>
     <string name="menu_item_enable_audio_enhance">Включить усиление звука</string>
     <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
+    <string name="menu_item_enable_3d_mode">Включить 3D</string>
+    <string name="menu_item_disable_3d_mode">Отключить 3D</string>
     <string name="toast_message_set_misound">Установите MiSound в настройках</string>
-	<string name="menu_item_disable_3d_mode">Отключить 3D</string>
-	<string name="menu_item_enable_3d_mode">Включить 3D</string>
-	<string name="app_recommendation">Рекомендуем</string>
-	<string name="airkan_tips">"Нажмите здесь, чтобы смотреть видео 
-на Xiaomi TV Box"</string>
 </resources>
