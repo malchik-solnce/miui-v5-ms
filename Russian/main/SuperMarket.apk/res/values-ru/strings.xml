@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
-     <string name="activate_now">activate_now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_not_activated">Аккаунт не активирован. Активируй и повтори еще раз.</string>
      <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_footer">Пустые комментарии здесь не показаны</string>
      <string name="app_comments_title">Комментарии: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Store</string>
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
@@ -20,7 +17,7 @@
      <string name="cancel">Отмена</string>
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категории</string>
-     <string name="clear_cache_failed">Ошибка очистки. Попробуйте еще раз.</string>
+     <string name="clear_cache_failed">Ошибка очистки. Попробуй еще раз.</string>
      <string name="clear_cache_message">Очистить кеш?</string>
      <string name="clear_cache_succeed">Кеш очищен</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
@@ -46,12 +43,12 @@
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
      <string name="comment_upload_login_cancel">Отмена</string>
      <string name="comment_upload_need_login">Войти в аккаунт, чтобы оставить комментарий?</string>
-     <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
+     <string name="comment_upload_not_logined">Сначала войди в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
-     <string name="connect_fail">Ошибка соединения. Проверьте подключение к сети.</string>
-     <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
-     <string name="connect_no_fit_fail">Загрузка не завершена. Нет пакета установки для вашего телефона.</string>
+     <string name="connect_fail">Ошибка соединения. Проверь подключение к сети.</string>
+     <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободи место и попробуй снова.</string>
+     <string name="connect_no_fit_fail">Загрузка не завершена. Нет пакета установки для этого телефона.</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
      <string name="delete_confirm">Удалить выбранные приложения: %1$s?</string>
@@ -64,8 +61,7 @@
      <string name="diagnostics_btn_processing">Обработка…</string>
      <string name="diagnostics_btn_start">Начало диагностики</string>
      <string name="diagnostics_btn_upload">Выгрузить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="diagnostics_cdn_ip">4. The IP address of CDN</string>
+     <string name="diagnostics_cdn_ip">4. IP адрес CDN</string>
      <string name="diagnostics_content_hint">Диагностика:</string>
      <string name="diagnostics_data_cost_hint">Инструмент диагностики использует около 100 Кб мобильного интернета</string>
      <string name="diagnostics_data_sending">Отправка результатов…</string>
@@ -110,7 +106,6 @@
      <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Отмена</string>
      <string name="install_btn_continue">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
@@ -160,8 +155,7 @@
      <string name="megabytes_unit">%1$sМБ</string>
      <string name="menu_account">Аккаунт</string>
      <string name="menu_clear_search_history">Очистить историю поиска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_clear_update_history">Clear update records</string>
+     <string name="menu_clear_update_history">Очистиь обновления</string>
      <string name="menu_detail">Подробнее</string>
      <string name="menu_download_manager">Менеджер загрузок</string>
      <string name="menu_ignore">Позже</string>
@@ -201,7 +195,7 @@
      <string name="notif_install_successful_default">Установлено</string>
      <string name="notif_installing">Установка “%1$s”…</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
-	 <string name="notif_summary_auto_update_on">Xiaomi App Market будет обновлять приложения автоматически</string>
+	 <string name="notif_summary_auto_update_on">Xiaomi Market будет обновлять приложения автоматически</string>
      <string name="notif_summary_auto_update_successful">Обновлено приложений: %1$s</string>
 	 <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
      <string name="notif_title_update">Обновление %1$s</string>
@@ -230,10 +224,10 @@
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Автоматическое обновление по Wi-Fi при заблокированном экране</string>
      <string name="pref_summary_data_save">Не отображать картинки при мобильном интернете</string>
-	 <string name="pref_summary_feature_intro">Узнайте больше о возможностях Xiaomi маркета</string>
-     <string name="pref_summary_web_dev0">Посетите:</string>
+	 <string name="pref_summary_feature_intro">Узнай больше о возможностях Xiaomi маркета</string>
+     <string name="pref_summary_web_dev0">Посети</string>
      <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
-     <string name="pref_summary_web_market0">Посетите:</string>
+     <string name="pref_summary_web_market0">Посети</string>
      <string name="pref_summary_web_market1">http://app.xiaomi.com</string>
      <string name="pref_title_about">О программе</string>
      <string name="pref_title_auto_update">Загружать и обновлять новые версии установленных приложений (только при Wi-Fi подключении)</string>
@@ -271,8 +265,8 @@
      <string name="search_recommend_ingore">Игнор</string>
      <string name="search_recommend_ingored_text">Не рекомендуемые</string>
      <string name="search_recommend_no_data">Нет приложений</string>
-     <string name="search_recommend_no_net">Сеть недоступна. Попробуйте еще раз.</string>
-     <string name="search_recommend_source">Based on %1$s</string>
+     <string name="search_recommend_no_net">Сеть недоступна. Попробуй еще раз.</string>
+     <string name="search_recommend_source">Основан на %1$s</string>
      <string name="search_recommend_source_default">Популярные</string>
      <string name="share_button">Отправить</string>
      <string name="share_subject">Отправить %1$s</string>
@@ -295,7 +289,7 @@
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Загружен：</string>
      <string name="update_history_cleared">История очищена</string>
-     <string name="update_history_title">Истрия обновлений</string>
+     <string name="update_history_title">История обновлений</string>
      <string name="update_info">Изменения</string>
      <string name="update_log_hint">Обновлений:</string>
      <string name="update_time">%1$s-%2$s</string>

@@ -30,6 +30,7 @@
      <string name="custom_mark_category">Пользовательский</string>
      <string name="data_error">Услуга не доступна. Повторите попытку позже.</string>
      <string name="delete">Удалить</string>
+	 <string name="do_not_remind_me">Не напоминать</string>
      <string name="express_inqiury_select_logistics">Выберите службу</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
@@ -83,6 +84,7 @@
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="network_unavaliable">Сеть не доступна. Проверь настройки сети.</string>
 	 <string name="no_more_result">Ничего не найдено</string>
+	 <string name="notify_connect_every_time">Запрашивать доступ к сети каждый раз</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
@@ -122,8 +124,9 @@
      <string name="recharge_payment_result_ok_summary">Подтвердите, что эта сумма есть на Вашем счету</string>
      <string name="recharge_payment_result_ok_title">Добавлено %s юань</string>
      <string name="recharge_payment_result_progress_summary">Проверка результата пополнения…</string>
+	 <string name="recharge_phone_number_empty">Номер телефона не должен быть пустым</string>
      <string name="recharge_phone_number_error">Неверный номер телефона</string>
-     <string name="recharge_select_money_title">Выберите размер пополнения</string>
+     <string name="recharge_select_money_title">Выбери размер пополнения</string>
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
 	 <string name="recharge_unknown_number">Другой номер</string>

@@ -50,9 +50,9 @@
     <string name="comment_detailInfo">Отзыв</string>
     <string name="comment_submiting">Отправка…</string>
     <string name="search">Поиск</string>
-    <string name="year">Год</string>
-    <string name="month">Месяц</string>
-    <string name="day">День</string>
+    <string name="year" />
+    <string name="month" />
+    <string name="day" />
     <string name="update">Обновлено</string>
     <string name="manage">Управление</string>
     <string name="finish">Готово</string>
@@ -116,7 +116,7 @@
     <string name="myfavorite">Избранное</string>
     <string name="no_myfavorite">Пусто</string>
     <string name="no_myfavorite_advice" />
-    <string name="myfavorite_onlylocal">Избранное</string>
+    <string name="myfavorite_onlylocal">" избранное"</string>
     <string name="no_myfavorite_advice_onlylocal" />
     <string name="alreadyselected">Выбрано</string>
     <string name="mediasetupdated">Серии обновлены</string>
@@ -125,7 +125,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="cancel_select_all">Снять все</string>
     <string name="login_tip_title">Авторизация</string>
-    <string name="login_tip_content">Войдите в аккаунт для синхронизации и обновления шоу которые Вы смотрите</string>
+    <string name="login_tip_content">Войдите в аккаунт для синхронизации и обновления шоу которые смотрите</string>
     <string name="nologin_no_waitfornewset">Войдите в аккаунт, чтобы следить за шоу</string>
     <string name="video">" видео"</string>
     <string name="mycamera">Мое видео</string>
@@ -196,9 +196,9 @@
     <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
     <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
     <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
-    <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
-    <string name="clear_cache_summary">Очистить кешированные файлы изображений</string>
-    <string name="clear_offline_summary">Очистить кешированные файлы видео</string>
+    <string name="continue_to_play_nextset_summary">Когда эпизод, закончится, следующий начнется автоматически</string>
+    <string name="clear_cache_summary">Очистить кэшированные файлы изображений</string>
+    <string name="clear_offline_summary">Очистить кэшированные файлы видео</string>
     <string name="load_file_fail">Файл поврежден</string>
     <string name="load_offline_file_fail">Файл поврежден</string>
     <string name="load_failed_to_try">Ошибка загрузки</string>
@@ -294,7 +294,7 @@
     <string name="video_info_frame_rate_label">Частота кадров:</string>
     <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-    <string name="toast_back_key_pressed_notice">Нажмите еще раз, чтобы выйте</string>
+    <string name="toast_back_key_pressed_notice">Нажмите еще раз, чтобы выйти</string>
     <string name="adjust_position_prev_media_notice">Назад</string>
     <string name="adjust_position_next_media_notice">Далее</string>
     <string name="loading_video_netplay_label">Загрузка…</string>
