@@ -25,12 +25,24 @@
         <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
      </plurals>
-     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Приложения читающие уведомления: %d</item>
-        <item quantity="one">Приложения читающие уведомления: %d</item>
+	 <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложений читающих уведомления: %d</item>
+        <item quantity="one">Приложений читающих уведомления: %d</item>
      </plurals>
-     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d дн. "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ч. "</item>
+        <item quantity="one">"%d ч. "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+     </plurals>
+	 <plurals name="show_dev_countdown">
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком</item>
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком</item>
      </plurals>
 </resources>

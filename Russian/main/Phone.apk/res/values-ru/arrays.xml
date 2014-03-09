@@ -7,7 +7,7 @@
      </string-array>
      <string-array name="clir_display_values">
         <item>Настройки сети по умолчанию</item>
-        <item>Скрыть номер</item>
+        <item>Скрывать номер</item>
         <item>Показывать номер</item>
      </string-array>
      <string-array name="dtmf_tone_entries">

@@ -138,7 +138,9 @@
      <string name="toast_channel_searched">Найдено станций: %1$d</string>
      <string name="toast_delete_station">%sМГц удалена</string>
      <string name="toast_edit_station">Изменения сохранены</string>
+	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_fm_not_stated">Не указана станция</string>
+	 <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
      <string name="toast_fm_seeking">Поиск станций…</string>

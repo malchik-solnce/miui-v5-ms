@@ -92,6 +92,7 @@
     <string name="declaration">Условия использования</string>
     <string name="cancel">Отмена</string>
     <string name="ok">OK</string>
+	<string name="online_video">Онлайн</string>
     <string name="good">OK</string>
     <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
     <string name="today">"Сегодня "</string>
@@ -206,6 +207,7 @@
     <string name="have_no_offlinemedia">Пусто</string>
     <string name="in_download_notification">%d видео уже загружается</string>
     <string name="start_download">Скачать</string>
+	<string name="start_time">время начала</string>
     <string name="pause_download">Загрузка приостановлена</string>
     <string name="finish_download">Загрузка завершена</string>
     <string name="in_download">Загрузка</string>
@@ -272,6 +274,13 @@
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
     <string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
     <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
+	<string name="vp_full_high_definition">1080P</string>
+    <string name="vp_high_definition">HD</string>
+    <string name="vp_next_ci">Следующий эпизод</string>
+    <string name="vp_offline">Офлайн</string>
+    <string name="vp_select_ci">Антология</string>
+    <string name="vp_standard_definition">SD</string>
+    <string name="vp_super_definition">UHD</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="menu_item_media_info_label">Показать информацию</string>
     <string name="menu_item_hide_media_info_label">Скрыть информацию</string>

@@ -293,6 +293,7 @@
      <string name="sort_by_album">Альбомы</string>
      <string name="sort_by_artist">Исполнители</string>
      <string name="sort_by_track">Песни</string>
+	 <string name="source_from">Источник: %1$s</string>
      <string name="start_to_download_album">Загрузка обложки альбома…</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
@@ -302,7 +303,7 @@
      <string name="synchronize_to_baidu_cloud">Резервное копирование онлайн песен в плейлисты с Baidu Cloud</string>
      <string name="track_bit_rate_hd">Высокое</string>
      <string name="track_bit_rate_standard">Обычное</string>
-     <string name="track_bit_rate_uhd">Наулучшее</string>
+     <string name="track_bit_rate_uhd">Наилучшее</string>
      <string name="track_edit">Песня</string>
      <string name="tracks_title">Все песни</string>
      <string name="ultra_high_quality">Наилучшее качество</string>

@@ -123,7 +123,7 @@
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
      <string name="adjust_3d_depth_title">Настройка 3D для игр</string>
-     <string name="advanced_settings">Расширенные настройки</string>
+     <string name="advanced_settings">Дополнительные настройки</string>
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
      <string name="airplane_mode">Режим полета</string>
      <string name="alarm_volume_title">Будильник</string>
@@ -503,7 +503,7 @@
 	 <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	 <string name="bluetooth_visibility_timeout_summary">Время видимости устройства</string>
-     <string name="breathing_light_color_menu_title">Светлый цвет</string>
+     <string name="breathing_light_color_menu_title">Выбери цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для новых уведомлений</string>
      <string name="breathing_light_color_title">цвет светодиода</string>
      <string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
@@ -1150,7 +1150,7 @@
      <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
      <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
      <string name="headset_no_contected">Нет гарнитуры</string>
-     <string name="headset_settings">Наушники</string>
+     <string name="headset_settings">Настройки наушников</string>
      <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные</string>
      <string name="hello_world">Hello world!</string>
      <string name="help_label">Помощь</string>
@@ -1261,7 +1261,7 @@
      <string name="launcher_settings_title">Рабочий стол</string>
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
-     <string name="led_pulse_summary">Пульсирующая индикация о новых уведомлениях</string>
+     <string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
      <string name="led_settings">Настройки индикации</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
@@ -1411,7 +1411,7 @@
      <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
      <string name="master_clear_title">Сброс настроек</string>
      <string name="media_button">Медиа-кнопки</string>
-     <string name="media_feedback_enable_title">Вибрация с ритмом</string>
+     <string name="media_feedback_enable_title">Вибрировать с ударными</string>
      <string name="media_format_button_text">Очистить SD-карту</string>
      <string name="media_format_desc">Очистить SD-карту? Вы потеряете все данные на ней.</string>
      <string name="media_format_final_button_text">Стереть все</string>
@@ -1582,7 +1582,7 @@
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
-     <string name="notification_pulse_title">Мигание трекбола</string>
+     <string name="notification_pulse_title">Включить индикацию</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Мелодия уведомления</string>
 	 <string name="notification_summary_of_garbage_cleanup">Обнаружено мусора: %s</string>
@@ -2029,8 +2029,8 @@
      <string name="power_used_mins">мин.</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
-     <string name="pref_button_light">Подсветка</string>
-     <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
+     <string name="pref_button_light">Включить подсветку</string>
+     <string name="pref_button_light_summary">Подсвечивать кнопки меню, назад и домой</string>
 	 <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
 	 <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
      <string name="pref_operational_key">Остальные кнопки</string>
@@ -2247,7 +2247,7 @@
      <string name="screen">НАСТРОЙКИ ЭКРАНА</string>
      <string name="screen_button_custom">Настройка расположения кнопок</string>
      <string name="screen_button_key">Виртуальные кнопки</string>
-     <string name="screen_color_temperature">Цветовая температура</string>
+     <string name="screen_color_temperature">Температура цвета</string>
      <string name="screen_color_temperature_and_saturation">Цветовая температура и насыщенность</string>
      <string name="screen_compatibility_label">Совместимость с экраном</string>
      <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
@@ -2257,7 +2257,7 @@
      <string name="screen_never_timeout_title">Никогда не отключать</string>
      <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, при помощи датчика</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
-     <string name="screen_saturation">Насыщенность</string>
+     <string name="screen_saturation">Насыщенность цвета</string>
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
      <string name="screen_timeout_title">Спящий режим</string>
@@ -2463,11 +2463,11 @@ Attempts Remaining :"</string>
      <string name="sms_title">Сообщение</string>
      <string name="sort_order_alpha">Упорядочить по именам</string>
      <string name="sort_order_size">Упорядочить по размеру</string>
-     <string name="sound_category_call_ringtone_vibrate_title">МЕЛОДИИ ТЕЛЕФОНА</string>
+     <string name="sound_category_call_ringtone_vibrate_title">НАСТРОЙКИ МЕЛОДИЙ</string>
      <string name="sound_category_calls_and_notification_title">Рингтоны и уведомления</string>
      <string name="sound_category_notification_title">Уведомления</string>
      <string name="sound_category_sound_title">Общие</string>
-     <string name="sound_category_system_title">СИСТЕМНЫЕ ЗВУКИ</string>
+     <string name="sound_category_system_title">НАСТРОЙКИ ЗВУКОВ</string>
      <string name="sound_effects_enable_title">Нажатие на экран</string>
      <string name="sound_settings">Настройки звука</string>
      <string name="spellchecker_language">Язык</string>
@@ -2595,13 +2595,13 @@ Attempts Remaining :"</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
-     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для обеспечения лучшего пользования в перчатках</string>
+     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
      <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">OK</string>
      <string name="touch_sensitive_turn_off_summary">Также отключить режим защиты датчиком?</string>
      <string name="touch_sensitive_turn_off_title">Режим \"В перчатках\" выключен</string>
-     <string name="touch_title">Нажатия</string>
+     <string name="touch_title">Наcтройки нажатия</string>
      <string name="track_frame_time">Время отрисовки</string>
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
      <string name="trackball_settings">Трекбол</string>
@@ -2806,12 +2806,8 @@ Attempts Remaining :"</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
      <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
      <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="versionCode">1</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="versionName">1.0.131203</string>
      <string name="version_text">Версия %1$s</string>
-     <string name="vibrate_category_title">ВИБРАЦИЯ</string>
+     <string name="vibrate_category_title">НАСТРОЙКИ ВИБРАЦИИ</string>
      <string name="vibrate_in_normal_title">В \"Обычном режиме\"</string>
      <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
      <string name="vibrate_input_devices">Использовать вибро</string>
@@ -2927,7 +2923,7 @@ Attempts Remaining :"</string>
      <string name="volume_alarm_description">Будильник</string>
      <string name="volume_alarm_mute">Отключить будильники</string>
      <string name="volume_bluetooth_description">Громкость Bluetooth</string>
-     <string name="volume_category_title">ГРОМКОСТЬ</string>
+     <string name="volume_category_title">Настройки громкости</string>
      <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
      <string name="volume_media_mute">Отключить музыку и медиа</string>
      <string name="volume_notification_description">Оповещения</string>
@@ -3002,7 +2998,7 @@ Attempts Remaining :"</string>
      <string name="wifi_advanced_ip_address_title">IP-адрес</string>
      <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
      <string name="wifi_advanced_settings_label">Настройки IP</string>
-     <string name="wifi_advanced_titlebar">Дополнительные функции</string>
+     <string name="wifi_advanced_titlebar">Дополнительные настройки</string>
      <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не может проверить информацию о обновлении программного обеспечения</string>
      <string name="wifi_api_test">Wi-Fi API</string>
      <string name="wifi_auto_connect">Автоматическое подключение</string>
@@ -3060,6 +3056,7 @@ Attempts Remaining :"</string>
      <string name="wifi_failed_save_message">Ошибка сохранения сети</string>
      <string name="wifi_forget">Не подключаться</string>
      <string name="wifi_gateway">Шлюз</string>
+	 <string name="wifi_install_credentials">Установить сертификаты</string>
      <string name="wifi_in_airplane_mode">Режим полета</string>
      <string name="wifi_ip_address">IP-адрес</string>
      <string name="wifi_ip_settings">Настройки IP</string>
@@ -3074,7 +3071,6 @@ Attempts Remaining :"</string>
      <string name="wifi_menu_forget">Удалить эту сеть</string>
      <string name="wifi_menu_modify">Изменить сеть</string>
      <string name="wifi_menu_more_options">Дополнительные настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_menu_p2p">WLAN Direct</string>
      <string name="wifi_menu_scan">Поиск</string>
      <string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
@@ -3167,6 +3163,8 @@ Attempts Remaining :"</string>
      <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
      <string name="wifi_setup_wizard_title">Выбор Wi-Fi</string>
      <string name="wifi_setup_wps">Автонастройка (WPS)</string>
+	 <string name="wifi_scan_always_available">Сканировать всегда</string>
+     <string name="wifi_scan_always_available_summary">Cлужбы местоположения Google и других приложений будут сканировать доступные сети, даже если Wi-Fi выключен</string>
      <string name="wifi_share">Поделиться Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
      <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>
