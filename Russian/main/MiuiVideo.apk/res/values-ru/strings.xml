@@ -28,6 +28,7 @@
     <string name="brief_intro">Описание</string>
     <string name="movie_comment">Комментарии</string>
     <string name="view_all_reviews">Еще %d коммен.</string>
+	<string name="visit_postfix">| недавно посещенные</string>
     <string name="add_review">Добавить отзыв</string>
     <string name="all_reviews">Все комментарии</string>
     <string name="recommendation">Рекомендуем</string>
@@ -114,7 +115,7 @@
     <string name="success_cancel_waitfornewset">Слежение остановлено</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>
     <string name="count_myfavorite">" избранные"</string>
-    <string name="myfavorite">Избранное</string>
+    <string name="myfavorite">" избранное"</string>
     <string name="no_myfavorite">Пусто</string>
     <string name="no_myfavorite_advice" />
     <string name="myfavorite_onlylocal">" избранное"</string>
