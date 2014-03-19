@@ -16,6 +16,7 @@
     <string name="calendaring">Добавлено ​​в Календалрь, нажмите кнопку Просмотр</string>
     <string name="calendaring_cancel">Вы отменили напоминание</string>
     <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
+	<string name="password_guard">Защита</string>
     <string name="new_clock_tip">Новый будильник</string>
     <string name="help_content">Я могу Вам помочь?</string>
     <string name="help_tip">Вы можете использовать следующие команды голосом:</string>
@@ -246,6 +247,7 @@
     <string name="resource_price_unit"> MiCredits</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+	<string name="security_center">Безопасность</string>
     <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
 "</string>
     <string name="resource_mute">None</string>
@@ -342,7 +344,6 @@ the content you're looking for is not currently available in your region."</stri
     <string name="resource_expand_full_text">Expand</string>
     <string name="resource_account_login">Sign In</string>
     <string name="resource_account_switch">Switch</string>
-    <string name="resource_account_current">Account: %1$s</string>
     <string name="resource_account_login_title">Sign In</string>
     <string name="resource_account_fail_to_add">Failed to add account.</string>
     <string name="resource_account_abnormal_state">Account error: Try again later.</string>
@@ -410,4 +411,5 @@ the content you're looking for is not currently available in your region."</stri
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Alert</string>
     <string name="resource_ringtone_volume_mute">Your ringer is currently silenced.</string>
+	<string name="yellow_page">Желтые страницы</string>
 </resources>

@@ -35,6 +35,8 @@
     <string name="app_recommendation">Рекомендуем</string>
     <string name="special_subject">Специальные</string>
     <string name="rank">Топ</string>
+	<string name="receive_ad_notify">Пуш уведомления</string>
+    <string name="receive_ad_notify_summary">После открытия, получать самые свежие и популярные видео</string>
     <string name="others">Прочие</string>
     <string name="music">музыка</string>
     <string name="variety">Разное</string>
@@ -111,6 +113,7 @@
     <string name="cancel_waitfornewset">Не следить</string>
     <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент будет доступен</string>
     <string name="success_add_myfavorite">Добавлено в избранное</string>
+	<string name="success_add_waitfornewset">успешно</string>
     <string name="success_cancel_myfavorite">Убрано из избранного</string>
     <string name="success_cancel_waitfornewset">Слежение остановлено</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>

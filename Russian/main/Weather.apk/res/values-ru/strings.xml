@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_no2_title">NO2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm10_title">PM10</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm25_title">PM2.5</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_so2_title">SO2</string>
-     <string name="act_city_find_gps_error">Выберите город из списка</string>
+	 <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+     <string name="act_city_find_gps_error">Выбери город из списка</string>
      <string name="act_find_city_hint">Поиск</string>
      <string name="act_find_city_hot_title">Популярные города</string>
      <string name="act_find_city_null_data">Город не найден</string>
-     <string name="act_find_city_title">Добавить город</string>
+     <string name="act_find_city_title">Добавить</string>
      <string name="act_init_dialog_finish">Информация о погоде добавлена</string>
      <string name="act_set_city_find_side">Поиск города…</string>
      <string name="act_set_city_find_side_error">Ошибка определения положения</string>
@@ -21,21 +14,19 @@
      <string name="act_set_city_re_find_side">Определение…</string>
      <string name="act_weather_aqi_share">Поделиться</string>
      <string name="act_weather_aqi_title">Индекс чистота воздуха</string>
-	 <string name="act_weather_cycle_link_china">Китайская сеть погоды</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_weather_cycle_low_temp">low</string>
+	 <string name="act_weather_cycle_link_china">Погода MIUI</string>
      <string name="act_weather_cycle_update">Обновление…</string>
-     <string name="act_weather_find_city_connect_net">Проверьте сеть и повторите еще раз</string>
+     <string name="act_weather_find_city_connect_net">Проверь сеть и повтори еще раз</string>
      <string name="act_weather_find_city_search_online">Поиск онлайн</string>
      <string name="act_weather_find_city_searching">Поиск…</string>
      <string name="act_weather_main_aqi_index">Чистота воздуха: %s</string>
-     <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
+     <string name="act_weather_main_data_null">Нет данных, нажми для обновления</string>
      <string name="act_weather_range_select">Выберите город</string>
      <string name="act_weather_range_title">Погода в окрестностях</string>
      <string name="act_weather_update_time">Обновлено %s</string>
      <string name="add_city">Добавить город</string>
      <string name="alert_message_delete">Удалить выбранные города? (%d)</string>
-     <string name="alert_provider_message">Разрешите приложению использовать Ваше текущее местоположение</string>
+     <string name="alert_provider_message">Разрешите приложению использовать текущее местоположение</string>
      <string name="alert_provider_title">Уведомление местоположения</string>
      <string name="alert_title_delete">Удалить</string>
      <string name="app_love_font_lng">%s</string>
@@ -43,7 +34,7 @@
      <string name="app_love_view_title">Предпросмотр</string>
      <string name="app_name">Погода</string>
      <string name="app_nohave_net">Нет сетевого подключения</string>
-     <string name="app_unquiet_net">Сеть нестабильна, повторите попытку позже</string>
+     <string name="app_unquiet_net">Сеть нестабильна, повтори попытку позже</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -76,18 +67,18 @@
      <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
-     <string name="format_date_md">M/d kk:mm</string>
-     <string name="format_date_trend_md">M/d</string>
+     <string name="format_date_md">d/M kk:mm</string>
+     <string name="format_date_trend_md">d/M</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date_week">EEE</string>
-     <string name="format_date_wmd">M/d EEE</string>
+     <string name="format_date_wmd">EEEE, d/M</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="local_city">Города</string>
      <string name="location_allow_err">Не удалось определить местоположение</string>
      <string name="location_management">Управление городами</string>
      <string name="location_notification">Уведомления о погоде</string>
      <string name="menu_about">О программе</string>
-	 <string name="menu_add">Добавить город</string>
+	 <string name="menu_add">Добавить</string>
      <string name="menu_around">Рядом</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_location">Местоположение</string>
