@@ -25,7 +25,7 @@
      <string name="backup_data">Данные бэкапа</string>
      <string name="backup_delete">Удалить</string>
      <string name="backup_empty">Резервные копии не найдены</string>
-     <string name="backup_empty_info">" Резервное копирование данных, настроек и приложений"</string>
+     <string name="backup_empty_info">Резервное копирование данных</string>
      <string name="backup_error">Ошибка</string>
      <string name="backup_failed">Резервное копирование не удалось</string>
      <string name="backup_file_error">Файлы резерной копии повреждены. Операция не завершена.</string>
@@ -108,7 +108,7 @@
      <string name="cloud_app_restore_progress">Восстановление…</string>
      <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные на данные из облака</string>
      <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к ним.</string>
-     <string name="cloud_app_restore_success">Приложений восстановлено</string>
+     <string name="cloud_app_restore_success">Приложение восстановлено</string>
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
      <string name="cloud_app_restore_wifi_prompt">Необходимо подключиться к интернету через Wi-Fi для восстановления приложений и пользовательских данных</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
