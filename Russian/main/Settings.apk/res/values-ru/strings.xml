@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="about_settings">О телефоне</string>
+     <string name="Settings_title_anti_spam">Настройки антиспама</string>
+     <string name="Settings_title_anti_virus">Настройки антивируса</string>
+     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
+     <string name="Settings_title_network_assistants">Настройки монитора</string>
+     <string name="Settings_title_power_center">Настройки питания</string>
+	 <string name="about_settings">О телефоне</string>
      <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
      <string name="ac_enable_title">Ограничение доступа</string>
      <string name="ac_privacy_mode_sum">Введите пароль доступа для отключения защищенного режима</string>
@@ -1136,6 +1141,7 @@
      <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Игровой контроллер</string>
+	 <string name="garbage_white_list_empty_content">Нет приложений</string>
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Изменить размер шрифта</string>
      <string name="global_locale_change_title">Сменить язык</string>
@@ -2100,9 +2106,11 @@
      <string name="pref_operational_key">Остальные кнопки</string>
 	 <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
 	 <string name="pref_summary_cleanup_white_list">Мусор в белом списке будет игнорироваться</string>
+	 <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию развернуты</string>
 	 <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает определенного размера</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
 	 <string name="pref_title_cleanup_white_list">Белый список очистки</string>
+	 <string name="pref_title_expand_cache_group">Развернутые группы кэша</string>
 	 <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
@@ -2662,7 +2670,8 @@ Attempts Remaining :"</string>
      <string name="toast_backup_uninstall_failed">Не удалось создать резервную копию приложения \"%d\". Повторите попытку позже.</string>
      <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
 	 <string name="toast_cleanup_success">Данные очищены</string>
-     <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
+	 <string name="toast_garbage_cleanup_success">Очистка завершена</string>
+     <string name="toast_qucik_scan_list_empty">Очистка не требуется</string>
 	 <string name="toast_removed_from_white_list">Удалено из белого списка</string>
 	 <string name="toast_shortcut_install">Ярлык создан</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="Dashboard_App">Приложения</string>
-     <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит Вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
-Вы действительно хотите ее отключить?"</string>
+     <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
+Вы действительно хотите отключить?"</string>
      <string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
      <string name="Dashboard_Log">Журнал</string>
-     <string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Продолжить?</string>
+     <string name="Dashboard_Log_Clear_Content">Удалить все журналы?</string>
      <string name="Dashboard_Log_Clear_Title">Очистить логи</string>
      <string name="Dashboard_Perm">Разрешения</string>
      <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
@@ -38,7 +38,7 @@
      <string name="Generic_Check">Проверка</string>
      <string name="Generic_Clean">Очистка</string>
      <string name="Generic_Configuration">Параметры</string>
-     <string name="Generic_Copyright">Разработано группой LBE</string>
+     <string name="Generic_Copyright">При поддержке LBE</string>
      <string name="Generic_Disable">Отключено</string>
      <string name="Generic_Enable">Включено</string>
      <string name="Generic_Good">Хорошо</string>
@@ -79,7 +79,7 @@
      <string name="HIPS_Perm_AdjustVolumeInCall">Регулировка громкости при вызове</string>
      <string name="HIPS_Perm_AllowAll">Разрешить все</string>
      <string name="HIPS_Perm_AnswerCall">Ответ на поступивший вызов</string>
-	 <string name="HIPS_Perm_AudioRecorder">получить доступ к диктофону</string>
+	 <string name="HIPS_Perm_AudioRecorder">Дуктофон</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к диктофону</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">%1$s приложения, имеющие доступ к диктофону</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
@@ -87,16 +87,16 @@
      <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s приложения, имеющие доступ к Bluetooth</string>
      <string name="HIPS_Perm_Call">Телефонные звонки</string>
      <string name="HIPS_Perm_CallLog">Журнал вызовов</string>
-     <string name="HIPS_Perm_CallLog_Access">Читать логи вызовов</string>
-     <string name="HIPS_Perm_CallLog_Desc">Доступ к вашим логам вызовов</string>
-     <string name="HIPS_Perm_CallLog_Hint">%1$s приложения, имеющие доступ к вашим логам вызовов</string>
+     <string name="HIPS_Perm_CallLog_Access">Читать журнал вызовов</string>
+     <string name="HIPS_Perm_CallLog_Desc">Доступ к журналу вызовов</string>
+     <string name="HIPS_Perm_CallLog_Hint">%1$s приложения, имеющие доступ к вашему журналу вызовов</string>
      <string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
      <string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и.т.д</string>
-     <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
+     <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости</string>
      <string name="HIPS_Perm_CallState">Состояние телефона</string>
      <string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
      <string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
-     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или оклонить телефонные звонки</string>
+     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или отклонить телефонные звонки</string>
      <string name="HIPS_Perm_Call_Hint">%1$s приложения, имеющие доступ чтобы позвонить, ответить на звонки или отклонить их</string>
      <string name="HIPS_Perm_Call_Number">звонок %1$s</string>
      <string name="HIPS_Perm_CancelMissedCalls">очистка информации о непринятых звонках</string>
@@ -112,7 +112,7 @@
      <string name="HIPS_Perm_Location_CellInfo">получать местоположение телефона</string>
      <string name="HIPS_Perm_Location_CellLocation">получить местоположение телефона</string>
      <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
-     <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
+     <string name="HIPS_Perm_Location_Hint">%1$s приложения, имеющие разрешения для ослеживания местоположения телефона</string>
      <string name="HIPS_Perm_Location_Monitor">отслеживать ваше положение</string>
      <string name="HIPS_Perm_Location_Source_Cellular">Источник: сотовая сеть</string>
      <string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
@@ -123,7 +123,7 @@
      <string name="HIPS_Perm_MMS_Hint">%1$s приложения, имеющие доступ к вашим MMS сообщениям</string>
      <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
      <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к интернет посредством мобильной сети</string>
-     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к сети интернет</string>
+     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к интернету через оператора</string>
 	 <string name="HIPS_Perm_Mobile_Connectivity">получить доступ к мобильному подключению</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Desc">Доступ к средствам мобильного подключения</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s приложения, имеющие доступ к мобильному подключению</string>
@@ -135,8 +135,8 @@
      <string name="HIPS_Perm_Network_Send">отправлять данные</string>
      <string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
      <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
-     <string name="HIPS_Perm_PhoneID">Идентификаторы телефона</string>
-     <string name="HIPS_Perm_PhoneID_Desc">Получить идентификаторы вашего телефона, включая IMEI, IMSI, и т.д</string>
+     <string name="HIPS_Perm_PhoneID">Идентификация телефона</string>
+     <string name="HIPS_Perm_PhoneID_Desc">Получать идентификаторы вашего телефона, включая IMEI, IMSI, и т.д</string>
      <string name="HIPS_Perm_PhoneID_Hint">%1$s приложения, имеющие доступ к идентификаторам вашего телефона</string>
      <string name="HIPS_Perm_PhoneID_ICCID">получить серийный номер SIM</string>
      <string name="HIPS_Perm_PhoneID_IMEI">получить номер IMEI</string>
@@ -155,17 +155,18 @@
      <string name="HIPS_Perm_Recorder">Камера и микрофон</string>
      <string name="HIPS_Perm_Recorder_Audio">Запись звука</string>
      <string name="HIPS_Perm_Recorder_AudioVideo">Запись звука и видео</string>
-     <string name="HIPS_Perm_Recorder_Camera">получить доступ к камере</string>
+     <string name="HIPS_Perm_Recorder_Camera">Камера</string>
      <string name="HIPS_Perm_Recorder_Desc">Делать фотографии и записывать видео</string>
      <string name="HIPS_Perm_Recorder_Hint">%1$s приложения, имеющие доступ к снятию фото и видео</string>
      <string name="HIPS_Perm_Recorder_Video">Запись видео</string>
-     <string name="HIPS_Perm_Recorder_VoiceCall">Записи вызовов</string>
+     <string name="HIPS_Perm_Recorder_VoiceCall">Запись вызовов</string>
      <string name="HIPS_Perm_RejectAll">Запретить все</string>
      <string name="HIPS_Perm_SMS_Access">Чтение входящих SMS</string>
+	 <string name="HIPS_Perm_SMS">Сообщения</string>
      <string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
      <string name="HIPS_Perm_SMS_Hint">%1$s приложения, имеющие доступ к входящим SMS</string>
 	 <string name="HIPS_Perm_SendMMS">Отправка MMS сообщений</string>
-     <string name="HIPS_Perm_SendMMS_Desc">Доступ MMS сообщениям</string>
+     <string name="HIPS_Perm_SendMMS_Desc">Доступ к MMS сообщениям</string>
      <string name="HIPS_Perm_SendMMS_Hint">%1$s приложения, имеющие доступ к отправке MMS сообщений</string>
      <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
      <string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
@@ -182,15 +183,15 @@
      <string name="HIPS_Perm_Settings_Hint">%1$s приложения, имеющие доступ к системным настройкам</string>
      <string name="HIPS_Perm_Settings_Modify">Изменять настройки системы</string>
      <string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
-	 <string name="HIPS_Perm_VideoRecorder">Записывать видео</string>
+	 <string name="HIPS_Perm_VideoRecorder">Запись видео</string>
      <string name="HIPS_Perm_VideoRecorder_Desc">Доступ к записи видео</string>
      <string name="HIPS_Perm_VideoRecorder_Hint">%1$s приложения, имеющие доступ к записи видео</string>
      <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
      <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в интернет по Wi-Fi</string>
      <string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения, имеющие доступ в интернет</string>
-	 <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi подключение</string>
+	 <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
      <string name="HIPS_Perm_WIFI_Connectivity_Desc">Доступ к подключению Wi-Fi</string>
-     <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s приложения, имеющие доступ к подключению по Wi-Fi</string>
+     <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s приложения, имеющие доступ к подключению Wi-Fi</string>
      <string name="HIPS_SecurityPrompt_Accept">Разр. (%d)</string>
      <string name="HIPS_SecurityPrompt_AcceptRoot">Разр.</string>
      <string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
@@ -204,7 +205,7 @@
      <string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
      <string name="HIPS_SecurityPrompt_Reject">Запр. (%d)</string>
      <string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
-     <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
+     <string name="HIPS_SecurityPrompt_Title">%1$s пытается получить доступ к %2$s</string>
      <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
      <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800>доверенные&lt;/font></string>
      <string name="Privacy_App_Finish">Закрыть</string>
