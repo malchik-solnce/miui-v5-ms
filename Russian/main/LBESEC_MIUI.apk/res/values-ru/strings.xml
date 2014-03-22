@@ -79,7 +79,7 @@
      <string name="HIPS_Perm_AdjustVolumeInCall">Регулировка громкости при вызове</string>
      <string name="HIPS_Perm_AllowAll">Разрешить все</string>
      <string name="HIPS_Perm_AnswerCall">Ответ на поступивший вызов</string>
-	 <string name="HIPS_Perm_AudioRecorder">Дуктофон</string>
+	 <string name="HIPS_Perm_AudioRecorder">Диктофон</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к диктофону</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">%1$s приложения, имеющие доступ к диктофону</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
@@ -168,7 +168,7 @@
 	 <string name="HIPS_Perm_SendMMS">Отправка MMS сообщений</string>
      <string name="HIPS_Perm_SendMMS_Desc">Доступ к MMS сообщениям</string>
      <string name="HIPS_Perm_SendMMS_Hint">%1$s приложения, имеющие доступ к отправке MMS сообщений</string>
-     <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
+     <string name="HIPS_Perm_SendSMS">Отправка сообщений</string>
      <string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
      <string name="HIPS_Perm_SendSMS_Data">Отправить SMS на %1$s:%2$d</string>
      <string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>

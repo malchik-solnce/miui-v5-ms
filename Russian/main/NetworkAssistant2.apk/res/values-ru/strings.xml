@@ -24,7 +24,7 @@
 Это может повлечь большие затраты на трафик (в зависимости от вашего оператора)."</string>
      <string name="data_usage_disabled_dialog_enable">Включить данные</string>
      <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика</string>
-     <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
+     <string name="data_usage_leisure_warning_title">Предел трафика</string>
      <string name="data_usage_limit_body">Нажмите, чтобы включить моб. интернет</string>
      <string name="data_usage_limit_snoozed_body">Вы превысили лимит трафика</string>
      <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит трафика</string>
@@ -72,7 +72,7 @@
      <string name="main_button_usage_adjust_manual">Установить трафик</string>
      <string name="main_button_usage_adjusting">Настройка…</string>
      <string name="main_button_usage_package_setting">Установить трафик</string>
-     <string name="main_toolbar_firewall">Управление</string>
+     <string name="main_toolbar_firewall">Контроль</string>
      <string name="main_toolbar_purchase">Пополнение</string>
      <string name="main_toolbar_statistic">Статистика</string>
      <string name="main_traffic_overlimit_text">%s превышено</string>
@@ -117,8 +117,8 @@
      <string name="pref_data_usage_not_set">Настроить трафик</string>
      <string name="pref_free_adjust">Set off-peak data limit</string>
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
-     <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
-     <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
+     <string name="pref_free_traffic_limit_warn">Предупреждение о пределе трафика</string>
+     <string name="pref_free_traffic_settings">Настройка предела трафика</string>
      <string name="pref_leisure_no_overlay">Включено</string>
      <string name="pref_leisure_not_opened">Выключено</string>
      <string name="pref_manual_adjust">Настроить вручную</string>
@@ -141,7 +141,7 @@
      <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
-     <string name="pref_title_update_notification">Показывать трафик в пенеле</string>
+     <string name="pref_title_update_notification">Показывать трафик в панели</string>
      <string name="pref_version">Версия %s</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
@@ -152,7 +152,7 @@
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
-     <string name="traffic_correction_failed">"Не удалось получить информацию</string>
+     <string name="traffic_correction_failed">Не удалось получить информацию</string>
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
