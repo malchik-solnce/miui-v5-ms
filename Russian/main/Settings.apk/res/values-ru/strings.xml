@@ -551,7 +551,7 @@
 	 <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">КЭШ</string>
-     <string name="cache_list_empty_hints">Нет кешированных файлов</string>
+     <string name="cache_list_empty_hints">Нет кэшированных файлов</string>
      <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
      <string name="cache_manager_actionbar_title">Файлы кэша</string>
      <string name="cache_size_label">Кэш</string>
@@ -595,7 +595,7 @@
      <string name="clean_confirm_title">Удалить эти файлы?</string>
      <string name="cleaner">Очистка</string>
      <string name="cleaner_support_hints">При поддержке Clean Master</string>
-	 <string name="cleanning_prefix">Очистка:%s</string>
+	 <string name="cleanning_prefix">Очистка: %s</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
      <string name="clear_activities_summary">Очистить настройки для использования других приложений</string>
      <string name="clear_all_calllog">Очистить журнал вызовов</string>
@@ -711,7 +711,7 @@
      <string name="data_usage_disable_mobile">Отключить мобильную передачу данных?</string>
      <string name="data_usage_disable_mobile_limit">Установить лимит</string>
      <string name="data_usage_disable_wifi_limit">Лимитировать трафик Wi-Fi</string>
-     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
+     <string name="data_usage_empty">В этот период не было трафика от приложений</string>
      <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
      <string name="data_usage_enable_4g">Передача данных 4G</string>
      <string name="data_usage_enable_mobile">Мобильный трафик</string>
@@ -813,8 +813,8 @@
      <string name="device_admin_title">АДМИНИСТРИРОВАНИЕ</string>
      <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
      <string name="device_cpu">Тип процессора:</string>
-     <string name="device_cpu2_info">"2 ядра "</string>
-     <string name="device_cpu4_info">"4 ядра "</string>
+     <string name="device_cpu2_info">"2 ядра по "</string>
+     <string name="device_cpu4_info">"4 ядра по "</string>
      <string name="device_edit_title">Смена имени</string>
      <string name="device_info_default">Неизвестно</string>
      <string name="device_info_label">Сведения об устройстве</string>
@@ -834,13 +834,13 @@
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
 	 <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
 	 <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
-	 <string name="dialog_msg_check_all">Подтвердите выбор %1$s, содержащий %2$d элемен.</string>
+	 <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
      <string name="dialog_msg_cleanup_apps">Все данные этого приложения будут удалены навсегда (все файлы, настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
 	 <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
-	 <string name="dialog_title_check_all">Выбратть все</string>
+	 <string name="dialog_title_check_all">Выбор всего</string>
      <string name="dialog_title_cleanup_apps">Удалить данные приложения?</string>
      <string name="dialog_title_cleanup_system_cache">Очистить кэшированные данные?</string>
      <string name="dialog_title_color_calibration">Цветовые предустановки</string>
