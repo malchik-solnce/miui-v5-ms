@@ -63,7 +63,7 @@
      <string name="pref_title_alarm_when_silent">Сигналы в тихом режиме</string>
      <string name="pref_title_common">ОБЩИЕ НАСТРОЙКИ</string>
      <string name="pref_title_font_size">Размер шрифта</string>
-     <string name="pref_title_note_style">СТИЛЬ</string>
+     <string name="pref_title_note_style">Настройки стиля</string>
      <string name="preferences_bg_random_appear_title">Разноцветные заметки</string>
      <string name="preferences_title">Настройки</string>
 	 <string name="redo">Повторить</string>

@@ -126,7 +126,7 @@
      <string name="callFailed_outOfService">Вне зоны действия сети</string>
      <string name="callFailed_out_of_network">Вызов из сети</string>
      <string name="callFailed_powerOff">Радио отключено</string>
-     <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже</string>
+     <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
      <string name="callFailed_server_unreachable">Сервер недоступен</string>
      <string name="callFailed_simError">SIM-карта не установлена или ошибка SIM-карты</string>
      <string name="callFailed_timedOut">Нет ответа, время ожидания истекло</string>
@@ -143,10 +143,10 @@
      <string name="call_number">Кому:</string>
      <string name="call_record_button_label">Запись %s</string>
      <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​Нет свободного места.</string>
-     <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
+     <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть %s</string>
      <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
      <string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
-     <string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
+     <string name="call_record_notification_title_error_miui">Запись вызова не удалась</string>
      <string name="call_record_notification_title_miui">Запись вызова</string>
      <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
      <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
@@ -159,7 +159,6 @@
      <string name="call_settings_category_miui">НАСТРОЙКИ ВЫЗОВА</string>
      <string name="call_settings_miui">Вызовы</string>
      <string name="call_title_redialing_with_times_miui">Повторный набор: попытка № %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_type">CallType</string>
      <string name="call_type_title">IMS тип вызова</string>
      <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
