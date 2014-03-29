@@ -6,6 +6,7 @@
      <string name="account_default">По умолчанию</string>
      <string name="account_phone">Устройство</string>
      <string name="account_sim">SIM-карта</string>
+	 <string name="account_sim2">SIM-карта %d</string>
      <string name="account_type_format">Контакт %1$s</string>
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="actionIncomingCall">Входящие вызовы</string>
@@ -105,6 +106,7 @@
      <string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Очистить вызовы новых контактов</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
+	 <string name="callrecordview_menu_delete_sim">Очистить журнал вызовов: %s</string>
      <string name="callrecordview_menu_delete_stranger">Очистить неизвестные вызовы</string>
      <string name="callrecordview_menu_edit_call_note">Изменить заметку о вызове</string>
      <string name="callrecordview_menu_paste">Вставить</string>
@@ -115,6 +117,7 @@
      <string name="callrecordview_menu_show_called">Только исходящие</string>
      <string name="callrecordview_menu_show_missed">Только пропущенные</string>
      <string name="callrecordview_menu_show_new">Только новые</string>
+	 <string name="callrecordview_menu_show_sim">Вызовов: %s</string>
      <string name="callrecordview_menu_show_stranger">Только неизвестные</string>
      <string name="callrecordview_menu_show_title">Отображать вызовы</string>
      <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
@@ -336,6 +339,7 @@
      <string name="empty_divider_title">Вы можете</string>
      <string name="enter_contact_name">Имя контакта</string>
      <string name="eventLabelsGroup">Мероприятия</string>
+	 <string name="eventTypeCustom">Пользовательское</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
      <string name="export_sim_contact_finish_failure">Недостаточно места. Скопировано: %1$d , не скопировано: %2$d.</string>
@@ -343,6 +347,7 @@
      <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
      <string name="export_to_sdcard">Экспорт на SD-карту</string>
      <string name="export_to_sim">Экспорт на SIM-карту</string>
+	 <string name="export_to_sim2">Экспорт на SIM-карту 2</string>
      <string name="export_to_sim_title">Экспорт на SIM-карту</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
@@ -404,6 +409,7 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+	 <string name="imei_invalid">Неверный IMEI</string>
      <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
      <string name="import_all_vcard_string">Импорт всех VCard</string>
      <string name="import_contact_card_button">Импорт</string>
@@ -411,6 +417,7 @@
      <string name="import_from_other_phone">Импортировать с телефона</string>
      <string name="import_from_sdcard">Импорт с SD-карты</string>
      <string name="import_from_sim">Импортировать с SIM-карты</string>
+	 <string name="import_from_sim2">Импортировать с SIM-карты 2</string>
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт одного VCard</string>
@@ -477,6 +484,7 @@
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
+	 <string name="meid_invalid">Неверный MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
@@ -495,6 +503,7 @@
      <string name="menu_create_contact_shortcut">На рабочий стол</string>
      <string name="menu_deleteContact">Удалить контакт</string>
      <string name="menu_deleteGroup">Удалить</string>
+	 <string name="menu_dial_ip_number">IP-вызов</string>
      <string name="menu_dialpad_text">Клавиатура</string>
      <string name="menu_discard">Отменить</string>
      <string name="menu_display_all">Показать все</string>
@@ -510,8 +519,8 @@
      <string name="menu_new_contact_action_bar">Добавить</string>
      <string name="menu_new_favorite_action_bar">Добавить в избранные</string>
      <string name="menu_new_group_action_bar">Новая группа</string>
-     <string name="menu_not_redirect_calls_to_vm">Не исполь. голосовую почту</string>
-     <string name="menu_redirect_calls_to_vm">Все на голос. почту</string>
+     <string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
+     <string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
      <string name="menu_removeStar">Из избранных</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_select_all">Выбрать все</string>
@@ -691,6 +700,7 @@
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
      <string name="pref_key_sim_manage">Контакты SIM-карты</string>
+	 <string name="pref_key_sim_manage2">Контакты SIM-карты 2</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
      <string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
@@ -969,6 +979,7 @@
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_existing">Этот контакт уже существует</string>
      <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
+	 <string name="sim_contact_number_missing">Номер контакта на SIM-карте отсутствует</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>

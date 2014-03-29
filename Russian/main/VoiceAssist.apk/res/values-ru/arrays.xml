@@ -112,6 +112,11 @@
         <item>DaLong</item>
         <item>Дональд Дак</item>
     </string-array>
+	<string-array name="voice_wakeup_entries">
+        <item>\"Xiaomi xiaomi kai ji\"</item>
+        <item>\"Xiaomi xiaomi kuai le\"</item>
+        <item>\"Xiaomi xiaomi qi chuang\"</item>
+    </string-array>
     <string-array name="voice_effect_descs">
         <item>Китайско-английский женский голос</item>
         <item>Китайский женский голос</item>
