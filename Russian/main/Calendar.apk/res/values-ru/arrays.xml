@@ -38,23 +38,16 @@
         <item>Никогда</item>
      </string-array>
      <string-array name="preferences_default_reminder_labels">
-        <item>Нет</item>
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+        <item>Не напоминать</item>
+        <item>По факту</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+		<item>За 2 дня</item>
+        <item>За 1 неделю</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
         <item>По региону</item>
@@ -66,7 +59,7 @@
         <item>Опоздаю на несколько минут</item>
         <item>Буду там через 10 минут</item>
         <item>Начинайте без меня</item>
-        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание"</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
      </string-array>
      <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
@@ -75,23 +68,16 @@
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
-	    <item>Нет</item>
-        <item>0 минут</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>12 часов</item>
-        <item>24 часа</item>
-        <item>2 дня</item>
-        <item>1 неделя</item>
+	    <item>Не напоминать</item>
+        <item>По факту</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+		<item>За 2 дня</item>
+        <item>За 1 неделю</item>
      </string-array>
      <string-array name="response_labels1">
         <item>Нет ответов</item>

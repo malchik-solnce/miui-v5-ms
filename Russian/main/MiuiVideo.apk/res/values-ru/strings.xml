@@ -106,7 +106,7 @@
     <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
     <string name="file_not_exist">Файл не найден</string>
     <string name="play">Смотреть</string>
-    <string name="favorite">Избранное</string>
+    <string name="favorite">" избранное"</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>
     <string name="waitfornewset">Следовать</string>
@@ -118,7 +118,7 @@
     <string name="success_cancel_waitfornewset">Слежение остановлено</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>
     <string name="count_myfavorite">" избранные"</string>
-    <string name="myfavorite">" избранное"</string>
+    <string name="myfavorite">" Избранное"</string>
     <string name="no_myfavorite">Пусто</string>
     <string name="no_myfavorite_advice" />
     <string name="myfavorite_onlylocal">" избранное"</string>
@@ -223,6 +223,7 @@
     <string name="offline_media_more">Еще</string>
     <string name="media_source_unavailable">Источник недоступен</string>
     <string name="download_add_success">Загрузка добавлена</string>
+	<string name="download_delete">Удалить задачу</string>
     <string name="download_is_in_tasklist">В списке загрузок</string>
     <string name="download_is_success">Загружено</string>
     <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
