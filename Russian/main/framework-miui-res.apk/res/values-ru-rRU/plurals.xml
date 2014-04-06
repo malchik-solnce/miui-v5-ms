@@ -17,11 +17,11 @@
         <item quantity="other">Полчаса назад</item>
      </plurals>
      <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Немедленно</item>
+        <item quantity="other">Только что</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">в %d мин</item>
-        <item quantity="one">в 1 мин</item>
+        <item quantity="other">в %d мин.</item>
+        <item quantity="one">в 1 мин.</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Только что</item>
@@ -40,7 +40,7 @@
         <item quantity="other">Полчаса назад</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
-        <item quantity="other">Немедленно</item>
+        <item quantity="other">Только что</item>
      </plurals>
      <plurals name="in_num_minutes">
         <item quantity="other">в %d минут</item>

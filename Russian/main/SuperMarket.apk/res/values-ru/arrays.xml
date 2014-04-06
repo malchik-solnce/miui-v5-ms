@@ -161,7 +161,7 @@
         <item>Allows an application to modify the sync settings, such as whether sync is enabled for Contacts.</item>
      </string-array>
      <string-array name="permission_group_description">
-        <item>Доступ к имеющимся счетам</item>
+        <item>Доступ к имеющимся аккаунтам</item>
         <item>Позволяет приложениям выполнятьможет потребоваться Вас платить за операции</item>
         <item>Прямой доступ к оборудованию по телефона</item>
         <item>Прямой доступ к аппаратным на трубке</item>

@@ -10,8 +10,8 @@
         <item quantity="one">Добавлен %1$d контакт</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">Номеров: %1$d</item>
-        <item quantity="one">Номеров: %1$d</item>
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: %1$d</item>
      </plurals>
      <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">Номеров: %1$d</item>
