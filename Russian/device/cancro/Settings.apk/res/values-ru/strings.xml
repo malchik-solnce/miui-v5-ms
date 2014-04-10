@@ -529,7 +529,7 @@
      <string name="brightness_summary">Настроить яркость экрана</string>
      <string name="bssid_label">"BSSID: "</string>
      <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
-     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
+     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в журнал</string>
      <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
@@ -2527,7 +2527,7 @@
      <string name="show_hw_screen_updates">Показывать данные GPU</string>
      <string name="show_hw_screen_updates_summary">Показывать данные в окнах во время прорисовки с GPU</string>
      <string name="show_magnifier_when_input">Показывать лупу</string>
-	 <string name="show_non_rect_clip">Отладка непрямоугольных операций изобр.</string>
+	 <string name="show_non_rect_clip">Отладить операции непрямоугольного сечения</string>
      <string name="show_notification">Показывать уведомления</string>
      <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
      <string name="show_password">Показывать пароль</string>
@@ -3328,16 +3328,16 @@ Attempts Remaining :"</string>
      <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
      <string name="wifi_setup_wizard_title">Выбор Wi-Fi</string>
      <string name="wifi_setup_wps">Автонастройка (WPS)</string>
-	 <string name="wifi_scan_always_available">Сканировать всегда</string>
-     <string name="wifi_scan_always_available_summary">Cлужбы местоположения Google и других приложений будут сканировать доступные сети, даже если Wi-Fi выключен</string>
+	 <string name="wifi_scan_always_available">Всегда искать сети</string>
+     <string name="wifi_scan_always_available_summary">Разрешить службе геопозиционирования и другим приложениям Google искать сети, даже если Wi-Fi выключен</string>
 	 <string name="wifi_scan_always_confirm_allow">Да</string>
      <string name="wifi_scan_always_confirm_deny">Нет</string>
      <string name="wifi_scan_always_turnon_message">"Для повышения определения местоположения и для других целей, %1$s хочет включить сканирование сети, даже когда Wi-Fi выключен.
 
 Разрешить это для всех приложений, которые требует сканирование?"</string>
      <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
-     <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
-     <string name="wifi_scan_notify_text_location_on">"Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
+     <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
+     <string name="wifi_scan_notify_text_location_on">"Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
      <string name="wifi_share">Поделиться Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
      <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>
@@ -3390,7 +3390,7 @@ Attempts Remaining :"</string>
      <string name="wifi_status_test">Статус Wi-Fi</string>
      <string name="wifi_stopping">Отключение Wi-Fi…</string>
      <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
-     <string name="wifi_suspend_optimizations_summary">Минимизировать использование батареи при подключенном Wi-Fi</string>
+     <string name="wifi_suspend_optimizations_summary">Экономить заряд батареи, когда используется Wi-Fi</string>
      <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ap_text">Настроить точку доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>

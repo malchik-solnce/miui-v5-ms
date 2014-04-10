@@ -122,7 +122,7 @@
      <string name="sms_notification">Отправить по смс</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tip_weather">Уведомление погоды MIUI</string>
-     <string name="tip_weather_info_content_1">Bring layers!</string>
+     <string name="tip_weather_info_content_1">Выходя на улицу, одевайте соответствующую одежду :)</string>
      <string name="tip_weather_info_title_1">%1$s ожидается разность температур в %2$d градусов</string>
      <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>
      <string name="trend_weather_today">Сегодня</string>

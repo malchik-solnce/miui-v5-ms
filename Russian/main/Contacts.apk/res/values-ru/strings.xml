@@ -1068,7 +1068,7 @@
      <string name="type_voicemail">Голосовая почта</string>
      <string name="unknown">Неизвестно</string>
      <string name="unknown_contact_name">Неизвестный контакт</string>
-     <string name="upgrade_in_progress">Обновляется список контактов…</string>
+     <string name="upgrade_in_progress">Обновление списка контактов…</string>
      <string name="upgrade_out_of_memory">Контакты обновляются. Для этого требуется около %s Мб внутренней памяти. Выбери подходящую опцию:</string>
      <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
      <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
