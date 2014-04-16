@@ -35,28 +35,18 @@
      <string name="app_name">Погода</string>
      <string name="app_nohave_net">Нет сетевого подключения</string>
      <string name="app_unquiet_net">Сеть нестабильна, повтори попытку позже</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
      <string name="aqi_details_good">Хорошая погода для прогулок на улице</string>
      <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
      <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_dangerous">dangerous</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_good">good</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_hazardous">hazardous</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="aqi_quality_index_light_pollution">light pollution</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_light_pollution">небольшое загрязнение</string>
      <string name="aqi_quality_index_moderate">moderate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_pure">excellent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_unhealthy">unhealthy</string>
      <string name="button_allow">Разрешить</string>
      <string name="button_not_allow">Запретить</string>

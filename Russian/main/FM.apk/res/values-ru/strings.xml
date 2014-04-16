@@ -81,6 +81,7 @@
      <string name="menu_stats">Статистика FM RF</string>
      <string name="msg_callactive">Невозможно прослушивать радио во время вызова</string>
      <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
+	 <string name="msg_fm_starting">Запуск…</string>
      <string name="msg_headsetpluggedin">Отключите наушники</string>
      <string name="msg_noantenna_message">Подключите наушники</string>
      <string name="msg_scanning">Сканирование станций…</string>
