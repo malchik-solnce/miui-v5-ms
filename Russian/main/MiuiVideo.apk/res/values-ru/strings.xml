@@ -140,6 +140,7 @@
     <string name="delete">Удалить</string>
     <string name="browse_folder">Папка</string>
     <string name="channel_more">Еще</string>
+	<string name="check_network">Не удалось подключиться к сети. Проверь настройки.</string>
     <string name="comment_publish">Отправить</string>
     <string name="write_comment">Добавить</string>
     <string name="delete_media">Удалить</string>
