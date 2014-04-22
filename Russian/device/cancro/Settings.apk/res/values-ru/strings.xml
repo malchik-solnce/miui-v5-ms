@@ -2950,7 +2950,7 @@ Attempts Remaining :"</string>
      <string name="user_setup_button_setup_now">Настроить</string>
      <string name="user_setup_dialog_message">Убедитесь, что человек хочет создать свое пространство на этом устройстве</string>
      <string name="user_setup_dialog_title">Настроить пользователя?</string>
-	 <string name="user_setup_profile_dialog_message">Настроить прифиль сейчас?</string>
+	 <string name="user_setup_profile_dialog_message">Настроить профиль сейчас?</string>
      <string name="user_summary_active">Активен</string>
      <string name="user_summary_inactive">Не активен</string>
      <string name="user_summary_not_set_up">Не настроен</string>
@@ -3337,7 +3337,7 @@ Attempts Remaining :"</string>
 Разрешить это для всех приложений, которые требует сканирование?"</string>
      <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
      <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
-     <string name="wifi_scan_notify_text_location_on">"Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
+     <string name="wifi_scan_notify_text_location_on">Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если Вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети.</string>
      <string name="wifi_share">Поделиться Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
      <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>

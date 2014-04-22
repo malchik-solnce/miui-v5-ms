@@ -10,8 +10,7 @@
      <string name="app_name">Программа установки</string>
      <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
      <string name="app_not_found_dlg_title">Приложение не найдено</string>
-     <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.
-Разрешить автозапуск?"</string>
+     <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Разрешить автозапуск?"</string>
      <string name="caller_app">Запрос от %1$s</string>
      <string name="cancel">Отмена</string>
      <string name="dlg_app_replacement_statement">"Данное приложение заменит уже существующее.
@@ -36,7 +35,7 @@
      <string name="install_failed_invalid_apk">Файл поврежден</string>
      <string name="install_failed_msg">Не удалось установить приложение %1$s</string>
      <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
-     <string name="install_failed_system_incompatible">Это приложение не совместимо с MIUI!</string>
+     <string name="install_failed_system_incompatible">Это приложение не совместимо с MIUI</string>
      <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
      <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
      <string name="installing">Установка, подождите…</string>
@@ -65,16 +64,15 @@
      <string name="safe_relative">Безопасные разрешения</string>
      <string name="security_settings_desc">Разрешения приложения:</string>
      <string name="settings">Настройки</string>
-     <string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
-Вы доверяете этому приложению?"</string>
+     <string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Вы доверяете этому приложению?</string>
      <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
      <string name="uninstall_application_text">Приложение будет удалено</string>
      <string name="uninstall_application_title">Удаление</string>
      <string name="uninstall_confirm_question">Удалить это приложение?</string>
      <string name="uninstall_done">Успешно удалено</string>
      <string name="uninstall_failed">Ошибка при удалении</string>
-     <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования усройства</string>
-     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
+     <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>
+     <string name="uninstall_failed_msg">Не удалось удалить приложение %1$s</string>
      <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
      <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
      <string name="uninstall_update_title">Удаление обновления</string>

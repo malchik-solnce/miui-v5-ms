@@ -193,8 +193,8 @@
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настроить способы ввода</string>
-     <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
-     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Всего: %3$s</string>
+     <string name="status_bar_network_flow">"Сегодня: %1$s | Осталось: %2$s | Всего: %3$s"</string>
+     <string name="status_bar_network_flow_exceed">"Сегодня: %1$s | Превышение: %2$s | Всего: %3$s"</string>
      <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
@@ -217,7 +217,6 @@ d MMMM yyyy"</string>
      <string name="status_bar_style_settings">Настройки панели</string>
      <string name="status_bar_toggle_ac">Контроль доступа</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Подсветка</string>
      <string name="status_bar_toggle_data">Интернет</string>
