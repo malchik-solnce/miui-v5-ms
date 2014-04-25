@@ -3,6 +3,7 @@
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
     <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+	<string name="chroma_flash_exit_button_text">Выйти</string>
     <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Видеокамера</string>
@@ -30,6 +31,7 @@
     <string name="pref_camera_sound_entry_on">Вкл.</string>
     <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
     <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
+	<string name="pref_camera_auto_opti_zoom_title">Автом. увеличение, если соотношение больше чем 2</string>
     <string name="pref_captrue_mirror_title">Передняя камера</string>
     <string name="pref_captrue_mirror_entry_off">Выкл.</string>
     <string name="pref_captrue_mirror_entry_on">Вкл.</string>
@@ -132,6 +134,7 @@
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
+	<string name="pref_camera_ubi_focus_title">Ubi фокус</string>
     <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
     <string name="pref_camera_multilevel_entry_lowest">Наихудшая</string>
@@ -212,6 +215,7 @@
     <string name="snapshot_qcif_and_d1">Только размер снимка видео поддерживает это разрешение</string>
     <string name="clear_effects">Убрать эффекты</string>
     <string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
+	<string name="enable_feature">Да</string>
     <string name="effect_background">ФОН</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_review_thumbnail">Недавние фото</string>
@@ -228,6 +232,7 @@
     <string name="accessibility_skin_beautify_opened">Усилитель тона кожи включен</string>
     <string name="accessibility_skin_beautify_closed">Усилитель тона кожи отключен</string>
     <string name="pref_camera_autoexposure_title">Режим автоэкспозамера</string>
+	<string name="pref_camera_chroma_flash_title">Chroma вспышка</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Средний по кадру</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенный по центру</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
@@ -283,6 +288,7 @@
     <string name="pref_camera_current_k_value">Текущее значение</string>
     <string name="error_fail_to_start_audio_capture">Невозможно записать звук: микрофон может быть занят другим приложением</string>
     <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+	<string name="ubi_focus_exit_button_text">Выйти</string>
     <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
     <string name="can_not_play_video">Для воспроизведения разблокируйте экран</string>
     <string name="toast_burst_snap_finished_start">Серийная съемка завершена</string>
@@ -325,9 +331,11 @@
     <string name="deleted">Удалено</string>
     <string name="undo">Назад</string>
     <string name="ok">OK</string>
+	<string name="opti_zoom_exit_button_text">Выйти</string>
     <string name="cancel">Отмена</string>
     <string name="set_as">Установить как</string>
     <string name="no_thumbnail">Нет миниатюр</string>
+	<string name="not_enable_feature">Позже</string>
     <string name="loading">Загрузка…</string>
     <string name="crop_saved">Изображение сохранено в %s</string>
     <string name="video_err">Невозможно воспроизвести видео</string>
@@ -373,11 +381,14 @@
     <string name="set_label_all_albums">Все альбомы</string>
     <string name="send_multiple_files_hint_format">Отправка файлов (%s)</string>
     <string name="simple_mode_button_text_hdr">Выйти</string>
+	<string name="simple_mode_button_text_opti_zoom">Выйти</string>
     <string name="simple_mode_button_text_hand_night">Выйти</string>
     <string name="simple_mode_button_text_panorama">Выйти</string>
     <string name="simple_mode_button_text_color_effect">Выйти</string>
     <string name="simple_mode_button_text_audio_capture">Выйти</string>
+	<string name="simple_mode_button_text_chroma_flash">Выйти</string>
     <string name="simple_mode_button_text_slow_video">Выйти</string>
+	<string name="simple_mode_button_text_ubi_focus">Выйти</string>
     <string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
     <string name="simple_mode_title">Простой режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
@@ -493,6 +504,7 @@
     <string name="face_beauty_age_alias_female_60_m">Женщина 60+</string>
     <string name="simple_mode_button_text_face_beauty">Выйти</string>
     <string name="pref_camera_multiple_face_beauty_title">Режим красивое лицо</string>
+	<string name="pref_camera_opti_zoom_title">Оптический зум</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">Одно лицо</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">Два лица</string>
     <string name="measure_whitebalance_button">Измерить</string>

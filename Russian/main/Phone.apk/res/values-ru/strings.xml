@@ -173,36 +173,27 @@
      <string name="caller_id_title_miui">Автоопределение номера</string>
      <string name="caller_manage_header">Конференц-вызов: %s</string>
      <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callind">Call Feature Settings</string>
      <string name="callind_multi_sim">Выберите подписку</string>
      <string name="calling_via_template">Звонок через %s</string>
      <string name="calling_via_template_miui">""Звонок через ^1
 "<b>^2</b>"</string>
+     <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором. Если вы видите \"Ошибка MMI кода\", свяжитесь с оператором сети, чтобы подключить услугу ожидания вызова.</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_call">Отмена</string>
      <string name="card_01">Карта 1</string>
      <string name="card_02">Карта 2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
      <string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_call_deflected">Call Deflected</string>
      <string name="card_title_call_ended">Вызов завершен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callconnectedect">Call Connected ECT</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callconnectingect">Call Connecting ECT</string>
      <string name="card_title_calliswaiting">Ожидание вызова</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callonhold">Put on Hold</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callonhold_released">Call Released</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callretrieved">Call Retreived</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
      <string name="card_title_conf_call">Конференц-вызов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -709,7 +700,7 @@
      <string name="onscreen_audio_mode_handset_miui">Громкая связь</string>
      <string name="onscreen_audio_mode_headset_miui">Наушники</string>
      <string name="onscreen_audio_mode_miui">Ответ используя</string>
-     <string name="onscreen_audio_mode_speaker_miui">Громкоговоритель</string>
+     <string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
      <string name="onscreen_call_record_miui">Запись</string>
      <string name="onscreen_dialer_miui">Клавиатура</string>
      <string name="onscreen_end_call_text_miui">Завершить</string>
@@ -723,6 +714,7 @@
      <string name="onscreen_swap_calls_text_miui">Переключится</string>
      <string name="onscreen_tools_off_miui">Еще</string>
      <string name="onscreen_tools_on_miui">Еще</string>
+	 <string name="open_miui">Открыть</string>
      <string name="optional_summary">&lt;Необязательно></string>
      <string name="ota_activate">Активировать</string>
      <string name="ota_call_end">Назад</string>
