@@ -111,9 +111,8 @@
      <string name="color_picker_saturation">Насыщенность</string>
      <string name="color_picker_value">Значение</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Скрыть</string>
+     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
      <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
      <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
      <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
@@ -141,7 +140,7 @@
      <string name="copy_link">Скопировать</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
 	 <string name="date_picker_dialog_clear">Очистить</string>
-     <string name="date_picker_dialog_set">ОК</string>
+     <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
      <string name="delete">Удалить</string>
@@ -165,8 +164,7 @@
      <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
      <string name="downloaded">Загружено</string>
-     <string name="downloading">Загрузка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downloading">Загрузка…</string>
      <string name="dump_counters">Dump V8 counters</string>
      <string name="dump_display_tree">Дамп Display дерева в файл</string>
      <string name="dump_dom_tree">Дамп DOM дерева в файл</string>
@@ -176,7 +174,7 @@
      <string name="edit_bookmark">Изменить закладку</string>
      <string name="edit_folder">Изменить папку</string>
      <string name="empty_bookmarks_folder">Нет закладок</string>
-     <string name="empty_history">Нет данных</string>
+     <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
      <string name="error_console_eval_button_text">Evaluate</string>
      <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
@@ -193,14 +191,14 @@
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
      <string name="general_set_default_browser_dialog_ok_txt">OK</string>
-     <string name="general_set_default_browser_dialog_summary">Браузер будет использоваться в системе по умолчанию</string>
+     <string name="general_set_default_browser_dialog_summary">Использовать системный браузер по умолчанию</string>
      <string name="general_set_default_browser_title">Сделать по умолчанию</string>
      <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
      <string name="geolocation_permissions_prompt_share">Разрешить</string>
-     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
-     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
+     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о Вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
+     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о Вашем местоположении</string>
      <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
      <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о Вашем местоположении?</string>
      <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
@@ -276,7 +274,7 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
-     <string name="ok">Да</string>
+     <string name="ok">OK</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
@@ -448,7 +446,7 @@
      <string name="readmode_login">Войти</string>
      <string name="readmode_login_message">Для продолжения чтения необходимо войти в аккаунт</string>
      <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>
-     <string name="readmode_page_loading">Входим, подождите…</string>
+     <string name="readmode_page_loading">Загрузка, подождите…</string>
      <string name="readmode_pay">Подписаться</string>
      <string name="readmode_pay_message">Для продолжения чтения требуется подписка</string>
      <string name="readmode_reach_last_page">Это последняя страница</string>
