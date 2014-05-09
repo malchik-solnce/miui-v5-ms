@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="account_bind_prompt">"Перенос данных пользователя.
-Перенос данных может жанять некоторое время,
-Ваш аккаунт временно будет недоступен. Подождите…"</string>
+     <string name="account_bind_prompt">Перенос данных пользователя. Подождите…</string>
      <string name="add_task">Добавить задачи</string>
      <string name="adding_upload_tasks">Добавление задач загрузки</string>
      <string name="already_signin_description">Войти можно только один раз в день. Зайдите завтра.</string>

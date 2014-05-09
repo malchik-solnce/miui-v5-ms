@@ -63,6 +63,7 @@
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
+	 <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
      <string name="browse_category">Настройки просмотра</string>
      <string name="by_email">Почта</string>
      <string name="by_others">Другое</string>
@@ -114,7 +115,8 @@
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>
-     <string name="confirm_delete_cloud_all_item_page" formatted="false">Вы уверены, что хотите удалить %s фотографий в %s альбомах?</string>
+	 <string name="confirm_delete_home_merge_item">Удалить выбранные изображения (%s) из устройства и облака?</string>
+     <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить %s фотографий в %s альбомах?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить его?</string>
      <string name="confirm_delete_this_picture">Удалить это изображение?</string>
@@ -150,9 +152,11 @@
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
      <string name="description">Описание</string>
+	 <string name="deselect_all">Снять все</string>
      <string name="details">Информация</string>
      <string name="details_sharer">Отправитель</string>
-     <string name="details_title">Файл %1$d из %2$d:</string>
+     <string name="details_title">%1$d из %2$d</string>
+	 <string name="device_model">Устройство</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="documentary">Документальные</string>
      <string name="done">Готово</string>
@@ -171,11 +175,14 @@
      <string name="error_album_not_exist">Альбом не существует</string>
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
+	 <string name="error_not_acceptable">Ошибка сервера. Синхронизация отключена.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
 	 <string name="error_share_with_creator">Вы уже пользователь альбома</string>
      <string name="error_should_not_select_image">Не выбирайте файл изображения!</string>
      <string name="error_should_not_select_video">Не выбирайте видео файл!</string>
      <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
+	 <string name="error_title">Ошибка синхронизации</string>
+     <string name="error_unauthorized">Слишком много попыток входа. Синхронизация отключена.</string>
      <string name="error_unknown_host">Сеть не обнаружена</string>
      <string name="exit">Выйти</string>
      <string name="exit_share">Закрыть альбом</string>
@@ -190,6 +197,7 @@
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы галереи. Диск полон. Приложение будет закрыто.</string>
+	 <string name="fail_to_download_n_items">Ошибка загрузки %s</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
      <string name="file_not_exist_message">Файл не существует</string>
@@ -225,6 +233,9 @@
      <string name="height">Высота</string>
      <string name="highlight">Блики</string>
      <string name="home_my_captured_items">фото</string>
+	 <string name="home_page_tab_cloud">Облако</string>
+     <string name="home_page_tab_local">Устройство</string>
+     <string name="home_page_tab_photo">Фотографии</string>
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
@@ -281,6 +292,7 @@
      <string name="mimetype">Тип MIME</string>
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
+	 <string name="modified_time">Время изменения</string>
      <string name="model">Модель</string>
      <string name="more">Дополнительно</string>
 	 <string name="move">Переместить</string>
@@ -331,6 +343,7 @@
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог камеры</string>
      <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
+	 <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">файлов</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
@@ -340,7 +353,6 @@
      <string name="picker_select_album_title_empty">Выберите альбом</string>
      <string name="picker_tab_camera">Камера</string>
      <string name="posterize">Постеризация</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="projection">Проекция</string>
@@ -348,9 +360,7 @@
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
      <string name="publishing">Публикация, подождите…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qqbrowser_img">QQ Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qsbk_save">QSBK</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
@@ -456,10 +466,8 @@
      <string name="tab_lockscreen_text">На локскрин</string>
      <string name="tab_wallpaper_text">На стол</string>
      <string name="tags">Теги</string>
+	 <string name="taken_time">Время съемки</string>
      <string name="temperature">Тепло</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent_mobile_qq_img_save">QQ2012</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qq_hd_pic">QQ HD</string>
      <string name="tencent_qzonepic">Qzone</string>
      <string name="there_is_no_image">Нет изображений</string>

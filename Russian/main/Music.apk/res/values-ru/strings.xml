@@ -68,8 +68,12 @@
      <string name="deselect_all">Отмена</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_general">Общие</string>
-     <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
-     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
+	 <string name="dirac_mode_general_earbuds">Обычные наушники</string>
+     <string name="dirac_mode_general_inear">Обычные вкладыши</string>
+     <string name="dirac_mode_in_ear">Наушники Xiaomi</string>
+     <string name="dirac_mode_piston_100">Пистоны Xiaomi 1</string>
+     <string name="dirac_mode_piston_2">Пистоны Xiaomi 2</string>
+     <string name="dirac_mode_piston_youth">Бюджетные пистоны Xiaomi</string>
      <string name="disconnect">Отключено</string>
      <string name="download">Загрузить</string>
      <string name="download_album_settings">Загружать обложки</string>
@@ -166,6 +170,7 @@
      <string name="load_recommend_in_process">Загрузка…</string>
      <string name="loading">Загрузка…</string>
      <string name="login">Войти</string>
+	 <string name="login_and_enable">Синхронизировать</string>
      <string name="login_first">Сначала войдите в аккаунт Xiaomi</string>
      <string name="lrc_progress_modify">Настройка скорости прокрутки текста</string>
      <string name="lrc_progress_modify_helper">Регулировка скорости прокрутки текста</string>
@@ -207,6 +212,7 @@
      <string name="no_song_downloaded">Нет песен для загрузки</string>
      <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
+	 <string name="not_now">Не сейчас</string>
      <string name="not_selected">Пожалуйста, выберите песню</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
      <string name="online_title">Онлайн</string>
@@ -297,6 +303,10 @@
      <string name="start_to_download_album">Загрузка обложки альбома…</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
+	 <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+     <string name="sync_alert_title">Синхронизация музыки</string>
+     <string name="sync_disable_toast">Вы можете включить синхронизацию музыки в настройках > аккаунты > MiCloud</string>
+     <string name="sync_enable_toast">Вы можете изменить параметры сихронизации в настройках > аккаунты > MiCloud</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="track_bit_rate_hd">Высокое</string>
