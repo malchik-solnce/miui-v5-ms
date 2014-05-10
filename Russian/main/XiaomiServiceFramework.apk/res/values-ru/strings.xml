@@ -105,6 +105,7 @@
      <string name="find_device_error_server">Ошибка сервера</string>
      <string name="find_device_notice_p1">Если Вы не можете найти свой телефон, посетите</string>
      <string name="find_device_notice_p3">для нахождения, блокировки или удаления данных</string>
+	 <string name="find_device_notice_p4">При каждой смене SIM-карты, может быть отправлено сообщение для отслеживания устройства</string>
      <string name="find_device_success_title">Обнаружение устройства включено</string>
      <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
      <string name="forget_password"><u>Забыл пароль</u></string>
@@ -201,8 +202,6 @@
      <string name="micloud_user_name">Имя</string>
      <string name="micloud_user_phone">Телефон</string>
      <string name="micloud_user_space_usage">Облако</string>
-     <string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
-     <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
 	 <string name="micloud_warn_full_msg">Вы достигли предела места в облаке</string>
      <string name="micloud_warn_full_sum">На данный момент новые данные не будут синхронизироваться с Вашим облаком</string>
      <string name="micloud_warn_full_title">Недостаточно метса</string>
@@ -236,8 +235,6 @@
      <string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>
      <string name="removing_account">Удаление аккаунта…</string>
      <string name="restoreSync">Восстановить</string>
-     <string name="send_int_sms_for_sync_notice">Для активации нужно отправить международное SMS. Вы хотите продолжить?</string>
-     <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
      <string name="service_error">Ошибка сервиса</string>
      <string name="show_password">Показать пароль</string>
@@ -254,8 +251,6 @@
      <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
-     <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
-     <string name="sync_sub_int_dspt">Для активации нужно отправить международное SMS</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
      <string name="trust_device">Я доверяю устройству</string>
      <string name="unactivated_user">Не активирован</string>
@@ -279,4 +274,5 @@
      <string name="wipe_data_dialog_title">Некоторые элементы не синхронизированы</string>
      <string name="wrong_captcha">Неверный код с картинки</string>
      <string name="wrong_vcode">Неверный код проверки</string>
+	 <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

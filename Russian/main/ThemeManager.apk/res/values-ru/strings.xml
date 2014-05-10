@@ -6,6 +6,7 @@
      <string name="all_resources">Все</string>
      <string name="all_ringtone_resource">Все</string>
      <string name="app_name">Темы</string>
+	 <string name="apply_default_font_tip">Использовать текущий системный шрифт?</string>
      <string name="apply_font_btn_exclude">Без шрифта</string>
      <string name="apply_font_btn_reboot">Прим. и рестарт</string>
      <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
@@ -104,6 +105,7 @@
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
+	 <string name="resource_delete">Удалить</string>
      <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить этот ресурс?</string>
      <string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
@@ -241,11 +243,14 @@
      <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажмите здесь, чтобы применить.</string>
      <string name="theme_description_title_customized">Пользов.</string>
      <string name="theme_description_title_default">По умолч.</string>
+	 <string name="theme_fresh_man_notifaction">Попробуйте новые темы</string>
      <string name="theme_immediately_apply_tip">Тема обновляется. Применить после обновления?</string>
      <string name="theme_import_activity_label">Обновление тем</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
      <string name="theme_name">%1$s</string>
+	 <string name="theme_no">Нет</string>
      <string name="theme_select_others">Прочее</string>
+	 <string name="theme_yes">Да</string>
      <string name="third_party_pickers_activity_title">Установить %1$s</string>
      <string name="title_component">Компоненты</string>
      <string name="title_local">Телефон</string>

@@ -333,7 +333,6 @@
     <string name="buffering_video_netplay_label_v5">Буферизация…</string>
     <string name="to_be_play_label_v5">"Далее: "</string>
     <string name="episode_prefix">"эпизод "</string>
-    <string name="episode_suffix" />
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">XiaoMi Inc.</string>

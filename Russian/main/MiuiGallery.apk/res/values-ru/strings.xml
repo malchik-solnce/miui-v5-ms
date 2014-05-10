@@ -40,8 +40,6 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
      <string name="app_name">Галерея</string>
@@ -52,14 +50,6 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="autohomemain">Autohomemain</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="baidu_flyflow_downloads">Baidu Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="beautyphone">Beauty phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
