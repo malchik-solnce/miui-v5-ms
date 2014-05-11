@@ -9,8 +9,6 @@
      <string name="accessibility_date_picker_year">Год</string>
      <string name="accessibility_datetime_picker_date">Дата</string>
      <string name="accessibility_datetime_picker_time">Время</string>
-     <string name="accessibility_state_frozen">Сохраненная страница</string>
-     <string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
      <string name="accessibility_time_picker_ampm">AM/PM</string>
      <string name="accessibility_time_picker_hour">Час</string>
      <string name="accessibility_time_picker_milli">Миллисекунда</string>
@@ -18,7 +16,7 @@
      <string name="accessibility_time_picker_second">Секунда</string>
      <string name="account">Аккаунт</string>
      <string name="action">Войти</string>
-	 <string name="actionbar_share">Поделиться</string>
+     <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_folder">Добавить папку</string>
@@ -83,7 +81,7 @@
      <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
      <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
-     <string name="cancel">Нет</string>
+     <string name="cancel">Отмена</string>
      <string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
      <string name="choose_upload">Выберите файл для загрузки</string>
      <string name="choosertitle_sharevia">Способ отправки</string>
@@ -94,7 +92,7 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Закрытие вкладок</string>
-	 <string name="cloud_tab">Облачная вкладка</string>
+     <string name="cloud_tab">Облачная вкладка</string>
      <string name="color_picker_button_black">Черный</string>
      <string name="color_picker_button_blue">Синий</string>
      <string name="color_picker_button_cancel">Отмена</string>
@@ -110,17 +108,23 @@
      <string name="color_picker_hue">Оттенок</string>
      <string name="color_picker_saturation">Насыщенность</string>
      <string name="color_picker_value">Значение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
      <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
      <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
      <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставить</string>
      <string name="common_use_phrase_bottom_bar_paste_txt">Вставить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
@@ -139,7 +143,8 @@
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Скопировать</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
-	 <string name="date_picker_dialog_clear">Очистить</string>
+     <string name="date_picker_dialog_clear">Очистить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
@@ -165,6 +170,7 @@
      <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dump_counters">Dump V8 counters</string>
      <string name="dump_display_tree">Дамп Display дерева в файл</string>
      <string name="dump_dom_tree">Дамп DOM дерева в файл</string>
@@ -176,7 +182,9 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_button_text">Evaluate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
      <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
@@ -190,6 +198,7 @@
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="general_set_default_browser_dialog_ok_txt">OK</string>
      <string name="general_set_default_browser_dialog_summary">Использовать системный браузер по умолчанию</string>
      <string name="general_set_default_browser_title">Сделать по умолчанию</string>
@@ -219,14 +228,15 @@
      <string name="is_last_tab">Это последняя вкладка</string>
      <string name="is_page_bottom">Достигнут конец страницы</string>
      <string name="is_page_top">Достигнут верх страницы</string>
-	 <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
+     <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
-	 <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
+     <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
-	 <string name="media_player_error_button">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
      <string name="media_player_error_text_unknown">Это видео не может быть проиграно</string>
      <string name="media_player_error_title">Ошибка воспроизведения</string>
@@ -241,28 +251,29 @@
      <string name="menu_hv_swap2">Вертикальный режим</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
      <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц и показа изображений</string>
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
-	 <string name="miui_content_copy">Копировать</string>
+     <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
      <string name="miui_content_paste">Вставить</string>
      <string name="miui_content_select">Выбрать</string>
      <string name="miui_content_select_all">Выбрать все</string>
      <string name="miui_content_share">Отправить</string>
      <string name="miui_content_web_search">Поиск</string>
-	 <string name="miui_quicksearch_enable_pref_summary">Включает панель быстрого поиска в уведомлениях</string>
+     <string name="miui_quicksearch_enable_pref_summary">Включает панель быстрого поиска в уведомлениях</string>
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
-	 <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
+     <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
      <string name="miuichromium_save_password_remember">Запомнить</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
-	 <string name="month_picker_dialog_title">Выберите месяц</string>
+     <string name="month_picker_dialog_title">Выберите месяц</string>
      <string name="move_to_up_folder">Наверх</string>
      <string name="name">Ярлык</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
@@ -274,13 +285,14 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
      <string name="open_history_group_in_new_window">Открыть все %s вкладок</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все самые посещаемые сайты</string>
-	 <string name="opening_file_error">Ошибка открытия файла</string>
+     <string name="opening_file_error">Ошибка открытия файла</string>
      <string name="page_info">Информация о странице</string>
      <string name="page_info_address">Адрес:</string>
      <string name="page_info_view">Информация о странице</string>
@@ -297,14 +309,14 @@
      <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
      <string name="pref_autologin_progress_in_background">Вход на сайты Google с помощью аккаунта %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
-	 <string name="pref_category_title_version">Версия</string>
-     <string name="pref_clear_cache_for_exit">Очищать кеш</string>
+     <string name="pref_category_title_version">Версия</string>
+     <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
      <string name="pref_content_auto_light_mode">Автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
-	 <string name="pref_content_block_float_popups">Блокир. плав. окна</string>
+     <string name="pref_content_block_float_popups">Блокир. плав. окна</string>
      <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
@@ -420,7 +432,7 @@
      <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Определние браузера как</string>
      <string name="pref_ua_title">НАСТРОЙКИ АГЕНТА</string>
-	 <string name="pref_version_summary">Версия:%s</string>
+     <string name="pref_version_summary">Версия:%s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
      <string name="pref_video_preload_summary">" разрешать браузеру предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
@@ -428,8 +440,8 @@
      <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
      <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
      <string name="preview">Предварительный просмотр</string>
-	 <string name="profiler_error_toast">Не удалось запустить профайлер</string>
-	 <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
+     <string name="profiler_error_toast">Не удалось запустить профайлер</string>
+     <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
      <string name="profiler_started_toast">Профайлер запущен</string>
      <string name="profiler_stopped_toast">Профайлер завершен. Результаты: %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Применение обоев…</string>
@@ -471,16 +483,17 @@
      <string name="save_dialog_title">Сохранение файла</string>
      <string name="save_file_already_exist_alert_message">Файл уже существует. Перезаписать его?</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
-	 <string name="save_image_failed">Ошибка сохранения изображения</string>
+     <string name="save_image_failed">Ошибка сохранения изображения</string>
      <string name="save_image_success">Изображение сохранено</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохранение…</string>
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-     <string name="search_hint">Введите адрес или поиск</string>
+     <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
      <string name="search_settings_description">Закладки и история поиска</string>
+     <string name="search_shipin">Видео</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
@@ -510,8 +523,8 @@
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
      <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
-     <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-     <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
+     <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
+     <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>
@@ -519,7 +532,9 @@
      <string name="tab_quicklinks">Полезные</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Популярные</string>
-	 <string name="time_picker_dialog_am">AM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="time_picker_dialog_am">AM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_dialog_pm">PM</string>
      <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>
@@ -545,7 +560,7 @@
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-	 <string name="webview_cancel">Отмена</string>
+     <string name="webview_cancel">Отмена</string>
      <string name="webview_find_on_page">Поиск на странице</string>
      <string name="webview_js_dialog_before_unload">"%s
 
@@ -556,6 +571,7 @@
      <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webview_ok">OK</string>
      <string name="webview_older">Ранее</string>
      <string name="webview_today">Сегодня</string>

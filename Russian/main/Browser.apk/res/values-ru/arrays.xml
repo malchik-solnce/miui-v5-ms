@@ -4,12 +4,12 @@
      <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
-        <item>Прошивки</item>
-        <item>http://romz.bz/</item>
-        <item>DimonVideo</item>
-        <item>http://dimonvideo.ru/</item>
         <item>VK</item>
         <item>http://vk.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>DimonVideo.Ru</item>
+        <item>http://m.dimonvideo.ru/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
@@ -18,8 +18,8 @@
         <item>http://www.wikipedia.org/</item>
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
+        <item>Romz.Bz</item>
+        <item>http://www.romz.bz/</item>
         <item>NY Times</item>
         <item>http://www.nytimes.com/</item>
         <item>ESPN</item>
@@ -30,6 +30,14 @@
         <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
      </string-array>
      <string-array name="menu_theme_setting">
         <item>Белая</item>
@@ -98,5 +106,15 @@
      <string-array name="pref_volume_key_choices">
         <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
+     </string-array>
+     <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
      </string-array>
 </resources>
