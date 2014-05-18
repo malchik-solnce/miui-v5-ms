@@ -58,6 +58,7 @@
      <string name="battery_low_why">Статистика</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
+	 <string name="call_status_ringing">Звонок</string>
      <string name="camera_key_action_app_title">Открыть приложение</string>
      <string name="camera_key_action_category_title">Когда не в камере:</string>
      <string name="camera_key_action_none_title">Ничего не делать</string>
@@ -148,6 +149,7 @@
      <string name="oldman_incall_text">incall</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
+	 <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
      <string name="screen_button_custom">Настройка кнопок</string>
      <string name="screen_button_disabled_message">Функции кнопок на нижнем экране будут отключены. Вы можете включить их, нажав клавиши \"Домой\" и \"Питание\".</string>
