@@ -144,7 +144,6 @@
      <string name="copy_link">Скопировать</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
      <string name="date_picker_dialog_clear">Очистить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
@@ -154,6 +153,7 @@
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
+	 <string name="dont_remind_again">Запомнить мой выбор</string>
      <string name="download">Загрузить</string>
      <string name="download_complete">Загрузка файла завершена</string>
      <string name="download_default_path_txt">Применить по умолчанию и больше не спрашивать</string>
@@ -170,7 +170,6 @@
      <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dump_counters">Dump V8 counters</string>
      <string name="dump_display_tree">Дамп Display дерева в файл</string>
      <string name="dump_dom_tree">Дамп DOM дерева в файл</string>
@@ -277,7 +276,6 @@
      <string name="move_to_up_folder">Наверх</string>
      <string name="name">Ярлык</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
-     <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомлять о Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета Вы будете получать уведомления о доступных сетях Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
@@ -285,7 +283,6 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
@@ -536,10 +533,6 @@
      <string name="tab_quicklinks">Полезные</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Популярные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="time_picker_dialog_am">AM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="time_picker_dialog_pm">PM</string>
      <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
@@ -548,6 +541,8 @@
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
      <string name="url_hint">Введите адрес или поиск</string>
+	 <string name="use_cellular_network_alert_message">Wi-Fi недоступен. Использовать мобильный интернет?</string>
+     <string name="use_cellular_network_alert_title">Предупреждение сети</string>
      <string name="user_defined_webpage">Добавить страницу</string>
      <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
      <string name="username">Имя</string>
