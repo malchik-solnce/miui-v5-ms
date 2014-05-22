@@ -425,8 +425,8 @@
      <string name="mark_important">Отметить как важное</string>
      <string name="mark_not_important">Отметить как неважное</string>
      <string name="mark_not_spam">Не спам</string>
-     <string name="mark_read">Отметить как прочитанное</string>
-     <string name="mark_unread">Отметить как непрочитанное</string>
+     <string name="mark_read">Отметить прочитанным</string>
+     <string name="mark_unread">Отметить непрочитанным</string>
      <string name="me_object_pronun">я</string>
      <string name="me_subject_pronun">я</string>
      <string name="meeting_accepted">Принято: %s</string>

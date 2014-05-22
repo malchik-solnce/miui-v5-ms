@@ -424,10 +424,10 @@
         <item>Почта</item>
      </string-array>
      <string-array name="ram_states">
-        <item>normal</item>
-        <item>moderate</item>
-        <item>low</item>
-        <item>critical</item>
+        <item>нормальный</item>
+        <item>умеренный</item>
+        <item>низкий</item>
+        <item>критический</item>
      </string-array>
      <string-array name="score_descriptions">
         <item>Черный список выключен</item>
