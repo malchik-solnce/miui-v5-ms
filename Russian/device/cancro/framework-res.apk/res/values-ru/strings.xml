@@ -1289,7 +1289,7 @@ Attempts Remaining :"</string>
      <string name="save_password_never">Никогда</string>
      <string name="save_password_notnow">Не сейчас</string>
      <string name="save_password_remember">Запомнить</string>
-     <string name="screen_compat_mode_hint">Включить эту функцию можно в меню \"Настройки > Приложения > Загруженные\".</string>
+     <string name="screen_compat_mode_hint">Включить эту функцию можно в меню \"Настройки > Приложения > Загруженные\"</string>
      <string name="screen_compat_mode_scale">Масштаб</string>
      <string name="screen_compat_mode_show">Всегда показывать</string>
      <string name="screen_lock">Блокировка экрана</string>

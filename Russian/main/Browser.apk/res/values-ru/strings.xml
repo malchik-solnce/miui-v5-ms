@@ -124,7 +124,6 @@
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
@@ -142,8 +141,10 @@
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Скопировать</string>
+	 <string name="copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
      <string name="date_picker_dialog_clear">Очистить</string>
+	 <string name="date_picker_dialog_other_button_label">Другое</string>
      <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>

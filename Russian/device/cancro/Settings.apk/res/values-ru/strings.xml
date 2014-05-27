@@ -509,6 +509,18 @@
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
      <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
+	 <string name="bluetooth_unlock_add_device">Добавить устройство</string>
+     <string name="bluetooth_unlock_change_device_confirm_msg">Старое соответствубщее устройство будет заменено на новое. Продолжить?</string>
+     <string name="bluetooth_unlock_change_matched_device">Другое устройство</string>
+     <string name="bluetooth_unlock_confirm_device_text">Пожалуйста, хлопать устройство для подтверждения</string>
+     <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалиь это устройство?</string>
+     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки клавиатуры</string>
+     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
+     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
+     <string name="bluetooth_unlock_settings_toggle_title">Применить на</string>
+     <string name="bluetooth_unlock_settings_unlock_device">Разблокировать клавиатуру</string>
+     <string name="bluetooth_unlock_title">Разблокировка Bluetooth-устройством</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="breathing_light_color_menu_title">Выбери цвет</string>
@@ -2578,6 +2590,8 @@
      <string name="search_wifi">wi-fi</string>
      <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
      <string name="security_enable_widgets_title">Включить виджеты</string>
+	 <string name="security_keyguard_category_name">Блокировка кнопок</string>
+     <string name="security_password_category_name">Пароль</string>
      <string name="security_passwords_title">Пароли</string>
      <string name="security_privacy_settings_title">Конфиденциальность</string>
      <string name="security_relative">БЕЗОПАСНОСТЬ</string>
@@ -3453,6 +3467,7 @@
      <string name="wifi_scan_notify_text_location_on">Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если Вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети.</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
+	 <string name="wifi_security">Безопасность</string>
      <string name="wifi_security_none">Нет</string>
      <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
      <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
@@ -3557,6 +3572,8 @@
      <string name="wifi_tether_setting_title">Основные настройки</string>
      <string name="wifi_tether_starting">Включение…</string>
      <string name="wifi_tether_stopping">Выключение…</string>
+	 <string name="wifi_type_approval" />
+     <string name="wifi_type_approval_title">Type Approval</string>
      <string name="wifi_unchanged">(не изменялось)</string>
      <string name="wifi_unspecified">(не указано)</string>
      <string name="wifi_update">Обновить статистику</string>
