@@ -540,7 +540,7 @@
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
-     <string name="build_number">Сборка</string>
+     <string name="build_number">Номер сборки:</string>
      <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
      <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
      <string name="button_disconnect_network">Отключаться от сети</string>
@@ -1278,7 +1278,7 @@
      <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
      <string name="ims_reg_required_off">Обязательная регистрация IMS отключена</string>
      <string name="ims_reg_required_on">Обязательная регистрация IMS включена</string>
-     <string name="incoming_call_breathing_light_color_title">Цвет индикатора</string>
+     <string name="incoming_call_breathing_light_color_title">Пропущенные вызовы</string>
      <string name="incoming_call_breathing_light_freq_title">Частота мигания вспышки</string>
      <string name="incoming_call_volume_title">Мелодия</string>
      <string name="input_method">Способ ввода</string>
@@ -1653,11 +1653,11 @@
      <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
      <string name="miui_screensaver_show_time">Продолжительность</string>
      <string name="miui_screensaver_show_time_select_title">Время слайд-шоу</string>
-     <string name="miui_screensaver_state_off">Выкл</string>
-     <string name="miui_screensaver_state_on">Вкл</string>
+     <string name="miui_screensaver_state_off">Выкл.</string>
+     <string name="miui_screensaver_state_on">Вкл.</string>
      <string name="miui_screensaver_title">Заставка</string>
      <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайд-шоу через 5 секунд после отключения экрана</string>
-     <string name="mms_breathing_light_color_title">Цвет для сообщения</string>
+     <string name="mms_breathing_light_color_title">Пропущенные сообщения</string>
      <string name="mms_breathing_light_freq_title">Частота мигания</string>
      <string name="mms_log_tab_title">Сообщения</string>
      <string name="mobile_connect_to_internet">Подключитесь к интернет</string>
@@ -1758,7 +1758,7 @@
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
-     <string name="notification_breathing_light_color_title">Цвет для уведомлений</string>
+     <string name="notification_breathing_light_color_title">Уведомления</string>
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
      <string name="notification_listener_security_warning_summary">%1$s будет иметь возможность читать все уведомления, системые или любого установленного приложения, которые могут включать личные данные, имена контактов и текст сообщений. Он также сможет отклонить эти уведомления или не прикасаясь кнопки действий в них.</string>

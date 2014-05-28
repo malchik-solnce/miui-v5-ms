@@ -2376,4 +2376,6 @@ Use an alternative unlock method."</string>
      <string name="zzz_tts_temp_fahrenheit">Фаренгейт</string>
      <string name="zzz_tts_temperature">Градус</string>
      <string name="zzzzz_tw_cursor_handle_clipboard">Буфер обмена</string>
+	 <string name="safe_media_volume_warning">"Повысить громкость выше допустимого уровня?
+Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха."</string>
 </resources>
