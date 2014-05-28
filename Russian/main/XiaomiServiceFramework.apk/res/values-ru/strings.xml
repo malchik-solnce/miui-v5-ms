@@ -2,8 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_denied">доступ запрещен</string>
-     <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключите.</string>
-     <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключите.</string>
+     <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключи.</string>
+     <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключи.</string>
      <string name="account">Аккаунт</string>
      <string name="account_dspt">"Аккаунт Xiaomi может синхронизировать сообщения,
 контакты, фото, заметки и т.д."</string>
@@ -89,7 +89,7 @@
      <string name="add_weibo_account">Добавить аккаунт</string>
      <string name="alert_notif_title_dspt">Предлагаем восстановить синхронизацию для обеспечения безопасности данных</string>
      <string name="alert_title_remove_account">Удалить аккаунт</string>
-     <string name="app_name">Менеджер аккаунтов Xiaomi</string>
+     <string name="app_name">Аккаунт Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
      <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
@@ -234,11 +234,11 @@
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_full_dspt">Вы достигли предела места в облаке</string>
-     <string name="micloud_upgrade_space">Добавить места</string>
+     <string name="micloud_upgrade_space">Добавить место</string>
      <string name="micloud_use_existing">Существующий</string>
      <string name="micloud_user_base_info">Общая информация</string>
      <string name="micloud_user_email">Почта</string>
-     <string name="micloud_user_id">ID</string>
+     <string name="micloud_user_id">ID пользователя</string>
      <string name="micloud_user_name">Имя</string>
      <string name="micloud_user_phone">Телефон</string>
      <string name="micloud_user_space_usage">Облако</string>
@@ -247,7 +247,7 @@
      <string name="micloud_warn_full_title">Недостаточно метса</string>
      <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
-     <string name="micloud_web_discription_01">Войдите на i.xiaomi.com</string>
+     <string name="micloud_web_discription_01">Зайдите на i.xiaomi.com</string>
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">Ми кредиты</string>

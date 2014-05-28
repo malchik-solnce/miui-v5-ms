@@ -1442,6 +1442,7 @@
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>
      <string name="manage_space_text">Управление местом</string>
+	 <string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
      <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>
@@ -3386,6 +3387,10 @@ Attempts Remaining :"</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
 	 <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_money_service">Центр Mi</string>
+	 <string name="xiaomi_router_available_notif_summary">Нажми, чтобы посмотреть</string>
+     <string name="xiaomi_router_available_notif_title">Доступен Xiaomi роутер</string>
+     <string name="xiaomi_router_notif_summary">Сообщать, когда Xiaomi роутер доступен</string>
+     <string name="xiaomi_router_notif_title">Уведомления</string>
      <string name="yes">Да</string>
      <string name="zone_auto">Часовой пояс сети</string>
      <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>

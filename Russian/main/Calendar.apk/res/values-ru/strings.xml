@@ -166,6 +166,7 @@
 	 <string name="online_reminder_minutes_text">Время напоминания</string>
      <string name="online_reminder_slider_text">Включить оповещения</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
+	 <string name="pref_error_no_ringtone_select">Ничего не выбрано</string>
 	 <string name="pref_title_alert_remind">Всплывающее</string>
      <string name="pref_title_no_remind">Выключено</string>
      <string name="pref_title_notification_remind">Уведомление напоминаний</string>

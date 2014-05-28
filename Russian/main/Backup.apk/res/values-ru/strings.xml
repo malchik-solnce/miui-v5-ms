@@ -60,8 +60,8 @@
      <string name="cloud_app_backup_date">"Сохранено "</string>
      <string name="cloud_app_backup_pending">В очереди…</string>
      <string name="cloud_app_backup_progress">Резервное копирование…</string>
-     <string name="cloud_app_backup_summary">Автоматический бэкап приложений и данных, когда телефон заряжается и подключен к Wi-Fi</string>
-     <string name="cloud_app_backup_title">Облачный бэкап</string>
+     <string name="cloud_app_backup_summary">Автоматическое резервное копирование данных и приложений, при подключении к Wi-Fi и зарядке</string>
+     <string name="cloud_app_backup_title">Бэкап</string>
      <string name="cloud_app_check_data">Запрос данных из облака…</string>
      <string name="cloud_app_check_data_fail">Не удалось запросить данные из облака</string>
      <string name="cloud_app_check_data_timeout">Тайм-аут запроса данных из облака</string>

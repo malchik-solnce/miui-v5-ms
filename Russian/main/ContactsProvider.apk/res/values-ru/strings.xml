@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище контактов</string>
-     <string name="call_log_provider_label">Журнал вызовов</string>
+     <string name="call_log_provider_label">Вызовы</string>
      <string name="create_contact">Создать контакт</string>
 	 <string name="debug_dump_database_message">Вы собираетесь скопировать базу данных контактов и списка вызовов во внутреннюю память устройства. При этом копия базы будет отправлена по электронной почте. Обязательно удалите эти данные с устройства после того, как они будут скопированы с него либо получены в письме.</string>
      <string name="debug_dump_delete_button">Удалить</string>

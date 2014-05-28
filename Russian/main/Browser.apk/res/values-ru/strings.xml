@@ -268,6 +268,13 @@
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
+	 <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
+     <string name="miuichromium_error_page_reason_network">Посмотреть адрес</string>
+     <string name="miuichromium_error_page_reason_server">Не удалось загрузить страницу</string>
+     <string name="miuichromium_error_page_reload">Обновить</string>
+     <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
+     <string name="miuichromium_error_page_url">Посмотреть ссылку</string>
+     <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
@@ -521,13 +528,13 @@
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
-     <string name="sub_sync_item_browser_title_cloud_tab">Синхр. вкладки</string>
+     <string name="sub_sync_item_browser_title_cloud_tab">Синхронизация вкладок</string>
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
-     <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
+     <string name="sub_sync_item_browser_title_history">Синхронизация истории</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
-     <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
+     <string name="sub_sync_item_browser_title_novel">Синхронизация книг</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
-     <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
+     <string name="sync_item_browser_summary">Синхронизировать данные браузера в облако, для легкого использования на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
@@ -571,7 +578,6 @@
      <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webview_ok">OK</string>
      <string name="webview_older">Ранее</string>
      <string name="webview_today">Сегодня</string>
