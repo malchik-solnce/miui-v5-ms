@@ -1199,8 +1199,8 @@
      <string name="headset_calibrate_volume_up">Громче</string>
      <string name="headset_calibrate_wrong_key">Ошибка кнопок. Пожалуйста, введите еще ​​раз.</string>
      <string name="headset_function">Функции кнопок</string>
-     <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
-     <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
+     <string name="headset_mode_music">Управление воспроизведением музыки</string>
+     <string name="headset_mode_volume">Управление громкостью</string>
      <string name="headset_no_contected">Нет гарнитуры</string>
      <string name="headset_settings">Настройки наушников</string>
      <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные</string>
@@ -1442,7 +1442,7 @@
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>
      <string name="manage_space_text">Управление местом</string>
-	 <string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
+	 <string name="manage_xiaomi_router">Управление Mi-роутером</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
      <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>

@@ -15,7 +15,7 @@
      <string name="debug_tool_message">Вы собираетесь создать копию базы данных календаря на SD-карте/USB-накопителе, которые доступны для чтения всем приложениям, и отправить ее по электронной почте. Не забудьте удалить базу данных после того, как она будет скопирована с устройства или получена по электронной почте.</string>
      <string name="debug_tool_start_button">Начать</string>
      <string name="holiday_data_no_network">Нет сети, попробуйте снова</string>
-     <string name="holiday_data_update_failed">Ошибка обновления, попробуйте снова.</string>
+     <string name="holiday_data_update_failed">Ошибка обновления. Попробуйте снова.</string>
      <string name="holiday_data_update_succeed">Обновление завершено</string>
      <string name="holiday_data_updating">Обновление…</string>
      <string name="holiday_update_summary">Нажмите для проверки обновлений</string>

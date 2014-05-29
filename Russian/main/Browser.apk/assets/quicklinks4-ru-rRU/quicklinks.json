@@ -1,6 +1,30 @@
 {
    "quicklinks":[
       {
+         "title":"ROMZ.bz",
+         "url":"http://www.romz.bz/",
+         "thumbnail":"romz.png",
+         "logobg":"bg04.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"ROMZ.bz",
+         "isDelete":false,
+         "movable":false,
+         "position": 0
+      },
+	  {
+            "title":"MIUI.su",
+            "url":"http://miui.su/",
+            "thumbnail":"miui_su.png",
+            "logobg":"bg15.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "MIUI.su",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
+        },
+	  {
          "title":"4PDA",
          "url":"http://4pda.ru",
          "thumbnail":"4pda.png",
@@ -10,7 +34,7 @@
          "displayName":"4PDA",
          "isDelete":true,
          "movable":true,
-         "position":8
+         "position": 2
       },
       {
          "title":"Apkmania",
@@ -22,7 +46,19 @@
          "displayName":"Apkmania",
          "isDelete":true,
          "movable":true,
-         "position":1
+         "position": 3
+      },
+	  {
+         "title":"DimonVideo",
+         "url":"http://dimonvideo.ru/",
+         "thumbnail":"dimonvideo.png",
+         "logobg":"bg12.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"DimonVideo",
+         "isDelete":true,
+         "movable":true,
+         "position": 4
       },
       {
          "title":"BurgerZ.pro",
@@ -34,91 +70,7 @@
          "displayName":"BurgerZ.pro",
          "isDelete":true,
          "movable":true,
-         "position":2
-      },
-      {
-         "title":"DimonVideo",
-         "url":"http://dimonvideo.ru/",
-         "thumbnail":"dimonvideo.png",
-         "logobg":"bg12.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"DimonVideo",
-         "isDelete":true,
-         "movable":true,
-         "position":4
-      },
-      {
-         "title":"Facebook",
-         "url":"http://m.facebook.com/",
-         "thumbnail":"facebook.png",
-         "logobg":"bg08.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Facebook",
-         "isDelete":true,
-         "movable":true,
-         "position":5
-      },
-      {
-         "title":"Google",
-         "url":"http://www.google.ru/",
-         "thumbnail":"thumb_google.png",
-         "logobg":"bg08.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Google",
-         "isDelete":true,
-         "movable":true,
-         "position":6
-      },
-      {
-         "title":"Mail.ru",
-         "url":"http://mail.ru/",
-         "thumbnail":"mail_ru.png",
-         "logobg":"bg09.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Mail.ru",
-         "isDelete":true,
-         "movable":true,
-         "position":7
-      },
-      {
-         "title":"MIUI forum",
-         "url":"http://en.miui.com/forum.php",
-         "thumbnail":"miui_forum.png",
-         "logobg":"bg10.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"MIUI forum",
-         "isDelete":true,
-         "movable":true,
-         "position":9
-      },
-      {
-         "title":"ROMZ.bz",
-         "url":"http://www.romz.bz/",
-         "thumbnail":"romz.png",
-         "logobg":"bg04.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"ROMZ.bz",
-         "isDelete":false,
-         "movable":false,
-         "position":0
-      },
-      {
-         "title":"Википедия",
-         "url":"http://ru.m.wikipedia.org/",
-         "thumbnail":"wikipedia.png",
-         "logobg":"bg12.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Википедия",
-         "isDelete":true,
-         "movable":true,
-         "position":15
+         "position": 5
       },
       {
          "title":"ВКонтакте",
@@ -130,7 +82,7 @@
          "displayName":"ВКонтакте",
          "isDelete":true,
          "movable":true,
-         "position":10
+         "position": 6
       },
       {
          "title":"Одноклассники",
@@ -142,7 +94,79 @@
          "displayName":"Одноклассники",
          "isDelete":true,
          "movable":true,
-         "position":11
+         "position": 7
+      },
+      {
+         "title":"Facebook",
+         "url":"http://m.facebook.com/",
+         "thumbnail":"facebook.png",
+         "logobg":"bg08.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"Facebook",
+         "isDelete":true,
+         "movable":true,
+         "position": 8
+      },
+      {
+         "title":"Google",
+         "url":"http://www.google.ru/",
+         "thumbnail":"thumb_google.png",
+         "logobg":"bg08.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"Google",
+         "isDelete":true,
+         "movable":true,
+         "position": 9
+      },
+	  {
+         "title":"Yandex",
+         "url":"http://www.yandex.ru/",
+         "thumbnail":"yandex.png",
+         "logobg":"bg02.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"Yandex",
+         "isDelete":true,
+         "movable":true,
+         "position": 10
+      },
+      {
+         "title":"Mail.ru",
+         "url":"http://mail.ru/",
+         "thumbnail":"mail_ru.png",
+         "logobg":"bg09.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"Mail.ru",
+         "isDelete":true,
+         "movable":true,
+         "position": 11
+      },
+	  {
+        "title":"WSMproject",
+        "url":"http://burgerz.pro/wsm-project/",
+        "thumbnail":"wsm.png",
+        "logobg":"bg10.9.png",
+        "nightModeMask": "night.9.png",
+        "favicon":"",
+		"displayName": "WSMproject",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 12
+      },
+      {
+         "title":"MIUI forum",
+         "url":"http://en.miui.com/forum.php",
+         "thumbnail":"miui_forum.png",
+         "logobg":"bg10.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"MIUI forum",
+         "isDelete":true,
+         "movable":true,
+         "position": 13
       },
       {
          "title":"Twitter",
@@ -154,7 +178,19 @@
          "displayName":"Twitter",
          "isDelete":true,
          "movable":true,
-         "position":12
+         "position": 14
+      },
+      {
+         "title":"Википедия",
+         "url":"http://ru.m.wikipedia.org/",
+         "thumbnail":"wikipedia.png",
+         "logobg":"bg12.9.png",
+         "nightModeMask":"night.9.png",
+         "favicon":"",
+         "displayName":"Википедия",
+         "isDelete":true,
+         "movable":true,
+         "position": 15
       },
       {
          "title":"SoundCloud",
@@ -166,19 +202,7 @@
          "displayName":"SoundCloud",
          "isDelete":true,
          "movable":true,
-         "position":13
-      },
-      {
-         "title":"Yandex",
-         "url":"http://www.yandex.ru/",
-         "thumbnail":"yandex.png",
-         "logobg":"bg02.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Yandex",
-         "isDelete":true,
-         "movable":true,
-         "position":14
+         "position": 16
       },
 	  {
          "title":"YouTube",
@@ -190,7 +214,7 @@
          "displayName":"YouTube",
          "isDelete":true,
          "movable":true,
-         "position":3
+         "position": 17
       },
 	  {
          "title":"Svetyolka",
@@ -202,7 +226,7 @@
          "displayName":"Svetyolka",
          "isDelete":true,
          "movable":true,
-         "position":16
+         "position": 18
       },
 	  {
          "title":"ПростоПлеер",
@@ -214,31 +238,19 @@
          "displayName":"ПростоПлеер",
          "isDelete":true,
          "movable":true,
-         "position":17
+         "position": 19
       },
 	  {
-         "title":"Ebay",
-         "url":"http://www.ebay.com/",
-         "thumbnail":"thumb_ebay.png",
-         "logobg":"bg15.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"Ebay",
-         "isDelete":true,
-         "movable":true,
-         "position":18
-      },
-	  {
-         "title":"SamAndroid",
-         "url":"http://samandroid.ru",
-         "thumbnail":"samandroid.png",
-         "logobg":"bg14.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"SamAndroid",
-         "isDelete":true,
-         "movable":true,
-         "position":19
+        "title":"MIUI Android",
+        "url":"http://miuiandroid.com/",
+        "thumbnail":"miui_android.png",
+        "logobg":"bg07.9.png",
+	    "nightModeMask": "night.9.png",
+        "favicon":"",
+		"displayName": "MIUI Android",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 20
       }
    ],
    "topquicklinks":[
@@ -269,6 +281,15 @@
          "favicon":"",
          "displayName":"YouTube"
       },
+	  {
+        "title":"WSMproject",
+        "url":"http://burgerz.pro/wsm-project/",
+        "thumbnail":"wsm.png",
+        "logobg":"bg10.9.png",
+		"nightModeMask": "night.9.png",
+        "favicon":"",
+		"displayName": "WSMproject"
+        },
       {
          "title":"SoundCloud",
          "url":"http://m.soundcloud.com/",
@@ -403,6 +424,15 @@
          "nightModeMask":"night.9.png",
          "favicon":"",
          "displayName":"Google"
-      }
+      },
+	  {
+        "title":"MIUI Android",
+        "url":"http://miuiandroid.com/",
+        "thumbnail":"miui_android.png",
+        "logobg":"bg07.9.png",
+		"nightModeMask": "night.9.png",
+        "favicon":"",
+		"displayName": "MIUI Android"
+        }
    ]
 }

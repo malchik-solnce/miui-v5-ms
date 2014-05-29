@@ -23,7 +23,7 @@
      <string name="best_update">2. Лучшее обновление</string>
      <string name="boot_recovery">В режим восстановления</string>
      <string name="cancel_download_buton_text">Отмена</string>
-     <string name="check_update">Проверить обновление</string>
+     <string name="check_update">Проверить</string>
      <string name="check_update_policy">Настройки</string>
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
@@ -35,13 +35,12 @@
      <string name="comment_upload_hint">Спасибо за Ваш отзыв :)</string>
      <string name="comment_upload_not_logined">Сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
-     <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
+     <string name="confirm_download_cancelation_dialog_message">Отменить загрузку обновления?</string>
      <string name="copy_install_log">Скопировано в буфер обмена</string>
-     <string name="current_version_text">Текущая прошивка:</string>
-     <string name="current_version_update_monthly_build">Текущая прошивка:</string>
+     <string name="current_version_text">Текущая версия</string>
+     <string name="current_version_update_monthly_build">Текущая версия</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Да</string>
      <string name="download_current_rom">Скачать полный пакет</string>
@@ -58,7 +57,7 @@
      <string name="file_not_found_error_message">Запрошенный файл не найден</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Скачивание завершено</string>
-     <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI. Расскажите, пожалуйста, что Вы думаете и помогите сделать MIUI лучше.</string>
+     <string name="fourgrid_hint_text">Спасибо за использовании версии MIUI для разработчиков. Расскажите, пожалуйста, что Вы думаете и помогите сделать MIUI лучше.</string>
      <string name="fourgrid_no_notificaiont">Не показывать в статус-баре</string>
      <string name="fourgrid_notificaiont">Показывать с статус-баре</string>
      <string name="get_update_error">Не удалось получить информацию об обновлении</string>
@@ -87,7 +86,7 @@
      <string name="network_error">Ошибка подключения к сети или сервер занят</string>
      <string name="new_update_content_title">Обновление:</string>
      <string name="new_update_download_complete_body">Готово к установке: %s</string>
-     <string name="new_update_downloading_body">Скачивание новой версии:%s</string>
+     <string name="new_update_downloading_body">Скачивание новой версии: %s</string>
      <string name="new_updates_found_notification_title">Новое обновление системы!</string>
      <string name="new_updates_found_title">Найдены обновления</string>
      <string name="next">Далее</string>
@@ -96,16 +95,15 @@
      <string name="no_updates_found">Нет новых версий</string>
      <string name="no_updates_warning">Нет новых версий</string>
      <string name="no_updates_warning2">Нет новых версий</string>
-     <string name="not_recommend">"Не рекомендую"</string>
+     <string name="not_recommend">Не рекомендую</string>
      <string name="now">Перезагрузить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="paused_queued_for_network">Waiting for network connection</string>
+     <string name="paused_queued_for_network">Ожидание сети</string>
      <string name="paused_queued_for_wifi">Ожидание сети Wi-Fi</string>
      <string name="previous">Назад</string>
      <string name="reboot_later">Позже</string>
      <string name="reboot_now">Сейчас</string>
-     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
-     <string name="recommend">Рекомендуемое</string>
+     <string name="reboot_to_new_system">Перезагрузиться в новую систему</string>
+     <string name="recommend">Рекомендую</string>
      <string name="recommend_comment_hint">Комментарий:</string>
      <string name="recommend_vote_title">Опрос MIUI Beta Team</string>
      <string name="refuse_recommend_reason">Пожалуйста, заполните свои причины</string>
@@ -130,7 +128,7 @@
 Более %2$s пользователей используют в MIUI %3$s"</string>
      <string name="sign_in_info_total_more">"Статус обновления: %1$s
 Более %2$s пользователей используют MIUI %3$s"</string>
-     <string name="sina_share_fail">Sending failed!</string>
+     <string name="sina_share_fail">Ошибка отправки!</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -149,13 +147,13 @@
      <string name="system_backup_cancel_text">Обновить</string>
      <string name="system_backup_download_helper">Устройство будет перезагружено и обновится когда загрузка завершится</string>
      <string name="system_backup_error_message">Ошибка резервного копирования системы</string>
-     <string name="system_backup_helper">"Normally, updating MIUI won't affect your phone's internal storage, but we suggest that you back up your phone before applying an update do avoid potential data loss."</string>
+     <string name="system_backup_helper">Как правило, обновление не повлияет на текущие данные устройства, но мы предлагаем вам сделать резервную копию перед применением обновления.</string>
      <string name="system_backup_ok_text">Бэкап</string>
      <string name="top_secret_build">Секретная сборка</string>
      <string name="unstable_build">Нестабильная сборка</string>
      <string name="update_comment_hint">(опционально)</string>
      <string name="update_comment_title">У меня есть что сказать</string>
-     <string name="update_feedback">Отзывы о прошивке</string>
+     <string name="update_feedback">Отзыв о прошивке</string>
      <string name="update_feedback_expired">"Жаль, что вы пропустили возможность участия в отзывах о прошивке!
 Пожалуйста, попробуйте опрос в следующий вторник."</string>
      <string name="update_feel">1. Ваши ощущения?</string>
@@ -168,7 +166,7 @@
      <string name="update_success_title">Обновление</string>
      <string name="updater_finish_download">Загрузка прошивки завершена</string>
      <string name="upgrade_close">Закрыть</string>
-     <string name="upgrade_kernel">Обновления ядра</string>
+     <string name="upgrade_kernel">Обновление ядра</string>
      <string name="upgrade_kernel_msg">"Ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить:
 "</string>
      <string name="verify_and_apply_dialog_message">Проверка целостности пакета…</string>

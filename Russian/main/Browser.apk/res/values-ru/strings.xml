@@ -182,10 +182,8 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_console_eval_button_text">Evaluate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
+     <string name="error_console_eval_button_text">Оценить</string>
+     <string name="error_console_eval_text_hint">Оценить JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
      <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
      <string name="exit_browser_warning">Выйти из браузера?</string>
@@ -198,7 +196,6 @@
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="general_set_default_browser_dialog_ok_txt">OK</string>
      <string name="general_set_default_browser_dialog_summary">Использовать системный браузер по умолчанию</string>
      <string name="general_set_default_browser_title">Сделать по умолчанию</string>
@@ -235,7 +232,6 @@
      <string name="location">Адрес</string>
      <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
      <string name="media_player_error_text_unknown">Это видео не может быть проиграно</string>
@@ -251,7 +247,6 @@
      <string name="menu_hv_swap2">Вертикальный режим</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
      <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильный интернет для предварительной загрузки страниц и показа изображений</string>
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
@@ -269,11 +264,11 @@
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
 	 <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
-     <string name="miuichromium_error_page_reason_network">Посмотреть адрес</string>
+     <string name="miuichromium_error_page_reason_network">Проверьте адрес</string>
      <string name="miuichromium_error_page_reason_server">Не удалось загрузить страницу</string>
      <string name="miuichromium_error_page_reload">Обновить</string>
      <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
-     <string name="miuichromium_error_page_url">Посмотреть ссылку</string>
+     <string name="miuichromium_error_page_url">Проверьте ссылку</string>
      <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
