@@ -26,6 +26,7 @@
     <string name="channel_not_support">Поисковая система временно не доступна</string>
     <string name="today_date">%1$s, %2$s</string>
     <string name="china_date">%1$s %2$s %3$s</string>
+	<string name="chooser">Выберите</string>
     <string name="next_date">%1$s нед.</string>
     <string name="contacts">Контакты</string>
     <string name="app_launching">Открывается</string>

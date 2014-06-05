@@ -500,6 +500,8 @@
      <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
      <string name="bluetooth_unlock_settings_toggle_title">Применить на</string>
      <string name="bluetooth_unlock_settings_unlock_device">Разблокировать клавиатуру</string>
+	 <string name="bluetooth_unlock_turned_off">Отключено</string>
+     <string name="bluetooth_unlock_turned_on">Включено</string>
      <string name="bluetooth_unlock_title">Разблокировка Bluetooth-устройством</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>

@@ -18,13 +18,13 @@
      </string-array>
      <string-array name="app_install_location_entries">
         <item>Память устройства</item>
-        <item>Съемная SD-карта</item>
+        <item>SD-карта</item>
         <item>Автоматически</item>
      </string-array>
      <string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Личные данные</item>
-        <item>SMS/MMS</item>
+        <item>Сообщения</item>
         <item>Мультимедиа</item>
         <item>Устройство</item>
         <item>Загрузка</item>
@@ -338,12 +338,12 @@
 Откройте и выберите файл AndroidFileTransfer.dmg для установки"</item>
         <item></item>
      </string-array>
-     <array name="msd_pc_system_install_step_2_summary">
+     <string-array name="msd_pc_system_install_step_2_summary">
         <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
         <item>Теперь Вы можете передавать файлы на желаемые устройства</item>
         <item></item>
-     </array>
+     </string-array>
      <string-array name="multi_sim_entries">
         <item>Оператор 1</item>
         <item>Оператор 2</item>
