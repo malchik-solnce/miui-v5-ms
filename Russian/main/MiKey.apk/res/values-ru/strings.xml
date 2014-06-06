@@ -14,7 +14,7 @@
     <string name="note">Заметка:</string>
     <string name="add_to_contacts">Добавить в контакты</string>
     <string name="recognize">Распознать</string>
-    <string name="place_barcode_into_rectangle">Наведите QR-код или штрих-код в прямоугольник видоискателя</string>
+    <string name="place_barcode_into_rectangle">Наведите QR-код или штрих-код внутрь видоискателя</string>
     <string name="open_flash_error">Не удалось включить фонарик</string>
     <string name="close_flash_error">Не удалось выключить фонарик</string>
     <string name="scan_fail">Ошибка сканирования</string>
@@ -119,14 +119,14 @@
     <string name="setting_vibrate_desc">Вибрировать при действиях (не работает при съемке и отключенном звуке)</string>
     <string name="setting_keeplive_desc">Быстрое реагирование кнопки (в режиме реального времени)</string>
     <string name="setting_speed_text">Скорость</string>
-    <string name="setting_keeplive_text">В реальном времнеи</string>
+    <string name="setting_keeplive_text">В реальном времени</string>
     <string name="setting_instant_photo_text">Фокусировка</string>
     <string name="setting_vibrate_text">Виброотклик</string>
 	<string name="setting_silent_mode">Отключить кнопку</string>
     <string name="setting_silent_mode_default">Режим гарнитуры</string>
     <string name="setting_silent_mode_dust_cap">Режим аксессуара</string>
     <string name="setting_silent_mode_desc">"Режим гарнитуры - можно управлять плеером. Одно нажатие - вкл/выкл плеер; два - след. трек; четыре - пред. трек.
-Всегда отключайте этот режим перед презагрузкой и использованием кнопки. В противном случае это приведет к отсутствию звука.
+Всегда отключайте этот режим перед перезагрузкой и использованием кнопки. В противном случае это приведет к отсутствию звука.
 
 Режим аксессуара - кнопка служит для защиты гнезда наушников от пыли и грязи :)"</string>
     <string name="setting_instant_photo_desc">Четкие изображения, но требуется больше времени</string>
@@ -134,14 +134,14 @@
     <string name="setting_speed_max_time">1000 м.с.</string>
     <string name="setting_speed_middle_time">500 м.с.</string>
     <string name="setting_speed_min_time">0 м.с.</string>
-    <string name="notification_recorder_start">Начало записи...</string>
+    <string name="notification_recorder_start">Начало записи…</string>
     <string name="notification_control_stop">Остан.</string>
     <string name="notification_control_play">Воспр.</string>
     <string name="notification_recorder_file_location">Место записи:</string>
     <string name="sdcard">SD-карта</string>
     <string name="showSlip">Показывать скольжения</string>
     <string name="close_recorder">Закрыть диктофон</string>
-    <string name="file_delimiter">／</string>
+    <string name="file_delimiter">/</string>
     <string name="silent_mode_tip_main">Кнопка отключена</string>
     <string name="update_message">Обновление!</string>
     <string name="silent_mode_tip_sub">Включите в настройках :)</string>
