@@ -42,7 +42,7 @@
      <string name="account_settings_exit_server_settings">Отменить несохраненные изменения?</string>
      <string name="account_settings_incoming_label">Входящие сообщения</string>
      <string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера входящей почты</string>
-     <string name="account_settings_list_title">Выберите сервис почты ниже:</string>
+     <string name="account_settings_list_title">Выбери сервис почты ниже:</string>
      <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
      <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не удалось войти в аккаунт %s. Причина проблемы: %s. Обновить имя пользователя и/или пароль?</string>
      <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
@@ -128,7 +128,7 @@
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
      <string name="account_setup_incoming_username_label">Имя пользователя</string>
      <string name="account_setup_names_account_name_label">Присвой этому аккаунту название (по желанию)</string>
-     <string name="account_setup_names_headline">Ваш аккаунт настроен, ждите сообщений!</string>
+     <string name="account_setup_names_headline">Твой аккаунт настроен. Жди сообщений!</string>
      <string name="account_setup_names_title">Настройки аккаунта</string>
      <string name="account_setup_names_user_name_empty_error">Это поле должно быть заполнено</string>
      <string name="account_setup_names_user_name_label">Имя отправителя (используется в исходящих сообщениях)</string>
@@ -200,11 +200,11 @@
 	 <string name="att_download_failed_content">Ошибка загрузки</string>
      <string name="att_download_failed_title">Ошибка загрузки вложения</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
-     <string name="att_mgr_title_order_mime">Формат</string>
-     <string name="att_mgr_title_order_name">Имя</string>
-     <string name="att_mgr_title_order_rev_date">Дата</string>
-     <string name="att_mgr_title_order_sender">Отправитель</string>
-     <string name="att_mgr_title_order_size">Размер файла</string>
+     <string name="att_mgr_title_order_mime">По формату</string>
+     <string name="att_mgr_title_order_name">По имени</string>
+     <string name="att_mgr_title_order_rev_date">По дате</string>
+     <string name="att_mgr_title_order_sender">По отправителю</string>
+     <string name="att_mgr_title_order_size">По размеру</string>
      <string name="attached_message">Прикрепленные сообщения</string>
      <string name="attachment_application_msword">Документ</string>
      <string name="attachment_application_pdf">PDF</string>
@@ -330,7 +330,7 @@
      <string name="download_before_sharing"> еще не загружено. Сначала скачай, прежде чем отправлять!</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
      <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
-     <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать размер вложения в 180Кб %1$s</string>
+     <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать вложение размером %1$s</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажми, чтобы повторить.</string>
      <string name="draft_count_format"> (%1$s)</string>
@@ -456,7 +456,7 @@
      <string name="menu_compose">Написать</string>
      <string name="menu_folder_options">Параметры синхронизации</string>
      <string name="menu_manage_folders">Управление папками</string>
-     <string name="menu_move_to">Переместить в</string>
+     <string name="menu_move_to">Переместить</string>
      <string name="menu_move_to_inbox">Во входящие</string>
      <string name="menu_photo_save_all">Сохранить все</string>
      <string name="menu_photo_share">Поделиться</string>
@@ -507,7 +507,7 @@
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!</string>
-     <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
+     <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируй эту папку</string>
      <string name="not_subject">Нет темы</string>
      <string name="not_synced_title">Аккаунт не синхронизирован</string>
      <string name="not_updated_yet">Еще не обновлен</string>
@@ -548,9 +548,9 @@
      <string name="phone">телефоном</string>
      <string name="photo_load_failed">Не удалось загрузить фото</string>
      <string name="photo_view_count" formatted="false">%d из %d</string>
-     <string name="please_fill_in_your_mailbox_information">Пожалуйста, заполните информацию в почтовом ящике %s:</string>
-     <string name="please_fill_in_your_mailbox_information2">Пожалуйста, заполните информацию в почтовом ящике:</string>
-     <string name="please_wait">Подождите…</string>
+     <string name="please_fill_in_your_mailbox_information">Пожалуйста, заполни информацию в почтовом ящике %s:</string>
+     <string name="please_fill_in_your_mailbox_information2">Пожалуйста, заполни информацию в почтовом ящике:</string>
+     <string name="please_wait">Подожди…</string>
      <string name="policy_app_blacklist">Запретить указанные приложения</string>
      <string name="policy_app_whitelist">Разрешить только указанные приложения</string>
      <string name="policy_bluetooth_restricted">Ограничить использование Bluetooth</string>
@@ -600,7 +600,7 @@
      <string name="protocol">Протокол</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
-     <string name="pull_to_refresh">Потяните, чтобы обновить</string>
+     <string name="pull_to_refresh">Потяни, чтобы обновить</string>
      <string name="quick_1">Спасибо!</string>
      <string name="quick_2">Отличная идея!</string>
      <string name="quick_3">Я отвечу позже</string>
@@ -614,7 +614,7 @@
      <string name="recipient_needed">Укажите получателя</string>
      <string name="refresh">Обновить</string>
      <string name="refreshing">Обновление…</string>
-     <string name="release_to_refresh">Отпустите, чтобы обновить</string>
+     <string name="release_to_refresh">Отпусти, чтобы обновить</string>
      <string name="remote_folders_heading">Серверные папки</string>
      <string name="remove_account">Удалить аккаунт</string>
      <string name="remove_account_confirm">Аккаунт %1$s будет удален из почты. Продолжить?</string>
@@ -679,7 +679,7 @@
      <string name="signin">Войти</string>
      <string name="silent_ringtone">Без звука</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
-     <string name="sort_attachment">Сортировка по</string>
+     <string name="sort_attachment">Сортировка</string>
      <string name="status_network_error">Ошибка подключения</string>
      <string name="storage">Память</string>
      <string name="str_select_all">Выбрать все</string>
@@ -730,8 +730,8 @@
      <string name="wait_for_manual_sync_body">"В этом аккаунте не настроена автоматическая синхронизация.
 Выбери настройки синхронизации, чтобы включить ее, или синхронизировать сейчас, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Твои сообщения загружаются</string>
-     <string name="wait_for_sync_body_2">Exchange Server спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
-	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
+     <string name="wait_for_sync_body_2">Exchange Server спросит тебя через 1-30 секунд. Пожалуйста, подтверди настройки безопасности и активируй. Обрати внимание на предупреждение системы.</string>
+	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит тебя через</string>
      <string name="wait_for_sync_body_txt_array_2">1–30</string>
      <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтверди настройки безопасности и активируй. Обрати внимание на</string>
      <string name="wait_for_sync_body_txt_array_4">предупреждение системы</string>
