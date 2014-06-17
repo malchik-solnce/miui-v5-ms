@@ -2,20 +2,23 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="altitude_title">Высота</string>
-	 <string name="altitude">%.1f</string>
      <string name="altitude_unit">м</string>
      <string name="app_label">Компас</string>
      <string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
      <string name="calibrate_failed_timeout">Ошибка калибрации: сервер не отвечает</string>
      <string name="calibrate_success">Калибрация завершена</string>
      <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
-     <string name="dialog_title_no_network">Сетей не найдено. Подключитесь через Wi-Fi или включите мобильный интернет.</string>
+     <string name="dialog_title_no_network">Сетей не найдено. Подключись через Wi-Fi или включи мобильный интернет.</string>
      <string name="direction_east">В</string>
      <string name="direction_north">С</string>
+	 <string name="direction_north_east">СВ</string>
+     <string name="direction_north_west">СЗ</string>
      <string name="direction_south">Ю</string>
+	 <string name="direction_south_east">ЮВ</string>
+     <string name="direction_south_west">ЮЗ</string>
      <string name="direction_west">З</string>
      <string name="getting_location">Поиск местоположения…</string>
-     <string name="guide_toast">Пожалуйста, откалибруйте компас жестом, как показано на рисунке</string>
+     <string name="guide_toast">Откалибруй компас жестом, как показано на рисунке</string>
      <string name="latitude">ШИР</string>
      <string name="location_east">В.Д.</string>
      <string name="location_north">С.Ш.</string>

@@ -10,8 +10,6 @@
      <string name="apply_font_btn_exclude">Без шрифта</string>
      <string name="apply_font_btn_reboot">Прим. и рестарт</string>
      <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
-     <string name="apply_lockscreen_paper_tips">Задействована тема локскрина. Предпросмотр нового локскрина может быть не доступен.</string>
-     <string name="apply_theme_no_select_message">Пожалуйста, выберите компонент!</string>
      <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
      <string name="backup_preference_title">Сохранить тему</string>
      <string name="backup_theme_dialog_message">Сделать бэкап текущей темы?</string>
@@ -24,9 +22,6 @@
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">ОСНОВНЫЕ</string>
      <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ</string>
-     <string name="component_include_title">%1$s элементов</string>
-     <string name="component_select_title">%1$s элементов</string>
-     <string name="component_settings_title">Текущая тема</string>
      <string name="default_name">По умол.</string>
      <string name="deleting">Удаление…</string>
      <string name="description_author">Автор:</string>
@@ -34,7 +29,7 @@
      <string name="description_download">Скачано:</string>
      <string name="description_size">Размер:</string>
      <string name="description_summary">Описание:</string>
-     <string name="description_uploadtime">Обновл.:</string>
+     <string name="description_uploadtime">Обнов.:</string>
      <string name="description_version">Версия:</string>
      <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
      <string name="desktop_wallpaper">Обои стола</string>
@@ -62,6 +57,7 @@
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
+	 <string name="resource_allow">Да</string>
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
 	 <string name="resource_apply_trial">Попробовать</string>
@@ -79,8 +75,8 @@
      <string name="resource_comment_current_version">Текущая версия</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Добавить комментарий</string>
-     <string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме</string>
-     <string name="resource_comment_edit_text_default">Напишите комментарий</string>
+     <string name="resource_comment_edit_comment_waiting">Проверка твоих ответов к этой теме</string>
+     <string name="resource_comment_edit_text_default">Напиши комментарий</string>
      <string name="resource_comment_edit_title">Комментарий к: %1$s</string>
      <string name="resource_comment_entry_tips">Посмотреть все</string>
      <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
@@ -89,8 +85,6 @@
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_loading_list">Загрузка комментариев…</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Нет комментариев</string>
      <string name="resource_comment_publish">Отправить</string>
      <string name="resource_comment_rate">Рейтинг:</string>
@@ -103,6 +97,8 @@
      <string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
      <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
+	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
+     <string name="resource_connect_network_settings">Уведомлять каждый раз, когда в сети</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
 	 <string name="resource_delete">Удалить</string>
@@ -114,7 +110,7 @@
      <string name="resource_detail">Сведения</string>
      <string name="resource_detail_comment_title">Комментарии</string>
      <string name="resource_detail_jump_to_online_title">Онлайн</string>
-     <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
+     <string name="resource_detail_jump_to_same_author_title">Еще от автора</string>
      <string name="resource_detail_recommend_desiner_other_themes">Другие темы от %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
@@ -166,7 +162,6 @@
      <string name="resource_pack_price_info">Цена: %1$s</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
-     <string name="resource_preview">Просмотр</string>
      <string name="resource_price_free">Беспл.</string>
      <string name="resource_price_unit">" Mi"</string>
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
@@ -175,6 +170,7 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
+	 <string name="resource_remind_another_time">Не напоминать</string>
      <string name="resource_ringtone_default">Мелодии</string>
 	 <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
@@ -203,7 +199,6 @@
      <string name="resource_update">Обновить</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
-     <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
@@ -218,7 +213,7 @@
      <string name="theme_changed_failed_message">Ошибка применения темы</string>
      <string name="theme_changed_message">Успешно применено</string>
      <string name="theme_changing_dialog_title">Применение темы, подождите…</string>
-     <string name="theme_component_title_alarm">Будильник</string>
+     <string name="theme_component_title_alarm">Предупреждение</string>
      <string name="theme_component_title_alarmstyle">Будильник</string>
      <string name="theme_component_title_all">Темы</string>
      <string name="theme_component_title_audio_effect">Эффекты</string>
@@ -240,12 +235,11 @@
      <string name="theme_component_title_ringtone">Мелодия</string>
      <string name="theme_component_title_statusbar">Панель</string>
      <string name="theme_component_title_wallpaper">Обои</string>
-     <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажмите здесь, чтобы применить.</string>
+     <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажми здесь, чтобы применить.</string>
      <string name="theme_description_title_customized">Пользов.</string>
      <string name="theme_description_title_default">По умолч.</string>
-	 <string name="theme_fresh_man_notifaction">Попробуйте новые темы</string>
+	 <string name="theme_fresh_man_notifaction">Попробуй новые темы</string>
      <string name="theme_immediately_apply_tip">Тема обновляется. Применить после обновления?</string>
-     <string name="theme_import_activity_label">Обновление тем</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
      <string name="theme_name">%1$s</string>
 	 <string name="theme_no">Нет</string>
@@ -253,10 +247,8 @@
 	 <string name="theme_yes">Да</string>
      <string name="third_party_pickers_activity_title">Установить %1$s</string>
      <string name="title_component">Компоненты</string>
-     <string name="title_local">Телефон</string>
-     <string name="title_online">Онлайн</string>
      <string name="title_system_resource">Системные</string>
-     <string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
+     <string name="to_activate_the_account">Активируй свой аккаунт Xiaomi</string>
      <string name="wallpaper_crop">Обрезать</string>
      <string name="wallpaper_decoded_error">Не удалось декодировать</string>
      <string name="wallpaper_loading_text">Загрузка…</string>

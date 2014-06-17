@@ -229,16 +229,16 @@
          "position": 18
       },
 	  {
-         "title":"ПростоПлеер",
-         "url":"http://pleer.com/m",
-         "thumbnail":"pleer.png",
-         "logobg":"bg03.9.png",
-         "nightModeMask":"night.9.png",
-         "favicon":"",
-         "displayName":"ПростоПлеер",
-         "isDelete":true,
-         "movable":true,
-         "position": 19
+        "title":"Backly",
+        "url":"http://backly.ru/",
+        "thumbnail":"backly.png",
+        "logobg":"bg03.9.png",
+        "nightModeMask": "night.9.png",
+        "favicon":"",
+        "displayName": "Backly",
+		"isDelete": true,
+	    "movable": true,
+	    "position": 19
       },
 	  {
         "title":"MIUI Android",
