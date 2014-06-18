@@ -109,6 +109,7 @@
      <string name="enable_micloud">Включить облачные сервисы</string>
      <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
+	 <string name="error_device_id">Не удается получить IMEI</string>
      <string name="error_dup_phone">Телефон уже зарегистрирован</string>
      <string name="error_invalid_dev_id">Неверный ID устройства</string>
      <string name="error_network">Ошибка сети</string>

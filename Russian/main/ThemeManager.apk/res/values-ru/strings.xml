@@ -57,7 +57,6 @@
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
-	 <string name="resource_allow">Да</string>
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
 	 <string name="resource_apply_trial">Попробовать</string>
@@ -97,8 +96,6 @@
      <string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
      <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
-	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
-     <string name="resource_connect_network_settings">Запрашивать подключение</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
 	 <string name="resource_delete">Удалить</string>
@@ -170,7 +167,6 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
-	 <string name="resource_remind_another_time">Больше не спрашивать</string>
      <string name="resource_ringtone_default">Мелодии</string>
 	 <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
@@ -244,6 +240,16 @@
      <string name="theme_name">%1$s</string>
 	 <string name="theme_no">Нет</string>
      <string name="theme_select_others">Прочее</string>
+	 <string name="theme_user_agreement_allow">OK</string>
+     <string name="theme_user_agreement_content1">Прочитайте действующие условия, прежде чем использовать этот продукт:</string>
+     <string name="theme_user_agreement_content2">" Пользовательское соглашение"</string>
+     <string name="theme_user_agreement_content3">" и "</string>
+     <string name="theme_user_agreement_content4">Политика безопасности</string>
+     <string name="theme_user_agreement_content5">. Разрешаете доступ к сети?</string>
+     <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
+     <string name="theme_user_agreement_remind_never">Больше не спрашивать</string>
+     <string name="theme_user_agreement_remind_summary">Вступит в силу при следующей загрузке</string>
+     <string name="theme_user_agreement_title">Важная информация</string>
 	 <string name="theme_yes">Да</string>
      <string name="third_party_pickers_activity_title">Установить %1$s</string>
      <string name="title_component">Компоненты</string>
