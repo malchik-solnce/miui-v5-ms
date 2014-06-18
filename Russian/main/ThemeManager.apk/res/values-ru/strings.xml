@@ -53,7 +53,7 @@
      <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуй позже.</string>
      <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
      <string name="resource_account_login">Войти</string>
-     <string name="resource_account_login_before_action">Войдите в свой аккаунт Xiaomi</string>
+     <string name="resource_account_login_before_action">Войди в аккаунт Xiaomi</string>
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
@@ -98,7 +98,7 @@
      <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
 	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
-     <string name="resource_connect_network_settings">Уведомлять каждый раз, когда в сети</string>
+     <string name="resource_connect_network_settings">Запрашивать подключение</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
 	 <string name="resource_delete">Удалить</string>
@@ -127,7 +127,7 @@
      <string name="resource_exchange_has_expired">Этот код истек</string>
      <string name="resource_exchange_has_used">Этот код уже использован</string>
      <string name="resource_exchange_hint">Введите код</string>
-     <string name="resource_exchange_purchase_unkown_error">Неизвестная ошибка. Войдите в аккаунт на http://market.xiaomi.com для простотра статуса оплаты.</string>
+     <string name="resource_exchange_purchase_unkown_error">Неизвестная ошибка. Войдит в аккаунт на http://market.xiaomi.com для простотра статуса оплаты.</string>
      <string name="resource_exchange_share_code_content">Вы получили код на %1$s в магазине MIUI. Ваш MiCredit код: %2$s. Нажмите %3$s, чтобы использовать сейчас.</string>
      <string name="resource_exchange_share_code_dlg_content">Приобретен код для %1$s: %2$s. Теперь Вы можете поделиться этим с друзьями.</string>
      <string name="resource_exchange_share_code_dlg_title">Отправка кода</string>
@@ -170,7 +170,7 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
-	 <string name="resource_remind_another_time">Не напоминать</string>
+	 <string name="resource_remind_another_time">Больше не спрашивать</string>
      <string name="resource_ringtone_default">Мелодии</string>
 	 <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
