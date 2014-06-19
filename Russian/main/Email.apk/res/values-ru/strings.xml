@@ -116,6 +116,9 @@
      <string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
      <string name="account_setup_incoming_imap_path_prefix_label">Префикс пути IMAP</string>
+	 <string name="account_setup_incoming_mail_adress_label">Адрес почты</string>
+     <string name="account_setup_incoming_mail_domain_hint">Может быть пустым</string>
+     <string name="account_setup_incoming_mail_domain_label">Домен</string>
      <string name="account_setup_incoming_password_label">Пароль</string>
      <string name="account_setup_incoming_port_label">Порт</string>
      <string name="account_setup_incoming_security_label">Тип безопасности</string>
@@ -521,7 +524,7 @@
      <string name="notification_action_undo_remove_label">Ярлык удален</string>
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
      <string name="ok">OK</string>
-     <string name="okay_action">ОК</string>
+     <string name="okay_action">OK</string>
      <string name="other_mail">Другая почта</string>
 	 <string name="outbox_alert_button_confirm">Изменить</string>
 	 <string name="outbox_alert_button_no_resend">Не отправлять</string>

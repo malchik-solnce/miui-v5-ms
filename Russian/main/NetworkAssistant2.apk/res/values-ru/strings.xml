@@ -19,9 +19,9 @@
      <string name="daily_pkg_traffic">Предел трафика</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
-     <string name="data_usage_disabled_dialog">"Вы достигли предела использованного трафика. 
+     <string name="data_usage_disabled_dialog">Вы достигли предела использованного трафика. 
 
-Это может повлечь большие затраты на трафик (в зависимости от вашего оператора)."</string>
+Это может повлечь большие затраты на трафик (в зависимости от вашего оператора).</string>
      <string name="data_usage_disabled_dialog_enable">Включить данные</string>
      <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика</string>
      <string name="data_usage_leisure_warning_title">Предел трафика</string>
@@ -66,8 +66,8 @@
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
-	 <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
-подключение к мобильному интернету"</string>
+	 <string name="main_alert_message_slot_no_data_connection">Слот SIM-карты не поддерживает 
+подключение к мобильному интернету</string>
      <string name="main_button_idel_traffic">Предел</string>
      <string name="main_button_normal_traffic">Пакет</string>
      <string name="main_button_usage_adjust">Установить трафик</string>
@@ -78,11 +78,11 @@
      <string name="main_toolbar_purchase">Пополнение</string>
      <string name="main_toolbar_statistic">Статистика</string>
      <string name="main_traffic_overlimit_text">%s превышено</string>
-     <string name="main_traffic_remian_text">"%s
-осталось"</string>
+     <string name="main_traffic_remian_text">%s
+осталось</string>
      <string name="main_traffic_used_only">Исполь.: %s</string>
-     <string name="main_traffic_used_text">"%s
-использовано"</string>
+     <string name="main_traffic_used_text">%s
+использовано</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
      <string name="manual_input_traffic">Введите предел трафика</string>
 	 <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
@@ -151,6 +151,7 @@
      <string name="settings">Настройки</string>
      <string name="sorted_button">Сортировка</string>
      <string name="sorted_dialog_title">Сортировка</string>
+	 <string name="spinner_title">%1$s - данные: %2$s</string>
      <string name="stop_app_button">Остановить</string>
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
