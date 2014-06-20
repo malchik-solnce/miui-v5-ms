@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mipay_app_name">Bank cards</string>
-    <string name="mipay_error_network">"Couldn't connect to network."</string>
+    <string name="mipay_app_name">Банковские карты</string>
+    <string name="mipay_error_network">Нет подключения к сети</string>
     <string name="mipay_error_auth">Account login error, please log in again.</string>
     <string name="mipay_error_server">Server error. Please try again later</string>
     <string name="mipay_error_common">System error. Please try again later.</string>
@@ -13,11 +13,11 @@ Please check your local date and try again."</string>
     <string name="mipay_format_date">MMM. dd, yyyy</string>
     <string name="mipay_denom_unit">RMB</string>
     <string name="mipay_button_pay">Pay</string>
-    <string name="mipay_button_next">Next</string>
-    <string name="mipay_button_cancel">Cancel</string>
+    <string name="mipay_button_next">Далее</string>
+    <string name="mipay_button_cancel">Отмена</string>
     <string name="mipay_button_ok">Confirm</string>
     <string name="mipay_button_finish">Finish</string>
-    <string name="mipay_loading">Loading…</string>
+    <string name="mipay_loading">Загрузка…</string>
     <string name="mipay_agreement">Agree to %1$s</string>
     <string name="mipay_common_license">User Agreement</string>
     <string name="mipay_update_title">Mipay has update!</string>
@@ -27,7 +27,7 @@ Please check your local date and try again."</string>
     <string name="mipay_order_id">Order:</string>
     <string name="mipay_pay_type_hint">Please choose pay methods</string>
     <string name="mipay_alipay">Alipay</string>
-    <string name="mipay_add_bank_card">Add bank card</string>
+    <string name="mipay_add_bank_card">Bank card</string>
     <string name="mipay_bank_card_item">%1$s (Card no. %2$s)</string>
     <string name="mipay_alipay_error">Alipay failed</string>
     <string name="mipay_bank_card_hint">Please enter account number</string>
@@ -74,7 +74,7 @@ Please check your local date and try again."</string>
     <string name="mipay_query_timeout">Payment timeout</string>
     <string name="mipay_query_timeout_contact">Please contact our customer service</string>
     <string name="mipay_button_count_down">Inquire after %1$s seconds</string>
-    <string name="mipay_bank_cards">Bank cards</string>
+    <string name="mipay_bank_cards">Банковские карты</string>
     <string name="mipay_bank_cards_title">My bank cards</string>
     <string name="mipay_bank_cards_add">Add bank card</string>
     <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
@@ -83,7 +83,7 @@ Please check your local date and try again."</string>
     <string name="mipay_pay_record">Payment records</string>
     <string name="mipay_pay_record_title">Payment records</string>
     <string name="mipay_pay_record_empty">No payment record</string>
-    <string name="mipay_setting_title">Security Settings</string>
+    <string name="mipay_setting_title">Настройки безопасности</string>
     <string name="mipay_setting_title_password">Payment password</string>
     <string name="mipay_setting_modify_password">Modify payment password</string>
     <string name="mipay_setting_forget_password">Forgot payment password</string>
