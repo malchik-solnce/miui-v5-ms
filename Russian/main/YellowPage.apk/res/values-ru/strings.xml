@@ -18,8 +18,8 @@
      <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
      <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
      <string name="callrecordview_item_op_time_rejected">Отклонен</string>
-     <string name="callrecordview_item_op_time_short_incoming">"Входящий: "</string>
-     <string name="callrecordview_item_op_time_short_outgoing">"Исходящий: "</string>
+     <string name="callrecordview_item_op_time_short_incoming">Входящий: </string>
+     <string name="callrecordview_item_op_time_short_outgoing">Исходящий: </string>
      <string name="check_network">Посмотреть настройки сети</string>
      <string name="confirm_delete_all_call_log_title">Удалить все журналы вызовов?</string>
      <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
@@ -28,7 +28,7 @@
      <string name="contact_detail_calllog_call_note_tips">Заметка о вызове</string>
      <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
      <string name="custom_mark_category">Пользовательский</string>
-     <string name="data_error">Услуга не доступна. Повторите попытку позже.</string>
+     <string name="data_error">Услуга не доступна. Повтори попытку позже.</string>
      <string name="delete">Удалить</string>
 	 <string name="do_not_remind_me">Не напоминать</string>
 	 <string name="download_completed">Загрузка завершена. Путь SD-карта: %s.</string>
@@ -51,13 +51,13 @@
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
-     <string name="express_inquiry_internal_failure">"Произошла ошибка.
-Проверьте номер отслеживания."</string>
+     <string name="express_inquiry_internal_failure">Произошла ошибка.
+Проверьте номер отслеживания.</string>
      <string name="express_inquiry_logistics_indication">Служба доставки</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
      <string name="express_inquiry_serial_number_indication">Номер отправления</string>
-     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
+     <string name="express_inquiry_serial_number_prefix">Номер: </string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
 	 <string name="general_cancel_favorite_ok">Убрано</string>
@@ -95,7 +95,9 @@
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="network_unavaliable">Сеть не доступна. Проверь настройки сети.</string>
 	 <string name="no_more_result">Ничего не найдено</string>
-	 <string name="notify_connect_every_time">Запрашивать доступ к сети каждый раз</string>
+	 <string name="notfiy_connect_title">Резрешение сети</string>
+     <string name="notices_and_terms">Правовые аспекты и условия использования</string>
+     <string name="notify_connect_summary">Спрашивать перед подключением к сети</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
@@ -105,7 +107,7 @@
      <string name="packages_pay_hint">Отправить бесплатное сообщение</string>
      <string name="packages_pay_success">Сообщение отправлено!</string>
      <string name="packages_select_sim_cards_summmary">Система будет рекомендовать пакеты трафика взависимости от использования</string>
-     <string name="packages_select_sim_cards_title">Выберите SIM-карту</string>
+     <string name="packages_select_sim_cards_title">Выбери SIM-карту</string>
      <string name="packages_select_to_buy_title">Купить следующее:</string>
      <string name="packages_title">Настройки трафика</string>
      <string name="packages_wait_for_op_reply">Пожалуйста, дождитесь подтверждения от оператора</string>
@@ -113,7 +115,7 @@
      <string name="payment_failed_common_problems">Возникла проблема при оплате</string>
      <string name="payment_unknown_status_summary">Проверьте подключение к сети и попробуйте снова</string>
      <string name="payment_unknown_status_title">Нет подтверждения оплаты</string>
-     <string name="phone_info_divider">" ｜ "</string>
+     <string name="phone_info_divider"> ｜ </string>
      <string name="provider">Опознано с помощью %s</string>
      <string name="provider_tag">Источник данных</string>
      <string name="recharge_actual_price">Цена:</string>
@@ -130,9 +132,9 @@
      <string name="recharge_pay">Пополнить сейчас</string>
      <string name="recharge_pay_hint">При поддержке Xiaomi</string>
      <string name="recharge_pay_hint_license">соглашение о пополнении</string>
-     <string name="recharge_payment_result_failed_summary">Пожалуйста, попробуйте еще раз</string>
+     <string name="recharge_payment_result_failed_summary">Пожалуйста, попробуй еще раз</string>
      <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
-     <string name="recharge_payment_result_ok_summary">Подтвердите, что эта сумма есть на Вашем счету</string>
+     <string name="recharge_payment_result_ok_summary">Подтверди, что эта сумма есть на Вашем счету</string>
      <string name="recharge_payment_result_ok_title">Добавлено %s юань</string>
      <string name="recharge_payment_result_progress_summary">Проверка результата пополнения…</string>
 	 <string name="recharge_phone_number_empty">Номер телефона не должен быть пустым</string>
@@ -141,18 +143,18 @@
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
 	 <string name="recharge_unknown_number">Другой номер</string>
-     <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s RMB！
-Всего: %3$s RMB."</string>
+     <string name="recharge_user_confirm_summary">Вы пополнили %1$s на %2$s RMB！
+Всего: %3$s RMB.</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
      <string name="remind_user_confirm">OK</string>
-     <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
-Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
-     <string name="remind_user_suspect_number_title">Остерегайтесь мошенников</string>
+     <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
+Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях.</string>
+     <string name="remind_user_suspect_number_title">Остерегайся мошенников</string>
      <string name="scan">Сканировать</string>
-     <string name="select_package_before_buy">Выберите пакет для покупки</string>
+     <string name="select_package_before_buy">Выбери пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
-     <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
+     <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повтори попытку позже.</string>
 	 <string name="sina_share_fail">Не удалось отправить</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено</string>
@@ -167,6 +169,7 @@
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
+	 <string name="turn_on_yellowpage_service_title">Использовать сервисы</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитайте %1$s и %2$s перед использованием.</string>
      <string name="user_notice_yp_detail_summary_format">Информация этой желтой страницы должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь с вышеуказанным содержанием, нажмите \"Отмена\" для просмотра кешированной информации.</string>
      <string name="voicemail">Голосовая почта</string>

@@ -8,8 +8,8 @@
     <string name="app_name">Видео</string>
     <string name="video_library">Видео</string>
     <string name="all_specials">Все категории</string>
-    <string name="director_colon">"Режиссер: "</string>
-    <string name="actors_colon">"В главных ролях: "</string>
+    <string name="director_colon">Режиссер: </string>
+    <string name="actors_colon">В главных ролях: </string>
 	<string name="add_more_addons">добавить другие специальные</string>
 	<string name="addon" />
     <string name="addon_category">Специальное</string>
@@ -17,11 +17,11 @@
     <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
 	<string name="delete_addon">Удалить</string>
     <string name="delete_addon_content">Удалить этот элемент?</string>
-    <string name="tags_colon">"Жанр: "</string>
-    <string name="area_colon">"Страна: "</string>
-    <string name="time_colon">"Год: "</string>
-    <string name="play_length_colon">"Время: "</string>
-    <string name="series_colon">"Эпизодов: "</string>
+    <string name="tags_colon">Жанр: </string>
+    <string name="area_colon">Страна: </string>
+    <string name="time_colon">Год: </string>
+    <string name="play_length_colon">Время: </string>
+    <string name="series_colon">Эпизодов: </string>
     <string name="minute">мин.</string>
     <string name="seconds">сек.</string>
     <string name="review_success">Отправлено</string>
@@ -46,7 +46,6 @@
     <string name="receive_ad_notify_summary">После открытия, получать самые свежие и популярные видео</string>
     <string name="others">Прочие</string>
     <string name="music">музыка</string>
-    <string name="variety">Разное</string>
     <string name="comment">Комментарии</string>
     <string name="livetv">Сейчас</string>
     <string name="comment_hint">(до 300 символов)</string>
@@ -85,9 +84,9 @@
     <string name="jni_invalid_param">Неправильный параметр</string>
     <string name="jni_no_media_source">Нет доступа к источнику видео</string>
     <string name="load_data_failed">Не удалось получить данные, проверь сеть</string>
-    <string name="loading_video">" "<CDATA>Загрузка </CDATA>" "</string>
-    <string name="loading_tv">" "<CDATA>Загрузка </CDATA>" "</string>
-    <string name="loading">" "<CDATA>Загрузка </CDATA>" "</string>
+    <string name="loading_video">Загрузка </string>
+    <string name="loading_tv">Загрузка </string>
+    <string name="loading">Загрузка </string>
     <string name="no_filter_media">Ничего не найдено</string>
 	<string name="no_hot_special">Пусто</string>
     <string name="no_search_result">Ничего не найдено. Попробуй другой поиск по ключевым словам.</string>
@@ -96,9 +95,9 @@
     <string name="no_tv">Нет каналов</string>
     <string name="no_special_subject">Пусто</string>
     <string name="loading_review_failed">Ошибка загрузки комментария</string>
-	<string name="loading_text"><CDATA>Загрузка… </CDATA></string>
-    <string name="loading_review"><CDATA>Загрузка </CDATA></string>
-    <string name="searching">" "<CDATA>Поиск </CDATA>" "</string>
+	<string name="loading_text">Загрузка… </string>
+    <string name="loading_review">Загрузка </string>
+    <string name="searching">Поиск </string>
     <string name="recentplay">Недавние</string>
     <string name="clearplayhistory">Очистить историю</string>
     <string name="no_playhistory">Пусто</string>
@@ -147,7 +146,7 @@
     <string name="login_tip_title">Авторизация</string>
     <string name="login_tip_content">Войди в аккаунт для синхронизации и обновления шоу которые смотришь</string>
     <string name="nologin_no_waitfornewset">Войди в аккаунт, чтобы следить за шоу</string>
-    <string name="video">" видео"</string>
+    <string name="video"> видео</string>
     <string name="mycamera">Мое видео</string>
     <string name="mydlna">Мое DLNA</string>
     <string name="have_no_cameravideo">Нет видео</string>
@@ -203,8 +202,8 @@
     <string name="cancel_hide">Показать</string>
     <string name="show_hidemedia">Показывать скрытые файлы</string>
     <string name="notshow_hidemedia">Не показывать скрытые файлы</string>
-    <string name="pick_video_to_hide">Выберите</string>
-    <string name="pick_hide_to_show">Выберите</string>
+    <string name="pick_video_to_hide">Выбери</string>
+    <string name="pick_hide_to_show">Выбери</string>
     <string name="hided_cannot_favorite">Скрытые нельзя избрать</string>
     <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
     <string name="setting">Настройки</string>
@@ -337,8 +336,8 @@
     <string name="buffering">Буферизация…</string>
     <string name="airkan_video_playing_in">Видео</string>
     <string name="airkan_video_playing">воспроизводится</string>
-    <string name="airkan_tips">"Нажми здесь, чтобы смотреть видео 
-на Xiaomi TV Box"</string>
+    <string name="airkan_tips">Нажми здесь, чтобы смотреть видео 
+на Xiaomi TV Box</string>
     <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
@@ -352,8 +351,8 @@
     <string name="top_status_online_media">Онлайн</string>
     <string name="loading_video_netplay_label_v5">Загрузка…</string>
     <string name="buffering_video_netplay_label_v5">Буферизация…</string>
-    <string name="to_be_play_label_v5">"Далее: "</string>
-    <string name="episode_prefix">"эпизод "</string>
+    <string name="to_be_play_label_v5">Далее: </string>
+    <string name="episode_prefix">эпизод </string>
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">XiaoMi Inc.</string>

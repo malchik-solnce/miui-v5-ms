@@ -65,7 +65,7 @@
 	 <string name="button_sms_code">Подтвердить</string>
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
-     <string name="colon">": "</string>
+     <string name="colon">: </string>
      <string name="detail_consume_account">ID покупки</string>
      <string name="detail_consume_amount">Количество</string>
      <string name="detail_consume_name">Продукт</string>
@@ -84,20 +84,20 @@
      <string name="detail_recharge_order">Номер заказа</string>
      <string name="detail_recharge_time">Время</string>
      <string name="detail_recharge_title">Пополнения</string>
-     <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
-Пожалуйста, войди занова."</string>
+     <string name="error_account_changed_summary">Изменилась информация об аккаунте.
+Пожалуйста, войди занова.</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
      <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
      <string name="error_auth_title">Ошибка входа</string>
      <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
-	 <string name="error_cert_date_summary">"Ошибка данных сертификата. 
-Проверь локальные данные и повтори."</string>
+	 <string name="error_cert_date_summary">Ошибка данных сертификата. 
+Проверь локальные данные и повтори.</string>
      <string name="error_cert_date_title">Ошибка сертификата</string>
-     <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже.</string>
+     <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуй позже.</string>
      <string name="error_common_title">Системная ошибка</string>
      <string name="error_expired_summary">Ваш срок заказа истек</string>
-     <string name="error_frozen_summary">"Ваш аккаунт заморожен. 
-Свяжись со службой поддержки Xiaomi."</string>
+     <string name="error_frozen_summary">Ваш аккаунт заморожен. 
+Свяжись со службой поддержки Xiaomi.</string>
      <string name="error_frozen_title">Аккаунт заморожен</string>
      <string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
      <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
@@ -109,10 +109,10 @@
      <string name="error_network_title">Ошибка сети</string>
      <string name="error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
      <string name="error_server_title">Ошибка сервера</string>
-     <string name="error_too_frequent_visits_summary">"Вы запрашиваете слишком часто. 
-Пожалуйста, попробуйте еще раз через пять минут."</string>
+     <string name="error_too_frequent_visits_summary">Вы запрашиваете слишком часто. 
+Пожалуйста, попробуйте еще раз через пять минут.</string>
      <string name="error_too_frequent_visits_title">Слишком часто</string>
-     <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
+     <string name="error_user_id_mismatch_summary">Пожалуйста, проверь настройки аккаунта и попробуй снова</string>
      <string name="error_user_id_mismatch_title">Ошибка аутентификации</string>
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
@@ -136,53 +136,6 @@
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
      <string name="giftcard_record">Подарочные карты</string>
      <string name="giftcard_value">(подарочная карта на %1$s MiCredit)</string>
-     <string name="hfb_app_name">话付宝</string>
-     <string name="hfb_commit">提交订单</string>
-     <string name="hfb_complete">购买完成</string>
-     <string name="hfb_complete_hint">(请查收信息，并按提示完成支付)</string>
-     <string name="hfb_confirm">确认支付</string>
-     <string name="hfb_customer_service_phone">客服电话：</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hfb_customer_service_phone_number">4006125880</string>
-     <string name="hfb_dialog_exit_content">交易尚未完成，确定放弃交易？</string>
-     <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心：4006125880(只收市话费，无长途话费)； 125880只支付移动手机，0.3元/分，无长途话费。 
-* 有短信签名功能的手机，请回复前去掉签名的自动附加功能，以免回复系统无法识别拒绝支付。"</string>
-     <string name="hfb_fail_label">购买失败</string>
-     <string name="hfb_fail_pad_result">您没有回复短信，请到收件箱中按%1$s短信提示回复后再查询。</string>
-     <string name="hfb_fail_result">"此手机号码暂时无法完成支付，请稍后再试或使用其他支付方式购买，感谢您的支持！
-客服电话：4006125880"</string>
-     <string name="hfb_goods_name">商品名称：</string>
-     <string name="hfb_goods_price_value_format">%1$s(不含通信费)</string>
-     <string name="hfb_hint">"1、中国移动通信账户支付是中国移动电子商务的支付方式之一。 
-2、10658008是中国移动通信账户支付专用短信特服号码。 
-3、本服务支持移动全球通、动感地带、神州行等品牌的用户，用户使用中国移动通信账户支付：无免费试用；支付成功，即可扣费；商品价格不含通信费。 
-4、部分省份“赠送”“返还”的话费不可用于购买商品。如：北京、黑龙江等。 
-5、中国移动通信账户支付客服电话：4006125880（只收市话费，无长途话费）；125880（只支持移动手机，0.3元/分，无长途话费） 
-6、按次产品无需退订；包月产品如需退订，请发送0000到10658008"</string>
-     <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
-     <string name="hfb_main_title">订单支付</string>
-     <string name="hfb_network_progress">正在请求订单，请保持网络通畅</string>
-     <string name="hfb_order_price">订单价格：</string>
-     <string name="hfb_other_case">如您未收到10658008的短信提示请点击</string>
-     <string name="hfb_pad_info">请您按照%1$s的短信提示确认回复后，点击购买完成。谢谢！</string>
-     <string name="hfb_pay_by_phone">支付手机：</string>
-     <string name="hfb_pay_by_phone_hint">中国移动手机号码</string>
-     <string name="hfb_retry_receive">重新接收</string>
-     <string name="hfb_return">返 回</string>
-     <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候...</string>
-     <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候...</string>
-     <string name="hfb_sms_error">短信发送失败！</string>
-     <string name="hfb_sms_pay">特别提示：点击“确认支付”即同意向10658008发送短信以完成支付；费用由本机话费扣除。</string>
-     <string name="hfb_succ_label">购买成功</string>
-     <string name="hfb_succ_result">"感谢您使用通信账户支付服务。
-购买【%1$s】费用为【%2$s元】
-客服电话：%3$s"</string>
-     <string name="hfb_tariff">资费说明</string>
-     <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
-     <string name="hfb_trans_result_progress_label">正在查询支付结果...</string>
-     <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
-     <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
-     <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
      <string name="label_balance">Баланс:</string>
 	 <string name="label_giftcard">Подарочная карта:</string>
      <string name="label_order_name">Продукт:</string>
@@ -201,19 +154,22 @@
      <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
      <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
-     <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
+     <string name="lockpattern_recording_intro_header">Нарисуй ключ разблокировки:</string>
      <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
      <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
-     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
+     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуй еще раз через %d секнуд</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_continue_label">Далее</string>
      <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
-     <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
-Нажмите OK, если согласны с правилами и условиями, описанными в %1$s.</string>
+	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
+     <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, ты должн согласиться с условиями предоставления услуг, указанными в %1$s.
+Нажми OK, если согласен с правилами и условиями, описанными в %1$s.</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
+	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить использование трафика</string>
+     <string name="mibi_license_net_prompt_title">Требуется подключение к сети</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="mili_center">MiCredit</string>
      <string name="msg_denomination_type">MiCredit</string>
@@ -241,8 +197,8 @@
      <string name="order_price">%1$s MiCredit</string>
 	 <string name="partner_giftcard_payment">%1$sMiCredit (только для %2$s)</string>
      <string name="password_error">Неверный пароль</string>
-	 <string name="password_forget">Забыли пароль?</string>
-     <string name="password_hint">Введите пароль от аккаунта</string>
+	 <string name="password_forget">Забыл пароль?</string>
+     <string name="password_hint">Введи пароль от аккаунта</string>
      <string name="pay_record_empty">Нет записей</string>
      <string name="pay_record_typeall">Все</string>
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
@@ -285,18 +241,18 @@
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
      <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
-     <string name="progress_warning_check">"Пока не проверено.
-Мы проверим в течение двух рабочих дней."</string>
-     <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
+     <string name="progress_warning_check">Пока не проверено.
+Мы проверим в течение двух рабочих дней.</string>
+     <string name="progress_warning_contact_server">Платеж все еще не подтвержден. 
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
-2. Сообщите свой серийный номер: %2$s"</string>
-     <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
+2. Сообщите свой серийный номер: %2$s</string>
+     <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повтори попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
      <string name="recharge_denomination">%1$s юань</string>
      <string name="recharge_grid_edit_hint">Размер (юань)</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
      <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
-     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s юань</string>
+     <string name="recharge_grid_error_denomination">Введи правильный размер пополнения между %1$s~%2$s юань</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>
@@ -315,11 +271,11 @@
 	 <string name="scan_prompt_retry">Держи карту так, чтобы не было бликов. После чего повтори еще раз.</string>
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
-	 <string name="sms_code_error">Ошибка проверочного кода. Повторите еще раз.</string>
+	 <string name="sms_code_error">Ошибка проверочного кода. Повтори еще раз.</string>
      <string name="sms_code_hint">Проверочный код</string>
-     <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, пожалуйста, завершите процедуру после привязки номера телефона.</string>
+     <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, заверши процедуру после привязки номера телефона.</string>
      <string name="summary_lockpattern">Защита ключем блокировки</string>
-	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончить процедуру.</string>
+	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введи код подтверждения, полученный на номер %1$s, а затем закончи процедуру.</string>
      <string name="title_bind_phone">Привзязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Акции и скидки</string>
@@ -328,11 +284,13 @@
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои кредиты</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
+	 <string name="title_need_prompt">Запрашивать доступ к сети</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
      <string name="title_pay_record">Платежи</string>
+	 <string name="title_prompt">Уведомления</string>
      <string name="title_recharge">Пополнить баланс</string>
      <string name="title_recharge_record">Пополнения</string>
 	 <string name="title_sms_code">Введите проверочный код</string>

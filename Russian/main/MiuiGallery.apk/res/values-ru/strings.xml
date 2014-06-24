@@ -25,14 +25,14 @@
      <string name="album_member">Альбом пользователя %s</string>
      <string name="album_name">Имя альбома</string>
      <string name="album_quota_fulfiled">Не удалось создать альбом. Количество альбомов достигло предела.</string>
-     <string name="album_share_exit_confirm">Вы уверены, что хотите выйти из общего альбома?</string>
+     <string name="album_share_exit_confirm">Выйти из общего альбома?</string>
      <string name="album_share_kicked">Вы были удалены из альбома: %1$s</string>
      <string name="album_share_stat_content">Новые приглашения для альбома</string>
      <string name="album_share_subtitle_accepting">Принятие приглашения от %1$s…</string>
      <string name="album_share_subtitle_denying">Игнорирование приглашения от %1$s…</string>
      <string name="album_share_subtitle_invited">Поделился: %1$s, принять или игнорировать?</string>
      <string name="album_share_subtitle_normal">Поделился: %1$s</string>
-     <string name="album_share_subtitle_not_ready">Информация об альбоме не готова. Нажмите, чтобы скачать.</string>
+     <string name="album_share_subtitle_not_ready">Информация об альбоме не готова. Нажми, чтобы скачать.</string>
      <string name="album_share_subtitle_quitting">Отказ от приглашения…</string>
      <string name="album_share_subtitle_requesting">Загрузка информации об альбоме…</string>
      <string name="album_share_title_new_album">Делиться новым альбомом</string>
@@ -54,8 +54,9 @@
      <string name="autofix">Авто</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
-     <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
-	 <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
+     <string name="bigscreen_slide_fail_cause_loading">Повтори попытку, чтобы начать слайд-шоу после загрузки изображения</string>
+	 <string name="bigscreen_slide_playing">Слайд-шоу воспроизводится на устройстве: %s</string>
+	 <string name="bigscreen_video_quit">Нажми, чтобы выйти</string>
      <string name="browse_category">Настройки просмотра</string>
      <string name="by_email">Почта</string>
      <string name="by_others">Другое</string>
@@ -87,34 +88,40 @@
      <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>
      <string name="cloud_camera_display_name">Не отсортированные</string>
      <string name="cloud_gallery_no_pictures">Нет изображений</string>
-     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
+     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очисти корзину на i.xiaomi.com.</string>
      <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
      <string name="cloud_media_set_set">Облачные альбомы</string>
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
      <string name="cloud_screenshots_display_name">Скриншоты</string>
-     <string name="cloud_share_guide_message">"Вы можете поделиться облачным альбомом с
+     <string name="cloud_share_guide_message">Вы можете поделиться облачным альбомом с
 друзьями. Просматривайте и обновляйте
-альбом из любого места."</string>
+альбом из любого места.</string>
      <string name="cloud_share_guide_title">Простой обмен</string>
      <string name="cloud_tab_albums">Альбомы</string>
      <string name="cloud_tab_all">Все</string>
      <string name="cloud_tab_locations">Местоположение</string>
      <string name="cloudfolder_already_exists">Папка уже существует</string>
-     <string name="cloudfolder_cannot_start_with">"Имя папки не может начинаться с '%s'"</string>
-     <string name="cloudfolder_contain_invalidate_char">"Имя папки не может содержать '%s'"</string>
+     <string name="cloudfolder_cannot_start_with">Имя папки не может начинаться с '%s'</string>
+     <string name="cloudfolder_contain_invalidate_char">Имя папки не может содержать '%s'</string>
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
-     <string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s файлов)?</string>
-	 <string name="confirm_delete_home_merge_item">Удалить выбранные изображения (%s) из устройства и облака?</string>
+     <string name="confirm_delete_album" formatted="false">Удалить альбомы (%s) (включая %s файлов)?</string>
      <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить %s фотографий в %s альбомах?</string>
-     <string name="confirm_delete_pictures">%s фотографий</string>
-     <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить его?</string>
-     <string name="confirm_delete_this_picture">Удалить это изображение?</string>
-     <string name="confirm_delete_this_video">Удалить это видео?</string>
-     <string name="confirm_delete_videos">%s видео</string>
+	 <string name="confirm_delete_has_cloud_image">Удалить изображения в облаке? (%s)</string>
+     <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_image">Удалить изображения с устройства и облака? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_image_video">Удалить изображения и видео с устройства и облака? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_video">Удалить %s видео с устройства и облака?</string>
+     <string name="confirm_delete_has_cloud_video">Удалить %s видео в облаке?</string>
+     <string name="confirm_delete_has_local_image">Удалить изображения? (%s)</string>
+     <string name="confirm_delete_has_local_image_video">Удалить изображения и видео? (%s)</string>
+     <string name="confirm_delete_has_local_video">Удалить %s видео?</string>
+     <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если хочешь удалить только с телефона, перейди в альбомы устройства.</string>
+     <string name="confirm_delete_init_title">Внимание</string>
+     <string name="confirm_delete_system_album">%s системный альбом. Удалить его?</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
 	 <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
@@ -150,7 +157,7 @@
      <string name="details_sharer">Отправитель</string>
      <string name="details_title">%1$d из %2$d</string>
 	 <string name="device_model">Устройство</string>
-     <string name="directory_info_divider">"  |  "</string>
+     <string name="directory_info_divider">  |  </string>
      <string name="documentary">Документальные</string>
      <string name="done">Готово</string>
      <string name="doodle">Подмалевок</string>
@@ -180,9 +187,9 @@
      <string name="error_unknown_host">Сеть не обнаружена</string>
      <string name="exit">Выйти</string>
      <string name="exit_share">Закрыть альбом</string>
-     <string name="exit_share_failed">Закрытие альбома &lt;%1$s> не удалось</string>
+     <string name="exit_share_failed">Закрытие альбома %1$s не удалось</string>
      <string name="exit_share_in_process">Закрытие альбома, подождите…</string>
-     <string name="exit_share_successfully">Альбом &lt;%1$s> закрыт</string>
+     <string name="exit_share_successfully">Альбом %1$s закрыт</string>
      <string name="exposure_time">Выдержка</string>
      <string name="external_sd_card">SD-карта</string>
      <string name="external_usb_device">USB накопитель</string>
@@ -223,7 +230,7 @@
      <string name="group_by_location">По месту съемки</string>
      <string name="group_by_tags">По тегам</string>
      <string name="group_by_time">По времени создания</string>
-     <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
+     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
      <string name="height">Высота</string>
      <string name="highlight">Блики</string>
      <string name="home_my_captured_items">фото</string>
@@ -309,7 +316,7 @@
      <string name="no_map_app">Нет приложений с картами</string>
      <string name="no_network_connected">Нет подключения к сети</string>
      <string name="no_picture_or_video">Нет фото или видео</string>
-     <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
+     <string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повтори когда хранилище будет доступно</string>
      <string name="no_such_item">Элемент не найден</string>
      <string name="no_thumbnail">Нет уменьшенного изображения</string>
      <string name="none_picture">Нет фотографий в галерее</string>
@@ -329,7 +336,7 @@
      <string name="operation_set_as_screensaver">На заставку</string>
      <string name="operation_share">Поделиться</string>
      <string name="operation_successful">Успешно отправлено!</string>
-     <string name="operation_too_often">Слишком часто. Попробуйте через 1 минуту.</string>
+     <string name="operation_too_often">Слишком часто. Попробуй через 1 минуту.</string>
      <string name="operation_unset_as_screensaver">Отменить заставку</string>
      <string name="orientation">Ориентация</string>
      <string name="other_category">ДРУГИЕ НАСТРОЙКИ</string>
@@ -341,7 +348,7 @@
      <string name="photo_page_save_image">Сохранить</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Фотография сохранена в каталог камеры</string>
-     <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
+     <string name="photo_saved">Фотография сохранена в альбоме "%s"</string>
 	 <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">файлов</string>
@@ -418,13 +425,13 @@
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
+     <string name="settings_i_xiaomi_com">Зайди на i.xiaomi.com, чтобы смотреть облачные альбомы в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
      <string name="share_album_space_full">Этот общий альбом полон. Удалите некоторые ненужные снимки.</string>
-     <string name="share_by_email_start">Попробуйте поделиться &lt;%1$s> в фоновом режиме</string>
-     <string name="share_by_email_successfully">Вы поделились через E-Mail &lt;%1$s></string>
+     <string name="share_by_email_start">Попробуйте поделиться %1$s в фоновом режиме</string>
+     <string name="share_by_email_successfully">Вы поделились через E-Mail %1$s</string>
      <string name="share_current_album">Отправить текущий альбом</string>
      <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотри тут %2$s.</string>
      <string name="sharer_quota_fulfiled">Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме достигло предела</string>
@@ -439,6 +446,7 @@
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">%1$s – %2$s</string>
+	 <string name="skip_hide_special_album">Системные альбомы (камера, скриншоты) нельзя скрыть</string>
      <string name="slideshow">Слайд-шоу</string>
      <string name="slideshow_category">НАСТРОЙКИ СЛАЙД-ШОУ</string>
      <string name="slideshow_dream_name">Слайд-шоу</string>
@@ -454,9 +462,9 @@
      <string name="straighten">Выравнивание</string>
      <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
      <string name="sync_album">Синхронизация альбомов</string>
-     <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
-     <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подождите…</string>
-     <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
+     <string name="sync_album_error">Не удалось загрузить фотографии. Повтори попытку позже.</string>
+     <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подожди…</string>
+     <string name="sync_album_set_error">Не удалось загрузить альбомы. Повтори попытку позже.</string>
      <string name="sync_album_summary">Синхронизировать фотографии в MiCloud</string>
      <string name="sync_history_power_on">Во время зарядки</string>
 	 <string name="sync_in_progress_message">Синхронизация, подождите…</string>
@@ -482,7 +490,7 @@
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
 	 <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
-	 <string name="ubifocus_guide_text">Удерживайте 0.5с., чтобы обновить</string>
+	 <string name="ubifocus_guide_text">Удерживай 0.5с., чтобы обновить</string>
      <string name="ubifocus_map_error">Некоторые данные неверны</string>
      <string name="ubifocus_refocus_fail_tip">Не удается перефокусироваться из-за некоторых неверных или отсутствующих данных</string>
      <string name="ucdownloads_screenshot">UC Browser</string>
