@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="account_bind_prompt">Перенос данных пользователя. Подождите…</string>
+     <string name="account_bind_prompt">Перенос данных пользователя. Подожди…</string>
      <string name="add_task">Добавить задачи</string>
      <string name="adding_upload_tasks">Добавление задач загрузки</string>
-     <string name="already_signin_description">Войти можно только один раз в день. Зайдите завтра.</string>
+     <string name="already_signin_description">Войти можно только один раз в день. Зайди завтра.</string>
      <string name="app_name">Файлы</string>
      <string name="background">В фоне</string>
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
@@ -35,7 +35,8 @@
      <string name="compress_fail">Ошибка архивирования. Файл уже существует.</string>
      <string name="compress_message">Архивация в…</string>
      <string name="compress_title">Архивация</string>
-     <string name="confirm">ОК</string>
+     <string name="confirm">OK</string>
+	 <string name="connect_network_setting_des">Запрашивать доступ к сети</string>
      <string name="copy_failed">Ошибка копирования</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки…</string>
@@ -51,9 +52,9 @@
      <string name="decompress_to_here">Распаковать в эту папку</string>
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Удалить этот файл?</string>
-     <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
+     <string name="delete_files">Удалить выбранные файлы? (%1$d)</string>
      <string name="delete_folder">Удалить эту папку?</string>
-     <string name="delete_folders">Удалить выбранные папки (%1$d)?</string>
+     <string name="delete_folders">Удалить выбранные папки? (%1$d)</string>
      <string name="des_running_trans">%1$d файл(ов) ожидают отправки</string>
      <string name="dialog_select_type">Выберите тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
@@ -152,9 +153,11 @@
      <string name="name_illegal">Имя не может быть пустым</string>
      <string name="net_lose_connected">Сеть недоступна, невозможно получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
+	 <string name="network_connect_confirm_des">Использование kuaipan требует доступ к сети. Разрешить?</string>
+     <string name="never_notify_network_connect">Больше не показывать</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
-     <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите место с помощью \"Очистки\" или просто удалите большие файлы.</string>
+     <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очисти место с помощью очистки или просто удалите большие файлы.</string>
      <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>
      <string name="no_more_space">Не хватает места на диске</string>
@@ -163,12 +166,13 @@
      <string name="no_wifi_hint">Wi-Fi не найдено нажмите для настройки</string>
      <string name="notif_server_starting">Синхронизация включена</string>
      <string name="notif_title">Обмен файлами включен</string>
-     <string name="open_changed_file_message">"Файл, который Вы пытаетесь открыть был изменен. Вы можете:
+     <string name="open_changed_file_message">Файл, который Вы пытаетесь открыть был изменен. Вы можете:
 1. Скачать (обновить локальный файл)
-2. Загрузить (обновить файл в облаке)"</string>
+2. Загрузить (обновить файл в облаке)</string>
      <string name="open_changed_file_title">Файл изменен</string>
 	 <string name="open_file_failed">не удалось открыть</string>
      <string name="operating">Обработка…</string>
+	 <string name="operation_agree">OK</string>
      <string name="operation_cancel">Отмена</string>
      <string name="operation_compress">Архивация</string>
      <string name="operation_compressing">Архивация…</string>
@@ -180,8 +184,8 @@
      <string name="operation_decompressing">Распаковка архива…</string>
      <string name="operation_delete">Удалить</string>
      <string name="operation_delete_confirm_message">Подтверждение удаления</string>
-     <string name="operation_delete_confirm_message_folder">"Удаление папки удалит все файлы в ней. 
-"</string>
+     <string name="operation_delete_confirm_message_folder">Удаление папки удалит все файлы в ней. 
+</string>
      <string name="operation_deleting">Удаление…</string>
      <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
      <string name="operation_download_link">Создание ссылки для скачивания</string>
@@ -205,15 +209,15 @@
      <string name="operation_unfavorite">Из избранного</string>
      <string name="pan_settting">Настройки KuaiPan</string>
      <string name="paused">Пауза</string>
-     <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить свободное пространство</string>
-     <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
-     <string name="release_to_signin">Отпустите для входа</string>
+     <string name="pull_to_signin">Потяни вниз, чтобы войти в систему и получить место</string>
+     <string name="query_bind_state">Запрос состояния, подожди…</string>
+     <string name="release_to_signin">Отпусти для входа</string>
      <string name="rename_description">Переименование…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
      <string name="sd_card_available">Свободно: %1$s</string>
      <string name="sd_card_size">Всего: %1$s</string>
      <string name="sd_full">SD-карта заполнена</string>
-     <string name="search_hint">Введите часть или все имя файла</string>
+     <string name="search_hint">Введи часть или все имя файла</string>
      <string name="search_title">Поиск документов</string>
      <string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
      <string name="server_control_advanced_settings">Расширенные настройки</string>
@@ -226,8 +230,8 @@
      <string name="show_message">Файл не может быть открыт без загрузки. Загрузить?</string>
      <string name="sign_description">Подключение…</string>
      <string name="signin_error">Нет сети или сеть нестабильна. Повторите еще раз.</string>
-     <string name="signin_success">"Вы успешно вошли!
-Получено %1$s."</string>
+     <string name="signin_success">Ты успешно вошел!
+Получено %1$s.</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
      <string name="space_usage">Использование места</string>
      <string name="start_server">Запустить</string>
@@ -239,6 +243,7 @@
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
+	 <string name="system_alert">Напоминание</string>
      <string name="sys_size_title">Общая память</string>
      <string name="tab_category">Категории</string>
      <string name="tab_phone">Файлы</string>
@@ -247,10 +252,10 @@
      <string name="transing">Отправка</string>
      <string name="trash_box_capacity">Объем корзины: %1$s</string>
      <string name="trash_box_link">Посети pan.xiaomi.com для очистки корзины</string>
-     <string name="trash_box_message1">"Ты можешь удалить не нужные файлы 
- для освобождения места"</string>
-     <string name="trash_box_message2">"Ты можешь удалить не нужные файлы или очистить корзину 
- для освобождения места"</string>
+     <string name="trash_box_message1">Ты можешь удалить не нужные файлы 
+ для освобождения места</string>
+     <string name="trash_box_message2">Ты можешь удалить не нужные файлы или очистить корзину 
+ для освобождения места</string>
      <string name="ui_filechange_btn_download">Скачать</string>
      <string name="ui_filechange_btn_upload">Загрузить</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>

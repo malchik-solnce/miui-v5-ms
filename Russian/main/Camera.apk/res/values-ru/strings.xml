@@ -26,16 +26,17 @@
      <string name="aperture">Апертура</string>
      <string name="app_details">О программе:</string>
      <string name="auto">Авто</string>
-     <string name="bg_replacement_message">"Положите устройство на поверхность
-Выйдите из обзора камеры на некоторое время"</string>
+     <string name="bg_replacement_message">Положите устройство на поверхность
+Выйдите из обзора камеры на некоторое время</string>
      <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
      <string name="camera_error_title">Ошибка камеры</string>
      <string name="camera_label">Камера</string>
      <string name="camera_settings_label">Настройки камеры</string>
      <string name="can_not_play_video">Для воспроизведения разблокируйте экран</string>
      <string name="cancel">Отмена</string>
-     <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
-     <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+     <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайди в приложение.</string>
+     <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузи устройство.</string>
+	 <string name="cannot_move_warning_message">Съемка фото. Не перемещай устройство.</string>
      <string name="chroma_flash_exit_button_text">Выйти</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
@@ -156,7 +157,7 @@
      <string name="maker">Автор</string>
      <string name="manual">Ручная</string>
      <string name="measure_whitebalance_button">Измерить</string>
-     <string name="measure_whitebalance_text">Положите белую или серую бумагу перед объективом камеры, затем нажмите кнопку</string>
+     <string name="measure_whitebalance_text">Положи белую или серую бумагу перед объективом камеры, затем нажми кнопку</string>
      <string name="mimetype">Тип MIME</string>
      <string name="model">Модель</string>
      <string name="no_save">Не сохранять</string>
@@ -165,7 +166,7 @@
      <string name="not_enable_feature">Позже</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
-	 <string name="object_track_enable_toast">Сдвиньте на экран предпросмотра, чтобы включить отслеживание объекта</string>
+	 <string name="object_track_enable_toast">Сдвинь на экран предпросмотра, чтобы включить отслеживание объекта</string>
      <string name="ok">OK</string>
      <string name="opti_zoom_exit_button_text">Выйти</string>
      <string name="orientation">Ориентация</string>
@@ -173,9 +174,9 @@
      <string name="pano_dialog_prepare_preview">Обработка…</string>
      <string name="pano_dialog_title">Панорама</string>
      <string name="pano_dialog_waiting_previous">Ожидание обработки предыдущей панораммы</string>
-     <string name="pano_how_to_use_prompt">Нажмите кнопку затвора для начала съемки панорамного фото</string>
-     <string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
-     <string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
+     <string name="pano_how_to_use_prompt">Нажми кнопку затвора для начала съемки панорамного фото</string>
+     <string name="pano_how_to_use_prompt_go_on_moving">Продолжай перемещать устройство</string>
+     <string name="pano_how_to_use_prompt_to_move">Перемещай устройство плавно</string>
      <string name="pano_review_saving_indication_str">Сохранение…</string>
      <string name="pano_too_fast_prompt">Слишком быстро</string>
      <string name="path">Путь</string>
@@ -185,7 +186,6 @@
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_ae_bracket_hdr_default">Выкл.</string>
      <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-     <string name="pref_camera_antibanding_60">60hz</string>
      <string name="pref_camera_antibanding_entry_0">Выкл.</string>
      <string name="pref_camera_antibanding_entry_1">50 Гц.</string>
      <string name="pref_camera_antibanding_entry_2">60 Гц.</string>
@@ -259,9 +259,6 @@
      <string name="pref_camera_hdr_title">HDR</string>
      <string name="pref_camera_hdr_type_entry_live">Живой</string>
      <string name="pref_camera_hdr_type_entry_normal">Обычный</string>
-     <string name="pref_camera_hdr_type_entryvalue_default">live</string>
-     <string name="pref_camera_hdr_type_entryvalue_live">live</string>
-     <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
      <string name="pref_camera_hdr_type_title">Тип HDR</string>
      <string name="pref_camera_hfr_entry_off">Выкл.</string>
      <string name="pref_camera_hfr_title">Высокая частота кадров (медленное движение)</string>
@@ -281,8 +278,6 @@
      <string name="pref_camera_movie_solid_entry_off">Выкл.</string>
      <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
-     <string name="pref_camera_movie_solid_value_off">off</string>
-     <string name="pref_camera_movie_solid_value_on">on</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Отличная</string>
      <string name="pref_camera_multilevel_entry_highest">Наилучшая</string>
@@ -333,7 +328,6 @@
      <string name="pref_camera_redeyereduction_title">Устранение красных глаз</string>
      <string name="pref_camera_referenceline_entry_off">Выкл.</string>
      <string name="pref_camera_referenceline_entry_on">Вкл.</string>
-     <string name="pref_camera_referenceline_entryvalue_default">referenceline-off</string>
      <string name="pref_camera_referenceline_title">Вспомогательная сетка</string>
      <string name="pref_camera_saturation_title">Насыщенность</string>
      <string name="pref_camera_scenedetect_title">Автообнаружение сцены</string>
@@ -376,7 +370,6 @@
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
      <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
      <string name="pref_camera_video_duration_title">Длительность видео</string>
-     <string name="pref_camera_volumekey_function_default">shutter</string>
      <string name="pref_camera_volumekey_function_entry_exposure">Выдержка</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
      <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
@@ -441,7 +434,7 @@
      <string name="qq_details">QQ:</string>
      <string name="qr_code_details">Текст:</string>
      <string name="raw_data_exit_button_text">Выйти</string>
-     <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
+     <string name="record_back_pressed_hint">Нажми снова, чтобы остановить запись</string>
      <string name="resume_playing_message">Возобновить воспроизведение с %s?</string>
      <string name="resume_playing_restart">Сначала</string>
      <string name="resume_playing_resume">Возобновить</string>
@@ -488,8 +481,8 @@
      <string name="spaceIsLow_content">Место на SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
      <string name="success_message_import_from_account">Успешно импортировано</string>
      <string name="tags">Теги</string>
-     <string name="tap_to_exposure">Нажмите, чтобы настроить экспозицию вручную</string>
-     <string name="tap_to_focus">Нажмите для фокусировки</string>
+     <string name="tap_to_exposure">Нажми, чтобы настроить экспозицию вручную</string>
+     <string name="tap_to_focus">Нажми для фокусировки</string>
      <string name="time">Время</string>
      <string name="time_lapse_error">Невозможно снять видео в режиме замедления при данном разрешении</string>
      <string name="times">Время</string>
@@ -501,19 +494,20 @@
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съемка невозможна в режиме HDR или сумерки</string>
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
 	 <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
-     <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+     <string name="toast_start_audio_capture">Похлопай, чтобы сработал затвор</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
+	 <string name="ubifocus_capture_warning_message">Лучше, когда экран просмотра содержит как вблизи (менее одного метра от объектива) и далеких объектов</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>
      <string name="video_err">Невозможно воспроизвести видео</string>
      <string name="video_reach_size_limit">Достигнут предельный размер видео</string>
-     <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран просмотра</string>
+     <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажми на экран просмотра</string>
      <string name="videocamera_settings_label">Настройки видеокамеры</string>
      <string name="visit_cloud_album">Посетить альбом</string>
      <string name="wait">Пожалуйста, подождите…</string>
      <string name="web_url_apk_warning">QR-код содержит приложение для загрузки, что может быть опасно. Мы рекомендуем Вам использовать маркет для поиска и установки приложений.</string>
-     <string name="web_url_warning">Веб-сайт в QR-коде может быть опасен, браузер безопасно проверит его для вас. Соблюдайте осторожность.</string>
+     <string name="web_url_warning">Веб-сайт в QR-коде может быть опасен, браузер безопасно проверит его для вас. Соблюдай осторожность.</string>
      <string name="website_details">Ссылка:</string>
      <string name="wechat_details">WeChat:</string>
      <string name="white_balance">Баланс белого</string>

@@ -51,12 +51,17 @@
      <string name="copy_db">Отправить базу данных</string>
      <string name="copy_email">Скопировать адрес почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
-     <string name="create_an_account_desc">"Подключи календарь к аккаунту Google, чтобы: 
+     <string name="create_an_account_desc">Подключи календарь к аккаунту Google, чтобы: 
 
 • Всегда иметь под рукой обновленные данные – на любом устройстве
-• Синхронизировать все мероприятия – ты никогда не потеряешь их"</string>
+• Синхронизировать все мероприятия – ты никогда не потеряешь их</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
+	 <string name="cta_notice_checkbox">Больше не показывать</string>
+     <string name="cta_notice_message">Напоминания в календаре о днях рождениях контактов требует доступ к списку контактов. Разрешить?</string>
+     <string name="cta_notice_ok">OK</string>
+     <string name="cta_notice_title">Напоминание</string>
+     <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
      <string name="daily">Ежедневно</string>
      <string name="day_view">День</string>
@@ -66,8 +71,8 @@
      <string name="delete_label">Удалить</string>
      <string name="delete_recurring_event_title">Удалить %s?</string>
      <string name="delete_this_event_title">Удалить мероприятие?</string>
-	 <string name="delete_topic_dialog_title">Хотите отписаться от \ "%s\"?</string>
-     <string name="delete_topic_success">Подписка \"%s\" удалена</string>
+	 <string name="delete_topic_dialog_title">Хотите отписаться от "%s"?</string>
+     <string name="delete_topic_success">Подписка "%s" удалена</string>
      <string name="description_label">Описание</string>
      <string name="directory_searching_fmt">Поиск в %s…</string>
      <string name="discard_label">Отмена</string>
