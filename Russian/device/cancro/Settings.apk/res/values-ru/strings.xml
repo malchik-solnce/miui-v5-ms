@@ -23,7 +23,7 @@
      <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
      <string name="access_control_password_title">Ограничение доступа</string>
      <string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
-     <string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
+     <string name="access_control_reset_by_account">Войди в аккаунт Xiaomi для восстановления пароля</string>
      <string name="accessibility_captioning_title">Титры</string>
      <string name="accessibility_enable">Включить доступ</string>
      <string name="accessibility_feature_state_off">Выкл.</string>
@@ -54,8 +54,10 @@
 Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации.</string>
      <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
      <string name="accessibility_service_default_description">Нет описания</string>
+	 <string name="accessibility_service_no_apps_confirm">OK</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
-     <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
+     <string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Скачать приложение можно в Google Play.</string>
+	 <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_services_title">Службы</string>
      <string name="accessibility_settings">Спец. возможности</string>
      <string name="accessibility_settings_title">Настройки специальных возможностей</string>

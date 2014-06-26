@@ -112,11 +112,13 @@
     <string name="today">Сегодня </string>
     <string name="yestorday">Вчера </string>
     <string name="playvideo">Воспроизвести</string>
+	<string name="post_playcount">раз</string>
     <string name="fullscreen_hint_horizontal">Для перехода в полный экран, нажми иконку в верхнем левом углу</string>
     <string name="fullscreen_hint_vertical">Для перехода в полный экран, нажми кнопку ниже</string>
     <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
     <string name="file_not_exist">Файл не найден</string>
     <string name="play">Смотреть</string>
+	<string name="prex_playcount">Смотрелось:</string>
     <string name="favorite">" избранное"</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>
@@ -218,7 +220,7 @@
     <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
     <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
     <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
-	<string name="backkey_remark">* Примечание: нажмите кнопку назад, чтобы выйти</string>
+	<string name="backkey_remark">* Примечание: нажми кнопку назад, чтобы выйти</string>
     <string name="continue_to_play_nextset_summary">Автоматически воспроизводить следующий эпизод</string>
     <string name="clear_cache_summary">Очистить кэш приложения</string>
     <string name="clear_offline_summary">Очистить кэшированные файлы</string>
@@ -234,6 +236,7 @@
     <string name="finish_download">Загрузка завершена</string>
     <string name="in_download">Загрузка</string>
     <string name="in_waiting">Ожидание</string>
+	<string name="info_title">Информация</string>
 	<string name="install_comfirm">Нажми, чтобы установить</string>
     <string name="in_pause">Приостановлено</string>
     <string name="paused">Приостановлено</string>
@@ -251,7 +254,7 @@
     <string name="download_finish">Загрузка завершена</string>
     <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
     <string name="offline_alert_title">Уведомление загрузки</string>
-    <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверьте в настройках опцию мобильный интернет, если хотите продолжить.</string>
+    <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверь в настройках опцию мобильный интернет, если хочешь продолжить.</string>
     <string name="offline_alert_wifi">Вы используете мобильный интернет. Загрузки будут приостановлены и загружены при подключении к сети Wi-Fi.</string>
     <string name="alert_ignore">Не показывать эту страницу</string>
     <string name="offline_no_source">Нет источника</string>
