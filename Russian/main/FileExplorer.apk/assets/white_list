@@ -9,8 +9,8 @@
 /Ringtones,zh_cn=铃声:ru_RU=Рингтоны
 /ThunderDownload,zh_cn=迅雷下载
 /Android,zh_cn=安卓:zh_tw=安卓:ru_RU=Папка андроид
-/Android/data,zh_cn=安卓数据:zh_tw=安卓數據:ru_RU=Папка с кешем
-/Android/obb,zh_cn=安卓数据:zh_tw=安卓數據:ru_RU=Папка с кешем обб
+/Android/data,zh_cn=安卓数据:zh_tw=安卓數據:ru_RU=Папка с кэшем
+/Android/obb,zh_cn=安卓数据:zh_tw=安卓數據:ru_RU=Папка с кэшем обб
 /DCIM,zh_cn=相册:zh_tw=相冊:ru_RU=Фотографии
 /DCIM/Camera,zh_cn=安卓相机:zh_tw=安卓相機:ru_RU=Фото камеры
 /DCIM/Screenshots,zh_cn=截图:zh_tw=截圖:ru_RU=Скриншоты
@@ -21,18 +21,19 @@
 /MIUI/contactphoto,zh_cn=联系人头像:zh_tw=聯絡人頭像
 /MIUI/Gallery,zh_cn=相册:zh_tw=相冊
 /MIUI/music,zh_cn=音乐:zh_tw=音樂
-/MIUI/MiTools,zh_cn=音乐:zh_tw=音樂ru_RU=Ми тулс
-/MIUI/notes,zh_cn=便签:zh_tw=便簽
-/MIUI/sound_recorder,zh_cn=录音机:zh_tw=錄音機
+/MIUI/MiTools,zh_cn=音乐:zh_tw=音樂:ru_RU=Ми тулс
+/MIUI/notes,zh_cn=便签:zh_tw=便簽:ru_RU=Заметки
+/MIUI/sound_recorder,zh_cn=录音机:zh_tw=錄音機:ru_RU=Записи диктофона
 /MIUI/theme,zh_cn=主题风格:zh_tw=主題風格
 /MIUI/wallpaper,zh_cn=壁纸:zh_tw=壁紙
-/MIUI/weather,zh_cn=天气:zh_tw=天氣
+/MIUI/weather,zh_cn=天气:zh_tw=天氣:ru_RU=Погода
 /MIUI/Transfer,zh_cn=快传:zh_tw=快傳
-/downloaded_rom,zh_cn=系统更新包:zh_tw=系統更新包
+/downloaded_rom,zh_cn=系统更新包:zh_tw=系統更新包:ru_RU=Прошивки
 /NaviOne,zh_cn=凯立德导航
-/Android/data/com.android.camera,zh_cn=相机
+/Android/data/com.android.camera,zh_cn=相机:ru_RU=Камера
+/Android/data/org.telegram.messenger,zh_cn=相机:ru_RU=Телеграм
 /SF_IV_DATA,zh_cn=街霸4
-/tencent,zh_cn=腾讯
+/tencent,zh_cn=腾讯:ru_RU=Вичат
 /dxcontent,ru_RU=Картинки
 /LuckyPatcher,ru_RU=Патчер
 /mobilism,ru_RU=Мобилизм загрузки
@@ -40,3 +41,4 @@
 /UCDownloads,ru_RU=UC браузер
 /zedge,ru_RU=Картинки
 /ZeptoLab,ru_RU=Очки игр
+/WhatsApp,ru_RU=ВатцАпп
