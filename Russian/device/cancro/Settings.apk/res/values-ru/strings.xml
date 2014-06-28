@@ -103,7 +103,7 @@
      <string name="activity_title_create_shortcut">Ярлыки</string>
      <string name="activity_title_settings">Настройки</string>
      <string name="adb_keys_warning_message">Отказать в доступе к USB отладки со всех ранее использованных компьютеров?</string>
-     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
+     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
      <string name="add_blacklist">Добавить в черный список</string>
@@ -246,7 +246,7 @@
      <string name="automatic_brightness">Автонастройка яркости</string>
      <string name="available_size">свободно %s</string>
      <string name="awake">Время включения устройства</string>
-     <string name="back_key">Кнопка \"Назад\"</string>
+     <string name="back_key">Кнопка назад</string>
      <string name="background_data">Фоновый режим</string>
      <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика. Однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
      <string name="background_data_dialog_title">Отключить фоновый режим?</string>
@@ -566,14 +566,14 @@
      <string name="camera_key_action_app_title">Открыть приложение</string>
      <string name="camera_key_action_category_title">Использовать, если приложение камеры не открывается</string>
      <string name="camera_key_action_none_title">Нет действия</string>
-     <string name="camera_key_action_setting_title">Кнопка \"MI\"</string>
+     <string name="camera_key_action_setting_title">Кнопка MI</string>
      <string name="camera_key_action_shortcut_call">Вызов</string>
      <string name="camera_key_action_shortcut_home">Вернуться домой</string>
      <string name="camera_key_action_shortcut_screenshot">Создать скриншот</string>
      <string name="camera_key_action_shortcut_search">Поиск</string>
      <string name="camera_key_action_shortcut_title">Ярлык</string>
      <string name="camera_key_action_shortcut_wake">Блокировка устройства</string>
-     <string name="camera_key_action_title">Клавиша \"MI\"</string>
+     <string name="camera_key_action_title">Клавиша MI</string>
      <string name="camera_key_action_toggle_title">Переключатель</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_alert">Отменить изменения?</string>
@@ -726,19 +726,19 @@
      <string name="data_usage_app_restrict_background">Ограничить фон. режим</string>
      <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi.</string>
      <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
-     <string name="data_usage_app_restrict_dialog">"Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
+     <string name="data_usage_app_restrict_dialog">Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
 
-Более подходящие параметры можно найти в настройках этих приложений."</string>
+Более подходящие параметры можно найти в настройках этих приложений.</string>
      <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
      <string name="data_usage_app_restricted">ограниченный</string>
      <string name="data_usage_app_settings">Настройки приложения</string>
-     <string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но Вам придется синхронизировать данные вручную для их актуализации. Вы также не будете получать уведомления об обновлениях</string>
+     <string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но Вам придется синхронизировать данные вручную для их актуализации. Вы также не будете получать уведомления об обновлениях.</string>
      <string name="data_usage_auto_sync_off_dialog_title">Выключить автосинхронизацию?</string>
-     <string name="data_usage_auto_sync_on_dialog">"Любые изменения аккаунта в сети автоматически будут скопированы в телефон.
-\u0009
+     <string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.
+
 Некоторые аккаунты также могут автоматически копировать изменения с телефона в сеть. Аккаунт Google работает именно так.
-\u0009 \u0009
-Для выбора данных для синхронизации перейдите в Настройки и Аккаунты."</string>
+
+Для выбора данных для синхронизации перейдите в настройки и аккаунты.</string>
      <string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>
      <string name="data_usage_change_cycle">Изменение цикла…</string>
      <string name="data_usage_cycle">Период статистики</string>
@@ -750,13 +750,13 @@
      <string name="data_usage_disable_mobile">Отключить мобильную передачу данных?</string>
      <string name="data_usage_disable_mobile_limit">Установить лимит</string>
      <string name="data_usage_disable_wifi_limit">Лимитировать трафик Wi-Fi</string>
-     <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
+     <string name="data_usage_empty">В этот период не было трафика от приложений</string>
      <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
      <string name="data_usage_enable_4g">Передача данных 4G</string>
      <string name="data_usage_enable_mobile">Мобильный трафик</string>
      <string name="data_usage_label_background">Фоновый режим</string>
      <string name="data_usage_label_foreground">Активный режим</string>
-     <string name="data_usage_limit_dialog_mobile">"Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут."</string>
+     <string name="data_usage_limit_dialog_mobile">Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут</string>
      <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
      <string name="data_usage_limit_editor_title">Лимитирование трафика</string>
      <string name="data_usage_list_mobile">Мобильные сети</string>
@@ -776,9 +776,9 @@
      <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
      <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
      <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
-     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
+     <string name="data_usage_restrict_background_multiuser">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
-Эта установка распространяется на всех пользователей этого телефона."</string>
+Эта установка распространяется на всех пользователей этого телефона.</string>
      <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
      <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика</string>
      <string name="data_usage_summary_title">Передача данных</string>
@@ -825,11 +825,11 @@
      <string name="deep_clean_summary_install_apps_risk">содержит риск</string>
      <string name="deep_clean_summary_install_apps_today">запускалось сегодня</string>
      <string name="deep_clean_summary_install_apps_virus">содержит вирус</string>
-     <string name="deep_clean_tips_cache_content">"Некоторые приложения используют файлы кэша для загрузки дополнительных ресурсов. Будьте осторожны при очистке этих файлов."</string>
+     <string name="deep_clean_tips_cache_content">Некоторые приложения используют файлы кэша для загрузки дополнительных ресурсов. Будьте осторожны при очистке этих файлов.</string>
      <string name="deep_clean_tips_cache_title">Кэшированные файлы</string>
      <string name="deep_clean_tips_large_file_content">Большие файлы (более 10 МБ), которые занимают место на устройстве</string>
      <string name="deep_clean_tips_large_file_title">Большие файлы</string>
-     <string name="deep_clean_tips_residual_content">"Остаточные файлы приложений, которые уже удалены"</string>
+     <string name="deep_clean_tips_residual_content">Остаточные файлы приложений, которые уже удалены</string>
      <string name="deep_clean_tips_residual_title">Мусор</string>
      <string name="deep_clean_title_cache">Кэш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
@@ -852,12 +852,12 @@
      <string name="device_additional_status_summary">Номер телефона, уровень сигнала, IMEI и т.д.</string>
      <string name="device_admin_add_title">Администратор устройства</string>
      <string name="device_admin_settings_title">Настройки администрирования устройства</string>
-     <string name="device_admin_status">Администратор активирован и разрешает приложению \"%1$s\" выполнять следующие операции:</string>
+     <string name="device_admin_status">Администратор активирован и разрешает приложению "%1$s" выполнять следующие операции:</string>
      <string name="device_admin_title">АДМИНИСТРИРОВАНИЕ</string>
-     <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
+     <string name="device_admin_warning">Активация этого администратора позволит приложению "%1$s" выполнять следующие операции:</string>
      <string name="device_cpu">Тип процессора:</string>
-     <string name="device_cpu2_info">"2 ядра по "</string>
-     <string name="device_cpu4_info">"4 ядра по "</string>
+     <string name="device_cpu2_info">2 ядра по </string>
+     <string name="device_cpu4_info">4 ядра по </string>
      <string name="device_edit_title">Смена имени</string>
      <string name="device_info_default">Неизвестно</string>
      <string name="device_info_label">Сведения об устройстве</string>
@@ -875,10 +875,10 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-     <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в настройки > приложения.</string>
+     <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейди в настройки > приложения.</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
-     <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
+     <string name="dialog_msg_check_all">Выбрать %1$s, содержащий %2$d элемен. списка?</string>
      <string name="dialog_msg_cleanup_apps">Все данные этого приложения будут удалены навсегда (все файлы, настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
@@ -894,7 +894,7 @@
      <string name="dialog_title_hdmi_color_calibration">Цветовые предустановки</string>
      <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
      <string name="dialog_title_uninstall_apps">Удаление</string>
-     <string name="dirac_control">Технология \"MI Sound\"</string>
+     <string name="dirac_control">Улучшение звука</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_general">Общие</string>
      <string name="dirac_mode_general_earbuds">Обычные наушники</string>
@@ -902,11 +902,11 @@
      <string name="dirac_mode_in_ear">Наушники Xiaomi</string>
      <string name="dirac_mode_off">Отключено</string>
      <string name="dirac_mode_piston_1">Пистоны Xiaomi 1</string>
-     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
+     <string name="dirac_mode_piston_100">Наушники Xiaomi ("затычки")</string>
      <string name="dirac_mode_piston_2">Пистоны Xiaomi 2</string>
      <string name="dirac_mode_piston_youth">Бюджетные пистоны Xiaomi</string>
-     <string name="dirac_switch_summary">Использовать усилитель звука MiSound для динамика</string>
-     <string name="dirac_switch_title">Усилитель MiSound</string>
+     <string name="dirac_switch_summary">Использовать MiSound для динамика</string>
+     <string name="dirac_switch_title">Технология MiSound</string>
      <string name="disable_adb_debug_summary">Отключить USB отладку</string>
      <string name="disable_anti_spam_summary">Фильтрация сообщений отключена</string>
      <string name="disable_app_permission_summary">Мониторинг приложений отключен</string>
@@ -941,12 +941,12 @@
      <string name="dndm_menu_add_vip_custom">Добавить</string>
      <string name="dndm_mute_all">Звонки и смс без звука</string>
      <string name="dndm_notification">Активен тихий режим</string>
-     <string name="dndm_open">Включить режим</string>
+     <string name="dndm_open">Включить тихий режим</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
      <string name="dndm_special_call_setting_group">Настройки исключений</string>
-     <string name="dndm_summary">После включения тихого режима, входящие звонки и сообщения будут без звука</string>
+     <string name="dndm_summary">После включения, входящие звонки и сообщения будут без звука</string>
      <string name="dndm_vip_call_button_title">Из списка исключений</string>
      <string name="dndm_vip_call_setting_title">Настройка исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
@@ -974,7 +974,7 @@
      <string name="dolby_bassboost_high">Высокое</string>
      <string name="dolby_bassboost_low">Низкое</string>
      <string name="dolby_bassboost_normal">Нормальное</string>
-     <string name="dolby_bassboost_title">Усиление баса:</string>
+     <string name="dolby_bassboost_title">Усиление баса: </string>
      <string name="dolby_effects">Эффекты Dolby</string>
      <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
      <string name="dolby_eq_enter_alert_title">Dolby Music</string>
@@ -987,7 +987,7 @@
      <string name="dolby_roomsize_low">Маленькая комната</string>
      <string name="dolby_roomsize_normal">Обычная комната</string>
      <string name="dolby_roomsize_summary">Доступно только при использовании наушников</string>
-     <string name="dolby_roomsize_title">Объемное звучание:</string>
+     <string name="dolby_roomsize_title">Объемное звучание: </string>
      <string name="done_button">Готово</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим вождения</string>
@@ -1028,14 +1028,14 @@
      <string name="enable_quickboot_summary">Переводить устройство в режим QuickBoot вместо полного выключения</string>
      <string name="enable_quickboot_title">Включить режим QuickBoot</string>
      <string name="enable_service_title">Использовать %1$s?</string>
-     <string name="enable_snapshot_screenlock">\"Назад\" - запуск камеры</string>
+     <string name="enable_snapshot_screenlock">Запуск камеры кнокой назад</string>
      <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
      <string name="enable_terminal_title">Локальный терминальный доступ</string>
      <string name="enable_text">Включить</string>
      <string name="enable_wifi_display">Wi-Fi дисплей</string>
-     <string name="enforce_read_external_confirm_message">"Когда включена защита USB хранилища, приложения должны запрашивать разрешения для чтения данных с внешнего хранилища.
-\u0009
-Некоторые приложения могут перестать работать, пока их не обновят разработчики."</string>
+     <string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения для чтения данных с внешнего хранилища.
+
+Некоторые приложения могут перестать работать, пока их не обновят разработчики.</string>
      <string name="enforce_read_external_confirm_title">Защитить USB хранилище?</string>
      <string name="enforce_read_external_summary">Приложения должны посылать запрос на доступ к USB хранилищу</string>
      <string name="enforce_read_external_title">Защита USB хранилища</string>
@@ -1114,15 +1114,15 @@
      <string name="free_wifi_connect_dialog_summary">Эта бесплатная Wi-Fi сеть %1$s предоставлена %2$s</string>
      <string name="free_wifi_connect_dialog_title">Доступно бесплатное Wi-Fi</string>
      <string name="free_wifi_connect_fail">Ошибка подключения к сети</string>
-     <string name="free_wifi_connect_fail2">Не удалось войти. Подождите немного и повторите еще раз.</string>
-     <string name="free_wifi_connect_summary">Это бесплатное Wi-Fi соедеинеие предоставлено %1$s. Нажмите, чтобы подключиться.</string>
+     <string name="free_wifi_connect_fail2">Не удалось войти. Подожди немного и повтори еще раз.</string>
+     <string name="free_wifi_connect_summary">Это бесплатное Wi-Fi соедеинеие предоставлено %1$s. Нажми, чтобы подключиться.</string>
      <string name="free_wifi_connect_title">Доступна Wi-Fi сеть</string>
      <string name="free_wifi_connected">Подключено к бесплатной Wi-Fi сети</string>
      <string name="free_wifi_connected_count">Подключено пользователей: %1$s</string>
      <string name="free_wifi_connected_time">Время онлайн:%1$s</string>
      <string name="free_wifi_connecting">Подключение…</string>
      <string name="free_wifi_login_again">Войти снова</string>
-     <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
+     <string name="free_wifi_manage_summary">Нажми, чтобы посмотртеь %1$s</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1231,13 +1231,13 @@
      <string name="headset_calibrate">Калибровка кнопок</string>
      <string name="headset_calibrate_apply">Применить</string>
      <string name="headset_calibrate_confirm">Функции кнопок изменены. Сохранить их?</string>
-     <string name="headset_calibrate_hint">Пожалуйста, нажмите верхнюю кнопку</string>
+     <string name="headset_calibrate_hint">Пожалуйста, нажми верхнюю кнопку</string>
      <string name="headset_calibrate_next_track">Следующий трек</string>
      <string name="headset_calibrate_prev_track">Предыдущий трек</string>
      <string name="headset_calibrate_success">Настройки применены</string>
      <string name="headset_calibrate_volume_down">Тише</string>
      <string name="headset_calibrate_volume_up">Громче</string>
-     <string name="headset_calibrate_wrong_key">Ошибка кнопок. Пожалуйста, введите еще ​​раз.</string>
+     <string name="headset_calibrate_wrong_key">Ошибка кнопок. Пожалуйста, введи еще ​​раз.</string>
      <string name="headset_function">Функции кнопок</string>
      <string name="headset_mode_music">Управление воспроизведением музыки</string>
      <string name="headset_mode_volume">Управление громкостью</string>
@@ -1263,12 +1263,12 @@
      <string name="help_url_users" />
      <string name="help_url_vpn" />
      <string name="help_url_wifi" />
-     <string name="hidden_ssid_label">Скрытый SSID:</string>
+     <string name="hidden_ssid_label">Скрытый SSID: </string>
      <string name="history_details_title">Подробная история</string>
      <string name="home_app_uninstall_button">Удалить приложение</string>
-     <string name="home_key">Кнопка \"Домой\"</string>
+     <string name="home_key">Кнопка домой</string>
      <string name="home_settings">Домашний экран</string>
-     <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
+     <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением "%1$s". Использовать этот способ ввода?</string>
      <string name="immediately_destroy_activities">Не сохранять действия</string>
      <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
      <string name="ims_reg_required_off">Обязательная регистрация IMS отключена</string>
@@ -1283,7 +1283,7 @@
      <string name="input_method_selector_show_automatically_title">Автоматически</string>
      <string name="input_method_settings">Настройки</string>
      <string name="input_method_settings_button">Настройки</string>
-     <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
+     <string name="input_methods_and_subtype_enabler_title">Выбери активные способы ввода</string>
      <string name="input_methods_settings_label_format">Настройки %1$s</string>
      <string name="input_methods_settings_title">Ввод текста</string>
      <string name="input_settings">НАСТРОЙКИ ВВОДА</string>
@@ -1299,7 +1299,7 @@
      <string name="intent_sender_sendbroadcast_text">Отправить запрос</string>
      <string name="intent_sender_startactivity_text">Начать действие</string>
      <string name="internal_available_memory">Доступно: %s</string>
-     <string name="internal_available_memory_hint">Доступно: подождите…</string>
+     <string name="internal_available_memory_hint">Доступно: подожди…</string>
      <string name="internal_format">Очистить внутреннюю память</string>
      <string name="internal_format_summary">После форматирования внутреннего хранилища, будут удалены все файлы, такие как музыка, фотографии, игры и т.д.</string>
      <string name="internal_media_format_button_text">Очистить</string>
@@ -1321,7 +1321,7 @@
      <string name="internal_used_memory_hint">Занято: вычисление…</string>
      <string name="invalid_location">Недопустимое место установки</string>
      <string name="invalid_size_value">Не удалось вычислить размер пакета</string>
-     <string name="ipaddr_label">"IP адрес: "</string>
+     <string name="ipaddr_label">IP адрес: </string>
      <string name="item_app_permission">Разрешения приложений</string>
      <string name="item_garbage_size_1000m">1 ГБ</string>
      <string name="item_garbage_size_100m">100 МБ</string>
@@ -1335,7 +1335,7 @@
      <string name="item_mms">Фильтр сообщений</string>
      <string name="item_title_garbage_size">Размер мусора</string>
      <string name="item_title_garbage_time">Период уведомлений</string>
-     <string name="item_title_system_cache">Кэш. данные</string>
+     <string name="item_title_system_cache">Кэшированные данные</string>
      <string name="item_usb_debug">USB отладка</string>
      <string name="item_virus">Вирус</string>
      <string name="item_virus_lib">Обновлять базу данных автоматически</string>
@@ -1349,7 +1349,7 @@
      <string name="key_settings_title">Кнопки и клавиши</string>
      <string name="keyboard_layout_default_label">По умолчанию</string>
      <string name="keyboard_layout_dialog_setup_button">Настройка раскладок клавиатуры</string>
-     <string name="keyboard_layout_dialog_switch_hint">Для переключения нажмите Control-Пробел</string>
+     <string name="keyboard_layout_dialog_switch_hint">Для переключения нажми Control-Пробел</string>
      <string name="keyboard_layout_dialog_title">Раскладка клавиатуры</string>
      <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
      <string name="keyboard_settings_category">КЛАВИАТУРА И СПОСОБЫ ВВОДА</string>
@@ -1362,12 +1362,12 @@
      <string name="large_file_sort_type_size">По размеру</string>
      <string name="large_font">Большой</string>
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
-     <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
-     <string name="last_check_date_yesterday">"Последняя проверка: вчера в "</string>
-     <string name="last_check_never_checked">Рекомендуем проверить :)</string>
+     <string name="last_check_date_today">Последняя проверка: сегодня в </string>
+     <string name="last_check_date_yesterday">Последняя проверка: вчера в</string>
+     <string name="last_check_never_checked">Рекомендую проверить :)</string>
      <string name="last_checked_date">Проверки не было больше 30 дней</string>
      <string name="last_checked_date2">Последняя проверка: %d дн. назад</string>
-     <string name="last_checked_date_mark">"%"</string>
+     <string name="last_checked_date_mark"> %</string>
      <string name="last_checked_default">Последняя проверка: %s дн. назад</string>
      <string name="last_synced">Последняя синхронизация %1$s</string>
      <string name="launch_count_label">Подсчет</string>
@@ -1380,7 +1380,7 @@
      <string name="license_title">Лицензия</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
      <string name="line_breaking_title">Оптимизация текста</string>
-     <string name="link_speed_label">"Скорость: "</string>
+     <string name="link_speed_label">Скорость: </string>
      <string name="list_sub_view_item_backup_cleanup">Бэкап</string>
      <string name="list_sub_view_item_backup_uninstall">Бэкап и удалить</string>
      <string name="list_sub_view_item_clean">Удалить</string>
@@ -1410,9 +1410,9 @@
      <string name="location_high_battery_use">Высокий расход заряда батареи</string>
      <string name="location_loading_injected_setting">Получение…</string>
      <string name="location_low_battery_use">Низкий расход заряда батареи</string>
-     <string name="location_mode_battery_saving_description">Использовать Wi‑Fi и мобильные сети для определения местоположения</string>
+     <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
      <string name="location_mode_battery_saving_title">Экономия батареи</string>
-     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi‑Fi и мобильные сети для определения местоположения</string>
+     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильные сети для определения местоположения</string>
      <string name="location_mode_high_accuracy_title">Высокая точность</string>
      <string name="location_mode_location_off_title">Отправка геоданных отключена</string>
      <string name="location_mode_screen_title">Режим местоположения</string>
@@ -1463,22 +1463,22 @@
      <string name="lockpassword_pin_set_toast">PIN-код установлен</string>
      <string name="lockpassword_pin_too_long">В PIN-коде должно быть не более %d зн.</string>
      <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d символов</string>
-     <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
+     <string name="lockpassword_press_continue">После завершения нажмите продолжить</string>
      <string name="lockpattern_change_lock_pattern_label">Изменить ключ</string>
      <string name="lockpattern_change_lock_pin_label">Изменить PIN-код разблокировки</string>
      <string name="lockpattern_confirm_button_text">Подтвердить</string>
      <string name="lockpattern_continue_button_text">Продолжить</string>
      <string name="lockpattern_need_to_confirm">Для подтверждения, начертите ключ повторно:</string>
-     <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
+     <string name="lockpattern_need_to_unlock">Начерти существующий ключ</string>
      <string name="lockpattern_need_to_unlock_footer" />
-     <string name="lockpattern_need_to_unlock_wrong">Повторите еще раз</string>
+     <string name="lockpattern_need_to_unlock_wrong">Повтори еще раз</string>
      <string name="lockpattern_need_to_unlock_wrong_footer" />
      <string name="lockpattern_pattern_confirmed_header">Новый графический ключ разблокировки</string>
      <string name="lockpattern_pattern_entered_header">Графический ключ записан!</string>
-     <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум %d). Повторите попытку:</string>
-     <string name="lockpattern_recording_inprogress">По завершении отпустите палец</string>
-     <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\"</string>
-     <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
+     <string name="lockpattern_recording_incorrect_too_short">Соедини точки (как минимум %d). Повторите попытку:</string>
+     <string name="lockpattern_recording_inprogress">По завершении отпусти палец</string>
+     <string name="lockpattern_recording_intro_footer">Для справки нажми меню</string>
+     <string name="lockpattern_recording_intro_header">Начерти графический ключ разблокировки</string>
      <string name="lockpattern_restart_button_text">Воспроизвести повторно</string>
      <string name="lockpattern_retry_button_text">Повторить</string>
      <string name="lockpattern_settings_change_lock_pattern">Изменить ключ</string>
@@ -1602,7 +1602,7 @@
      <string name="menu_item_shortcut_title">Добавить ярлыки</string>
      <string name="menu_item_shortcut_uninstall">Удалить</string>
      <string name="menu_item_uninstall">Удалить</string>
-     <string name="menu_key">Кнопка \"Меню\"</string>
+     <string name="menu_key">Кнопка меню</string>
      <string name="menu_new">Создать</string>
      <string name="menu_proc_stats_duration">Период</string>
      <string name="menu_proc_stats_type">Тип статистических данных</string>
@@ -2223,7 +2223,7 @@
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Включить подсветку</string>
-     <string name="pref_button_light_summary">Подсвечивать кнопки меню, назад и домой</string>
+     <string name="pref_button_light_summary">Подсветка кнопок меню, назад и домой</string>
      <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
      <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
      <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
@@ -2240,37 +2240,33 @@
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
-     <string name="pref_volume_wake_summary">Нажатие увеличения/уменьшения громкости для пробуждения устройства</string>
-     <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
+     <string name="pref_volume_wake_summary">Пробуждать устройство нажатием кнопки громокости</string>
+     <string name="pref_volume_wake_title">Пробуждать устройство</string>
      <string name="preference_change_password_title">Изменить пароль</string>
      <string name="preferred_app_settings">Приложения по умолчанию</string>
      <string name="preferred_app_settings_default">По умолчанию</string>
      <string name="preferred_app_settings_reset">Сбросить настройки</string>
      <string name="preferred_app_settings_reset_message">Восстановить все значения настроек приложений по умолчанию?</string>
      <string name="preferred_application_title">%s</string>
-     <string name="preferred_application_warning_message">"Замена приложения \"%1$s\" может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. 
-Рекомендуем использовать приложение \"%2$s\"."</string>
+     <string name="preferred_application_warning_message">Замена приложения "%1$s" может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. 
+Рекомендуем использовать приложение "%2$s".</string>
      <string name="preferred_application_warning_replace">Заменить</string>
-     <string name="preferred_application_warning_title">Замена \"%s\"</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Use %s -->
+     <string name="preferred_application_warning_title">Замена "%s"</string>
      <string name="preferred_application_warning_use_system">Отмена</string>
      <string name="preferred_launcher_title">Рабочий стол</string>
      <string name="preferred_media_app_summary">Выберите аудиоплеер</string>
      <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для написания и чтения сообщений</string>
      <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
-     <string name="preferred_sms_warning_message">При использовании приложения \"%1$s\" для сообщений по умолчанию, может взыматься дополнительная оплата</string>
+     <string name="preferred_sms_warning_message">При использовании приложения "%1$s" для сообщений по умолчанию, может взыматься дополнительная оплата</string>
      <string name="preferred_sms_warning_use_system">Отмена</string>
-     <string name="print_blocked_state_title_template">Задание \"%1$s\" заблокировано</string>
+     <string name="print_blocked_state_title_template">Задание "%1$s" заблокировано</string>
      <string name="print_cancel">Отмена</string>
      <string name="print_cancelling_state_title_template">Отмена задания %1$s…</string>
-     <string name="print_failed_state_title_template">Ошибка задания \"%1$s\"</string>
+     <string name="print_failed_state_title_template">Ошибка задания "%1$s"</string>
      <string name="print_feature_state_off">Выкл.</string>
      <string name="print_feature_state_on">Вк.</string>
-     <string name="print_job_summary">"%1$s
-%2$s"</string>
+     <string name="print_job_summary">%1$s
+%2$s</string>
      <string name="print_menu_item_add_printer">Добавить принтер</string>
      <string name="print_menu_item_add_printers">Добавить принтеры</string>
      <string name="print_menu_item_add_service">Добавить службу печати</string>
@@ -2280,7 +2276,7 @@
      <string name="print_no_services_installed">Сервисов нет</string>
      <string name="print_print_job">Настройки задания печати</string>
      <string name="print_print_jobs">Задания печати</string>
-     <string name="print_printing_state_title_template">Печать задания \"%1$s\"…</string>
+     <string name="print_printing_state_title_template">Печать задания "%1$s"…</string>
      <string name="print_restart">Перезапустить</string>
      <string name="print_search_box_hidden_utterance">Окно поиска скрыто</string>
      <string name="print_search_box_shown_utterance">Окно поиска показано</string>
@@ -2303,7 +2299,7 @@
      <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
      <string name="process_kernel_label">ОС Android</string>
      <string name="process_list_empty_hints">Нет процессов</string>
-     <string name="process_manage_title">К очистке: %1$d | Освободится: %2$s мб</string>
+     <string name="process_manage_title">К очистке: %1$d | Освободится: %2$s</string>
      <string name="process_manager_actionbar_title">Использование памяти</string>
      <string name="process_mediaserver_label">Сервер медиа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s используется</string>
@@ -2433,7 +2429,7 @@
      <string name="remove_contact">Удалить этот контакт?</string>
      <string name="remove_delete">Удалить</string>
      <string name="remove_device_admin">Отключить</string>
-     <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
+     <string name="remove_from_frequently_fragment">Удалить "%s" из общих настроек?</string>
      <string name="remove_inf">Удалить информацию?</string>
      <string name="remove_keyword">Удалить ключевое слово?</string>
      <string name="remove_sms">Удалить все журналы сообщений?</string>
@@ -2479,10 +2475,10 @@
      <string name="roaming_reenable_title">Внимание</string>
      <string name="roaming_turn_it_on_button">Включить</string>
      <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга.</string>
-     <string name="roaming_warning_multiuser">"Использование роуминга может повлечь за собой непредвиденные расходы.
+     <string name="roaming_warning_multiuser">Использование роуминга может повлечь за собой непредвиденные расходы.
 
-Настройки будут изменены для всех пользователей устройства."</string>
-     <string name="rssi_label">"RSSI: "</string>
+Настройки будут изменены для всех пользователей устройства.</string>
+     <string name="rssi_label">RSSI: </string>
      <string name="rubbish_cleaning">Очистка системы</string>
      <string name="running_process_item_removed_user_label">Удаление пользователя…</string>
      <string name="running_process_item_user_label">Пользователь: %1$s</string>
@@ -2499,7 +2495,7 @@
      <string name="runningservices_settings_title">Работающие приложения</string>
      <string name="save_button">Сохранить</string>
      <string name="scan_done">Сканирование завершено</string>
-     <string name="scan_list_label">"Результат сканирования: "</string>
+     <string name="scan_list_label">Результат сканирования: </string>
      <string name="scanning_prefix">Сканирование:%s</string>
      <string name="scanning_start_hints">Запуск движка</string>
      <string name="scanning_virus">Сканирование…</string>
@@ -2515,7 +2511,7 @@
      <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
      <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ КНОПОК</string>
      <string name="screen_key_long_press_action">Переключатель функций</string>
-     <string name="screen_key_long_press_timeout">Время удерживания</string>
+     <string name="screen_key_long_press_timeout">Время нажатия</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
      <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, при помощи датчика</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
@@ -2602,7 +2598,7 @@
      <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
      <string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешиний доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
      <string name="security_settings_premium_sms_desc">Отправка SMS</string>
-     <string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
+     <string name="security_settings_summary">Настройка функции мое местоположение, разблокировка экрана и блокировка хранилища регистрационных данных</string>
      <string name="security_settings_title">Безопасность телефона</string>
      <string name="sel_sub_summary">Выберите оператора</string>
      <string name="sel_sub_title">Настроить подписки</string>
@@ -2619,10 +2615,10 @@
      <string name="selinux_status_enforcing">Блокировка</string>
      <string name="selinux_status_permissive">Только предупреждение</string>
      <string name="service_background_processes">%1$s свободно</string>
-     <string name="service_client_name">Нажмите, чтобы изменить %1$s</string>
+     <string name="service_client_name">Нажми, чтобы изменить %1$s</string>
      <string name="service_foreground_processes">%1$s занято</string>
      <string name="service_manage">Настройки</string>
-     <string name="service_manage_description">%1$s: в настоящий момент используется. Нажмите \"Настройки\" для управления.</string>
+     <string name="service_manage_description">%1$s: в настоящий момент используется. Нажми настройки для управления.</string>
      <string name="service_process_name">Процесс: %1$s</string>
      <string name="service_restarting">Перезапуск</string>
      <string name="service_started_by_app">Запущено приложением</string>
