@@ -895,7 +895,7 @@
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
      <string name="resource_price_free">Беспл.</string>
-     <string name="resource_price_unit">" Mi"</string>
+     <string name="resource_price_unit"> Mi</string>
      <string name="resource_purchase_getting_order">Получение данных о заказе…</string>
      <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
      <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
@@ -918,7 +918,7 @@
      <string name="resource_system_title">Системные компоненты</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
-     <string name="resource_title_select_ringtone">Выберите мелодию</string>
+     <string name="resource_title_select_ringtone">Выбери мелодию</string>
 	 <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если Вам понравилось :)</string>
      <string name="resource_trial_end_purchase">Купить</string>
      <string name="resource_trial_end_restore">Отмена</string>
@@ -1111,6 +1111,7 @@
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
 	 <string name="yellowpage_navigation_menu_order">Мои заказы</string>
+	 <string name="yellowpage_navigation_more_items">Еще</string>
 	 <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
 	 <string name="yellowpage_navigation_network_location_enabled">Сервис включен. Ты можешь отключить его в настройках местоположения.</string>
@@ -1125,6 +1126,9 @@
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выбери город</string>
+	 <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
+     <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка. Проверь настройки сети.</string>
 	 <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
+	 <string name="yellowpage_user_profile">Профиль</string>
      <string name="zero_items_selected">Выбери контакты</string>
 </resources>

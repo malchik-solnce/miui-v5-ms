@@ -60,7 +60,7 @@
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
 	 <string name="resource_apply_trial">Попробовать</string>
-     <string name="resource_buy">"Купить "</string>
+     <string name="resource_buy">Купить </string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
      <string name="resource_category">Категории</string>
      <string name="resource_comment_1_star">1 звезда</string>
@@ -117,7 +117,7 @@
 	 <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Загруженные ресурсы</string>
      <string name="resource_downloading">Загрузка</string>
-     <string name="resource_exchange">Принять</string>
+     <string name="resource_exchange">Подарочная карта</string>
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -134,7 +134,7 @@
      <string name="resource_exchange_universal_goon">Этот код может быть использован для загрузки любой темы из магазина MIUI</string>
      <string name="resource_exchange_window_title">Принять</string>
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
-     <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверьте его и попробуйте еще раз.</string>
+     <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверь его и попробуй еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
@@ -160,7 +160,7 @@
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
      <string name="resource_price_free">Беспл.</string>
-     <string name="resource_price_unit">" Mi"</string>
+     <string name="resource_price_unit"> Mi</string>
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
      <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
      <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
@@ -176,9 +176,9 @@
      <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
-     <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
+     <string name="resource_server_out_of_service">Сервис не доступен. Попробуй позже.</string>
      <string name="resource_share_subject">Поделиться: %1$s</string>
-     <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
+     <string name="resource_share_text">Вот тема, которая тебе понравится: %1$s! Ссылка: %2$s.</string>
      <string name="resource_share_title">Отправка</string>
      <string name="resource_system_title">Системные ресурсы</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
@@ -189,20 +189,20 @@
      <string name="resource_trial_end_restore">Отмена</string>
      <string name="resource_trial_end_title">Пробное время вышло</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
-     <string name="resource_unable_to_access">"К сожалению,
-контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
+     <string name="resource_unable_to_access">К сожалению,
+контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
-     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
+     <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
      <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
-     <string name="theme_batch_update_all">Обновить все</string>
-     <string name="theme_batch_update_dlg_content">Вы хотите обновить все темы сейчас?</string>
+     <string name="theme_batch_update_all">Обновить %1$s и еще %2$d другие темы?</string>
+     <string name="theme_batch_update_dlg_content">Обновить %1$s сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить сейчас?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
      <string name="theme_batch_updating_text">Обновляется тем: %1$d</string>
@@ -242,8 +242,8 @@
      <string name="theme_select_others">Прочее</string>
 	 <string name="theme_user_agreement_allow">OK</string>
      <string name="theme_user_agreement_content1">Прочитайте действующие условия, прежде чем использовать этот продукт:</string>
-     <string name="theme_user_agreement_content2">" Пользовательское соглашение"</string>
-     <string name="theme_user_agreement_content3">" и "</string>
+     <string name="theme_user_agreement_content2"> Пользовательское соглашение</string>
+     <string name="theme_user_agreement_content3"> и </string>
      <string name="theme_user_agreement_content4">Политика безопасности</string>
      <string name="theme_user_agreement_content5">. Разрешаете доступ к сети?</string>
      <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>

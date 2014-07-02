@@ -23,7 +23,7 @@
      <string name="add_new_bookmark">Добавить закладку</string>
      <string name="add_quicklink_to_popular">Добавить на стартовую</string>
      <string name="added_to_bookmarks">Добавлено в закладки</string>
-     <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожны!</string>
+     <string name="alert_tips">Этот сайт может представлять угрозу безопасности. Будь осторожен!</string>
      <string name="allow">Разрешить</string>
      <string name="already_in_top_level">Закладка уже в самом верху</string>
      <string name="app_new_version">Загрузка завершена. Последняя версия приложения уже установлена.</string>
@@ -82,7 +82,7 @@
      <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
      <string name="cancel">Отмена</string>
-     <string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
+     <string name="cannot_download">Загрузка возможна только с URL, начинающихся с "http" или "https"</string>
      <string name="choose_upload">Выберите файл для загрузки</string>
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
@@ -150,13 +150,13 @@
      <string name="date_picker_dialog_clear">Очистить</string>
 	 <string name="date_picker_dialog_other_button_label">Другое</string>
      <string name="date_picker_dialog_set">OK</string>
-     <string name="date_picker_dialog_title">Выберите дату</string>
+     <string name="date_picker_dialog_title">Выбери дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
      <string name="delete">Удалить</string>
      <string name="delete_bookmark">Из закладок</string>
-     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
+     <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
      <string name="delete_folder">Удалить папку</string>
-     <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
+     <string name="delete_multi_bookmarks_alert_title">Удалить %1$s закладок?</string>
 	 <string name="dialog_geolocation_reject">Отклонить</string>
      <string name="dialog_geolocation_share">Принять</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
@@ -173,7 +173,7 @@
      <string name="download_no_sdcard_dlg_msg">Для загрузки %s необходима SD-карта</string>
      <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
      <string name="download_pending">Начинается загрузка…</string>
-     <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
+     <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выбери отключить USB-накопитель в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка…</string>
@@ -188,6 +188,7 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	 <string name="enter_developer_mode">Режим для разработчиков</string>
      <string name="error_console_eval_button_text">Оценить</string>
      <string name="error_console_eval_text_hint">Оценить JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
@@ -513,7 +514,7 @@
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>
-     <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
+     <string name="sign_in_to" formatted="false">Войти в %s1 "%s2"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
 	 <string name="snapshot_successed">Успешно сохранено для чтения в офф-лайне</string>
@@ -592,13 +593,13 @@
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
      <string name="webview_cancel">Отмена</string>
      <string name="webview_find_on_page">Поиск на странице</string>
-     <string name="webview_js_dialog_before_unload">"%s
+     <string name="webview_js_dialog_before_unload">%s
 
-Вы уверены, что хотите покинуть эту страницу?"</string>
+Вы уверены, что хотите покинуть эту страницу?</string>
      <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
      <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
-     <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
+     <string name="webview_js_dialog_title">Страница "%s" сообщает:</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
      <string name="webview_ok">OK</string>

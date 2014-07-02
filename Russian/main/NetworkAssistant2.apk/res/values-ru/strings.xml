@@ -10,7 +10,7 @@
      <string name="adjust_traffic_data">Настроить трафик</string>
      <string name="app_detail">Сведения</string>
      <string name="app_mobile">3G</string>
-     <string name="app_name">Монитор</string>
+     <string name="app_name">Трафик</string>
      <string name="app_version">Версия</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="background_traffic">Фоновый трафик %s</string>
@@ -76,6 +76,7 @@
      <string name="main_button_usage_package_setting">Установить трафик</string>
      <string name="main_toolbar_firewall">Контроль</string>
      <string name="main_toolbar_purchase">Пополнение</string>
+	 <string name="main_toolbar_saving">Сжатие</string>
      <string name="main_toolbar_statistic">Статистика</string>
      <string name="main_traffic_overlimit_text">%s превышено</string>
      <string name="main_traffic_remian_text">%s
@@ -145,6 +146,19 @@
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
      <string name="pref_title_update_notification">Показывать трафик в панели</string>
+	 <string name="pref_traffic_saving_issue">Информация</string>
+     <string name="pref_traffic_saving_issue_content">Это безопасно?
+	 
+Да, все ваши данные (персональная информация) в полной безопасности при использовании услуги сжатие трафика
+
+Включено сохранение, но нет сжатого трафика?
+
+Сжатие работает только при использовании мобильного интернета, а не Wi-Fi</string>
+     <string name="pref_traffic_saving_notify_switch">Показывать уведомление</string>
+     <string name="pref_traffic_saving_notify_switch_hint">Показывать информацию о сжатии трафика в панели уведомлений</string>
+     <string name="pref_traffic_saving_switch">Сжимать трафик</string>
+     <string name="pref_traffic_saving_switch_hint">Использовать сжатие трафика при мобильном интернете</string>
+     <string name="pref_traffic_saving_title">Сжатие трафика</string>
      <string name="pref_version">Версия %s</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
@@ -158,7 +172,7 @@
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
      <string name="traffic_correction_failed">Не удалось получить информацию</string>
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
-     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
+     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверь настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>
      <string name="traffic_none">Нет</string>
      <string name="traffic_protection_data_usage_summary">Использование мобильного интернета после превышения пакета трафика может вызвать высокие денежные расходы</string>
@@ -166,8 +180,25 @@
      <string name="traffic_protection_next">Далее</string>
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
      <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
-     <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
+     <string name="traffic_protection_unknown">Настроить позже</string>
      <string name="traffic_protection_use_data">Данные включены</string>
+	 <string name="traffic_saving_button_sorted">Инфо</string>
+     <string name="traffic_saving_button_start">Запустить</string>
+     <string name="traffic_saving_button_stop">Остановить</string>
+     <string name="traffic_saving_history_title">История</string>
+     <string name="traffic_saving_history_total_money">Экономия</string>
+     <string name="traffic_saving_history_total_money_unit">юань</string>
+     <string name="traffic_saving_history_total_traffic">Всего сэкономлено</string>
+     <string name="traffic_saving_msg_month">Мксяц %1$s - %2$s</string>
+     <string name="traffic_saving_msg_today">Сегодня</string>
+     <string name="traffic_saving_notify_start_content">За месяц %s</string>
+     <string name="traffic_saving_notify_start_title">Сжатие трафика</string>
+     <string name="traffic_saving_tecsupport">При поддержке Opera Max</string>
+     <string name="traffic_saving_title">Сжатие трафика</string>
+     <string name="traffic_saving_toast_start_mobile">Включено сжатие трафика</string>
+     <string name="traffic_saving_toast_start_none_mobile">Сжатие будет работать только с мобильным интернетом</string>
+     <string name="traffic_saving_toast_start_unreachable">Ошибка включения</string>
+     <string name="traffic_saving_toast_stop">Сжатие трафика отключено</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>

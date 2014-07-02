@@ -26,8 +26,8 @@
      <string name="aperture">Апертура</string>
      <string name="app_details">О программе:</string>
      <string name="auto">Авто</string>
-     <string name="bg_replacement_message">Положите устройство на поверхность
-Выйдите из обзора камеры на некоторое время</string>
+     <string name="bg_replacement_message">Положи устройство на поверхность
+Выйди из обзора камеры на некоторое время</string>
      <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
      <string name="camera_error_title">Ошибка камеры</string>
      <string name="camera_label">Камера</string>
@@ -192,7 +192,7 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
-	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка, когда стабильно</string>
+	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
 	 <string name="pref_camera_auto_chroma_flash_title">Авто Chroma вспышка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
@@ -478,8 +478,8 @@
      <string name="slideshow">Слайдшоу</string>
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Пожалуйста, выберите разрешение выше или равное текущему размеру видео.</string>
      <string name="snapshot_qcif_and_d1">Только размер снимка видео поддерживает это разрешение</string>
-     <string name="snapshotsize_low_powermode">В режиме пониженного энергопотребления не поддерживается изменение разрешения изображения. Для снимка будет использован размер видео. Пожалуйста, выберите режим высокого энергопотребления для изменения размера изображения.</string>
-     <string name="spaceIsLow_content">Место на SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
+     <string name="snapshotsize_low_powermode">В режиме пониженного энергопотребления не поддерживается изменение разрешения изображения. Для снимка будет использован размер видео. Пожалуйста, выбери режим высокого энергопотребления для изменения размера изображения.</string>
+     <string name="spaceIsLow_content">Место на SD-карте заканчивается. Измени настройки качества или удали ненужные изображения и другие файлы.</string>
      <string name="success_message_import_from_account">Успешно импортировано</string>
      <string name="tags">Теги</string>
      <string name="tap_to_exposure">Нажми, чтобы настроить экспозицию вручную</string>
@@ -496,6 +496,7 @@
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
 	 <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Похлопай, чтобы сработал затвор</string>
+	 <string name="ubi_focus_capture_fail">Не удалось сделать снимок. Повтори еще раз.</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
 	 <string name="ubifocus_capture_warning_message">Лучше, когда экран просмотра содержит как вблизи (менее одного метра от объектива) и далеких объектов</string>
      <string name="undo">Назад</string>
@@ -523,5 +524,5 @@
      <string name="wifi_pwd">Пароль:</string>
      <string name="wifi_security">Защита:</string>
      <string name="wifi_ssid">SSID:</string>
-     <string name="wifi_warning">Пожалуйста, убедитесь, что это безопасно перед подключением к этой Wi-Fi</string>
+     <string name="wifi_warning">Убедись, что это безопасно перед подключением к этой Wi-Fi сети</string>
 </resources>

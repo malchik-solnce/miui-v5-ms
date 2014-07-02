@@ -11,9 +11,9 @@
      <string name="alert_title_new_station">Новая радиостанция</string>
      <string name="alert_title_save_station">Сохранить радиостанцию %s</string>
      <string name="app_name">Радио</string>
-     <string name="audio_db_album_name">"Альбом: "</string>
-     <string name="audio_db_artist_name">"Исполнитель: "</string>
-     <string name="audio_db_playlist_name">"Плейлист: "</string>
+     <string name="audio_db_album_name">Альбом: </string>
+     <string name="audio_db_artist_name">Исполнитель: </string>
+     <string name="audio_db_playlist_name">Плейлист: </string>
      <string name="audio_type_mono">Моно</string>
      <string name="audio_type_stereo">Стерео</string>
      <string name="auto_select_af">Альтернативная частота</string>
@@ -23,11 +23,10 @@
      <string name="context_menu_item_edit">Редактировать</string>
      <string name="context_menu_item_favorite">Добавить в избранное</string>
      <string name="context_menu_item_unfavorite">Удалить из избранного</string>
-     <string name="context_menu_title">%sМГц</string>
+     <string name="context_menu_title">%s МГц</string>
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
      <string name="default_blank" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="delete_station_title">Удалить</string>
      <string name="dialog_sleep_title">Спящий режим</string>
@@ -40,11 +39,11 @@
      <string name="factory_reset_dialog_title">Сброс настроек радио</string>
      <string name="find_af_station">Поиск</string>
      <string name="fm_cmd_failed_call_on">Ошибка радио. Невозможно прослушивать радио во время вызова.</string>
-     <string name="fm_cmd_failed_msg">Попробуйте перезапустить радио</string>
+     <string name="fm_cmd_failed_msg">Попробуй перезапустить радио</string>
      <string name="fm_cmd_failed_msg_hdmi">Ошибка радио. Невозможно одновременно использовать радио и HDMI соединение.</string>
      <string name="fm_command_failed_title">Ошибка операции</string>
      <string name="fm_command_timeout_title">Время ожидания вышло</string>
-     <string name="fm_tune_timeout_msg">Попробуйте перезагрузить телефон</string>
+     <string name="fm_tune_timeout_msg">Попробуй перезагрузить телефон</string>
      <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены. Продолжить сканирование?</string>
      <string name="fmtx_autoselect_name">Все избранные станции будут удалены</string>
      <string name="frequency_already_exist">Частота уже существует</string>
@@ -120,10 +119,10 @@
      <string name="settings_revert_defaults_title">Сброс настроек радио</string>
      <string name="spaceIsLow_content">SD-карта заполнена</string>
      <string name="stat_notif_frequency">%1$s МГц</string>
-     <string name="stat_notif_tx_frequency">FM частота: %1$s</string>
+     <string name="stat_notif_tx_frequency">Частота: %1$s</string>
      <string name="station_check_favorite">Добавить в избранное</string>
      <string name="station_edit">Изменить</string>
-     <string name="station_freq_format">%sМГц</string>
+     <string name="station_freq_format">%s МГц</string>
      <string name="station_move">Переместить</string>
      <string name="station_name_already_used">Такое имя уже используется. Выберите другое название станции.</string>
      <string name="stations_list">Список радиостанций</string>
@@ -136,10 +135,9 @@
      <string name="title_select_station">Частота: %s</string>
      <string name="toast_added_to_list">Добавлено в список</string>
      <string name="toast_added_to_presets">Добавлено в избранное</string>
-     <string name="toast_channel_searched">Найдено станций: %1$d</string>
-     <string name="toast_delete_station">%sМГц удалена</string>
+     <string name="toast_delete_station">%s МГц удалена</string>
      <string name="toast_edit_station">Изменения сохранены</string>
-	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
+	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверь и попробуй снова.</string>
      <string name="toast_fm_not_stated">Не указана станция</string>
 	 <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
@@ -148,7 +146,7 @@
      <string name="toast_fm_starting">Радио запускается…</string>
      <string name="toast_fm_stoping">Радио выключается…</string>
      <string name="toast_removed_from_presets">Удалено из избранного</string>
-     <string name="toast_save_station">%sМГц сохранена</string>
+     <string name="toast_save_station">%s МГц сохранена</string>
      <string name="toast_sleep_mode">Радио будет отключено через %s</string>
      <string name="toast_sleep_mode_exit">Спящий режим отменен</string>
      <string name="transmit_msg_string">Передача:</string>
