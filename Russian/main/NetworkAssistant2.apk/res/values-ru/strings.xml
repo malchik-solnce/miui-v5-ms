@@ -19,22 +19,22 @@
      <string name="daily_pkg_traffic">Предел трафика</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
-     <string name="data_usage_disabled_dialog">Вы достигли предела использованного трафика. 
+     <string name="data_usage_disabled_dialog">Достигнут предел использованного трафика. 
 
-Это может повлечь большие затраты на трафик (в зависимости от вашего оператора).</string>
+Это может повлечь большие затраты на трафик (в зависимости от оператора).</string>
      <string name="data_usage_disabled_dialog_enable">Включить данные</string>
-     <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика</string>
+     <string name="data_usage_leisure_warning_body">Нажми для просмотра использованного трафика</string>
      <string name="data_usage_leisure_warning_title">Предел трафика</string>
-     <string name="data_usage_limit_body">Нажмите, чтобы включить моб. интернет</string>
+     <string name="data_usage_limit_body">Нажми, чтобы включить моб. интернет</string>
      <string name="data_usage_limit_snoozed_body">Вы превысили лимит трафика</string>
      <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит трафика</string>
      <string name="data_usage_mobile_limit_title">Мобильный интернет отключен</string>
-     <string name="data_usage_no_total_package_body">Хотите настроить пакет или лимит трафика?</string>
-     <string name="data_usage_no_total_package_body_dual">Хотите настроить пакет или лимит трафика для %s?</string>
+     <string name="data_usage_no_total_package_body">Настроить пакет или лимит трафика?</string>
+     <string name="data_usage_no_total_package_body_dual">Настроить пакет или лимит трафика для %s?</string>
      <string name="data_usage_no_total_package_title">Использование данных</string>
-     <string name="data_usage_restricted_body">Нажмите, чтобы включить данные в фоне</string>
+     <string name="data_usage_restricted_body">Нажми, чтобы включить данные в фоне</string>
      <string name="data_usage_restricted_title">Ограничение фоновых данных</string>
-     <string name="data_usage_warning_body">Нажмите для просмотра сведений</string>
+     <string name="data_usage_warning_body">Нажми для просмотра сведений</string>
      <string name="data_usage_warning_title">Предупреждение трафика</string>
      <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
      <string name="deleted_apps">Удаленные приложения</string>
@@ -76,7 +76,7 @@
      <string name="main_button_usage_package_setting">Установить трафик</string>
      <string name="main_toolbar_firewall">Контроль</string>
      <string name="main_toolbar_purchase">Пополнение</string>
-	 <string name="main_toolbar_saving">Сжатие</string>
+	 <string name="main_toolbar_saving">Экономия</string>
      <string name="main_toolbar_statistic">Статистика</string>
      <string name="main_traffic_overlimit_text">%s превышено</string>
      <string name="main_traffic_remian_text">%s
@@ -99,7 +99,7 @@
      <string name="power_save_on_time_default_time">00:00</string>
      <string name="power_save_on_time_end_time_summary">До</string>
      <string name="power_save_on_time_start_time_summary">С</string>
-     <string name="pref_about">О программе</string>
+     <string name="pref_about">О приложении</string>
      <string name="pref_about_traffic_title">Настройки использования</string>
      <string name="pref_add_traffic_pkg">Дополнительный пакет</string>
      <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
@@ -146,19 +146,13 @@
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
      <string name="pref_title_update_notification">Показывать трафик в панели</string>
-	 <string name="pref_traffic_saving_issue">Информация</string>
-     <string name="pref_traffic_saving_issue_content">Это безопасно?
-	 
-Да, все ваши данные (персональная информация) в полной безопасности при использовании услуги сжатие трафика
-
-Включено сохранение, но нет сжатого трафика?
-
-Сжатие работает только при использовании мобильного интернета, а не Wi-Fi</string>
+	 <string name="pref_traffic_saving_issue">Справка</string>
+     <string name="pref_traffic_saving_issue_content">&lt;b>Безопасно ли это?&lt;/b>&lt;br />&lt;br />Да, все ваши данные (персональная информация) в полной безопасности при использовании услуги экономия трафика&lt;br />&lt;br />&lt;br />&lt;b>Нет экономии трафика?&lt;/b>&lt;br />&lt;br />Сжатие работает только при использовании мобильного интернета, а не Wi-Fi</string>
      <string name="pref_traffic_saving_notify_switch">Показывать уведомление</string>
-     <string name="pref_traffic_saving_notify_switch_hint">Показывать информацию о сжатии трафика в панели уведомлений</string>
-     <string name="pref_traffic_saving_switch">Сжимать трафик</string>
+     <string name="pref_traffic_saving_notify_switch_hint">Показывать информацию в панели уведомлений</string>
+     <string name="pref_traffic_saving_switch">Экономия трафика</string>
      <string name="pref_traffic_saving_switch_hint">Использовать сжатие трафика при мобильном интернете</string>
-     <string name="pref_traffic_saving_title">Сжатие трафика</string>
+     <string name="pref_traffic_saving_title">Экономия трафика</string>
      <string name="pref_version">Версия %s</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
@@ -181,36 +175,36 @@
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
      <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
      <string name="traffic_protection_unknown">Настроить позже</string>
-     <string name="traffic_protection_use_data">Данные включены</string>
-	 <string name="traffic_saving_button_sorted">Инфо</string>
+     <string name="traffic_protection_use_data">Включить моб. интернет</string>
+	 <string name="traffic_saving_button_sorted">Статистика</string>
      <string name="traffic_saving_button_start">Запустить</string>
      <string name="traffic_saving_button_stop">Остановить</string>
      <string name="traffic_saving_history_title">История</string>
-     <string name="traffic_saving_history_total_money">Экономия</string>
-     <string name="traffic_saving_history_total_money_unit">юань</string>
-     <string name="traffic_saving_history_total_traffic">Всего сэкономлено</string>
-     <string name="traffic_saving_msg_month">Мксяц %1$s - %2$s</string>
+     <string name="traffic_saving_history_total_money">Деньги</string>
+     <string name="traffic_saving_history_total_money_unit">¥</string>
+     <string name="traffic_saving_history_total_traffic">Трафик</string>
+     <string name="traffic_saving_msg_month">За месяц: %1$s ~ %2$s</string>
      <string name="traffic_saving_msg_today">Сегодня</string>
      <string name="traffic_saving_notify_start_content">За месяц %s</string>
-     <string name="traffic_saving_notify_start_title">Сжатие трафика</string>
+     <string name="traffic_saving_notify_start_title">Экономия трафика</string>
      <string name="traffic_saving_tecsupport">При поддержке Opera Max</string>
-     <string name="traffic_saving_title">Сжатие трафика</string>
-     <string name="traffic_saving_toast_start_mobile">Включено сжатие трафика</string>
+     <string name="traffic_saving_title">Экономия трафика</string>
+     <string name="traffic_saving_toast_start_mobile">Включена экономия трафика</string>
      <string name="traffic_saving_toast_start_none_mobile">Сжатие будет работать только с мобильным интернетом</string>
      <string name="traffic_saving_toast_start_unreachable">Ошибка включения</string>
-     <string name="traffic_saving_toast_stop">Сжатие трафика отключено</string>
+     <string name="traffic_saving_toast_stop">Экономия трафика отключена</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>
-     <string name="traffic_setting_fragment_get_template_falure">Ошибка получения обновления. Проверьте ваше подключение и попытайтесь снова.</string>
+     <string name="traffic_setting_fragment_get_template_falure">Ошибка получения обновления. Проверь подключение и попытайся снова.</string>
      <string name="traffic_setting_fragment_loading_text">Получение информации о сети…</string>
      <string name="traffic_setting_fragment_no_network">Нет подключения к сети</string>
      <string name="traffic_setting_fragment_null">Пусто</string>
      <string name="traffic_setting_fragment_operator">Оператор</string>
      <string name="traffic_setting_fragment_send_num">Номер телефона оператора</string>
-     <string name="traffic_setting_fragment_send_num_tips">Введите номер телефона</string>
+     <string name="traffic_setting_fragment_send_num_tips">Введи номер телефона</string>
      <string name="traffic_setting_fragment_sms_content">Текст сообщения</string>
-     <string name="traffic_setting_fragment_sms_content_tips">Напишите сообщение здесь</string>
+     <string name="traffic_setting_fragment_sms_content_tips">Напиши сообщение здесь</string>
      <string name="traffic_setting_fragment_template">Шаблон сообщения</string>
      <string name="traffic_setting_fragment_title">Настройки использования данных</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>

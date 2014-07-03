@@ -135,7 +135,6 @@
      <string name="chat_qq">Чат через QQ</string>
      <string name="chat_skype">Чат через Skype</string>
      <string name="chat_yahoo">Чат через Yahoo</string>
-     <string name="check_unsynchronized_accounts">Обновление контактов</string>
      <string name="checkhint">проверить другой телефон</string>
      <string name="clearCallLogConfirmation">Очистить журнал вызовов?</string>
      <string name="clearCallLogConfirmation_title">Удаление данных</string>
@@ -310,9 +309,6 @@
      <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключи режим полета</string>
      <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейди в Меню > Настройки</string>
      <string name="directory_search_label">Каталог</string>
-     <string name="dirty_contacts_notification_description">У тебя есть %d не синхронизированных контактов</string>
-     <string name="dirty_contacts_notification_message">(ты можешь отключить напоминание в настройках)</string>
-     <string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
      <string name="display_all_contacts">Все контакты</string>
      <string name="display_more_groups">Другие группы…</string>
      <string name="display_only_phones">Только с номером</string>
@@ -383,9 +379,6 @@
      <string name="favoritesFrequentContacted">Часто набираемые</string>
      <string name="favorites_list_empty">Нет избранных</string>
      <string name="foundTooManyContacts">Найдено более %d</string>
-     <string name="frequency_none">Никогда</string>
-     <string name="frequency_three_days">Каждые 3 дня</string>
-     <string name="frequency_weekly">Каждую неделю</string>
      <string name="frequentList">Часто вызываемые</string>
      <string name="full_name">Имя</string>
      <string name="generic_no_account_prompt">Держи свои контакты в безопасности, даже если потеряешь телефон: синхронизация с онлайн сервисом</string>
@@ -777,8 +770,6 @@
      <string name="redirect_calls_to_vm_confirm_text">Включить</string>
      <string name="refresh">Обновить</string>
      <string name="relationLabelsGroup">Отношения</string>
-     <string name="remind_btn_ignore">Позже</string>
-     <string name="remind_btn_sync_now">Сейчас</string>
      <string name="removePhoto">Удалить фото</string>
      <string name="remove_blacklist">Удалить из черного списка</string>
      <string name="remove_duplicate">MIUI поможет тебе найти и объединить повторяющиеся контакты. Они не будут объединены автоматически. Пожалуйста, объедини их вручную.
@@ -1110,7 +1101,6 @@
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
-	 <string name="yellowpage_navigation_menu_order">Мои заказы</string>
 	 <string name="yellowpage_navigation_more_items">Еще</string>
 	 <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>

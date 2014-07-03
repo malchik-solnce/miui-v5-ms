@@ -20,9 +20,9 @@
         <item>Трафик за месяц</item>
      </string-array>
 	 <string-array name="date_of_traffic_prefix">
-        <item>Вчера</item>
-        <item>Сегодня</item>
-        <item>Месяц</item>
+        <item>Вчера </item>
+        <item>Сегодня </item>
+        <item>За месяц </item>
      </string-array>
      <string-array name="network_speed_update_internals">
         <item>3 секунды</item>
@@ -43,9 +43,9 @@
         <item>Все</item>
      </string-array>
 	 <string-array name="traffic_type">
-        <item>Трафик 3G</item>
-        <item>Трафик Wi-Fi</item>
-        <item>Сжатый трафик</item>
+        <item>трафик 3G </item>
+        <item>трафик Wi-Fi </item>
+        <item>сжатый трафик </item>
      </string-array>
      <string-array name="traffic_uints">
         <item>Б</item>

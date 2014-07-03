@@ -116,12 +116,10 @@
      <string name="HIPS_Perm_GetCallState">состоянию текущего вызова</string>
      <string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
      <string name="HIPS_Perm_Location">Местоположение</string>
-     <string name="HIPS_Perm_Location_Access">текущему местоположению</string>
      <string name="HIPS_Perm_Location_CellInfo">получать местоположение устройства</string>
      <string name="HIPS_Perm_Location_CellLocation">получить местоположение устройства</string>
      <string name="HIPS_Perm_Location_Desc">Поиск устройства посредством сети или GPS</string>
      <string name="HIPS_Perm_Location_Hint">Приложения, имеющие разрешения для отслеживания местоположения устройства: %1$s</string>
-     <string name="HIPS_Perm_Location_Monitor">отслеживать положение</string>
      <string name="HIPS_Perm_Location_Source_Cellular">Источник: сотовая сеть</string>
      <string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
      <string name="HIPS_Perm_Location_Source_Network">Источник: сеть</string>

@@ -352,7 +352,7 @@
      <string name="gpsVerifNo">Нет</string>
      <string name="gpsVerifYes">Да</string>
      <string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
-     <string name="grant_credentials_permission_message_header">Одному или нескольким приложениям требуется разрешение на доступ к Вашему аккаунту сейчас и в дальнейшем</string>
+     <string name="grant_credentials_permission_message_header">Одному или нескольким приложениям требуется разрешение на доступ к аккаунту сейчас и в дальнейшем</string>
      <string name="grant_permissions_header_text">Запрос доступа</string>
      <string name="granularity_label_character">символ</string>
      <string name="granularity_label_line">строка</string>
@@ -463,17 +463,17 @@
      <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
      <string name="keyguard_accessibility_widget_reorder_end">Порядок виджетов определен</string>
      <string name="keyguard_accessibility_widget_reorder_start">Начато переопределение порядка виджетов</string>
-     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0</string>
-     <string name="keyguard_password_enter_password_code">Введите пароль</string>
-     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
-     <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
+     <string name="keyguard_label_text">Для разблокировки нажми меню, а затем 0</string>
+     <string name="keyguard_password_enter_password_code">Введи пароль</string>
+     <string name="keyguard_password_enter_pin_code">Введи PIN-код</string>
+     <string name="keyguard_password_enter_pin_password_code">Введи PIN-код</string>
      <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
-     <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
+     <string name="keyguard_password_enter_puk_code">Введи PUK-код и новый PIN-код</string>
      <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
      <string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
      <string name="keyguard_password_wrong_pin_code">Неверный PIN-код</string>
      <string name="kg_emergency_call_label">Экстренный вызов</string>
-     <string name="kg_enter_confirm_pin_hint">Подтвердите PIN-код</string>
+     <string name="kg_enter_confirm_pin_hint">Подтверди PIN-код</string>
      <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы %d раз неверно указали графический ключ. После еще %d неверных попыток для разблокировки телефона потребуется войти в аккаунт. 
 
  Повторите через %d сек."</string>
@@ -551,11 +551,11 @@
      <string name="lockscreen_glogin_submit_button">Вход</string>
      <string name="lockscreen_glogin_too_many_attempts">Неверный графический ключ</string>
      <string name="lockscreen_glogin_username_hint">Имя пользователя (эл. почта)</string>
-     <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\"</string>
-     <string name="lockscreen_instructions_when_pattern_enabled">Нажмите \"Меню\", чтобы разблокировать экран или вызвать службу экстренной помощи</string>
+     <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажми меню</string>
+     <string name="lockscreen_instructions_when_pattern_enabled">Нажми меню, чтобы разблокировать экран или вызвать службу экстренной помощи</string>
      <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
      <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
-     <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставьте SIM-карту.</string>
+     <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставь SIM-карту.</string>
      <string name="lockscreen_missing_sim_message">SIM-карта не установлена</string>
      <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
      <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
@@ -749,7 +749,7 @@
      <string name="permdesc_diagnostic">Приложение сможет считывать и записывать данные системы диагностики (например, файлы в каталоге /dev). Это может повлиять на стабильность и безопасность системы. Это разрешение должно использоваться ТОЛЬКО производителем или оператором для диагностики аппаратного обеспечения.</string>
      <string name="permdesc_disableKeyguard">Приложение сможет отключать блокировку экрана и другие функции защиты. Например, блокировка экрана будет отключаться при получении входящего вызова и включаться после завершения разговора.</string>
      <string name="permdesc_dump">Приложение сможет получать данные о внутреннем состоянии системы. Вредоносные программы смогут получать личную и защищенную информацию, к которой у них не должно быть доступа.</string>
-     <string name="permdesc_enableCarMode">Приложение сможет включать режим \"В автомобиле\"</string>
+     <string name="permdesc_enableCarMode">Приложение сможет включать режим в автомобиле</string>
      <string name="permdesc_expandStatusBar">Приложение сможет разворачивать и сворачивать строку состояния</string>
      <string name="permdesc_factoryTest">Выполнить стандартную проверку нижнего уровня, обеспечивающую полный доступ к аппаратному обеспечению телефона. Доступно, только в режиме стандартной проверки.</string>
      <string name="permdesc_filter_events">Разрешает приложению зарегистрировать входной фильтр, который анализирует весь поток пользовательских событий. Обратите внимание, что вредоносное ПО может получить доступ к управлению интерфейсом без ведома пользователя.</string>
@@ -1222,7 +1222,7 @@ Attempts Remaining :"</string>
      <string name="preposition_for_date">%s</string>
      <string name="preposition_for_time">в %s</string>
      <string name="preposition_for_year">в %s г.</string>
-     <string name="print_service_installed_message">Нажмите, чтобы включить</string>
+     <string name="print_service_installed_message">Нажми, чтобы включить</string>
      <string name="print_service_installed_title">Служба %s установлена</string>
      <string name="progress_erasing">Очистка USB-накопителя…</string>
      <string name="progress_nomediapresent">Отсутствует внешний накопитель…</string>
@@ -1251,13 +1251,13 @@ Attempts Remaining :"</string>
      <string name="replace">Заменить</string>
      <string name="report">Отзыв</string>
      <string name="reset">Сбросить</string>
-     <string name="restr_pin_confirm_pin">Введите новый PIN-код еще раз</string>
-     <string name="restr_pin_create_pin">Создайте PIN-код для изменения ограничений</string>
-     <string name="restr_pin_enter_admin_pin">Введите PIN-код администратора</string>
+     <string name="restr_pin_confirm_pin">Введи новый PIN-код еще раз</string>
+     <string name="restr_pin_create_pin">Создай PIN-код для изменения ограничений</string>
+     <string name="restr_pin_enter_admin_pin">Введи PIN-код администратора</string>
      <string name="restr_pin_enter_new_pin">Новый PIN-код</string>
      <string name="restr_pin_enter_old_pin">Текущий PIN-код</string>
      <string name="restr_pin_enter_pin">Введите PIN-код</string>
-     <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повторите попытку.</string>
+     <string name="restr_pin_error_doesnt_match">PIN-коды не совпадают. Повтори попытку.</string>
      <string name="restr_pin_error_too_short">PIN-код должен содержать не менее 4 символов</string>
      <string name="restr_pin_incorrect">Ошибка</string>
      <string name="restr_pin_try_later">Повторите попытку позже</string>
@@ -1282,14 +1282,14 @@ Attempts Remaining :"</string>
      <string name="roamingText9">Роуминг – полная функциональность службы</string>
      <string name="roamingTextSearching">Поиск службы</string>
      <string name="safeMode">Безопасный режим</string>
-     <string name="safe_media_volume_warning">"Повысить громкость выше допустимого уровня?
-Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха."</string>
+     <string name="safe_media_volume_warning">Повысить громкость выше допустимого уровня?
+Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха.</string>
      <string name="save_password_label">Подтвердите</string>
      <string name="save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="save_password_never">Никогда</string>
      <string name="save_password_notnow">Не сейчас</string>
      <string name="save_password_remember">Запомнить</string>
-     <string name="screen_compat_mode_hint">Включить эту функцию можно в меню \"Настройки > Приложения > Загруженные\"</string>
+     <string name="screen_compat_mode_hint">Включить эту функцию можно в меню настройки > приложения > загруженные</string>
      <string name="screen_compat_mode_scale">Масштаб</string>
      <string name="screen_compat_mode_show">Всегда показывать</string>
      <string name="screen_lock">Блокировка экрана</string>
@@ -1303,11 +1303,11 @@ Attempts Remaining :"</string>
      <string name="seconds">с.</string>
      <string name="selectAll">Выбрать все</string>
      <string name="selectTextMode">Выбрать текст</string>
-     <string name="select_character">Введите символ</string>
-     <string name="select_input_method">Выберите способ ввода</string>
-     <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>
-     <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
-     <string name="sendText">Выберите действие для текста</string>
+     <string name="select_character">Введи символ</string>
+     <string name="select_input_method">Выбери способ ввода</string>
+     <string name="select_keyboard_layout_notification_message">Нажми для выбора раскладки клавиатуры</string>
+     <string name="select_keyboard_layout_notification_title">Выбери раскладку клавиатуры</string>
+     <string name="sendText">Выбери действие для текста</string>
      <string name="sending">Отправка…</string>
      <string name="serial_number">Серийный номер:</string>
      <string name="serviceClassData">Данные</string>
@@ -1332,15 +1332,15 @@ Attempts Remaining :"</string>
      <string name="share">Отправить</string>
      <string name="share_action_provider_share_with">Открыть доступ</string>
      <string name="shareactionprovider_share_with">Открыть доступ:</string>
-     <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
-     <string name="shutdown_confirm">Телефон будет выключен</string>
+     <string name="shareactionprovider_share_with_application">Открыть доступ приложению "%s"</string>
+     <string name="shutdown_confirm">Выключить устройство?</string>
      <string name="shutdown_confirm_question">Завершить работу?</string>
      <string name="shutdown_progress">Выключение…</string>
      <string name="silent_mode">Режим без звука</string>
      <string name="silent_mode_ring">Звонок включен</string>
      <string name="silent_mode_silent">Звонок отключен</string>
      <string name="silent_mode_vibrate">Вибросигнал</string>
-     <string name="sim_added_message">Перезагрузите устройство для доступа к мобильной сети</string>
+     <string name="sim_added_message">Перезагрузи устройство для доступа к мобильной сети</string>
      <string name="sim_added_title">SIM-карта добавлена</string>
      <string name="sim_done_button">Готово</string>
      <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна</string>
@@ -1390,13 +1390,13 @@ Attempts Remaining :"</string>
      <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Что нужно сделать?</string>
      <string name="sync_undo_deletes">Отменить удаление</string>
      <string name="terabyteShort">TБ</string>
-     <string name="tethered_notification_message">Нажмите для настройки</string>
+     <string name="tethered_notification_message">Нажми для настройки</string>
      <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
      <string name="textSelectionCABTitle">Выбор текста</string>
-     <string name="text_copied">Текст скопирован в буфер обмена.</string>
+     <string name="text_copied">Текст скопирован в буфер обмена</string>
      <string name="throttle_warning_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
      <string name="throttle_warning_notification_title">Активная передача данных</string>
-     <string name="throttled_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
+     <string name="throttled_notification_message">Нажми, чтобы узнать больше о мобильной передаче данных</string>
      <string name="throttled_notification_title">Превышен лимит на мобильные данные</string>
      <string name="time_of_day" formatted="false">%-k:%M:%S</string>
      <string name="time_picker_decrement_hour_button">На час назад</string>
@@ -1445,16 +1445,16 @@ Attempts Remaining :"</string>
      <string name="volume_icon_description_ringer">Громкость рингтона</string>
      <string name="volume_music">Громкость мультимедиа</string>
      <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение по каналу Bluetooth</string>
-     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
+     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим без звука</string>
      <string name="volume_notification">Громкость уведомления</string>
      <string name="volume_ringtone">Громкость звонка</string>
      <string name="volume_unknown">Громкость</string>
-     <string name="vpn_lockdown_config">Нажмите, чтобы настроить</string>
+     <string name="vpn_lockdown_config">Нажми, чтобы настроить</string>
      <string name="vpn_lockdown_connected">VPN подключена</string>
      <string name="vpn_lockdown_connecting">VPN подключение…</string>
      <string name="vpn_lockdown_error">VPN ошибка</string>
      <string name="vpn_text">Нажмите, чтобы открыть настройки</string>
-     <string name="vpn_text_long">Сеть VPN подключена: %s. Нажмите, чтобы открыть настройки.</string>
+     <string name="vpn_text_long">Сеть VPN подключена: %s. Нажми, чтобы открыть настройки.</string>
      <string name="vpn_title">Сеть VPN активна</string>
      <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
      <string name="wait">Подождать</string>
@@ -1483,7 +1483,6 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_date_picker_dialog_title">Выберите дату</string>
      <string name="webviewchromium_date_time_picker_dialog_title">Дата и время</string>
      <string name="webviewchromium_low_memory_error">Не удалось выполнить операцию: недостаточно памяти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webviewchromium_media_player_error_button">OK</string>
      <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве</string>
      <string name="webviewchromium_media_player_error_text_unknown">Невозможно воспроизвести видео</string>
@@ -1496,7 +1495,7 @@ Attempts Remaining :"</string>
      <string name="week">нед.</string>
      <string name="weeks">нед.</string>
      <string name="whichApplication">Что использовать?</string>
-     <string name="whichHomeApplication">Выберите приложение</string>
+     <string name="whichHomeApplication">Выбери приложение</string>
      <string name="widget_default_class_name" />
      <string name="widget_default_package_name" />
      <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
@@ -1506,7 +1505,7 @@ Attempts Remaining :"</string>
      <string name="wifi_display_notification_connecting_title">Подключение к удаленному дисплею</string>
      <string name="wifi_display_notification_disconnect">Отключен</string>
      <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
-     <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки</string>
+     <string name="wifi_p2p_enabled_notification_message">Нажми, чтобы открыть настройки</string>
      <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
      <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
      <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct</string>
