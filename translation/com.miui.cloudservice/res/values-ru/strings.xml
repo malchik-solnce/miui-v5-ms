@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="app_name">Сервисы Xiaomi</string>
+	 <string name="find_device_noise_title">Поиск устройства</string>
+     <string name="find_device_stop_noise">Нажми OK, чтобы остановить сигнал</string>
+     <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
+     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+     <string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi</string>
+	 <string name="pref_title_sync_my_profile_title">Синхронизация профиля</string>
+     <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе будет использоваться мобильный интернет</string>
+     <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
+	 <string name="sync_item_calllog_summary">Синхронизация журналов входящих и исходящих вызовов</string>
+     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
+     <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
+     <string name="sync_item_sms_title">Синхронизация сообщений</string>
+     <string name="user_nickname">Ник</string>
+</resources>

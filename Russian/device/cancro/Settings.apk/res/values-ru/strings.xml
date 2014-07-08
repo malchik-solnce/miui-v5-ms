@@ -232,7 +232,7 @@
      <string name="auto_launch_label">ЗАПУСК ПО УМОЛЧАНИЮ</string>
      <string name="auto_launch_label_generic">По умолчанию</string>
      <string name="auto_punctuate">Автопунктуация</string>
-     <string name="auto_punctuate_summary">Нажмите дважды клавишу пробел для ввода точки</string>
+     <string name="auto_punctuate_summary">Нажми дважды клавишу пробел для ввода точки</string>
      <string name="auto_replace">Автокоррекция</string>
      <string name="auto_replace_summary">Исправлять опечатки</string>
      <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
@@ -416,8 +416,8 @@
      <string name="bluetooth_enter_passkey_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите пароль:</string>
      <string name="bluetooth_enter_passkey_other_device">Может потребоваться ввести ключ доступа на другом устройстве</string>
      <string name="bluetooth_enter_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите PIN-код:</string>
-     <string name="bluetooth_enter_pin_msg_hs">"
-Введите PIN для соединения с \"%1$s\". [Включен режим повышенной безопасности: Требуется ключ из 16 символов]"</string>
+     <string name="bluetooth_enter_pin_msg_hs">
+Введите PIN для соединения с "%1$s". [Включен режим повышенной безопасности: Требуется ключ из 16 символов]</string>
      <string name="bluetooth_enter_pin_other_device">Может потребоваться ввести PIN-код на другом устройстве</string>
      <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
      <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
@@ -436,7 +436,7 @@
      <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
      <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
      <string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth устройств</string>
-     <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
+     <string name="bluetooth_notif_message">Нажмите для подключения к устройству "%1$s"</string>
      <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
      <string name="bluetooth_notif_title">Запрос на сопряжение</string>
      <string name="bluetooth_on_time">Время работы Wi-Fi</string>
@@ -447,9 +447,9 @@
      <string name="bluetooth_pairing">Сопряжение…</string>
      <string name="bluetooth_pairing_accept">Сопряжение</string>
      <string name="bluetooth_pairing_decline">Отмена</string>
-     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\"</string>
-     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\"</string>
-     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль</string>
+     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством "%1$s"</string>
+     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству "%1$s"</string>
+     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству "%1$s", так как введен неверный PIN-код или пароль</string>
      <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение</string>
      <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
      <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
@@ -1476,7 +1476,7 @@
      <string name="lockpattern_need_to_unlock_wrong_footer" />
      <string name="lockpattern_pattern_confirmed_header">Новый графический ключ разблокировки</string>
      <string name="lockpattern_pattern_entered_header">Графический ключ записан!</string>
-     <string name="lockpattern_recording_incorrect_too_short">Соедини точки (как минимум %d). Повторите попытку:</string>
+     <string name="lockpattern_recording_incorrect_too_short">Соедини точки (как минимум %d). Повтори попытку:</string>
      <string name="lockpattern_recording_inprogress">По завершении отпусти палец</string>
      <string name="lockpattern_recording_intro_footer">Для справки нажми меню</string>
      <string name="lockpattern_recording_intro_header">Начерти графический ключ разблокировки</string>
@@ -1497,7 +1497,7 @@
      <string name="lockpattern_tutorial_continue_label">Далее</string>
      <string name="lte_ram_dump_off">Не очищать ОЗУ</string>
      <string name="lte_ram_dump_on">Очищать ОЗУ</string>
-     <string name="macaddr_label">"MAC адрес: "</string>
+     <string name="macaddr_label">MAC адрес: </string>
      <string name="main_running_process_description">Основной используемый процесс</string>
      <string name="man_add_application">Добавить</string>
      <string name="manage_device_admin">Администраторы устройства</string>
@@ -1707,17 +1707,17 @@
 \"%1$s\" будет отображаться при подключении к ПК как USB-накопитель</string>
      <string name="msd_pc_system_install_start_summary_vista">Для версий Windows Vista и новее,
 \"%1$s\" будет автоматически отображаться как USB-накопитель</string>
-     <string name="msd_pc_system_install_step_2_summary_xp">2. \"%1$s\" будет отображаться как USB-накопитель 
+     <string name="msd_pc_system_install_step_2_summary_xp">2. "%1$s" будет отображаться как USB-накопитель 
  при подключении к ПК</string>
      <string name="msg_cleanup_db_update_checking">Проверка…</string>
      <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
      <string name="msg_system_cache_hints">Очистка кэшированных данных не затронет файлы приложений, настройки учетных записей, базы данных и т.д.</string>
      <string name="msg_update_error_code_already_running">Обновление</string>
-     <string name="msg_update_error_code_network_error">Ошибка сети. Повторите позже.</string>
+     <string name="msg_update_error_code_network_error">Ошибка сети. Повтори позже.</string>
      <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
      <string name="msg_update_error_code_success">Обновлено</string>
-     <string name="msg_update_error_code_unknown_error">Неизвестная ошибка. Повторите позже.</string>
-     <string name="msg_wlan_signal_found">Найдена сеть Wi-Fi \"%s\". Использовать эту сеть?</string>
+     <string name="msg_update_error_code_unknown_error">Неизвестная ошибка. Повтори позже.</string>
+     <string name="msg_wlan_signal_found">Найдена сеть Wi-Fi "%s". Использовать эту сеть?</string>
      <string name="mtp_ptp_mode_summary">Активирована функция MTP или PTP</string>
      <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS</string>
      <string name="multi_sim_settings_title">Настройка SIM-карт</string>
@@ -1731,8 +1731,8 @@
      <string name="network_assistant">Монитор</string>
      <string name="network_detail">Свойства сети %s</string>
      <string name="network_settings_title">Мобильная сеть</string>
-     <string name="network_state_label">"Состояние сети: "</string>
-     <string name="networkid_label">"ID сети: "</string>
+     <string name="network_state_label">Состояние сети: </string>
+     <string name="networkid_label">ID сети: </string>
      <string name="networks">Выбор оператора</string>
      <string name="new_backup_pw_prompt">Введите новый пароль</string>
      <string name="new_bw_list_button">Добавить контакт</string>
@@ -1742,8 +1742,8 @@
      <string name="nfc_payment_learn_more">Подробнее</string>
      <string name="nfc_payment_menu_item_add_service">Найти приложения</string>
      <string name="nfc_payment_no_apps">Платите простым касанием устройства</string>
-     <string name="nfc_payment_set_default">Всегда использовать для NFC-платежей приложение \"%1$s\"?</string>
-     <string name="nfc_payment_set_default_instead_of">Всегда использовать для NFC-платежей приложение \"%1$s\", а не \"%2$s\"?</string>
+     <string name="nfc_payment_set_default">Всегда использовать для NFC-платежей приложение "%1$s"?</string>
+     <string name="nfc_payment_set_default_instead_of">Всегда использовать для NFC-платежей приложение "%1$s", а не "%2$s"?</string>
      <string name="nfc_payment_set_default_label">Сохранить настройку?</string>
      <string name="nfc_payment_settings_title">Оплата через NFC</string>
      <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
@@ -1753,12 +1753,12 @@
      <string name="no_applications">Нет приложений</string>
      <string name="no_device_admins">Нет доступных администраторов устройства</string>
      <string name="no_media_button_receiver">Нет</string>
-     <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi. Пересканируйте сети или добавьте вручную.</string>
+     <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi. Пересканируй сети или добавь вручную.</string>
      <string name="no_notification_listeners">Нет установленных приложений для прослушивания уведомлений</string>
      <string name="no_running_services">Ничего не запущено</string>
      <string name="no_services">Неактивен</string>
-     <string name="no_sim_info">""Не удалось получить доступ к SIM-карте.
-Использование функций невозможно."</string>
+     <string name="no_sim_info">Не удалось получить доступ к SIM-карте.
+Использование функций невозможно.</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
@@ -2036,7 +2036,7 @@
      <string name="phone_call_noise_suppression">Подавление шума</string>
      <string name="phone_info_label">Информация о телефоне</string>
      <string name="phone_language">Язык телефона</string>
-     <string name="phone_language_summary">Выберите язык телефона</string>
+     <string name="phone_language_summary">Выбери язык телефона</string>
      <string name="pico_installed">Установлено</string>
      <string name="pico_languages_and_voices">Языки и голос</string>
      <string name="pico_not_installed">Не установлено</string>
@@ -2177,7 +2177,7 @@
      <string name="power_mode_touch_with_vibration">Виброотклик</string>
      <string name="power_mode_vibration">Вибрация</string>
      <string name="power_mode_vibration_no">Никогда</string>
-     <string name="power_mode_vibration_silence">В режиме \"Без звука\"</string>
+     <string name="power_mode_vibration_silence">В режиме без звука</string>
      <string name="power_mode_vibration_yes">Всегда</string>
      <string name="power_mode_wifi">Wi-Fi</string>
      <string name="power_new_choose_mode">Выбери конфигурацию</string>
@@ -2673,11 +2673,11 @@
      <string name="show_touches">Нажатия</string>
      <string name="show_touches_summary">Показывать нажатия на экран</string>
      <string name="show_user_info_on_lockscreen_label">Показывать пользов. текст на экране блокировки</string>
-     <string name="silent_mode_title">Режим \"Без звука\"</string>
+     <string name="silent_mode_title">Режим без звука</string>
      <string name="sim_absent">Нет SIM/RUIM</string>
      <string name="sim_bad_pin">Неверный PIN-код</string>
-     <string name="sim_change_failed">"Не удается изменить PIN.
-Возможно, код введен неверно."</string>
+     <string name="sim_change_failed">Не удается изменить PIN.
+Возможно, код введен неверно.</string>
      <string name="sim_change_failed_enable_sim_lock">"Невозможно изменить PIN SIM-карты. 
  Включена блокировка SIM."</string>
      <string name="sim_change_pin">PIN-код SIM-карты</string>
@@ -2888,18 +2888,18 @@
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
      <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
-     <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
+     <string name="touch_sensitive_title">Режим в перчатках</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">OK</string>
      <string name="touch_sensitive_turn_off_summary">Также отключить режим защиты датчиком?</string>
-     <string name="touch_sensitive_turn_off_title">Режим \"В перчатках\" выключен</string>
+     <string name="touch_sensitive_turn_off_title">Режим в перчатках выключен</string>
      <string name="touch_title">Наcтройки нажатия</string>
      <string name="track_frame_time">Время отрисовки</string>
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
      <string name="transition_animation_scale_title">Скорость переходов</string>
-     <string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
-Вы доверяете этому приложению?"</string>
+     <string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
+Вы доверяете этому приложению?</string>
      <string name="trusted_credentials">Надежные сертификаты</string>
      <string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
      <string name="trusted_credentials_disable_label">Отключить</string>
@@ -3122,11 +3122,11 @@
      <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
      <string name="version_text">Версия %1$s</string>
      <string name="vibrate_category_title">НАСТРОЙКИ ВИБРАЦИИ</string>
-     <string name="vibrate_in_normal_title">В \"Обычном режиме\"</string>
-     <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
+     <string name="vibrate_in_normal_title">В режиме звонок</string>
+     <string name="vibrate_in_silent_title">В режиме без звука</string>
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
-     <string name="vibrate_when_ringing_title">В режиме \"Звонок\"</string>
+     <string name="vibrate_when_ringing_title">В режиме звонок</string>
      <string name="virus_activity_title">Вирусы</string>
      <string name="virus_button_clear">Удалить</string>
      <string name="virus_scan">Антивирус</string>

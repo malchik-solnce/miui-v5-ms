@@ -244,6 +244,8 @@
      <string name="playlist_renamed_message">Плейлист переименован</string>
      <string name="playlists_title">Плейлисты</string>
      <string name="powered_by">При поддержке</string>
+	 <string name="priority_storage">Загружать на SD-карту</string>
+     <string name="priority_storage_summary">Эта функция вступает в силу при использовании внешней SD-карты</string>
      <string name="project_device">Mi Box</string>
      <string name="project_device_mobile">Телефон</string>
      <string name="queue">В очередь</string>

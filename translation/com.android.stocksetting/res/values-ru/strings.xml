@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="ZOE">Совместимость с ZOE</string>
+     <string name="app_name">Дополнительно</string>
+     <string name="stock_album">Альбом HTC</string>
+</resources>

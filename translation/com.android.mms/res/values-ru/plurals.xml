@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить (%1$s) цепочек?</item>
+        <item quantity="one">Цепочка будет удалена</item>
+     </plurals>
+     <plurals name="message_count">
+        <item quantity="other">Сообщений: %1$s</item>
+        <item quantity="one">%1$s сообщение</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+     </plurals>
+     <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+     </plurals>
+</resources>
