@@ -15,7 +15,7 @@
      <string name="cancel_action">Отмена</string>
      <string name="cancel_btn_label">Отменить</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
-     <string name="confirm_btn_label">ОК</string>
+     <string name="confirm_btn_label">OK</string>
 	 <string name="custom_wallpaper_picker">Пользовательские</string>
 	 <string name="default_folder_title_game">Игры</string>
      <string name="default_folder_title_recommend">Рекомендуемые</string>
@@ -60,7 +60,7 @@
      <string name="gadget_weather_app_not_installed">Нажми для установки погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
      <string name="gadget_weather_loading">Нет данных о погоде</string>
-     <string name="gadget_weather_time_format">EEE, d MMMM</string>
+     <string name="gadget_weather_time_format">d MMMM, EEEE</string>
 	 <string name="gadget_weather_title">Погода</string>
      <string name="gadget_weather_title_24">Погода 2х4</string>
      <string name="global_search_hint">Поиск тут :)</string>
@@ -70,7 +70,7 @@
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
      <string name="loading_desktop">Загрузка, подожди…</string>
 	 <string name="lock_screen_failed_message">Не удалось применить :(</string>
-     <string name="lock_screen_success_message">Применено :)</string>
+     <string name="lock_screen_success_message">Успешно применено ;)</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
      <string name="menu_add">Добавить</string>
      <string name="menu_back_desktop">Домой</string>

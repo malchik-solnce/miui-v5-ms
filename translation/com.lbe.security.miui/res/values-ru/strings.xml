@@ -78,7 +78,7 @@
      <string name="HIPS_Perm_AdjustVolumeInCall">Регулировка громкости при вызове</string>
      <string name="HIPS_Perm_AllowAll">Разрешить все</string>
      <string name="HIPS_Perm_AnswerCall">Ответ на поступивший вызов</string>
-	 <string name="HIPS_Perm_AudioRecorder">Запись звука</string>
+	 <string name="HIPS_Perm_AudioRecorder">записи звука</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к записи звука</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">Приложения, имеющие доступ к записи звука: %1$s</string>
 	 <string name="HIPS_Perm_AutoStart">Автозапуск</string>
@@ -120,9 +120,9 @@
      <string name="HIPS_Perm_Location_CellLocation">получить местоположение устройства</string>
      <string name="HIPS_Perm_Location_Desc">Поиск устройства посредством сети или GPS</string>
      <string name="HIPS_Perm_Location_Hint">Приложения, имеющие разрешения для отслеживания местоположения устройства: %1$s</string>
-     <string name="HIPS_Perm_Location_Source_Cellular">Источник: сотовая сеть</string>
-     <string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
-     <string name="HIPS_Perm_Location_Source_Network">Источник: сеть</string>
+     <string name="HIPS_Perm_Location_Source_Cellular">местоположению. Источник: сотовая сеть.</string>
+     <string name="HIPS_Perm_Location_Source_GPS">местоположению. Источник GPS.</string>
+     <string name="HIPS_Perm_Location_Source_Network">местоположению. Источник: сеть.</string>
 	 <string name="HIPS_Perm_MMS">MMS сообщения</string>
      <string name="HIPS_Perm_MMS_Access">MMS сообщениям</string>
      <string name="HIPS_Perm_MMS_Desc">Доступ к MMS сообщениям</string>
@@ -158,10 +158,10 @@
      <string name="HIPS_Perm_ROOT_Desc_Stable">Недоступно в MIUI стабильной версии</string>
      <string name="HIPS_Perm_ROOT_Hint">Нет приложений</string>
      <string name="HIPS_Perm_ROOT_Title">получить права суперпользователя</string>
-     <string name="HIPS_Perm_Recorder_Audio">Запись звука</string>
+     <string name="HIPS_Perm_Recorder_Audio">записи звука</string>
      <string name="HIPS_Perm_Recorder_AudioVideo">Запись звука и видео</string>
      <string name="HIPS_Perm_Recorder_Camera">камере</string>
-     <string name="HIPS_Perm_Recorder_Video">Запись видео</string>
+     <string name="HIPS_Perm_Recorder_Video">записи видео</string>
      <string name="HIPS_Perm_Recorder_VoiceCall">Запись вызовов</string>
      <string name="HIPS_Perm_RejectAll">Запретить все</string>
 	 <string name="HIPS_Perm_SMS">Сообщения</string>
@@ -189,7 +189,7 @@
 	 <string name="HIPS_Perm_SystemAlert">Всплывающие окна</string>
      <string name="HIPS_Perm_SystemAlert_Desc">Показ всплывающих окон</string>
      <string name="HIPS_Perm_SystemAlert_Hint">Приложения, имеющие доступ к всплывающим окнам: %1$s</string>
-	 <string name="HIPS_Perm_VideoRecorder">Запись видео</string>
+	 <string name="HIPS_Perm_VideoRecorder">Записи видео</string>
      <string name="HIPS_Perm_VideoRecorder_Desc">записи видео</string>
      <string name="HIPS_Perm_VideoRecorder_Hint">Приложения, имеющие доступ к записи видео: %1$s</string>
      <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>

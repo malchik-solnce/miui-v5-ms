@@ -133,7 +133,7 @@
      <string name="callFailed_userBusy">Линия занята</string>
      <string name="callUnanswered_forwarded">Звонок не принят и переадресован</string>
      <string name="call_assistant_miui">УПРОЩЕНИЕ ВЫЗОВА</string>
-     <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
+     <string name="call_forwarding_number_hint_miui">Введи номер для пересылки</string>
      <string name="call_forwarding_settings">Переадресация вызовов</string>
      <string name="call_forwarding_settings_miui">Переадресация вызовов</string>
      <string name="call_ind_services">Независимые от звонков услуги</string>
@@ -143,7 +143,7 @@
      <string name="call_record_button_label">Запись %s</string>
 	 <string name="call_record_error_access">Запись запрещена в гостевом режиме</string>
      <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​Нет свободного места.</string>
-     <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть %s</string>
+     <string name="call_record_notification_message_miui">Нажми, чтобы посмотреть %s</string>
      <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
      <string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
      <string name="call_record_notification_title_error_miui">Запись вызова не удалась</string>
@@ -152,7 +152,7 @@
      <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
      <string name="call_record_setting_miui">Запись звонков</string>
      <string name="call_record_unknown_error">Ошибка записи</string>
-     <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
+     <string name="call_recording_notification_summary_miui">Уведомлять о начале и конце записи вызова</string>
      <string name="call_recording_notification_title_miui">Уведомлять о записи</string>
      <string name="call_recording_prompt_miui">Идет запись...</string>
      <string name="call_settings">Вызовы</string>
@@ -175,7 +175,7 @@
      <string name="calling_via_template">Звонок через %s</string>
      <string name="calling_via_template_miui">""Звонок через ^1
 "<b>^2</b>"</string>
-     <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором. Если вы видите \"Ошибка MMI кода\", свяжитесь с оператором сети, чтобы подключить услугу ожидания вызова.</string>
+     <string name="callwait_open_hint">Услуга ожидание вызова предоставляется оператором. Если ты видишь ошибку MMI кода, свяжись с оператором сети, чтобы подключить услугу ожидания вызова.</string>
 	 <string name="cancel">Отмена</string>
      <string name="cancel_call">Отмена</string>
      <string name="card_01">Карта 1</string>
@@ -298,7 +298,7 @@
      <string name="current_areacode_sum_set_miui">Код текущего местоположения: %s</string>
      <string name="cursorError">Курсор не имеет соответствующих данных!</string>
      <string name="custom_location_location_hint_miui">Имя</string>
-     <string name="custom_location_location_no_item_miui">"Нажмите кнопку 'Добавить' для добавления приставок"</string>
+     <string name="custom_location_location_no_item_miui">Нажми кнопку добавить для добавления приставок</string>
      <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
      <string name="cw_title_miui">Ожидание вызова</string>
 	 <string name="data_connected_change">Остановить использование сети и переключиться на другую?</string>
@@ -395,7 +395,7 @@
      <string name="emergency_enable_radio_dialog_message">Включение радио…</string>
      <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение…</string>
      <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
-     <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
+     <string name="empty_alert">Поле "%s" не может быть пустым</string>
      <string name="empty_networks_list">Сети не найдены</string>
      <string name="enable">Включить</string>
      <string name="enable_antispam_strange_summary">Отклонять первый звонок с неизвестного номера</string>
@@ -641,13 +641,13 @@
      <string name="network_manage_settings">Настройки сети</string>
      <string name="network_message">Сообщение сети</string>
      <string name="network_query_error">Ошибка поиска сетей</string>
-     <string name="network_settings_sel_sub">Выберите подписку</string>
-     <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
+     <string name="network_settings_sel_sub">Выбери подписку</string>
+     <string name="network_work_query_failed_message_miui">Ошибка запроса. Нажми отмена, для выбора предпочтительной сети автоматически или OK для повтора.</string>
      <string name="networks">Операторы связи</string>
      <string name="networks_title_miui">Оператор связи</string>
      <string name="newPin2Label">Новый PIN2</string>
      <string name="newPinLabel">Новый PIN</string>
-     <string name="new_cards_available">Доступна новая карта. Пожалуйста, настройте подписку.</string>
+     <string name="new_cards_available">Доступна новая карта. Пожалуйста, настрой подписку.</string>
      <string name="new_pin2_hint_miui">Новый PIN2</string>
      <string name="new_pin_hint_miui">Новый PIN-код</string>
      <string name="next_miui">Далее</string>
@@ -754,8 +754,8 @@
      <string name="ota_title_problem_with_activation">Неполадки при активации</string>
      <string name="ota_touch_activate">"Необходим специальный звонок для активации службы телефона. 
 
-После нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона"</string>
-     <string name="ota_try_again">Повторите попытку</string>
+После нажатия кнопки активировать прослушай инструкции по активации телефона"</string>
+     <string name="ota_try_again">Повтори попытку</string>
      <string name="ota_unsuccessful">"Телефон не был активирован. 
 Возможно, Вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). 
 
@@ -818,25 +818,25 @@
      <string name="preferred_network_mode_gsm_only_summary">Предпочтительная сеть: только GSM</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Предпочтительная сеть: GSM или WCDMA</string>
      <string name="preferred_network_mode_lte_cdma_evdo_summary">Предпочтительный режим сети: CDMA+LTE/EVDO</string>
-     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferred network mode: GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_lte_summary">Preferred network mode: LTE</string>
+     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Предпочтительный режим сети: GSM/WCDMA/LTE</string>
+     <string name="preferred_network_mode_lte_summary">Предпочтительный режим сети: LTE</string>
      <string name="preferred_network_mode_lte_wcdma_summary">Предпочтительный режим сети: LTE / WCDMA</string>
      <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
-     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
-     <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Preferred network mode: TD-SCDMA/GSM/LTE</string>
-     <string name="preferred_network_mode_td_scdma_gsm_summary">Preferred network mode: TD-SCDMA / GSM</string>
-     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA</string>
-     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
-     <string name="preferred_network_mode_td_scdma_lte_summary">Preferred network mode: TD-SCDMA / LTE</string>
-     <string name="preferred_network_mode_td_scdma_only_summary">Preferred network mode: TD-SCDMA only</string>
-     <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
-     <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Предпочтительный режим сети: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Предпочтительный режим сети: TD-SCDMA/GSM/LTE</string>
+     <string name="preferred_network_mode_td_scdma_gsm_summary">Предпочтительный режим сети: TD-SCDMA / GSM</string>
+     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Предпочтительный режим сети: TD-SCDMA/GSM/WCDMA/LTE</string>
+     <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Предпочтительный режим сети: TD-SCDMA/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Предпочтительный режим сети: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_lte_summary">Предпочтительный режим сети: TD-SCDMA / LTE</string>
+     <string name="preferred_network_mode_td_scdma_only_summary">Предпочтительный режим сети: TD-SCDMA only</string>
+     <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Предпочтительный режим сети: TD-SCDMA/WCDMA/LTE</string>
+     <string name="preferred_network_mode_td_scdma_wcdma_summary">Предпочтительный режим сети: TD-SCDMA / WCDMA</string>
      <string name="preferred_network_mode_title">Режим сети</string>
      <string name="preferred_network_mode_wcdma_only_summary">Предпочтительная сеть: только WCDMA</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
-     <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G. 
-Нажмите OK для продолжения."</string>
+     <string name="preferred_network_type_3g_only_warning_miui">Выбрано только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G. 
+Нажми OK для продолжения.</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
      <string name="preferred_network_type_pref_entries_auto_miui">Автоматический</string>
      <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
@@ -892,7 +892,7 @@
      <string name="reject_via_sms_title_miui">Отклонить с СМС</string>
      <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="remove_ims_account">Remove account</string>
+     <string name="remove_ims_account">Удалить аккаунт</string>
      <string name="remove_miui">Удалить</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
      <string name="removing_account">Удаление аккаунта…</string>
@@ -1160,7 +1160,7 @@
      <string name="ussdRunning">Выполняется USSD запрос…</string>
      <string name="vibrate_on_ring_title">Вибрация при звонке</string>
      <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
-Если проблема не будет решена, свяжитесь со своим оператором."</string>
+Если проблема не будет решена, свяжись со своим оператором."</string>
      <string name="vm_changed">Номер голосовой почты изменен</string>
      <string name="voice_privacy">Конфиденциальность разговоров</string>
      <string name="voice_privacy_miui">Конфиденциальность разговоров</string>
@@ -1180,11 +1180,11 @@
      <string name="voicemail_number_not_set">&lt;не задано></string>
      <string name="voicemail_provider">Служба голосовой почты</string>
      <string name="voicemail_provider_miui">Служба голосовой почты</string>
-     <string name="voicemail_provider_sum_miui">Выберите услугу голосовой почты</string>
+     <string name="voicemail_provider_sum_miui">Выбери услугу голосовой почты</string>
      <string name="voicemail_settings">Настройки голосовой почты</string>
      <string name="voicemail_settings_for">Настройки %s</string>
      <string name="voicemail_settings_miui">Голосовая почта</string>
-     <string name="voicemail_settings_number_hint_miui">Введите номер автоответчика</string>
+     <string name="voicemail_settings_number_hint_miui">Введи номер автоответчика</string>
      <string name="voicemail_settings_number_label">Номер голосовой почты</string>
      <string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
      <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE

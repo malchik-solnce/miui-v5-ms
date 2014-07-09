@@ -2,15 +2,15 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d песен удалено</item>
-        <item quantity="one">Трек удалена</item>
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">Трек удален</item>
      </plurals>
      <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d треков добавлено в плейлист</item>
         <item quantity="one">Трек добавлен в избранные</item>
      </plurals>
      <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d песен добавлены в плейлист</item>
+        <item quantity="other">%d треков добавлено в плейлист</item>
         <item quantity="one">Трек добавлен в плейлист</item>
      </plurals>
      <plurals name="NTrackstoDownload">

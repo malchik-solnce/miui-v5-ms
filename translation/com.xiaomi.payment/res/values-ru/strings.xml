@@ -17,8 +17,8 @@
      <string name="bankcall_debit_card">Дебитовая карта</string>
      <string name="bankcall_denom">Платеж:</string>
      <string name="bankcall_denom_number">%1$s￥</string>
-     <string name="bankcall_error_card">Введите правильный номер банковской карты</string>
-     <string name="bankcall_error_card_info">Пожалуйста, введите правильные данные банковского счета</string>
+     <string name="bankcall_error_card">Введи правильный номер банковской карты</string>
+     <string name="bankcall_error_card_info">Введи правильные данные банковского счета</string>
      <string name="bankcall_hint">Этот сервис авторизован UnionPay и имеет шифрование для финансовой безопасности</string>
      <string name="bankcall_id_card">ID карты</string>
      <string name="bankcall_id_card_hint">ID на банковской карте</string>
@@ -27,7 +27,7 @@
      <string name="bankcall_name_hint">Имя на банковской карте</string>
      <string name="bankcall_phone">Телефон</string>
      <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
-     <string name="bankcall_phone_debit_hint">Убедитесь, что у Вас хорошее соединение с интернет</string>
+     <string name="bankcall_phone_debit_hint">Убедитесь, что имеется хорошее соединение с интернет</string>
      <string name="bankcall_province">Провинция</string>
      <string name="bankcall_saved_card_info">%1$s - номер карты %2$s</string>
      <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Пекин)</string>
@@ -55,7 +55,7 @@
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_confirm">OK</string>
-	 <string name="button_count_down_reget">Получение кода(%1$s)</string>
+	 <string name="button_count_down_reget">Получение кода (%1$s)</string>
      <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
@@ -87,16 +87,16 @@
      <string name="error_account_changed_summary">Изменилась информация об аккаунте.
 Пожалуйста, войди занова.</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
-     <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
+     <string name="error_auth_summary">Ошибка входа в аккаунт. Повтори попытку.</string>
      <string name="error_auth_title">Ошибка входа</string>
      <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
 	 <string name="error_cert_date_summary">Ошибка данных сертификата. 
 Проверь локальные данные и повтори.</string>
      <string name="error_cert_date_title">Ошибка сертификата</string>
-     <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуй позже.</string>
+     <string name="error_common_summary">Системная ошибка. Попробуй позже.</string>
      <string name="error_common_title">Системная ошибка</string>
-     <string name="error_expired_summary">Ваш срок заказа истек</string>
-     <string name="error_frozen_summary">Ваш аккаунт заморожен. 
+     <string name="error_expired_summary">Срок заказа истек</string>
+     <string name="error_frozen_summary">Аккаунт заморожен. 
 Свяжись со службой поддержки Xiaomi.</string>
      <string name="error_frozen_title">Аккаунт заморожен</string>
      <string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
@@ -121,7 +121,7 @@
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
-     <string name="giftcard_denom">MiCredit</string>
+     <string name="giftcard_denom">Mi Credit</string>
      <string name="giftcard_denom_available">MiCredit доступно</string>
      <string name="giftcard_denom_frozen">MiCredit заморожено</string>
      <string name="giftcard_empty">Нет подарочных карт</string>
@@ -151,7 +151,7 @@
      <string name="lockpattern_pattern_confirmed_header">Новый шаблон разблокировки:</string>
      <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
      <string name="lockpattern_recording_incorrect_too_short">Соедини минимум %d точек. Попробуй еще раз:</string>
-     <string name="lockpattern_recording_inprogress">Отпусти палец, когда закончите</string>
+     <string name="lockpattern_recording_inprogress">Отпусти палец, когда закончишь</string>
      <string name="lockpattern_recording_intro_header">Нарисуй ключ разблокировки:</string>
      <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
      <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
@@ -159,7 +159,7 @@
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_continue_label">Далее</string>
-     <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
+     <string name="lockscreen_forgot_pattern_button_text"><u>Забыл пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
 	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
@@ -169,7 +169,7 @@
 	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить использование трафика</string>
      <string name="mibi_license_net_prompt_title">Требуется подключение к сети</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
-     <string name="mili_center">MiCredit</string>
+     <string name="mili_center">Mi Credit</string>
 	 <string name="mipay_error">Ошибка Mipay</string>
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
@@ -202,7 +202,7 @@
      <string name="pay_record_typeall">Все</string>
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">Ошибка %1$s</string>
-     <string name="paytool_msp_not_installed">Вы не установили плагин мобильной безопасности %1$s. Установить его сейчас?</string>
+     <string name="paytool_msp_not_installed">Не установлен плагин мобильной безопасности %1$s. Установить его сейчас?</string>
 	 <string name="prepaid_card_order_info">%1$s пополнение карты: RMB %2$s</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Неверный номер или пароль карты</string>
@@ -232,7 +232,7 @@
      <string name="progress_paytool_creating">Создание покупки %1$s…</string>
      <string name="progress_paytool_installing">Установка плагина безопасности %1$s…</string>
      <string name="progress_prepaid_creating">Обработка запроса на пополнение…</string>
-     <string name="progress_querying">Подождите…</string>
+     <string name="progress_querying">Подожди…</string>
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
@@ -292,7 +292,7 @@
      <string name="title_recharge">Пополнить баланс</string>
      <string name="title_recharge_record">Пополнения</string>
 	 <string name="title_sms_code">Введите проверочный код</string>
-     <string name="title_transaction">Операции</string>
+     <string name="title_transaction">Операции по счету</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
      <string name="voucher_edit_hint">Код</string>
      <string name="voucher_edit_limit">знаков</string>

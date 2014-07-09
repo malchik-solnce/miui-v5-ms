@@ -20,9 +20,9 @@
      <string name="basic_info">Информация</string>
      <string name="change_wallpaper">Обои</string>
      <string name="close">Закрыть</string>
-     <string name="component_category_finest_title">ОСНОВНЫЕ</string>
-     <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ</string>
-     <string name="default_name">По умол.</string>
+     <string name="component_category_finest_title">ОСНОВНЫЕ КОМПОНЕНТЫ</string>
+     <string name="component_category_more_title">ДОПОЛНИТЕЛЬНЫЕ КОМПОНЕНТЫ</string>
+     <string name="default_name">По умолчанию</string>
      <string name="deleting">Удаление…</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
@@ -59,7 +59,7 @@
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
-	 <string name="resource_apply_trial">Попробовать</string>
+	 <string name="resource_apply_trial">Триал</string>
      <string name="resource_buy">Купить </string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
      <string name="resource_category">Категории</string>
@@ -92,14 +92,14 @@
      <string name="resource_comment_title">Комментарии: %1$s</string>
      <string name="resource_comment_upload_data_invalid">Ошибка отправки комментария</string>
      <string name="resource_comment_upload_failed">Ошибка отправки</string>
-     <string name="resource_comment_upload_hint">Ваш комментарий будет показан после краткого обзора</string>
-     <string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
-     <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
+     <string name="resource_comment_upload_hint">Комментарий будет показан после проверки</string>
+     <string name="resource_comment_upload_not_bought">Примени тему, прежде чем комментировать</string>
+     <string name="resource_comment_upload_not_logined">Сначала войди в аккаунт</string>
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
 	 <string name="resource_delete">Удалить</string>
-     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
+     <string name="resource_delete_all">Удалить выбранные ресурсы? (%1$d)</string>
      <string name="resource_delete_confirm">Удалить этот ресурс?</string>
      <string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
      <string name="resource_delta_update_successful">Обновление завершено</string>
@@ -119,11 +119,11 @@
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Подарочная карта</string>
      <string name="resource_exchange_confirm">OK</string>
-     <string name="resource_exchange_empty_format">Введите код!</string>
-     <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
+     <string name="resource_exchange_empty_format">Введи код!</string>
+     <string name="resource_exchange_has_bought">Тема уже куплена</string>
      <string name="resource_exchange_has_expired">Этот код истек</string>
      <string name="resource_exchange_has_used">Этот код уже использован</string>
-     <string name="resource_exchange_hint">Введите код</string>
+     <string name="resource_exchange_hint">Введи код</string>
      <string name="resource_exchange_purchase_unkown_error">Неизвестная ошибка. Войдит в аккаунт на http://market.xiaomi.com для простотра статуса оплаты.</string>
      <string name="resource_exchange_share_code_content">Вы получили код на %1$s в магазине MIUI. Ваш MiCredit код: %2$s. Нажмите %3$s, чтобы использовать сейчас.</string>
      <string name="resource_exchange_share_code_dlg_content">Приобретен код для %1$s: %2$s. Теперь Вы можете поделиться этим с друзьями.</string>
@@ -132,7 +132,7 @@
      <string name="resource_exchange_unavailable">Код недоступен для этой темы</string>
      <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы с магазина тем MIUI</string>
      <string name="resource_exchange_universal_goon">Этот код может быть использован для загрузки любой темы из магазина MIUI</string>
-     <string name="resource_exchange_window_title">Принять</string>
+     <string name="resource_exchange_window_title">Подарочная карта</string>
      <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
      <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверь его и попробуй еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
@@ -190,7 +190,7 @@
      <string name="resource_trial_end_title">Пробное время вышло</string>
      <string name="resource_trial_time">(до окончания %1$d мин.)</string>
      <string name="resource_unable_to_access">К сожалению,
-контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе</string>
+контент который сейчас просматриваешь, в настоящее время недоступен в твоем регионе</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
      <string name="resource_user_know">OK</string>
@@ -220,12 +220,12 @@
      <string name="theme_component_title_font">Шрифт</string>
      <string name="theme_component_title_framework">Система</string>
      <string name="theme_component_title_icon">Иконки</string>
-     <string name="theme_component_title_launcher">Лончер</string>
+     <string name="theme_component_title_launcher">Лаунчер</string>
      <string name="theme_component_title_lockstyle">Локскрин</string>
      <string name="theme_component_title_lockwallpaper">Обои локскрина</string>
      <string name="theme_component_title_miwallpaper">Обои Mi</string>
      <string name="theme_component_title_mms">Сообщения</string>
-     <string name="theme_component_title_notification">Уведомление</string>
+     <string name="theme_component_title_notification">Уведомления</string>
      <string name="theme_component_title_others">Прочее</string>
      <string name="theme_component_title_photo_frame">Фоторамка</string>
      <string name="theme_component_title_ringtone">Мелодия</string>
@@ -233,7 +233,7 @@
      <string name="theme_component_title_wallpaper">Обои</string>
      <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажми здесь, чтобы применить.</string>
      <string name="theme_description_title_customized">Пользов.</string>
-     <string name="theme_description_title_default">По умолч.</string>
+     <string name="theme_description_title_default">По умолчанию</string>
 	 <string name="theme_fresh_man_notifaction">Попробуй новые темы</string>
      <string name="theme_immediately_apply_tip">Тема обновляется. Применить после обновления?</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
@@ -245,7 +245,7 @@
      <string name="theme_user_agreement_content2"> Пользовательское соглашение</string>
      <string name="theme_user_agreement_content3"> и </string>
      <string name="theme_user_agreement_content4">Политика безопасности</string>
-     <string name="theme_user_agreement_content5">. Разрешаете доступ к сети?</string>
+     <string name="theme_user_agreement_content5">. Разрешаешь доступ к сети?</string>
      <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
      <string name="theme_user_agreement_remind_never">Больше не спрашивать</string>
      <string name="theme_user_agreement_remind_summary">Вступит в силу при следующей загрузке</string>

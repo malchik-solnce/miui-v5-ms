@@ -83,7 +83,7 @@
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
      <string name="cancel">Отмена</string>
      <string name="cannot_download">Загрузка возможна только с URL, начинающихся с "http" или "https"</string>
-     <string name="choose_upload">Выберите файл для загрузки</string>
+     <string name="choose_upload">Выбери файл для загрузки</string>
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
@@ -151,7 +151,7 @@
 	 <string name="date_picker_dialog_other_button_label">Другое</string>
      <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выбери дату</string>
-     <string name="date_time_picker_dialog_title">Выберите дату и время</string>
+     <string name="date_time_picker_dialog_title">Выбери дату и время</string>
      <string name="delete">Удалить</string>
      <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
@@ -214,7 +214,7 @@
      <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о Вашем местоположении</string>
      <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
      <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о местоположении?</string>
-     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
+     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
      <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к местоположению</string>
      <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
      <string name="geolocation_settings_page_title">Закрыть геоданные</string>
@@ -288,8 +288,8 @@
      <string name="name">Ярлык</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомлять о Wi-Fi</string>
-     <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета Вы будете получать уведомления о доступных сетях Wi-Fi</string>
-     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
+     <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета получать уведомления о доступных сетях Wi-Fi</string>
+     <string name="network_show_wifi_setting_tip_dialog_title">Доступна Wi-Fi сеть</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
@@ -476,7 +476,7 @@
      <string name="readmode_pay_message">Для продолжения чтения требуется подписка</string>
      <string name="readmode_reach_last_page">Это последняя страница</string>
      <string name="readmode_recommend">Рекомендуемые</string>
-     <string name="readmode_recommend_message">Вы прочитали все разделы этой книги. Пожалуйста, выберите другую.</string>
+     <string name="readmode_recommend_message">Вы прочитали все разделы этой книги. Пожалуйста, выбери другую.</string>
      <string name="readmode_refresh">Обновить</string>
      <string name="readmodelist_bookmarks_to_show">Список чтения</string>
      <string name="recover">Восстановить</string>
@@ -552,10 +552,10 @@
      <string name="tab_yellowpage">Популярные</string>
      <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>
-     <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
+     <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закрой хотя бы одну</string>
      <string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
      <string name="ua_switcher_desktop">Полная версия</string>
-	 <string name="up_to_loading_tips">Отпустите, чтобы обновить</string>
+	 <string name="up_to_loading_tips">Отпусти, чтобы обновить</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
      <string name="url_hint">Введите адрес или поиск</string>
@@ -582,7 +582,7 @@
      <string name="webapp_webapp_favortes_title">Избранное</string>
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
-     <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
+     <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о местоположении?</string>
      <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
      <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
      <string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
@@ -595,7 +595,7 @@
      <string name="webview_find_on_page">Поиск на странице</string>
      <string name="webview_js_dialog_before_unload">%s
 
-Вы уверены, что хотите покинуть эту страницу?</string>
+Покинуть эту страницу?</string>
      <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
      <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>

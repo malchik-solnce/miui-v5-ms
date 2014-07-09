@@ -175,7 +175,7 @@
 	 <string name="pref_title_alert_remind">Всплывающее</string>
      <string name="pref_title_no_remind">Выключено</string>
      <string name="pref_title_notification_remind">Уведомление напоминаний</string>
-     <string name="preferences_about_title">О ПРОГРАММЕ</string>
+     <string name="preferences_about_title">О ПРИЛОЖЕНИИ</string>
      <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
      <string name="preferences_alerts_ringtone_title">Мелодия уведомления</string>
      <string name="preferences_alerts_title">Оповещения</string>

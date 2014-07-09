@@ -58,7 +58,7 @@
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
      <string name="format_date_md">d/MMMM kk:mm</string>
      <string name="format_date_trend_md">d/M</string>
-     <string name="format_date_week">EEE</string>
+     <string name="format_date_week">EEEE</string>
      <string name="format_date_wmd">EEEE, d/M</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="local_city">Города</string>

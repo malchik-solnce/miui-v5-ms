@@ -153,7 +153,7 @@
      <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
-     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
+     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d)</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл "%s"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
      <string name="connections">Связи</string>
@@ -201,7 +201,7 @@
      <string name="cta_notice_title">Напоминание</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
-     <string name="custom_nickname_hint">Введите: М или Ж</string>
+     <string name="custom_nickname_hint">Введи М или Ж</string>
      <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
      <string name="date_time_set">Установить</string>
      <string name="date_year_toggle">Показывать год</string>
@@ -281,11 +281,11 @@
      <string name="device_import_progress_toast">%1$d контактов импортировано</string>
      <string name="device_import_title">импорт</string>
      <string name="device_list_title">Выбери телефон для сопряжения</string>
-     <string name="device_other_guide">если твоей марки телефона нет в списке, попробуй обратиться за помощью ниже</string>
+     <string name="device_other_guide">если марки телефона нет в списке, попробуй обратиться за помощью ниже</string>
      <string name="device_other_title">Другой телефон</string>
-     <string name="device_paired_dialog_message">Возможно Вам придется подтвердить сопряжение на другом телефоне</string>
+     <string name="device_paired_dialog_message">Возможно придется подтвердить сопряжение на другом телефоне</string>
      <string name="device_paired_dialog_title">Устройства сопряжены, доставка контактов</string>
-     <string name="device_pairing_dialog_message">Возможно Вам придется подтвердить сопряжение на другом телефоне</string>
+     <string name="device_pairing_dialog_message">Возможно придется подтвердить сопряжение на другом телефоне</string>
      <string name="device_pairing_dialog_title">Сопряжение устройства</string>
      <string name="device_version_header_bluetooth">включите bluetooth</string>
      <string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
@@ -307,7 +307,7 @@
      <string name="dialog_phone_call_prohibited_message">Вызов не послан</string>
      <string name="dialog_sync_add">Добавить группу синхронизации</string>
      <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключи режим полета</string>
-     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейди в Меню > Настройки</string>
+     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейди в меню > настройки</string>
      <string name="directory_search_label">Каталог</string>
      <string name="display_all_contacts">Все контакты</string>
      <string name="display_more_groups">Другие группы…</string>
@@ -737,9 +737,9 @@
      <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
      <string name="preference_telocation_title">Местоположение</string>
      <string name="preference_tone_title">Тон</string>
-     <string name="prepare_import">подготовка импорта</string>
+     <string name="prepare_import">Подготовка импорта</string>
      <string name="preview_contact_card_title">Импортировать</string>
-     <string name="previous">назад</string>
+     <string name="previous">Назад</string>
      <string name="private_num">Скрытый номер</string>
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
@@ -820,7 +820,7 @@
      <string name="resource_comment_upload_failed">Ошибка отправки коментария</string>
      <string name="resource_comment_upload_hint">Ваш комментарий будет отображаться после краткого обзора</string>
      <string name="resource_comment_upload_not_bought">Вы должны использовать эту тему, прежде чем комментировать</string>
-     <string name="resource_comment_upload_not_logined">Пожалуйста, зарегистрируйтесь</string>
+     <string name="resource_comment_upload_not_logined">Пожалуйста, зарегистрируйся</string>
      <string name="resource_comment_upload_success">Комментарий отправлен! Ваш комментарий будет отображаться после краткого обзора.</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
@@ -933,7 +933,7 @@
      <string name="scanning">Поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
-     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
+     <string name="sdcard_not_mounted_dialog_message">"Вставь SD-карту"</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="searchHint">Поиск контактов</string>
      <string name="search_results_searching">Поиск…</string>
