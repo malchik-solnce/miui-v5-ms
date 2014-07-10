@@ -1516,7 +1516,7 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
      <string name="webviewchromium_time_picker_dialog_pm">PM</string>
      <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
-     <string name="webviewchromium_time_picker_dialog_title">Установить время</string>
+     <string name="webviewchromium_time_picker_dialog_title">Установи время</string>
      <string name="webviewchromium_week_picker_dialog_title">Выбери неделю</string>
      <string name="week">нед.</string>
      <string name="weeks">нед.</string>

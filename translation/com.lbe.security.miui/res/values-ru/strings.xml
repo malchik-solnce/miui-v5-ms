@@ -70,7 +70,7 @@
      <string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
      <string name="HIPS_Group_Expense">Безопасность</string>
      <string name="HIPS_Group_Internet">Доступ к интернету</string>
-     <string name="HIPS_Group_Location">Позиционирование</string>
+     <string name="HIPS_Group_Location">Местоположение</string>
      <string name="HIPS_Group_PIM">Персональная информация</string>
      <string name="HIPS_Group_PhoneID">Идентификация телефона</string>
      <string name="HIPS_Group_ROOT">Суперпользователь</string>
@@ -97,7 +97,7 @@
      <string name="HIPS_Perm_CallLog_Hint">Приложения, имеющие доступ к журналу вызовов: %1$s</string>
      <string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
      <string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и т.д</string>
-     <string name="HIPS_Perm_CallMonitor_Hint">Приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости: %1$s</string>
+     <string name="HIPS_Perm_CallMonitor_Hint">Приложения, имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости: %1$s</string>
      <string name="HIPS_Perm_CallState">Состояние телефона</string>
      <string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
      <string name="HIPS_Perm_CallState_Hint">Приложения, имеющие доступ к состоянию телефона: %1$s</string>
@@ -162,7 +162,7 @@
      <string name="HIPS_Perm_Recorder_AudioVideo">Запись звука и видео</string>
      <string name="HIPS_Perm_Recorder_Camera">камере</string>
      <string name="HIPS_Perm_Recorder_Video">записи видео</string>
-     <string name="HIPS_Perm_Recorder_VoiceCall">Запись вызовов</string>
+     <string name="HIPS_Perm_Recorder_VoiceCall">записи вызовов</string>
      <string name="HIPS_Perm_RejectAll">Запретить все</string>
 	 <string name="HIPS_Perm_SMS">Сообщения</string>
      <string name="HIPS_Perm_SMS_Access">входящим сообщениям</string>

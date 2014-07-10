@@ -151,9 +151,9 @@ Custom service will contact you in a moment</string>
      <string name="express_sender_info">Информация</string>
      <string name="express_sender_name">Имя</string>
      <string name="express_sender_region">Страна</string>
-	 <string name="express_submit_order">Submit</string>
+	 <string name="express_submit_order">Подтвердить</string>
      <string name="express_view_order">Просмотр заказов</string>
-	 <string name="express_view_status">Track</string>
+	 <string name="express_view_status">Статус</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
 	 <string name="gallery">Галерея</string>

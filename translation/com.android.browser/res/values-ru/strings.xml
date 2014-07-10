@@ -15,9 +15,11 @@
      <string name="accessibility_time_picker_minute">Минута</string>
      <string name="accessibility_time_picker_second">Секунда</string>
      <string name="account">Аккаунт</string>
+	 <string name="account_prifix">Аккаунт:</string>
      <string name="action">Войти</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
+	 <string name="adblock_notification">Заблокировано рекламы: %d</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_folder">Добавить папку</string>
      <string name="add_new_bookmark">Добавить закладку</string>
@@ -260,6 +262,8 @@
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
+	 <string name="miui_autologin_bar_error">Не удалось войти. Попробуй еще раз.</string>
+     <string name="miui_autologin_bar_title">Используй системный аккаунт, чтобы войти</string>
      <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
      <string name="miui_content_paste">Вставить</string>
@@ -278,7 +282,7 @@
      <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
      <string name="miuichromium_error_page_url">Проверьте ссылку</string>
      <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
-     <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
+     <string name="miuichromium_save_password_message">Запомнить браузеру этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
      <string name="miuichromium_save_password_remember">Запомнить</string>
@@ -310,6 +314,8 @@
      <string name="pref_accessibility_title">Специальные возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинации букв могут быть введены в одно нажатие</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
+	 <string name="pref_adblock_counts">Всего заблокировано: %d</string>
+     <string name="pref_adblock_title">Блокировка рекламы</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -318,6 +324,8 @@
      <string name="pref_autologin_progress_in_background">Вход на сайты Google с помощью аккаунта %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
      <string name="pref_category_title_version">Версия</string>
+	 <string name="pref_clear_adblock_statistics">Очистить статистику</string>
+     <string name="pref_clear_adblock_statistics_dlg">Удалить статистику заблокированной рекламы?</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
@@ -360,6 +368,7 @@
      <string name="pref_development_trace">Включить отслеживание</string>
      <string name="pref_development_viewport">Исполь. широкое окно просмотра</string>
      <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
+	 <string name="pref_enable_adblock_notification">Показывать уведомления</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">По посл. вкладке</string>
      <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>

@@ -1728,7 +1728,7 @@
      <string name="mvno_type">Тип MVNO</string>
      <string name="nearby_wifi">Доступные сети</string>
      <string name="need_check">Можно оптимизировать…</string>
-     <string name="network_assistant">Монитор</string>
+     <string name="network_assistant">Трафик</string>
      <string name="network_detail">Свойства сети %s</string>
      <string name="network_settings_title">Мобильная сеть</string>
      <string name="network_state_label">Состояние сети: </string>
@@ -2497,7 +2497,7 @@
      <string name="save_button">Сохранить</string>
      <string name="scan_done">Сканирование завершено</string>
      <string name="scan_list_label">Результат сканирования: </string>
-     <string name="scanning_prefix">Сканирование:%s</string>
+     <string name="scanning_prefix">Сканирование: %s</string>
      <string name="scanning_start_hints">Запуск движка</string>
      <string name="scanning_virus">Сканирование…</string>
      <string name="score">Состояние</string>
