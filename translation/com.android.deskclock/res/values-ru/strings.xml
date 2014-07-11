@@ -75,7 +75,7 @@
      <string name="settings">Настройки будильника</string>
      <string name="shutdown_alarm_disable_summary">Отключение будильника выключено</string>
      <string name="shutdown_alarm_enable_summary">Включено отключение будильника</string>
-     <string name="shutdown_alarm_title">Выключение будильника</string>
+     <string name="shutdown_alarm_title">Выключить будильник</string>
      <string name="silent_alarm_summary">Без звука</string>
      <string name="snooze_confirm_cancel">Отложить</string>
      <string name="snooze_duration_title">Интервал повтора сигнала</string>

@@ -55,7 +55,7 @@
      <string name="correct_id3_start">Получение информации…</string>
      <string name="correct_id3_success">Информация обновлена</string>
      <string name="correct_id3_summary">Может привести к сильному потреблению трафика. Рекомендуется отключить.</string>
-     <string name="create_confirm">ОК</string>
+     <string name="create_confirm">OK</string>
      <string name="create_equalzier_create_text_prompt">Название профиля</string>
      <string name="create_playlist_create_text_prompt">Название плейлиста</string>
      <string name="custom">Настроить</string>
