@@ -75,7 +75,7 @@
     <string name="count_ge">Файлов: %d</string>
     <string name="gong_count_xiang">Файлов: %d</string>
     <string name="gong_count_dlna">DLNA: %d</string>
-	<string name="gong_count_netdevice">Сетевых устройств: %d</string>
+	<string name="gong_count_netdevice">Устройств: %d</string>
     <string name="jni_res_connect_error">Не удалось подключиться к сети</string>
     <string name="jni_res_timout">Не удалось получить данные. Проверь сеть.</string>
     <string name="jni_res_session_timout">Таймаут пользователя</string>
@@ -136,7 +136,7 @@
     <string name="no_myfavorite">Пусто</string>
     <string name="no_myfavorite_advice" />
     <string name="myfavorite_onlylocal"> избранное</string>
-	<string name="net_device_name">Сетевое устройство</string>
+	<string name="net_device_name">Сетевые устройства</string>
     <string name="no_myfavorite_advice_onlylocal" />
     <string name="alreadyselected">Выбрано</string>
     <string name="mediasetupdated">Серии обновлены</string>
@@ -305,9 +305,9 @@
     <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
 	<string name="vp_full_high_definition">1080P</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_next_ci">Следующий эпизод</string>
+    <string name="vp_next_ci">След.</string>
     <string name="vp_offline">Офлайн</string>
-    <string name="vp_select_ci">Антология</string>
+    <string name="vp_select_ci">Список</string>
     <string name="vp_standard_definition">SD</string>
     <string name="vp_super_definition">UHD</string>
     <string name="vp_VideoView_error_button">OK</string>
@@ -367,5 +367,5 @@
     <string name="menu_item_disable_audio_enhance">Отключить усиление звука</string>
     <string name="menu_item_enable_3d_mode">Включить 3D</string>
     <string name="menu_item_disable_3d_mode">Отключить 3D</string>
-    <string name="toast_message_set_misound">Установите MiSound в настройках</string>
+    <string name="toast_message_set_misound">Установи MiSound в настройках</string>
 </resources>
