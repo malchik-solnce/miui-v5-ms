@@ -39,7 +39,7 @@
      <string name="activate_popup_desc_register_account_downlink">Для регистраци аккаунта Xiaomi введите номер телефона</string>
      <string name="activate_popup_desc_register_account_intl">Для регистрации аккаунта Xiaomi, будет отправлено международное сообщение</string>
      <string name="activate_popup_desc_sim_card">Будет отправлено одно сообщение, чтобы связать SIM-карту с аккаунтом Xiaomi и включения %s. Оплата согласно Вашему тарифному плану.</string>
-     <string name="activate_popup_desc_sim_card_downlink">Чтобы включить %s, введите номер телефона</string>
+     <string name="activate_popup_desc_sim_card_downlink">Чтобы включить %s, введи номер телефона</string>
      <string name="activate_popup_title_failed_phone_error">Ошибка активации</string>
      <string name="activate_popup_title_failed_query_info">Ошибка активации</string>
      <string name="activate_popup_title_failed_receive_sms">Ошибка активации</string>

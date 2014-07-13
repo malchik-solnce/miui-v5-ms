@@ -57,7 +57,7 @@
      <string name="activate_status_desc_getting_gateway">Получение SMS шлюза</string>
      <string name="activate_status_desc_prepare_sending_sms">Подготовка отправки SMS для активации на шлюз</string>
      <string name="activate_status_desc_query_activation_info">Запрос информации об активации от сервера</string>
-     <string name="activate_status_desc_query_activation_info_downlink_sms_error">Серверу не удалось отправить SMS для активации на ваш телефон</string>
+     <string name="activate_status_desc_query_activation_info_downlink_sms_error">Серверу не удалось отправить SMS для активации</string>
      <string name="activate_status_desc_query_activation_info_no_info">Нет информации об активации на сервере</string>
      <string name="activate_status_desc_query_activation_info_server_error">Ошибка сервера при запросе информации об активации SIM-карты</string>
      <string name="activate_status_desc_registering_sim_account">Регистрация SIM-карты на сервере</string>
@@ -92,7 +92,7 @@
      <string name="checking_account">Проверка аккаунта…</string>
      <string name="checking_input">Проверка…</string>
      <string name="cloud_messaging">Облачные сообщения</string>
-     <string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачными сервисами.</string>
+     <string name="cmcc_data_sync_notice">Используй свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладись облачными сервисами.</string>
      <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="completed">Готово</string>
      <string name="confirm">Подтвердить</string>
