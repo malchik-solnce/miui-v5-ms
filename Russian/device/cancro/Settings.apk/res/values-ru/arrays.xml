@@ -107,7 +107,7 @@
         <item>запись SMS на смарт-карту</item>
         <item>изменение настроек</item>
         <item>отображать поверх других элементов</item>
-        <item>Доступ к уведомлениям</item>
+        <item>доступ к уведомлениям</item>
         <item>камера</item>
         <item>записать аудио</item>
         <item>воспроизвести аудио</item>
@@ -405,7 +405,7 @@
      </string-array>
      <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
-        <item>В режиме \"Без звука\"</item>
+        <item>В режиме без звука</item>
         <item>Всегда</item>
      </string-array>
      <string-array name="power_mode_entries">
@@ -422,6 +422,10 @@
         <item>Галерея</item>
         <item>Музыка</item>
         <item>Почта</item>
+     </string-array>
+	 <string-array name="priority_storage_entries">
+        <item>Внутренняя память</item>
+        <item>Внешняя память</item>
      </string-array>
      <string-array name="ram_states">
         <item>нормальный</item>

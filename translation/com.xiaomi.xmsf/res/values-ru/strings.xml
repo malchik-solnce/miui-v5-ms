@@ -93,7 +93,7 @@
      <string name="checking_input">Проверка…</string>
      <string name="cloud_messaging">Облачные сообщения</string>
      <string name="cmcc_data_sync_notice">Используй свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладись облачными сервисами.</string>
-     <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
+     <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Ты также можешь управлять своими данными онлайн в любое время!</string>
      <string name="completed">Готово</string>
      <string name="confirm">Подтвердить</string>
      <string name="current_account">Текущий аккаунт</string>
@@ -131,11 +131,11 @@
      <string name="find_device_error_server">Ошибка сервера</string>
      <string name="find_device_notice_p1">Если не можешь найти свой телефон, посети</string>
      <string name="find_device_notice_p3">для нахождения, блокировки или удаления данных</string>
-     <string name="find_device_notice_p4">При каждой смене SIM-карты, может быть отправлено сообщение для отслеживания устройства</string>
+     <string name="find_device_notice_p4">При каждой смене SIM-карты может быть отправлено сообщение для отслеживания устройства</string>
      <string name="find_device_success_title">Обнаружение устройства включено</string>
      <string name="find_password_on_web_msg">Посети account.xiaomi.com для получения пароля</string>
      <string name="foreign_login"><u>Страна</u></string>
-     <string name="forget_password"><u>Забыл пароль</u></string>
+     <string name="forget_password"><u>Восс. пароль</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">ДАННЫЕ И СИНХРОНИЗАЦИЯ</string>
      <string name="i_know">OK</string>
@@ -163,17 +163,17 @@
      <string name="micloud_activate_account_success_notify_title">Аккаунт Xiaomi успешно активирован</string>
      <string name="micloud_activate_back_btn">Отмена</string>
      <string name="micloud_activate_retry_btn">Повтор</string>
-     <string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
+     <string name="micloud_activating_account_notify_info">Активация аккаунта Xiaomi</string>
      <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi…</string>
      <string name="micloud_active_email_sent_1">Мы отправили письмо с ссылкой активации на почту:</string>
      <string name="micloud_active_email_sent_2"> </string>
      <string name="micloud_active_email_visit">Посети %s</string>
      <string name="micloud_activing_account">Активация аккаунта</string>
      <string name="micloud_activing_account_delayed">До завершения активации осталось около 30 секунд.
-Вы можете сделать что-то еще…</string>
+Подожди еще немного :)…</string>
      <string name="micloud_activing_account_failed">Ошибка активации</string>
      <string name="micloud_area_code_hot">Популярные</string>
-     <string name="micloud_area_code_title">Код страны/региона</string>
+     <string name="micloud_area_code_title">Код страны</string>
      <string name="micloud_click_email">Для активации аккаунта Xiaomi, перейди по ссылке в письме</string>
      <string name="micloud_click_email_to_valid">Для активации аккаунта Xiaomi, перейди по ссылке в письме</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
@@ -183,7 +183,7 @@
      <string name="micloud_error_empty_captcha_code">Введи код с картинки</string>
      <string name="micloud_error_empty_pwd">Нет пароля</string>
      <string name="micloud_error_empty_username">Нет имени</string>
-     <string name="micloud_error_empty_vcode">Введите проверочный код</string>
+     <string name="micloud_error_empty_vcode">Введи проверочный код</string>
      <string name="micloud_error_illegal_pwd">Неверный пароль</string>
      <string name="micloud_error_invalid_phone_num">Неверный номер телефона</string>
      <string name="micloud_full_influence_dspt">Все твои фотографии, видео, заметки и приложения будут сохранены в облаке.
@@ -194,7 +194,7 @@
 
  Чтобы добавить новые данные, Вы можете либо очистить старые файлы или приобрести дополнительное место в облаке для хранения.</string>
      <string name="micloud_full_influence_title">Облако заполнено</string>
-     <string name="micloud_input_password_prompt">Введите пароль</string>
+     <string name="micloud_input_password_prompt">Введи пароль от аккаунта</string>
      <string name="micloud_intro_01_part_01">Экономия на SMS</string>
      <string name="micloud_intro_01_part_02">MIUI позволяет отправлять бесплатные облачные сообщения</string>
      <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
@@ -226,7 +226,7 @@
      <string name="micloud_user_space_usage">Облако</string>
      <string name="micloud_warn_full_sum">На данный момент новые данные не будут синхронизироваться с облаком</string>
      <string name="micloud_warn_full_title">Недостаточно метса</string>
-     <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>
+     <string name="micloud_warn_low_sum">Использовано 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
      <string name="micloud_web_discription_01">Зайди на i.mi.com</string>
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>

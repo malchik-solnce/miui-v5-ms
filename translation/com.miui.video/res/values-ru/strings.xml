@@ -119,6 +119,8 @@
     <string name="file_not_exist">Файл не найден</string>
     <string name="play">Смотреть</string>
 	<string name="prex_playcount">Смотрелось:</string>
+	<string name="priority_storage">Исп. внешнюю SD-карту</string>
+     <string name="priority_storage_summary">Функция вступает в силу при использовании внешней SD-карты</string>
     <string name="favorite">" избранное"</string>
     <string name="cancel_favorite">Из избранного</string>
     <string name="no_favorite">Пусто</string>

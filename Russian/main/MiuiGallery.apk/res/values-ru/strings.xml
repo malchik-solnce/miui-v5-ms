@@ -77,10 +77,10 @@
      <string name="clear_thumbnail_cache">Очистить кэш миниатюр</string>
      <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея повторно просканирует медиа-файлы и заново создаст эскизы позже.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
-	 <string name="click_to_add_picture">Нажмите, чтобы добавить</string>
-     <string name="click_top_right">Нажмите на иконку здесь</string>
+	 <string name="click_to_add_picture">Нажми, чтобы добавить</string>
+     <string name="click_top_right">Нажми на иконку здесь</string>
      <string name="close">Закрыть</string>
-     <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
+     <string name="cloud_album_more_settings">Синхронизация с MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
      <string name="cloud_album_set_scan_qr_code">QR-код</string>
      <string name="cloud_albums">Облако</string>
@@ -88,7 +88,7 @@
      <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>
      <string name="cloud_camera_display_name">Не отсортированные</string>
      <string name="cloud_gallery_no_pictures">Нет изображений</string>
-     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очисти корзину на i.xiaomi.com.</string>
+     <string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очисти корзину на i.mi.com.</string>
      <string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
      <string name="cloud_media_set_set">Облачные альбомы</string>
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
@@ -259,7 +259,7 @@
      <string name="internal_sd_card">Память телефона</string>
 	 <string name="internal_sd_card_hm">Память телефона</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
-     <string name="invalid_recipient_message">Исправьте получателя (получателей) или они не будут получать сообщения</string>
+     <string name="invalid_recipient_message">Исправь получателя (получателей) или они не будут получать сообщения</string>
 	 <string name="item_not_sync_for_origin_image">Это изображение не было синхронизировано в облако и оригинальное изображение не может быть загружено</string>
      <string name="item_not_sync_for_origin_video">Это видео не синхронизировано с облаком и не может быть загружено</string>
      <string name="item_not_sync_for_refocus_data">Это изображение не было синхронизировано в облако и его данные не могут быть загружены</string>
@@ -280,7 +280,7 @@
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
      <string name="lomoish">Ломо</string>
-	 <string name="long_press_to_refocus">Удерживайте, чтобы повторить фокусировку</string>
+	 <string name="long_press_to_refocus">Удерживай, чтобы повторить фокусировку</string>
      <string name="make_download_dir_fail">Не удалось создать каталог для хранения файлов</string>
      <string name="maker">Автор</string>
      <string name="manual">Вручную</string>
@@ -366,6 +366,8 @@
      <string name="posterize">Постеризация</string>
      <string name="ppmm_gallery">PPMM</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
+	 <string name="priority_storage">Сохранять на SD-карту</string>
+     <string name="priority_storage_summary">Автоматически загружать файлы на SD-карту, если она доступна</string>
      <string name="projection">Проекция</string>
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
@@ -374,7 +376,7 @@
      <string name="qqbrowser_img">QQ Browser</string>
      <string name="qsbk_save">QSBK</string>
      <string name="redeye">Красные глаза</string>
-     <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
+     <string name="redeye_tooltip">Нажми для устранения эффекта красных глаз</string>
 	 <string name="refocus_data_downloading">Загрузка данных…</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
@@ -430,7 +432,7 @@
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Зайди на i.xiaomi.com, чтобы смотреть облачные альбомы в любое время</string>
+     <string name="settings_i_xiaomi_com">Зайди на i.mi.com для просмотра облачных альбомов в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
@@ -495,7 +497,7 @@
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
 	 <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
-	 <string name="ubifocus_guide_text">Удерживай 0.5с., чтобы обновить</string>
+	 <string name="ubifocus_guide_text">Удерживай 0.5с. для обновления</string>
      <string name="ubifocus_map_error">Некоторые данные неверны</string>
      <string name="ubifocus_refocus_data_missing">Не удалось обновить из-за некоторых отсутствующих данных</string>
      <string name="ubifocus_refocus_download_tip">Скачайте обновленные данные перед обновлением</string>
@@ -518,7 +520,7 @@
      <string name="white_balance">Баланс белого</string>
      <string name="widget_type">Выбор изображений</string>
      <string name="widget_type_album">Выбрать альбом</string>
-     <string name="widget_type_photo">Выберите изображение</string>
+     <string name="widget_type_photo">Выбери изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
 	 <string name="yellow_page">Сервисы</string>

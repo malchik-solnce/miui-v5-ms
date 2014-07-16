@@ -535,6 +535,8 @@
      <string name="ip_prefix_miui">Авто-префикс</string>
      <string name="ip_prefix_required_miui">Вводить свой префикс номера IP</string>
      <string name="ip_prefix_sum_miui">Префикс оператора: %s</string>
+	 <string name="ivr_menu_dialing_msg">Переадресация…</string>
+     <string name="ivr_menu_list_title">Голосовое меню</string>
      <string name="jituan_number_format_error_message_miui">%s поддерживает только цифры и символы</string>
      <string name="labelCDMAMore">Настройки вызовов CDMA</string>
      <string name="labelCF">Переадресация вызова</string>
@@ -662,6 +664,8 @@
      <string name="no_volte">Выполнение IMS-звонков невозможно</string>
      <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
      <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
+	 <string name="non_ivr_menu_collapse_menu">Свернуть меню</string>
+     <string name="non_ivr_menu_view_menu">Открыть меню</string>
      <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
      <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
      <string name="not_connected_miui">не подключено</string>

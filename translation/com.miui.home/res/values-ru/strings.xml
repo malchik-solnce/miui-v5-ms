@@ -63,7 +63,7 @@
      <string name="gadget_weather_time_format">d MMMM, EEEE</string>
 	 <string name="gadget_weather_title">Погода</string>
      <string name="gadget_weather_title_24">Погода 2х4</string>
-     <string name="global_search_hint">Поиск тут :)</string>
+     <string name="global_search_hint">Поиск на устройстве</string>
      <string name="guide_install_app_msg">Это приложение не установлено на устройстве. Найти и скачать его?</string>
      <string name="guide_install_app_title">Установить</string>
      <string name="install">Установить</string>
@@ -161,7 +161,7 @@
      <string name="status_downloading">загрузка</string>
      <string name="status_installing">установка</string>
      <string name="status_paused">приостановлено</string>
-     <string name="status_pending">ожидане</string>
+     <string name="status_pending">ожидание</string>
      <string name="title_select_shortcut">Выбери ярлык</string>
      <string name="toggle_select_title">Выбери переключатели</string>
      <string name="toggle_title">Переключатели</string>

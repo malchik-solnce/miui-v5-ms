@@ -236,7 +236,7 @@
      <string name="auto_launch_label">ЗАПУСК ПО УМОЛЧАНИЮ</string>
      <string name="auto_launch_label_generic">По умолчанию</string>
      <string name="auto_punctuate">Автопунктуация</string>
-     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
+     <string name="auto_punctuate_summary">Нажми дважды клавишу пробел для ввода точки</string>
      <string name="auto_replace">Автокоррекция</string>
      <string name="auto_replace_summary">Исправлять опечатки</string>
      <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
@@ -250,7 +250,7 @@
      <string name="automatic_brightness">Автонастройка яркости</string>
      <string name="available_size">свободно %s</string>
      <string name="awake">Время включения устройства</string>
-     <string name="back_key">Кнопка \"Назад\"</string>
+     <string name="back_key">Кнопка назад</string>
      <string name="background_data">Фоновый режим</string>
      <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика. Однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
      <string name="background_data_dialog_title">Отключить фоновый режим?</string>
@@ -3389,9 +3389,9 @@ Attempts Remaining :"</string>
      <string name="wifi_wps_available_second_item">" (доступна защищенная сеть)"</string>
      <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
      <string name="wifi_wps_connected">Соединено с сетью Wi-Fi %s</string>
-     <string name="wifi_wps_failed_auth">Ошибка авторизации. Попробуйте позже.</string>
-     <string name="wifi_wps_failed_generic">WPS ошибка. Повторите попытку через несколько минут.</string>
-     <string name="wifi_wps_failed_overlap">Обнаружена еще одна WPS сессия. Повторите попытку через несколько минут.</string>
+     <string name="wifi_wps_failed_auth">Ошибка авторизации. Попробуй позже.</string>
+     <string name="wifi_wps_failed_generic">WPS ошибка. Повтори попытку через несколько минут.</string>
+     <string name="wifi_wps_failed_overlap">Обнаружена еще одна WPS сессия. Повтори попытку через несколько минут.</string>
      <string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
      <string name="wifi_wps_failed_wep">Настройки безопасности роутера (WEP) не поддерживаются</string>
      <string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
@@ -3421,4 +3421,8 @@ Attempts Remaining :"</string>
      <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
      <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
+	 <string name="priority_storage_app_settings">Пользовательские данные буду сохраняться на %1$s</string>
+     <string name="priority_storage_settings_summary">При отсуствии SD-карты все пользовательские данные будут сохраняться во внутреннюю память устройства</string>
+     <string name="priority_storage_summary">Выбери память по умолчанию для сохранения пользовательских данных</string>
+     <string name="priority_storage_title">Настройки памяти</string>
 </resources>
