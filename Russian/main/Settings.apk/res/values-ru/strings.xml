@@ -1235,8 +1235,11 @@
      <string name="help_url_vpn" />
      <string name="help_url_wifi" />
      <string name="hidden_ssid_label">Скрытый SSID:</string>
+	 <string name="high_performance_notif_summary">Более высокое потребление батареи</string>
+     <string name="high_performance_notif_title">Режим производительности</string>
+     <string name="high_performance_title">Используйте режим производительности для лучшего результата в бенчмарках</string>
      <string name="history_details_title">Подробная история</string>
-     <string name="home_key">Кнопка \"Домой\"</string>
+     <string name="home_key">Кнопка домой</string>
      <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
      <string name="immediately_destroy_activities">Не сохранять действия</string>
      <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
