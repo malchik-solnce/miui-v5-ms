@@ -398,7 +398,7 @@
      <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Ответить на все здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
-     <string name="imap_name">IMAP</string>
+     <string name="imap_name">Почта</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
      <string name="input_password_prompt">Введите пароль:</string>
