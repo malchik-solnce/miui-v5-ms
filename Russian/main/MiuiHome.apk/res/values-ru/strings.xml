@@ -15,7 +15,7 @@
      <string name="cancel_action">Отмена</string>
      <string name="cancel_btn_label">Отменить</string>
      <string name="chooser_wallpaper">Выбрать обои из</string>
-     <string name="confirm_btn_label">ОК</string>
+     <string name="confirm_btn_label">OK</string>
 	 <string name="custom_wallpaper_picker">Пользовательские</string>
 	 <string name="default_folder_title_game">Игры</string>
      <string name="default_folder_title_recommend">Рекомендуемые</string>
@@ -68,7 +68,7 @@
      <string name="guide_install_app_title">Установить</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-     <string name="loading_desktop">Загрузка, подождите…</string>
+     <string name="loading_desktop">Загрузка…</string>
 	 <string name="lock_screen_failed_message">Не удалось применить :(</string>
      <string name="lock_screen_success_message">Применено :)</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
@@ -136,8 +136,7 @@
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>
-     <string name="status_bar_toggle_power_high">Производительность</string>
-     <string name="status_bar_toggle_power_low">Энергосбережение</string>
+     <string name="status_bar_toggle_power_high">Производ.</string>
      <string name="status_bar_toggle_power_mid">Обычный</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>

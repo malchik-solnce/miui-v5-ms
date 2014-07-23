@@ -1010,12 +1010,12 @@
      <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
      <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
      <string name="empty_folder_title">Пустые папки (%d)</string>
-     <string name="empty_folder_title_hints">Пустая папка</string>
+     <string name="empty_folder_title_hints">Пустые папки</string>
      <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
      <string name="emptylist_fwlog_call">Здесь будут отображаться все заблокированные вызовы</string>
      <string name="emptylist_fwlog_ms">Здесь буду отображаться все заблокированные сообщения</string>
      <string name="enable_adb">Отладка по USB</string>
-     <string name="enable_adb_debug_summary">При подключенном USB, используйте команды ADB</string>
+     <string name="enable_adb_debug_summary">При подключенном USB, используй команды ADB</string>
      <string name="enable_adb_debug_title">USB отладка</string>
      <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB или по сети</string>
      <string name="enable_anti_spam_summary">Фильтрация сообщений включена</string>
@@ -1025,6 +1025,7 @@
      <string name="enable_compatibility">Масштабировать приложения</string>
      <string name="enable_drive_mode">Включить режим вождения</string>
      <string name="enable_firewall">Блокировать нежелательные вызовы</string>
+	 <string name="enable_mobile_data_when_opening_hotspot">Включать так же мобильный интернет?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
      <string name="enable_quickboot_summary">Переводить устройство в режим QuickBoot вместо полного выключения</string>
      <string name="enable_quickboot_title">Включить режим QuickBoot</string>
@@ -1108,7 +1109,7 @@
      <string name="force_stop">Остановить</string>
      <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности</string>
      <string name="force_stop_dlg_title">Остановить принудительно?</string>
-     <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения Вы будете должны ввести пароль.</string>
+     <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения нужно будет ввести пароль.</string>
      <string name="free_ram">Память</string>
      <string name="free_wifi_confirm">OK</string>
      <string name="free_wifi_connect">Подключиться</string>
@@ -1678,24 +1679,24 @@
      <string name="move_app_to_sdcard">На SD-карту</string>
      <string name="moving">Перемещение</string>
      <string name="msd_driver_download">Скачать драйвер</string>
-     <string name="msd_driver_mac_download">"Используя ваш Mac，скачайте драйвер и откройте AndroidFileTransfer.dmg для установки
+     <string name="msd_driver_mac_download">"Используя Mac，скачай драйвер и открой AndroidFileTransfer.dmg для установки
 Ссылка для скачки:http://miui.com/mac"</string>
-     <string name="msd_driver_windows_xp_download">"Используя ваш компьютер，скачайте драйвер и выполните Setup.exe для установки
+     <string name="msd_driver_windows_xp_download">"Используя компьютер，скачай драйвер и выполни Setup.exe для установки
 Ссылка для скачки:http://miui.com/win"</string>
      <string name="msd_help_summary">"Проблемы с доступом к мобильному устройству с помощью компьютера? 
 Пожалуйста, выберите операционную систему вашего компьютера:"</string>
      <string name="msd_help_title">Помощь</string>
      <string name="msd_install">Установить драйвер</string>
      <string name="msd_install_next">Далее</string>
-     <string name="msd_install_retry_linux">"Если ваш компьютер не распознает устройство,
-Попробуйте следующее:
-1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Создайте папку: mkdir /media/mtp
-3) Подтвердите права групп пользователей в текущей группе пользователей
-4) Перезайдите в учетную запись
-5) Получите доступ к смонтированному устройству mtpfs /media/mtp через файловый менеджер, как в локальную папку
+     <string name="msd_install_retry_linux">"Если компьютер не распознает устройство,
+попробуй следующее:
+1) Используй инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev
+2) Создай папку: mkdir /media/mtp
+3) Подтверди права групп пользователей в текущей группе пользователей
+4) Перезайди в учетную запись
+5) Получи доступ к смонтированному устройству mtpfs /media/mtp через файловый менеджер, как в локальную папку
 6) Удаление устройства: fusermount -u /media/mtp
- Заметка: Для ubuntu 8.04"</string>
+ Заметка: для ubuntu 8.04"</string>
      <string name="msd_install_retry_mac">Если компьютер не обнаружит устройство правильно, попробуйте следующее:</string>
      <string name="msd_install_retry_windows_vista">Если компьютер не обнаружит устройство правильно, попробуйте следующее:</string>
      <string name="msd_install_retry_windows_xp">Если компьютер не обнаружит устройство правильно, попробуйте следующее:</string>
@@ -2895,7 +2896,7 @@
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
      <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
-     <string name="touch_sensitive_title">Режим в перчатках</string>
+     <string name="touch_sensitive_title">Чувствительный сенсор</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">OK</string>
      <string name="touch_sensitive_turn_off_summary">Также отключить режим защиты датчиком?</string>
@@ -3006,7 +3007,7 @@
      <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
      <string name="unlock_set_unlock_pin_summary">Уровень безопасности от среднего до высокого</string>
      <string name="unlock_set_unlock_pin_title">PIN-код</string>
-     <string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
+     <string name="unlock_set_unlock_summary">Включи блокировку экрана, чтобы выбрать тип блокировки</string>
      <string name="unmount_inform_text">SD-карта будет отключена</string>
      <string name="untitled_apn">Без названия</string>
      <string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании MIUI ROM только при наличии Wi-Fi-соединеия</string>
@@ -3049,7 +3050,7 @@
      <string name="use_default_tts_settings_title">Только мои настройки</string>
      <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
      <string name="use_location_title">Учитывать при поиске</string>
-	 <string name="use_network_warning">Xiaomi Service Framework и Cloud Service требуется подключение к сети</string>
+	 <string name="use_network_warning">Xiaomi Service Framework и Cloud Service требуют подключения к сети</string>
      <string name="use_system_language_to_select_input_method_subtypes">Язык системы</string>
      <string name="user_account_title">Аккаунт для контента</string>
      <string name="user_add_profile_item_summary">Вы можете ограничить доступ к приложениям и содержанию с вашего аккаунта</string>
@@ -3090,8 +3091,8 @@
      <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
      <string name="user_dict_settings_context_menu_edit_title">Изменить</string>
      <string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
-     <string name="user_dict_settings_empty_text">"В пользовательском словаре пока ничего нет. 
-Добавлять слова можно с помощью кнопки \"Добавить ( + )\"."</string>
+     <string name="user_dict_settings_empty_text">В пользовательском словаре пока ничего нет. 
+Добавлять слова можно с помощью кнопки добавить. ( + )</string>
      <string name="user_dict_settings_more_languages">Больше языков…</string>
      <string name="user_dict_settings_summary" />
      <string name="user_dict_settings_title">Пользовательский словарь</string>
@@ -3166,7 +3167,7 @@
      <string name="virus_scan_find">Обнаружено угроз: %d</string>
      <string name="virus_scan_finish">Готово</string>
      <string name="virus_scan_finish_text">Теперь все в порядке :)</string>
-     <string name="virus_scan_guard_provider_missed">Антивирус был взломан. Вам нужно выполнить полный сброс телефона.</string>
+     <string name="virus_scan_guard_provider_missed">Защитник взломан. Выполни полный сброс телефона.</string>
      <string name="virus_scan_installed_package">%s (приложение)</string>
      <string name="virus_scan_is_cloud_scanning">Облачное сканирование…</string>
      <string name="virus_scan_is_scanning">Сканирование…</string>
@@ -3223,7 +3224,7 @@
      <string name="virus_scanner_select_OK">OK</string>
      <string name="virus_scanner_select_lib">Вирусная база</string>
      <string name="virus_scanner_select_multi">Выбор более чем одной вирусной базы данных, требует переустановки</string>
-     <string name="virus_scanner_select_single">Выберите наиболее надежную антивирусную базу</string>
+     <string name="virus_scanner_select_single">Выбери наиболее надежную антивирусную базу</string>
      <string name="virus_scanner_select_trust_lib">Доверенная база данных</string>
      <string name="virus_scanner_stop_title">Остановить</string>
      <string name="virus_scanner_title">Антивирус</string>
@@ -3239,7 +3240,7 @@
      <string name="voice_input_output_settings">Голосовой ввод и вывод</string>
      <string name="voice_input_output_settings_title">Настройки голосового ввода и вывода</string>
      <string name="voice_search_settings_title">Голосовой поиск</string>
-     <string name="voice_summary">Выберите подписку для голосовго вызова</string>
+     <string name="voice_summary">Выбери подписку для голосовго вызова</string>
      <string name="voice_title">Звонки и USSD/MMI-запросы</string>
      <string name="volume_alarm_description">Будильник</string>
      <string name="volume_alarm_mute">Отключить будильники</string>
@@ -3302,8 +3303,8 @@
      <string name="wfd_available_devices">Доступные устройства</string>
      <string name="wfd_disconnect_diag_msg">Если Вы выключите Wi-Fi дисплей, подключение с %1$s завершится</string>
      <string name="wfd_disconnect_diag_title">Завершить подключение?</string>
-     <string name="wfd_disconnect_multiple_diag_message">Если Вы выключите Wi-Fi дисплей, подключение с %1$s и %2$s другими устройствами завершится</string>
-     <string name="wfd_enable_wifi_diag_title">Когда включен Wi-Fi, Вы можете использовать только Wi-Fi. Продолжить?</string>
+     <string name="wfd_disconnect_multiple_diag_message">Если выключить Wi-Fi дисплей, подключение с %1$s и %2$s другими устройствами завершится</string>
+     <string name="wfd_enable_wifi_diag_title">Когда включен Wi-Fi, можно использовать только Wi-Fi. Продолжить?</string>
      <string name="wfd_enabler_title">Включить Wi-Fi дисплей</string>
      <string name="wfd_menu_search">Поиск устройств</string>
      <string name="wfd_menu_searching">Поиск…</string>
@@ -3342,7 +3343,7 @@
      <string name="wifi_context_menu_forget">Удалить сеть</string>
      <string name="wifi_disabled_association_rejected">Соединение отклонено</string>
      <string name="wifi_disabled_generic">Отключено</string>
-     <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
+     <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выбери настройки > Wi-Fi и открой меню дополнительные функции.</string>
      <string name="wifi_disabled_network_failure">Включено</string>
      <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
      <string name="wifi_display_autonomous_go">Включить автономный GO</string>
@@ -3377,7 +3378,7 @@
      <string name="wifi_eap_user_cert">Сертификат пользователя</string>
      <string name="wifi_empty_list_user_restricted">У вас нет разрешения на изменение Wi-Fi сети</string>
      <string name="wifi_empty_list_wifi_off">"Чтобы просмотреть доступные сети
-включите Wi-Fi"</string>
+включи Wi-Fi"</string>
      <string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей…</string>
      <string name="wifi_enable">Включить Wi-Fi</string>
      <string name="wifi_enable_watchdog_service_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
@@ -3392,10 +3393,10 @@
      <string name="wifi_install_credentials">Установить сертификаты</string>
      <string name="wifi_ip_address">IP-адрес</string>
      <string name="wifi_ip_settings">Настройки IP</string>
-     <string name="wifi_ip_settings_invalid_dns">Введите действительный DNS-адрес</string>
-     <string name="wifi_ip_settings_invalid_gateway">Введите действительный адрес шлюза</string>
-     <string name="wifi_ip_settings_invalid_ip_address">Введите действительный IP-адрес</string>
-     <string name="wifi_ip_settings_invalid_network_prefix_length">Укажите длину префикса сети (от 0 до 32)</string>
+     <string name="wifi_ip_settings_invalid_dns">Введи действительный DNS-адрес</string>
+     <string name="wifi_ip_settings_invalid_gateway">Введи действительный адрес шлюза</string>
+     <string name="wifi_ip_settings_invalid_ip_address">Введи действительный IP-адрес</string>
+     <string name="wifi_ip_settings_invalid_network_prefix_length">Укажи длину префикса сети (от 0 до 32)</string>
      <string name="wifi_ip_settings_menu_cancel">Отмена</string>
      <string name="wifi_ip_settings_menu_save">Сохранить</string>
      <string name="wifi_menu_advanced">Дополнительные функции</string>
@@ -3415,7 +3416,7 @@
      <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
      <string name="wifi_on_time">Время работы Wi-Fi</string>
      <string name="wifi_other_network">Другая сеть…</string>
-     <string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение к соединению с %1$s?</string>
+     <string name="wifi_p2p_cancel_connect_message">Отменить приглашение к соединению с %1$s?</string>
      <string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
      <string name="wifi_p2p_delete_group_message">Удалить эту группу?</string>
      <string name="wifi_p2p_device_info">Информация об устройстве</string>
@@ -3438,7 +3439,7 @@
      <string name="wifi_priority_changed" formatted="false">Приоритет старое значение=%s,новое значение=%s</string>
      <string name="wifi_priority_label">Приоритет</string>
      <string name="wifi_priority_settings_label">Настройки приоритета</string>
-     <string name="wifi_priority_settings_summary">Нажмите, чтобы установить приоритет каждой точки доступа</string>
+     <string name="wifi_priority_settings_summary">Нажми, чтобы установить приоритет каждой точки доступа</string>
      <string name="wifi_priority_settings_title">Настройки приоритета</string>
      <string name="wifi_priority_type_summary">Разрешить установить приоритет для каждой точки доступа вручную</string>
      <string name="wifi_priority_type_title">Установить вручную</string>
@@ -3474,12 +3475,12 @@
      <string name="wifi_setup_back">Назад</string>
      <string name="wifi_setup_cancel">Отмена</string>
      <string name="wifi_setup_connect">Подключить</string>
-     <string name="wifi_setup_description_connected">"Нажмите Далее для продолжения установки.
+     <string name="wifi_setup_description_connected">"Нажми долее для продолжения установки.
 
-Нажмите Назад для подключения к другой сети Wi-Fi."</string>
+Нажми назад для подключения к другой сети Wi-Fi."</string>
      <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
      <string name="wifi_setup_detail">Сведения о сети</string>
-     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\".</string>
+     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Ты можешь сделать это позже в настройках > беспроводные сети.</string>
      <string name="wifi_setup_forget">Не подключаться</string>
      <string name="wifi_setup_next">Далее</string>
      <string name="wifi_setup_not_connected">Не подключено</string>
@@ -3493,7 +3494,7 @@
      <string name="wifi_setup_status_new_network">Подключиться к новой сети</string>
      <string name="wifi_setup_status_proceed_to_next">Далее</string>
      <string name="wifi_setup_status_scanning">Поиск доступных сетей…</string>
-     <string name="wifi_setup_status_select_network">Чтобы подключиться, нажмите на сеть</string>
+     <string name="wifi_setup_status_select_network">Чтобы подключиться, нажми на сеть</string>
      <string name="wifi_setup_status_unsecured_network">Подключение к незащищенной сети</string>
      <string name="wifi_setup_title">Настройки Wi-Fi</string>
      <string name="wifi_setup_title_add_network">Добавьте сеть</string>
@@ -3505,7 +3506,7 @@
      <string name="wifi_share">Поделиться Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
      <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>
-     <string name="wifi_share_action_turn_on_summary">Пожалуйста, войтите в аккаунт Xiaomi</string>
+     <string name="wifi_share_action_turn_on_summary">Пожалуйста, войди в аккаунт Xiaomi</string>
      <string name="wifi_share_add">Мои сети Wi-Fi</string>
      <string name="wifi_share_add_summary">"При совместном использовании общественных Wi-Fi сетей,
 Вы можете использовать другие сети пользователей"</string>
@@ -3575,33 +3576,33 @@
      <string name="wifi_wapi_cert_delet_subdir">Выберите сертификат</string>
      <string name="wifi_wapi_cert_install">Уставновить WAPI сертификат</string>
      <string name="wifi_wapi_cert_install_button">Установить</string>
-     <string name="wifi_wapi_cert_mgmt_as_dont_exist">На SD-карте нет AS сертификатов. Проверьте и повторите позже.</string>
-     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат AS сертификата. Установите правильный AS сертификат.</string>
-     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
+     <string name="wifi_wapi_cert_mgmt_as_dont_exist">На SD-карте нет AS сертификатов. Проверь и повтори позже.</string>
+     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат AS сертификата. Установи правильный AS сертификат.</string>
+     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введи имя сертификата</string>
      <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания каталога</string>
      <string name="wifi_wapi_cert_mgmt_subdir_exist">Имя каталога уже существует</string>
-     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">введите имя каталога</string>
+     <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введи имя каталога</string>
      <string name="wifi_wapi_cert_mgmt_titlebar">Управление WAPI сертификатами</string>
      <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сетификата</string>
-     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неверный формат. Установите правильный сертификат.</string>
-     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите мия сертификата</string>
+     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неверный формат. Установи правильный сертификат.</string>
+     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введи мия сертификата</string>
      <string name="wifi_wapi_cert_uninstall">Удалить WAPI сертификат</string>
      <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
-     <string name="wifi_wapi_certification_dont_exist">Сетевой пароль не правильный. Пожалуйста, попробуйте еще раз.</string>
+     <string name="wifi_wapi_certification_dont_exist">Сетевой пароль не правильный. Попробуй еще раз.</string>
      <string name="wifi_wapi_user_cert">Пользователький сетификат</string>
      <string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
      <string name="wifi_wps_available_second_item">" (доступна защищенная сеть)"</string>
      <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
      <string name="wifi_wps_connected">Соединено с сетью Wi-Fi %s</string>
-     <string name="wifi_wps_failed_auth">Ошибка авторизации. Попробуйте позже.</string>
-     <string name="wifi_wps_failed_generic">WPS ошибка. Повторите попытку через несколько минут.</string>
-     <string name="wifi_wps_failed_overlap">Обнаружена еще одна WPS сессия. Повторите попытку через несколько минут.</string>
+     <string name="wifi_wps_failed_auth">Ошибка авторизации. Попробуй позже.</string>
+     <string name="wifi_wps_failed_generic">WPS ошибка. Повтори попытку через несколько минут.</string>
+     <string name="wifi_wps_failed_overlap">Обнаружена еще одна WPS сессия. Повтори попытку через несколько минут.</string>
      <string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
      <string name="wifi_wps_failed_wep">Настройки безопасности роутера (WEP) не поддерживаются</string>
      <string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
-     <string name="wifi_wps_onstart_pbc">Нажмите кнопку защищенного Wi-Fi на Вашем роутере. Она может быть названа \"WPS\" или содержать этот символ:</string>
-     <string name="wifi_wps_onstart_pin">Введите PIN-код: %1$s в Вашем Wi-Fi роутере. Настройка может занять до двух минут.</string>
-     <string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс Wi-Fi. Повторите попытку позже.</string>
+     <string name="wifi_wps_onstart_pbc">Нажми кнопку защищенного Wi-Fi на роутере. Она может быть названа WPS или содержать этот символ:</string>
+     <string name="wifi_wps_onstart_pin">Введи PIN-код: %1$s в Wi-Fi роутере. Настройка может занять до двух минут.</string>
+     <string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс Wi-Fi. Повтори попытку позже.</string>
      <string name="wifi_wps_setup_msg">Включение WPS…</string>
      <string name="wifi_wps_setup_title">Настройка WPS</string>
      <string name="wimax_settings">Настройки 4G</string>
@@ -3612,9 +3613,9 @@
      <string name="wizard_next">Далее</string>
      <string name="work_done">Готово</string>
      <string name="wps_category">Безопасное подключение</string>
-     <string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор поддерживает и включен WPS</string>
+     <string name="wps_connect_summary">Убедись, что беспроводной маршрутизатор поддерживает и включен WPS</string>
      <string name="wps_connect_title">Подключить WPS</string>
-     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
+     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратись к оператору связи, чтобы разблокировать SIM-карту.</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_money_service">Центр Mi</string>

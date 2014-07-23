@@ -109,13 +109,13 @@
      <string name="HIPS_Perm_Contact_Access">списку контактов</string>
      <string name="HIPS_Perm_Contact_Desc">Доступ к списку контактов</string>
      <string name="HIPS_Perm_Contact_Hint">Приложения, имеющие доступ к списку контактов: %1$s</string>
-	 <string name="HIPS_Perm_DisableKeyguard">Разблокировка устройства</string>
+	 <string name="HIPS_Perm_DisableKeyguard">разблокировке устройства</string>
      <string name="HIPS_Perm_DisableKeyguard_Desc">Доступ к разблокировке устройства</string>
      <string name="HIPS_Perm_DisableKeyguard_Hint">Приложения, имеющие доступ к разблокировке устройства: %1$s</string>
      <string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>
      <string name="HIPS_Perm_GetCallState">состоянию текущего вызова</string>
      <string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
-     <string name="HIPS_Perm_Location">Местоположение</string>
+     <string name="HIPS_Perm_Location">местоположению</string>
      <string name="HIPS_Perm_Location_CellInfo">получать местоположение устройства</string>
      <string name="HIPS_Perm_Location_CellLocation">получить местоположение устройства</string>
      <string name="HIPS_Perm_Location_Desc">Поиск устройства посредством сети или GPS</string>

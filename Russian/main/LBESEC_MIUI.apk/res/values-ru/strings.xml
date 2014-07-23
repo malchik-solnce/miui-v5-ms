@@ -87,7 +87,7 @@
      <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Доступ к подключению Bluetooth</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Приложения, имеющие доступ к Bluetooth: %1$s</string>
-	 <string name="HIPS_Perm_Calendar">Календарь</string>
+	 <string name="HIPS_Perm_Calendar">календарю</string>
      <string name="HIPS_Perm_Calendar_Desc">Доступ к календарю</string>
      <string name="HIPS_Perm_Calendar_Hint">Приложения, имеющие доступ к календарю: %1$s</string>
      <string name="HIPS_Perm_Call">Телефонные звонки</string>
@@ -109,7 +109,7 @@
      <string name="HIPS_Perm_Contact_Access">списку контактов</string>
      <string name="HIPS_Perm_Contact_Desc">Доступ к списку контактов</string>
      <string name="HIPS_Perm_Contact_Hint">Приложения, имеющие доступ к списку контактов: %1$s</string>
-	 <string name="HIPS_Perm_DisableKeyguard">Разблокировка устройства</string>
+	 <string name="HIPS_Perm_DisableKeyguard">разблокировке устройства</string>
      <string name="HIPS_Perm_DisableKeyguard_Desc">Доступ к разблокировке устройства</string>
      <string name="HIPS_Perm_DisableKeyguard_Hint">Приложения, имеющие доступ к разблокировке устройства: %1$s</string>
      <string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>

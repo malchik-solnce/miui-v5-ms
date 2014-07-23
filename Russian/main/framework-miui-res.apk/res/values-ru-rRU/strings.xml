@@ -332,9 +332,9 @@
      <string name="find_device_turn_off_flight_mode_instructions">Устройство заблокировано.
 Пожалуйста, отключи режим полета.</string>
      <string name="firewall_setting">Черный список</string>
-     <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайди в:
+     <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайди в
 
-Настройки -> Система -> Кнопки"</string>
+настройки -> система -> кнопки"</string>
      <string name="fools_day">День дураков</string>
      <string name="force_exit_message">Приложение "%1$s" закрыто</string>
      <string name="forget_password_string">Забыл пароль?</string>
@@ -388,7 +388,7 @@
      <string name="lockscreen_transport_play_description">Кнопка играть</string>
      <string name="lockscreen_transport_prev_description">Кнопка предыдущий трек</string>
      <string name="lockscreen_unlock_sim_via_puk">Введи PUK-код, чтобы разблокировать SIM-карту</string>
-     <string name="login_website_in_case_forget_password">Посети http://i.xiaomi.com для сброса пароля</string>
+     <string name="login_website_in_case_forget_password">Посети http://i.mi.com для сброса пароля</string>
      <string name="lunar_ba" />
      <string name="lunar_calendar">Лунный календарь</string>
      <string name="lunar_chu" />
