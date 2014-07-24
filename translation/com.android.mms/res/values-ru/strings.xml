@@ -143,12 +143,16 @@
      <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
      <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
      <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
-     <string name="feedback_description_hint">Оставьте свое мнение (обязательно)</string>
+     <string name="feedback_description_hint">Оставь свое мнение (обязательно)</string>
      <string name="feedback_submit">Отправить</string>
      <string name="festival">Шутки</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
-     <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
+	 <string name="file_create_time">Создан:</string>
+     <string name="file_share_message_description">Я хочу поделиться файлом</string>
+	 <string name="file_size">Размер:</string>
+     <string name="file_title">Название:</string>
+     <string name="file_width_height">Размер:</string>
      <string name="forward_from">От:</string>
      <string name="forward_prefix">От: </string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s.
@@ -392,8 +396,8 @@ SMS (%1$d), MMS (%2$d)</string>
      <string name="send_message_notification_msg">Device Management send message permission request</string>
      <string name="send_message_notification_tickerText">Device Management permission request</string>
      <string name="send_message_notification_title">Управление устройством</string>
-     <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его?</string>
-     <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
+     <string name="send_signature_confirm_dialog_message">Пустое сообщение. Отправить его?</string>
+     <string name="send_signature_confirm_dialog_title">Подтверждение</string>
      <string name="send_sms">Отправить сообщение</string>
      <string name="send_to">Для:</string>
      <string name="send_to_count">Успешно отправлено для %1$s</string>
@@ -404,6 +408,7 @@ SMS (%1$d), MMS (%2$d)</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
      <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
+	 <string name="share_img">Поделиться</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>
      <string name="sim_card2">SIM-карта 2</string>

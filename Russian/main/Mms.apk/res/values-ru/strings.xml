@@ -148,7 +148,11 @@
      <string name="festival">Шутки</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
-     <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
+	 <string name="file_create_time">Создан:</string>
+     <string name="file_share_message_description">Я хочу поделиться файлом</string>
+	 <string name="file_size">Размер:</string>
+     <string name="file_title">Название:</string>
+     <string name="file_width_height">Размер:</string>
      <string name="forward_from">От:</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">"Найдено сообщений от предыдущего аккаунта: %1$s.
@@ -392,7 +396,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="send_message_notification_msg">Device Management send message permission request</string>
      <string name="send_message_notification_tickerText">Device Management permission request</string>
      <string name="send_message_notification_title">Управление устройством</string>
-     <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его?</string>
+     <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Отправить его?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">Отправить сообщение</string>
      <string name="send_to">Для:</string>
@@ -404,6 +408,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
      <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
+	 <string name="share_img">Поделиться</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>
      <string name="sim_card2">SIM-карта 2</string>
@@ -411,7 +416,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
      <string name="sim_delete">Удалить</string>
      <string name="sim_empty">На SIM-карте нет сообщений</string>
-     <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место</string>
+     <string name="sim_full_body">Удали несколько сообщений, чтобы освободить место</string>
      <string name="sim_full_title">SIM-карта заполнена</string>
      <string name="sim_manage_messages_title">Сообщения на SIM-карте</string>
      <string name="sim_view">Просмотр</string>
