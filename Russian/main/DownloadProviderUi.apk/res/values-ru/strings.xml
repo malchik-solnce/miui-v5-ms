@@ -12,7 +12,7 @@
      <string name="button_sort_by_size">Сортировать по размеру</string>
      <string name="cancel_running_download">Отмена</string>
 	 <string name="cancle">Отмена</string>
-     <string name="choose_open_time">Пожалуйста, выбери время открытия</string>
+     <string name="choose_open_time">Выбери подписку</string>
      <string name="confirm_delete_downloads_message">Загрузок будет удалено: %d. Продолжить?</string>
      <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено</string>
      <string name="delete_download">Удалить</string>
@@ -77,14 +77,14 @@
      <string name="menu_all_task_start">Запустить все</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Настройки</string>
-	 <string name="mi_money">Mi деньги</string>
+	 <string name="mi_money">Mi</string>
      <string name="mi_money_">mi_money)</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
 	 <string name="one_month">Месячная опалата</string>
      <string name="open_download">Открыть</string>
 	 <string name="open_xunlei_speed_service">Включить сервис ускорения</string>
-     <string name="original_price">(Original_price</string>
+     <string name="original_price">(оригин. цена)</string>
      <string name="pause_download">Пауза</string>
      <string name="paused_by_app">Приостановлено</string>
 	 <string name="paused_insufficient_space">В ожидании достаточного пространства</string>
@@ -103,7 +103,7 @@
      <string name="remove_download">Удалить</string>
      <string name="restart_download">Заново</string>
      <string name="resume_download">Далее</string>
-     <string name="retry_after_network_available">Повтори, когда сеть будет доступна</string>
+     <string name="retry_after_network_available">Доступно при подключении к сети</string>
      <string name="retry_download">Повтор</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_operation_items">Пожалуйста выбери</string>
