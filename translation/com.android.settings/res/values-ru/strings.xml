@@ -3242,11 +3242,11 @@
      <string name="voice_search_settings_title">Голосовой поиск</string>
      <string name="voice_summary">Выбери подписку для голосовго вызова</string>
      <string name="voice_title">Звонки и USSD/MMI-запросы</string>
-     <string name="volume_alarm_description">Будильник</string>
+     <string name="volume_alarm_description">Громкость будильника</string>
      <string name="volume_alarm_mute">Отключить будильники</string>
      <string name="volume_bluetooth_description">Громкость Bluetooth</string>
      <string name="volume_category_title">Настройки громкости</string>
-     <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
+     <string name="volume_media_description">Громкость мультимедиа</string>
      <string name="volume_media_mute">Отключить музыку и медиа</string>
      <string name="volume_notification_description">Оповещения</string>
      <string name="volume_notification_mute">Отключить уведомления</string>
