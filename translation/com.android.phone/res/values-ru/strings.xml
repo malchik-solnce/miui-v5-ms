@@ -1049,9 +1049,9 @@
      <string name="sip_settings">Настройки</string>
      <string name="sip_settings_miui">Интернет телефония</string>
      <string name="sip_system_decide">Автоматически</string>
-     <string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
-     <string name="sliding_target_hint_miui">Сдвиньте вверх, для отклонения/отправки смс</string>
-     <string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
+     <string name="sliding_down_hint_miui"><jsonstring>{"string":"Сдвинь вниз для ответа","styles":[{"start":0,"name":"font;size=20","end":23}]}</string>
+     <string name="sliding_target_hint_miui">Сдвинь вверх для отклонения/отправки смс</string>
+     <string name="sliding_up_hint_miui">Сдвинь вверх, чтобы отклонить</string>
      <string name="sms_content">Содержание сообщения</string>
      <string name="sms_sender">От</string>
      <string name="sp_unlock_failed">Не удалось выполнить запрос на разблокировку оператора SIM</string>
@@ -1077,7 +1077,7 @@
      <string name="sub_two">Управление подпиской 2</string>
      <string name="subone">Подписка 1</string>
      <string name="subtwo">Подписка 2</string>
-     <string name="sum_carrier_select">Выберите оператора связи</string>
+     <string name="sum_carrier_select">Выбери оператора связи</string>
      <string name="sum_cdma_call_settings">Дополнительные настройки (только CDMA-звонков)</string>
      <string name="sum_cfb_disabled">Отключено</string>
      <string name="sum_cfb_enabled">Переадресация на номер {0}</string>

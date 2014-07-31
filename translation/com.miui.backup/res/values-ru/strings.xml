@@ -131,7 +131,7 @@
      <string name="contact_title">Контакты</string>
      <string name="current_account">Аккаунт %s</string>
      <string name="current_sim">Текущая SIM-карта</string>
-     <string name="customization"><u>Настроить</u></string>
+     <string name="customization"><jsonstring>{"string":"Настроить","styles":[{"start":0,"name":"u","end":8}]}</string>
      <string name="customization_under_wifi_prompt">Поддерживается только по Wi-Fi</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
      <string name="data_no_enough_space_message">Восстановление может потерпеть неудачу. Освободи немного места и попробуй еще раз.</string>

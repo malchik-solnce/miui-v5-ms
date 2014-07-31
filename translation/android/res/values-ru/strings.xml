@@ -143,7 +143,7 @@
      <string name="bugreport_title">Отчет об ошибке</string>
      <string name="byteShort">Б</string>
      <string name="cancel">Отмена</string>
-     <string name="candidates_style"><u>варианты</u></string>
+     <string name="candidates_style"><jsonstring>{"string":"варианты","styles":[{"start":0,"name":"u","end":7}]}</string>
      <string name="capability_desc_canRequestEnhancedWebAccessibility">При необходимости устанавливать скрипты, чтобы получить больше специальных возможностей</string>
      <string name="capability_desc_canRequestFilterKeyEvents">Фильтровать личные данные, например номера кредитных карт и пароли</string>
      <string name="capability_desc_canRequestTouchExploration">Озвучивать нажимаемые элементы и разрешать управление устройством с помощью жестов</string>
@@ -154,14 +154,14 @@
      <string name="capability_title_canRetrieveWindowContent">Читать содержимое окна</string>
      <string name="capital_off">ВЫКЛ</string>
      <string name="capital_on">ВКЛ</string>
-     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-     <string name="car_mode_disable_notification_title">Включен режим \"В автомобиле\"</string>
+     <string name="car_mode_disable_notification_message">Чтобы выйти, нажми здесь</string>
+     <string name="car_mode_disable_notification_title">Включен режим в автомобиле</string>
      <string name="cfTemplateForwarded">{0}: {1}</string>
      <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
      <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
      <string name="cfTemplateRegistered">{0}: Не переадресовано</string>
      <string name="cfTemplateRegisteredTime">{0}: Не переадресовано</string>
-     <string name="chooseActivity">Выберите действие</string>
+     <string name="chooseActivity">Выбери действие</string>
      <string name="chooseUsbActivity">Выбор приложения для USB-устройства</string>
      <string name="choose_account_label">Выберите аккаунт</string>
      <string name="chooser_wallpaper">Сменить обои</string>
@@ -484,8 +484,7 @@
      <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
      <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр)</string>
      <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать не менее 8 цифр</string>
-     <string name="kg_login_account_recovery_hint">""Забыли логин или пароль?
-Зайдите на "<b>google.com/accounts/recovery</b>."</string>
+     <string name="kg_login_account_recovery_hint"><jsonstring>{"string":"Забыли логин или пароль? Зайди на google.com\/accounts\/recovery.","styles":[{"start":36,"name":"b","end":63}]}</string>
      <string name="kg_login_checking_password">Проверка аккаунта…</string>
      <string name="kg_login_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google</string>
      <string name="kg_login_invalid_input">Неверный логин или пароль</string>
@@ -541,11 +540,10 @@
  Повтор через %d сек."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
      <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
-     <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
-Перейдите на страницу <b>google.com/accounts/recovery</b>."</string>
+     <string name="lockscreen_glogin_account_recovery_hint"><jsonstring>{"string":"Забыл имя пользователя или пароль?\nПерейди на страницу google.com\/accounts\/recovery.","styles":[{"start":58,"name":"b","end":85}]}</string>
      <string name="lockscreen_glogin_checking_password">Проверка…</string>
      <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
-     <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google</string>
+     <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войди в аккаунт Google</string>
      <string name="lockscreen_glogin_invalid_input">Неверное имя пользователя или пароль</string>
      <string name="lockscreen_glogin_password_hint">Пароль</string>
      <string name="lockscreen_glogin_submit_button">Вход</string>
@@ -553,18 +551,18 @@
      <string name="lockscreen_glogin_username_hint">Имя пользователя (эл. почта)</string>
      <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажми меню</string>
      <string name="lockscreen_instructions_when_pattern_enabled">Нажми меню, чтобы разблокировать экран или вызвать службу экстренной помощи</string>
-     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
+     <string name="lockscreen_low_battery">Подключи зарядное устройство</string>
      <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
      <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставь SIM-карту.</string>
      <string name="lockscreen_missing_sim_message">SIM-карта не установлена</string>
      <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
      <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
-     <string name="lockscreen_password_wrong">Повторите попытку</string>
+     <string name="lockscreen_password_wrong">Повтори попытку</string>
      <string name="lockscreen_pattern_correct">Правильно!</string>
-     <string name="lockscreen_pattern_instructions">Введите графический ключ</string>
-     <string name="lockscreen_pattern_wrong">Повторите попытку</string>
+     <string name="lockscreen_pattern_instructions">Введи графический ключ</string>
+     <string name="lockscreen_pattern_wrong">Повтори попытку</string>
      <string name="lockscreen_permanent_disabled_sim_instructions">"SIM-карта окончательно заблокирована.
-Чтобы получить новую, обратитесь к своему оператору."</string>
+Чтобы получить новую, обратись к своему оператору."</string>
      <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию</string>
      <string name="lockscreen_plugged_in">Зарядка батареи (%d%%)</string>
      <string name="lockscreen_return_to_call">Вернуться к вызову</string>
@@ -576,7 +574,7 @@
      <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
      <string name="lockscreen_sound_off_label">Откл. звук</string>
      <string name="lockscreen_sound_on_label">Вкл. звук</string>
-     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
+     <string name="lockscreen_too_many_failed_attempts_countdown">Повтори попытку через %d с.</string>
      <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ. 
 
 Повтор через %d сек."</string>
@@ -879,7 +877,7 @@
      <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохраненные на телефоне, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
      <string name="permdesc_writeProfile">Приложение сможет изменять вашу личную информацию (например, имя и контактные данные), сохраненную на устройстве. Получив эти данные, приложение сможет отправить их другим пользователям.</string>
      <string name="permdesc_writeSecureSettings">Приложение сможет изменять системные настройки безопасности. Это разрешение не используется обычными приложениями.</string>
-     <string name="permdesc_writeSettings">"Приложение сможет изменять настройки системы. Вредоносные программы смогут  повредить конфигурацию системы."</string>
+     <string name="permdesc_writeSettings">Приложение сможет изменять настройки системы. Вредоносные программы смогут  повредить конфигурацию системы.</string>
      <string name="permdesc_writeSms">Приложение сможет изменять SMS, сохраненные на телефоне или SIM-карте. Вредоносные программы смогут удалять ваши сообщения.</string>
      <string name="permdesc_writeSocialStream">Приложение сможет отображать новости, добавленные вашими друзьями в социальных сетях. Будьте осторожны при передаче этой информации! С этим разрешением приложение сможет создавать сообщения от лица друзей. Примечание. Это разрешение может применяться не во всех социальных сетях.</string>
      <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
@@ -1165,7 +1163,7 @@
      <string name="permlab_writeSocialStream">Добавление записей в вашу социальную ленту</string>
      <string name="permlab_writeSyncSettings">Включение/выключение синхронизации</string>
      <string name="perms_description_app">Источник: %1$s</string>
-     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВОЕ: </font></string>
+     <string name="perms_new_perm_prefix"><jsonstring>{"string":"НОВОЕ: ","styles":[{"start":0,"name":"font;size=12;fgcolor=#ff33b5e5","end":6}]}</string>
      <string name="petabyteShort">ПБ</string>
      <string name="phoneTypeAssistant">Секретарь</string>
      <string name="phoneTypeCallback">Обр. вызов</string>
@@ -1356,15 +1354,15 @@ Attempts Remaining :"</string>
      <string name="sms_control_no">Запретить</string>
      <string name="sms_control_title">Отправка SMS-сообщений</string>
      <string name="sms_control_yes">Разрешить</string>
-     <string name="sms_premium_short_code_details">" "<font fgcolor="#ffffb060">С вашего мобильного счета будут списаны средства</font>" "</string>
+     <string name="sms_premium_short_code_details"><jsonstring>{"string":" С мобильного счета будут списаны средства ","styles":[{"start":1,"name":"font;fgcolor=#ffffb060","end":48}]}</string>
      <string name="sms_short_code_confirm_allow">Отправить</string>
      <string name="sms_short_code_confirm_always_allow">Всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
      <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b></string>
      <string name="sms_short_code_confirm_never_allow">Никогда</string>
-     <string name="sms_short_code_details">С вашего мобильного счета <font fgcolor="#ffffb060">могут быть списаны средства</font></string>
+     <string name="sms_short_code_details"><jsonstring>{"string":"С мобильного счета могут быть списаны средства","styles":[{"start":26,"name":"font;fgcolor=#ffffb060","end":52}]}</string>
      <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
-     <string name="sms_short_code_remember_undo_instruction">Вы можете изменить это позже в настройках > приложения</string>
+     <string name="sms_short_code_remember_undo_instruction">Можно изменить это позже в настройках > приложения</string>
      <string name="smv_application">Приложение \"%1$s\" (процесс: %2$s) нарушило собственную политику StrictMode</string>
      <string name="smv_process">Процесс %1$s нарушил собственную политику StrictMode</string>
      <string name="ssl_ca_cert_noti_by_unknown">администратором</string>
@@ -1434,12 +1432,12 @@ Attempts Remaining :"</string>
      <string name="usb_storage_stop_title">USB-накопитель используется</string>
      <string name="usb_storage_title">USB-подключение установлено</string>
      <string name="use_physical_keyboard">Физическая клавиатура</string>
-     <string name="user_switched">Current user %1$s.</string>
+     <string name="user_switched">Текущий пользователь %1$s</string>
      <string name="validity_period">Срок действия:</string>
      <string name="volume_alarm">Громкость сигнала предупреждения</string>
      <string name="volume_bluetooth_call">Громкость при разговоре</string>
      <string name="volume_call">Громкость при разговоре</string>
-     <string name="volume_icon_description_bluetooth">Громкость Bluetooth-устройства</string>
+     <string name="volume_icon_description_bluetooth">Громкость Bluetooth</string>
      <string name="volume_icon_description_incall">Громкости мелодии вызова</string>
      <string name="volume_icon_description_media">Громкость мультимедиа</string>
      <string name="volume_icon_description_notification">Громкость уведомлений</string>
@@ -1496,7 +1494,7 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_date_picker_dialog_clear">Очистить</string>
 	 <string name="webviewchromium_date_picker_dialog_other_button_label">Другой</string>
      <string name="webviewchromium_date_picker_dialog_set">Установить</string>
-     <string name="webviewchromium_date_picker_dialog_title">Выберите дату</string>
+     <string name="webviewchromium_date_picker_dialog_title">Выбери дату</string>
      <string name="webviewchromium_date_time_picker_dialog_title">Дата и время</string>
      <string name="webviewchromium_low_memory_error">Не удалось выполнить операцию: недостаточно памяти</string>
      <string name="webviewchromium_media_player_error_button">OK</string>

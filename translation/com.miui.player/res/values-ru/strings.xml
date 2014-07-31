@@ -16,7 +16,7 @@
      <string name="album_search_failed">Обложки альбома не найдены!</string>
      <string name="album_search_local_descript">Телефон | %1$d x %2$d</string>
      <string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
-     <string name="album_select">Выберите обложку альбома</string>
+     <string name="album_select">Выбери обложку альбома</string>
      <string name="albums_title">Альбомы</string>
      <string name="all_tracks">Все</string>
      <string name="android_album_settings">Встроенная обложка</string>
@@ -37,10 +37,10 @@
      <string name="cancle_warining">Режим сна отменен</string>
      <string name="channel_format" formatted="false">"%s  %s МГЦ"</string>
      <string name="channel_postfix">МГЦ</string>
-     <string name="choose_download_quality">Выберите качество скачавания</string>
-     <string name="choose_stream_quality">Выберите качество потока</string>
-	 <string name="click_to_play_all">Нажмите для воспроизведения</string>
-     <string name="click_to_shuffle">Коснитесь для перемешивания</string>
+     <string name="choose_download_quality">Выбери качество скачавания</string>
+     <string name="choose_stream_quality">Выбери качество потока</string>
+	 <string name="click_to_play_all">Нажми для воспроизведения</string>
+     <string name="click_to_shuffle">Коснись для перемешивания</string>
 	 <string name="collect_bill_success">Добавлено в избранное</string>
      <string name="collect_fm_success">Добавлено в избранное</string>
      <string name="collect_topic_success">Альбом добавлен в избранное</string>
@@ -55,7 +55,7 @@
      <string name="correct_id3_start">Получение информации…</string>
      <string name="correct_id3_success">Информация обновлена</string>
      <string name="correct_id3_summary">Может привести к сильному потреблению трафика. Рекомендуется отключить.</string>
-     <string name="create_confirm">ОК</string>
+     <string name="create_confirm">OK</string>
      <string name="create_equalzier_create_text_prompt">Название профиля</string>
      <string name="create_playlist_create_text_prompt">Название плейлиста</string>
      <string name="custom">Настроить</string>
@@ -132,7 +132,7 @@
      <string name="filter_by_size_min">0 КБ</string>
      <string name="filter_by_size_prefix">"Минимальный размер: "</string>
      <string name="filter_by_size_summary">Фильтрование файлов маленького размера</string>
-     <string name="filter_notification">Был применен фильтр по размеру. Вы можете изменить его в настройках фильтрации файлов.</string>
+     <string name="filter_notification">Был применен фильтр по размеру. Можно изменить его в настройках фильтрации файлов.</string>
      <string name="find_ktv">KTV консоль</string>
      <string name="folders_title">Папки</string>
      <string name="frequentlyplayed_title">Часто воспроизводимые</string>
@@ -146,7 +146,7 @@
      <string name="id3_edit_failed">Не удалось отредактировать информацию о треке</string>
      <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
      <string name="id3_modify_confirm_text">Сохранить</string>
-     <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажми принимаю, чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a>.</string>
+     <string name="impunity_declaration"><jsonstring>{"string":"Онлайн музыка предоставляется сервисом Baidu Online Music. Нажми принимаю, чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a>.","styles":[{"start":91,"name":"a;href=http:\/\/music.baidu.com\/doc\/agreement","end":111}]}</string>
 	 <string name="impunity_declaration_ignore">Не спрашивать</string>
      <string name="impunity_declaration_settings">Запрашивать разрешене к сети</string>
      <string name="impunity_declaration_summary">При входе в музыку, будет всплывать напоминание</string>
@@ -204,7 +204,7 @@
      <string name="music_picker_title">Выбери трек</string>
 	 <string name="music_quality">Платные сервисы</string>
      <string name="music_settings">Настройки</string>
-     <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
+     <string name="network_error">Нет подключения к сети. Проверь сетевые настройки.</string>
      <string name="new_albums">Новые альбомы</string>
      <string name="new_equalizer_name_template">Профиль %d</string>
      <string name="new_playlist">Новый плейлист</string>
@@ -217,7 +217,7 @@
      <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
 	 <string name="not_now">Не сейчас</string>
-     <string name="not_selected">Пожалуйста, выберите песню</string>
+     <string name="not_selected">Выбери трек</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
      <string name="online_title">Онлайн</string>
      <string name="other_settings">ДРУГИЕ НАСТРОЙКИ</string>

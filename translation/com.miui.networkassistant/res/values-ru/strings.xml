@@ -181,7 +181,7 @@
      <string name="traffic_protection_next">Далее</string>
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
      <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
-     <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
+     <string name="traffic_protection_unknown"><jsonstring>{"string":"Настроить позже","styles":[{"start":0,"name":"u","end":14}]}</string>
      <string name="traffic_protection_use_data">Включить моб. интернет</string>
 	 <string name="traffic_saving_button_sorted">Статистика</string>
 	 <string name="traffic_saving_button_sorted_chose_simcard">SIM-карта</string>

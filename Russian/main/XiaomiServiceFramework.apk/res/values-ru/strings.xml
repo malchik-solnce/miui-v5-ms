@@ -135,7 +135,7 @@
      <string name="find_device_success_title">Обнаружение устройства включено</string>
      <string name="find_password_on_web_msg">Посети account.xiaomi.com для получения пароля</string>
      <string name="foreign_login"><u>Страна</u></string>
-     <string name="forget_password"><u>Восс. пароль</u></string>
+     <string name="forget_password"><u>Забыл?</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">ДАННЫЕ И СИНХРОНИЗАЦИЯ</string>
      <string name="i_know">OK</string>
@@ -175,15 +175,15 @@
      <string name="micloud_area_code_hot">Популярные</string>
      <string name="micloud_area_code_title">Код страны</string>
      <string name="micloud_click_email">Для активации аккаунта Xiaomi, перейди по ссылке в письме</string>
-     <string name="micloud_click_email_to_valid">Для активации аккаунта Xiaomi, перейдите по ссылке в письме</string>
+     <string name="micloud_click_email_to_valid">Для активации аккаунта Xiaomi, перейди по ссылке в письме</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
      <string name="micloud_dspt">Облачные сервисы включают облачные сообщения, синхронизацию, поиск устройства и другое. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="micloud_email">Введите адрес почты</string>
      <string name="micloud_error_email">Неверный e-mail</string>
-     <string name="micloud_error_empty_captcha_code">Введите код с картинки</string>
+     <string name="micloud_error_empty_captcha_code">Введи код с картинки</string>
      <string name="micloud_error_empty_pwd">Нет пароля</string>
      <string name="micloud_error_empty_username">Нет имени</string>
-     <string name="micloud_error_empty_vcode">Введите проверочный код</string>
+     <string name="micloud_error_empty_vcode">Введи проверочный код</string>
      <string name="micloud_error_illegal_pwd">Неверный пароль</string>
      <string name="micloud_error_invalid_phone_num">Неверный номер телефона</string>
      <string name="micloud_full_influence_dspt">"Все Ваши фотографии, видео, заметки и приложения будут сохранены в облаке.
@@ -229,7 +229,7 @@
      <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
      <string name="micloud_web_discription_01">Зайди на i.mi.com</string>
-     <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
+     <string name="micloud_web_discription_02">для доступа к файлам в любое время из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">Ми кредиты</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
@@ -271,11 +271,11 @@
      <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
-	 <string name="sync_sub_1_intl_sms">Для активации Вашей SIM-карты, будет отправлено международное сообщение</string>
-     <string name="sync_sub_1_sms">Для активации Вашей SIM-карты, будет отправлено сообщение</string>
-     <string name="sync_sub_1_sms_1_intl_sms">Для активации Ваших SIM-карт, будет отправлено одно международное и одно обычное сообщение</string>
-     <string name="sync_sub_2_intl_sms">Для активации Ваших SIM-карт, будет отправлено два международных сообщения</string>
-     <string name="sync_sub_2_sms">Для активации Ваших SIM-карт, будет отправлено два сообщения</string>
+	 <string name="sync_sub_1_intl_sms">Для активации SIM-карты, будет отправлено международное сообщение</string>
+     <string name="sync_sub_1_sms">Для активации SIM-карты, будет отправлено сообщение</string>
+     <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM-карт, будет отправлено одно международное и одно обычное сообщение</string>
+     <string name="sync_sub_2_intl_sms">Для активации SIM-карт, будет отправлено два международных сообщения</string>
+     <string name="sync_sub_2_sms">Для активации SIM-карт, будет отправлено два сообщения</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
      <string name="trust_device">Я доверяю устройству</string>
      <string name="unactivated_user">Не активирован</string>
@@ -289,7 +289,7 @@
      <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
      <string name="user_agreement_p3"> и  </string>
      <string name="user_agreement_p4">Политикой безопасности</string>
-     <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь
+     <string name="user_agreement_p5">"Регистрируясь, ты соглашаешься
  с "</string>
      <string name="vcode">Проверочный код</string>
      <string name="vcode_notification_title">Проверка Вашего логина не завершена</string>

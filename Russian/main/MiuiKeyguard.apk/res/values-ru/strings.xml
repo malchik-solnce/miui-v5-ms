@@ -14,19 +14,19 @@
      <string name="experimental_validate_username">Пользователь</string>
      <string name="experimental_validate_warning">Спасибо, что помогаешь нам сделать MIUI лучше!</string>
      <string name="find_device_check_sim">Проверка SIM…</string>
-     <string name="find_device_turn_off_flight_mode">Выключите режим полета</string>
+     <string name="find_device_turn_off_flight_mode">Выключи режим полета</string>
      <string name="find_device_turn_off_flight_mode_instructions">Устройство заблокировано.
 Выключи режим полета.</string>
-     <string name="forget_password_string">Забыли пароль?</string>
+     <string name="forget_password_string">Забыл?</string>
      <string name="incorrect_pincode">Неверный PIN-код</string>
      <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код, осталось попыток: %d</string>
      <string name="incorrect_pukcode">Неверный PUK-код</string>
      <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код, осталось попыток: %d</string>
-     <string name="input_password_hint_text">Введите пароль</string>
-     <string name="input_pin_code">Введите PIN</string>
-     <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
-     <string name="input_puk_code">Введите PUK</string>
-     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки</string>
+     <string name="input_password_hint_text">Введи пароль</string>
+     <string name="input_pin_code">Введи PIN</string>
+     <string name="input_pin_code_to_unlock">Введи PIN-код для разблокировки</string>
+     <string name="input_puk_code">Введи PUK</string>
+     <string name="input_puk_code_to_unlock">Введи PUK-код для разблокировки</string>
      <string name="lock_screen_date">EEEE, dd.MM</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
@@ -38,7 +38,7 @@
 
  Попробуй снова через %d секунд.</string>
      <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать устройство (с %d попыток). Будут установлены настройки по умолчанию.</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыл пароль?</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыл?</string>
      <string name="lockscreen_glogin_checking_password">Проверка…</string>
      <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
      <string name="lockscreen_glogin_instructions">Для разблокировки, войди в аккаунт Xiaomi</string>

@@ -74,6 +74,7 @@
      <string name="bookmark_url_not_valid">Неправильный URL</string>
      <string name="bookmarks">Закладки</string>
      <string name="bookmarks_content_is_null">Пусто</string>
+	 <string name="bookmarks_history">Закладки/История</string>
      <string name="bookmarks_management">Закладки</string>
      <string name="bookmarks_root_folder">Корень</string>
      <string name="bookmarks_search">Браузер</string>
@@ -161,6 +162,7 @@
      <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
      <string name="delete_folder">Удалить папку</string>
+	 <string name="delete_homepage">Удалить домашнюю страницу</string>
      <string name="delete_multi_bookmarks_alert_title">Удалить %1$s закладок?</string>
 	 <string name="dialog_geolocation_reject">Отклонить</string>
      <string name="dialog_geolocation_share">Принять</string>

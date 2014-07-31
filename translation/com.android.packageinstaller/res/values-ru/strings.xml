@@ -88,7 +88,7 @@
      <string name="unknown_installer">Неизвестный установщик</string>
 	 <string name="virus_scan_caller_unknown">Неизвестно</string>
      <string name="virus_scan_clear">Удалить</string>
-     <string name="virus_scan_install">" "<u>Установить</u>" "</string>
+     <string name="virus_scan_install"><jsonstring>{"string":" Установить ","styles":[{"start":1,"name":"u","end":10}]}</string>
      <string name="virus_scan_is_risk">Приложение представляет собой риск!</string>
      <string name="virus_scan_is_virus">Приложение содержит вирус. Пожалуйста, удалите его немедленно!</string>
 </resources>

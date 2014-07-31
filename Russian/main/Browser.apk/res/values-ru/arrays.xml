@@ -110,7 +110,7 @@
         <item>Всегда</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
-        <item>Переключение страниц</item>
+        <item>Прокрутка страницы</item>
         <item>Переключение вкладок</item>
      </string-array>
      <string-array name="search_bar_search_engines_default">

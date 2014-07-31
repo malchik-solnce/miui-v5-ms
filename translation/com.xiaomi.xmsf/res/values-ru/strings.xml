@@ -135,7 +135,7 @@
      <string name="find_device_success_title">Обнаружение устройства включено</string>
      <string name="find_password_on_web_msg">Посети account.xiaomi.com для получения пароля</string>
      <string name="foreign_login"><u>Страна</u></string>
-     <string name="forget_password"><u>Восс. пароль</u></string>
+     <string name="forget_password"><u>Забыл?</u></string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">ДАННЫЕ И СИНХРОНИЗАЦИЯ</string>
      <string name="i_know">OK</string>
@@ -229,7 +229,7 @@
      <string name="micloud_warn_low_sum">Использовано 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
      <string name="micloud_web_discription_01">Зайди на i.mi.com</string>
-     <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
+     <string name="micloud_web_discription_02">для доступа к файлам в любое время из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">Ми кредиты</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>

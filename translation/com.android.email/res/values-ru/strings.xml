@@ -498,7 +498,7 @@
      <string name="more_string">еще %1$s…</string>
      <string name="more_than_999">более 999</string>
      <string name="move_to_selection_dialog_title">Перемещение</string>
-     <string name="multiple_new_message_notification_item">%1$s   %2$s</string>
+     <string name="multiple_new_message_notification_item"><jsonstring>{"string":"%1$s   %2$s","styles":[{"start":0,"name":"b","end":3}]}</string>
      <string name="mute">Скрыть</string>
      <string name="name_or_number_is_error">Неверный логин или пароль</string>
      <string name="net_check_title">Проверьте настройки сети</string>
@@ -734,8 +734,8 @@
      <string name="veiled_summary_unknown_person" />
      <string name="via_domain">из домена %1$s</string>
      <string name="view_more_conversations">Другие цепочки писем</string>
-     <string name="wait_for_manual_sync_body">"В этом аккаунте не настроена автоматическая синхронизация.
-Выбери настройки синхронизации, чтобы включить ее, или синхронизировать сейчас, чтобы синхронизировать почту один раз.</string>
+    <string name="wait_for_manual_sync_body"><jsonstring>{"string":"В этом аккаунте не настроена автоматическая синхронизация.
+Выбери настройки синхронизации, чтобы включить ее, или синхронизировать сейчас, чтобы синхронизировать почту один раз.","styles":[{"start":68,"name":"b","end":90},{"start":116,"name":"b","end":138}]}</string>
      <string name="wait_for_sync_body">Твои сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Exchange Server спросит тебя через 1-30 секунд. Пожалуйста, подтверди настройки безопасности и активируй. Обрати внимание на предупреждение системы.</string>
 	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит тебя через</string>

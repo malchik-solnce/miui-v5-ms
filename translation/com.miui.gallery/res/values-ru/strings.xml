@@ -139,7 +139,9 @@
      <string name="crop">Кадрировать</string>
      <string name="crop_fail_to_load_image">Ошибка загрузки изображения для кадрирования</string>
      <string name="crop_label">Обрезать фотографию</string>
+	 <string name="crop_recognize_text">Определить</string>
      <string name="crop_save_text">Сохранить</string>
+	 <string name="crop_save_text_setas">Применить</string>
      <string name="crop_tooltip">Чтобы кадрировать фото, перетащи маркеры</string>
      <string name="crossprocess">Кроссобработка</string>
      <string name="cut">Обрезать</string>
@@ -361,7 +363,7 @@
      <string name="pick_too_much_tips">Слишком много элементов (макс. %d)</string>
      <string name="picker_no_album_selected">Альбом не выбран</string>
      <string name="picker_no_items_selected">Ничего не выбрано</string>
-     <string name="picker_select_album_title_empty">Выберите альбом</string>
+     <string name="picker_select_album_title_empty">Выбери альбом</string>
      <string name="picker_tab_photo">Фото</string>
      <string name="posterize">Постеризация</string>
      <string name="ppmm_gallery">PPMM</string>
@@ -372,7 +374,8 @@
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
-     <string name="publishing">Публикация, подождите…</string>
+     <string name="publishing">Публикация, подожди…</string>
+	 <string name="recognizing_image">Подожите…</string>
      <string name="qqbrowser_img">QQ Browser</string>
      <string name="qsbk_save">QSBK</string>
      <string name="redeye">Красные глаза</string>

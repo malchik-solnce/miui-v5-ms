@@ -6,13 +6,10 @@
      <string name="activating">Активация…</string>
      <string name="alwaysUsePrompt">Использовать по умолчанию</string>
      <string name="android_lockscreen_glogin_instructions">Для разблокировки войди в аккаунт Xiaomi</string>
-     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
-     <string name="anti_aggression_day">反侵略日</string>
      <string name="app_no_notification">Ничего</string>
      <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
      <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
      <string name="arbor_day">День древонасаждения</string>
-     <string name="armed_forces_day">軍人節</string>
      <string name="autumn_begins">Осень</string>
      <string name="autumn_equinox">Точка осеннего равноденствия</string>
      <string name="callNoAnswerTimeFormat">%s гудков</string>
@@ -257,11 +254,10 @@
      <string name="country_name_za">ЮАР</string>
      <string name="country_name_zm">Замбия</string>
      <string name="country_name_zw">Зимбабве</string>
-     <string name="day_following_good_friday">耶穌受難節翌日</string>
      <string name="day_of_month"> %d</string>
      <string name="days">%d дней</string>
-     <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
-     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+     <string name="def_alarm_alert">/system/media/audio/alarms/Galaxy_S3_Alarm.mp3</string>
+     <string name="def_notification_sound">/system/media/audio/notifications/Blip.ogg</string>
      <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
      <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
      <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
@@ -306,7 +302,6 @@
      <string name="device_hongmi">Xiaomi Red</string>
      <string name="device_xiaomi">Xiaomi</string>
      <string name="double_seventh_day">Танабата</string>
-     <string name="easter">復活節</string>
      <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, "%1$s" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
@@ -317,7 +312,7 @@
      <string name="experimental_validate">Подтверждение</string>
      <string name="experimental_validate_fail">Подтверждение не удалось. Повтори еще раз.</string>
      <string name="experimental_validate_password">Пароль</string>
-     <string name="experimental_validate_progress">Проверка, подождтите…</string>
+     <string name="experimental_validate_progress">Проверка, подождти…</string>
      <string name="experimental_validate_thanks">Спасибо!</string>
      <string name="experimental_validate_username">Имя пользователя</string>
      <string name="experimental_validate_warning">Каждое твое исследование помогает стать MIUI лучше!</string>
@@ -335,11 +330,10 @@
 настройки -> система -> кнопки</string>
      <string name="fools_day">День дураков</string>
      <string name="force_exit_message">Приложение "%1$s" закрыто</string>
-     <string name="forget_password_string">Забыл пароль?</string>
+     <string name="forget_password_string">Забыл?</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также ты не сможешь редактировать рабочий стол</string>
      <string name="global_action_toggle_privacy_mode">Гость</string>
-     <string name="good_friday">耶穌受難節</string>
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain">Дожди</string>
@@ -352,7 +346,6 @@
      <string name="group_name_family">Семья</string>
      <string name="group_name_friends">Друзья</string>
      <string name="heavy_snow">Снегопады</string>
-     <string name="hksar_establishment_day">行政區成立</string>
      <string name="hoar_frost_falls">Заморозки</string>
      <string name="hours">%d часов</string>
      <string name="incorrect_pincode">Неверный PIN-код</string>
@@ -378,7 +371,7 @@
      <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">%d раз был неправильно введен пароль. После %d неудачных попыток, тебе будет предложено разблокировать телефон с помощью аккаунта.
 
  Попробуй снова через %d секунд.</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыл пароль?</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыл?</string>
      <string name="lockscreen_pattern_instructions">Нарисуй шаблон, чтобы разблокировать</string>
      <string name="lockscreen_pattern_wrong">Попробуй еще раз</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Повтори через %d секунд</string>
@@ -435,14 +428,12 @@
      <string name="month_of_september">Сен</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
      <string name="national_day">День нации</string>
-     <string name="national_father_day">國父誕辰</string>
      <string name="never">Никогда</string>
      <string name="new_years_day">Новый год</string>
      <string name="no_sim">Нет SIM-карты</string>
      <string name="open_wifi_settings">Включить Wi-Fi</string>
      <string name="partys_day">День веселья</string>
      <string name="payphone">Таксофон</string>
-     <string name="peace_day">和平紀念</string>
      <string name="perm_auto_backup">Автоматический бэкап</string>
      <string name="perm_data_update_dspt">Разрешить обновление данных</string>
      <string name="perm_data_update_lab">Обновление данных</string>
@@ -464,13 +455,12 @@
      <string name="reboot_confirm">Перезагрузить устройство?</string>
      <string name="reboot_confirm_title">Перезагрузить устройство?</string>
      <string name="reboot_progress">Перезагрузка…</string>
-     <string name="retrocession_day">光復節</string>
      <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Устройство не подключено к сети. Для просмотра этой информации в настоящее время, перейди к %s с любого компьютера.</string>
      <string name="screen_button_notification_text">"Нажми 'Home'+'Power' для включения"</string>
      <string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
-     <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе 'Настройки - Параметры экрана'."</string>
+     <string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажми кнопки 'НАЗАД'+'Громкость +'. Режим защиты датчиком можно отключить в разделе настроек - настройки экрана'."</string>
      <string name="screen_on_proximity_sensor_summary">Не закрывай верхнюю часть экрана</string>
      <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
      <string name="sd_not_available">SD-карта не доступна</string>
@@ -524,7 +514,6 @@
      <string name="the_armys_day">День Армии</string>
      <string name="the_double_ninth_festival">Чунъян фестиваль</string>
      <string name="the_dragon_boat_festival">Фестиваль лодок-драконов</string>
-     <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
      <string name="the_laba_rice_porridge_festival">Лаба</string>
      <string name="the_mid_autumn_festival">Праздник середины осени</string>
      <string name="the_rains">Дожди</string>
@@ -532,9 +521,6 @@
      <string name="toast_lockscreen_glogin_empty_password">Требуется пароль</string>
      <string name="today">Сегодня </string>
      <string name="tomorrow">Завтра </string>
-     <string name="tw_childrens_day">兒童節</string>
-     <string name="tw_youth_day">青年節</string>
-     <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
      <string name="unlock_string">OK</string>
