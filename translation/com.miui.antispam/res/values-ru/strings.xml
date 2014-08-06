@@ -9,13 +9,11 @@
      <string name="AD_BLOCK">Блокировать рекламу</string>
      <string name="AD_BLOCKED">Заблокировано</string>
      <string name="AD_BLOCK_ALL">Блокировать все</string>
-     <string name="AD_COUNT">Заблокировано: %d</string>
      <string name="AD_Info">Плагин рекламы</string>
      <string name="AD_Info_Hint">Стороние приложения часто используют рекламное ПО для отображения рекламы на устройстве</string>
      <string name="AD_NOT_BLOCK">Не блокировать</string>
      <string name="AD_SCANNING">Сканирование…</string>
      <string name="AD_SCAN_BUTTON">Сканировать</string>
-     <string name="AD_TITLE_COUNT">Приложений с рекламой: %d</string>
      <string name="AD_TITLE_NON_COUNT">Реклама не найдена</string>
      <string name="AD_Unistall">Удалить</string>
      <string name="Call_ADRESS">Регионы</string>
@@ -60,8 +58,6 @@
 	 <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
-	 <string name="create_table_report_sms">создание reportSms( id TEXT NOT NULL );</string>
-     <string name="create_table_report_sms_pending">создание таблицы reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
      <string name="dlg_add_blacklist">Добавить этот номер в черный список?</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s и %2$s других контактов уже в белом списке</string>

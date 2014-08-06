@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
-    <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
+    <string name="xiaomi_account_type_unsupported">Система не поддерживает аккаунт Xiaomi</string>
+    <string name="no_login_xiaomi_account">Войди в Xiaomi аккаунт прежде чем комментировать</string>
     <string name="authenticating"><CDATA>Идентификация </CDATA></string>
     <string name="authenticated_failed">Ошибка аутентификации</string>
     <string name="authenticating_manually">Ошибка аутентификации</string>
@@ -10,6 +10,7 @@
     <string name="all_specials">Все категории</string>
     <string name="director_colon">Режиссер: </string>
     <string name="actors_colon">В главных ролях: </string>
+	<string name="ad_moredetail">подробнее</string>
 	<string name="add_more_addons">добавить другие специальные</string>
 	<string name="addon" />
     <string name="addon_category">Специальное</string>
@@ -132,6 +133,7 @@
     <string name="success_cancel_myfavorite">Убрано из избранного</string>
     <string name="success_cancel_waitfornewset">Слежение остановлено</string>
     <string name="success_to_cancel_myfavorite">Отменено</string>
+	<string name="suffix_countdown">сек.</string>
 	<string name="sure">OK</string>
     <string name="count_myfavorite"> избранные</string>
     <string name="myfavorite"> Избранное</string>
@@ -211,8 +213,8 @@
     <string name="hided_cannot_favorite">Скрытые нельзя избрать</string>
     <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
     <string name="setting">Настройки</string>
-	<string name="setting_use_network">Использовать сеть</string>
-    <string name="setting_use_network_summery">Приложение будет использовать сетевой трафик</string>
+	<string name="setting_network_alert">Предупреждение о сети</string>
+    <string name="setting_network_alert_summery">Спрашивать при просмотре видео</string>
     <string name="network_setting">Сеть</string>
     <string name="offline_setting">Оффлайн медиа</string>
     <string name="play_setting">Воспроизведение</string>
@@ -273,6 +275,7 @@
     <string name="wasu">Wasu</string>
     <string name="sina">Sina</string>
     <string name="pptv">PPTV</string>
+	<string name="prefix_countdown">До окончания рекламы:</string>
     <string name="pps">PPS</string>
     <string name="funshion">Funshion</string>
     <string name="bestv">Bestv</string>

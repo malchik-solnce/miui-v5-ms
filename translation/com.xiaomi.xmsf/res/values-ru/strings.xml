@@ -83,6 +83,7 @@
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
 	 <string name="bank_cards">Банковские карты</string>
+	 <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируй QR-код еще раз после входа</string>
      <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
      <string name="bind_weibo_description">Найти информацию контакта: телефон, аватар и т.д.</string>
      <string name="binded">Связан</string>
@@ -231,7 +232,7 @@
      <string name="micloud_web_discription_01">Зайди на i.mi.com</string>
      <string name="micloud_web_discription_02">для доступа к файлам в любое время из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
-     <string name="mili_center">Ми кредиты</string>
+     <string name="mili_center">Мой баланс</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>

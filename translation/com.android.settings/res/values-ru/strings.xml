@@ -2614,8 +2614,8 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_application">Выбор приложения</string>
      <string name="select_device_admin_msg">Администраторы устройства</string>
-     <string name="select_runtime_dialog_title">Среда выполнения</string>
-     <string name="select_runtime_title">Выберите среду</string>
+     <string name="select_runtime_dialog_title">Выбери среду</string>
+     <string name="select_runtime_title">Среда выполнения</string>
      <string name="select_runtime_warning_message">Перезагрузить устройство, чтобы сменить среду выполнения с %1$s на %2$s?</string>
      <string name="select_ssid_type_title">Повторный выбор SSID</string>
      <string name="select_subscription">Выберите подписку</string>

@@ -110,7 +110,7 @@
      <string name="error_server_summary">Ошибка сервера. Попробуй позже.</string>
      <string name="error_server_title">Ошибка сервера</string>
      <string name="error_too_frequent_visits_summary">Вы запрашиваете слишком часто. 
-Попробуйте еще раз через пять минут.</string>
+Попробуй еще раз через пять минут.</string>
      <string name="error_too_frequent_visits_title">Слишком часто</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверь настройки аккаунта и попробуй снова</string>
      <string name="error_user_id_mismatch_title">Ошибка аутентификации</string>
@@ -121,6 +121,7 @@
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
+	 <string name="giftcard_define_detail">Используй эти сертификаты как обычные Mi Credit. Их можно получить участвуя в мероприятиях и акциях Xiaomi.</string>
      <string name="giftcard_denom">Mi Credit</string>
      <string name="giftcard_denom_available">MiCredit доступно</string>
      <string name="giftcard_denom_frozen">MiCredit заморожено</string>
@@ -133,6 +134,7 @@
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
      <string name="giftcard_record">Подарочные карты</string>
+	 <string name="giftcard_title">Сертификаты Mi Credit</string>
      <string name="giftcard_value">(подарочная карта на %1$s MiCredit)</string>
      <string name="label_balance">Баланс:</string>
 	 <string name="label_giftcard">Подарочная карта:</string>

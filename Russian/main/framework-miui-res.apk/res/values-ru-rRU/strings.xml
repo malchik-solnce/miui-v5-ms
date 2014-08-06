@@ -299,8 +299,8 @@
      <string name="deprecated_84" />
      <string name="deprecated_85" />
      <string name="deprecated_alarm_message_12_hour_formate" />
-     <string name="device_hongmi">Xiaomi Red</string>
-     <string name="device_xiaomi">Xiaomi</string>
+     <string name="device_hongmi">Redmi</string>
+     <string name="device_xiaomi">Mi Phone</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, "%1$s" остановлен для избежания утечки ресурсов</string>
@@ -404,8 +404,7 @@
      <string name="lunar_yue" />
      <string name="lunar_zheng" />
      <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
-     <string name="memory_clear_result">Очищено: %1$s
-Доступно: %2$s</string>
+     <string name="memory_clear_result">Очищено %1$s | Доступно %2$s</string>
      <string name="minutes">%d минут</string>
      <string name="miui_copyright_title">Авторские права</string>
      <string name="miui_device_name">MIUI v5 MS</string>
@@ -449,7 +448,7 @@
      <string name="pin_operation_failed">Ошибка PIN кода</string>
      <string name="pincode_set_to_default_msg">PIN-код установлен как 1234. Сбрось его здесь.</string>
      <string name="private_num">Скрытый номер</string>
-     <string name="provider_114">Предоставлено 114号码百事通</string>
+     <string name="provider_114">Предоставлено 114</string>
      <string name="provider_sougou">Предоставлено Sogou</string>
      <string name="puk_operation_failed">Ошибка PUK кода</string>
      <string name="reboot_confirm">Перезагрузить устройство?</string>
@@ -485,6 +484,8 @@
      <string name="sim_unavailable">SIM-карта отсутствует</string>
      <string name="slight_cold">Осаму</string>
      <string name="slight_heat">Тепло</string>
+	 <string name="softap_notifif_title">Модем \"%s\" включен</string>
+     <string name="softap_notifif_summary">%d подключен</string>
      <string name="solar_calendar">Григорианский календарь</string>
      <string name="speaker">Динамик</string>
      <string name="spring_begins">Весна</string>
@@ -514,7 +515,6 @@
      <string name="the_armys_day">День Армии</string>
      <string name="the_double_ninth_festival">Чунъян фестиваль</string>
      <string name="the_dragon_boat_festival">Фестиваль лодок-драконов</string>
-     <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
      <string name="the_laba_rice_porridge_festival">Лаба</string>
      <string name="the_mid_autumn_festival">Праздник середины осени</string>
      <string name="the_rains">Дожди</string>
@@ -522,9 +522,6 @@
      <string name="toast_lockscreen_glogin_empty_password">Требуется пароль</string>
      <string name="today">Сегодня </string>
      <string name="tomorrow">Завтра </string>
-     <string name="tw_childrens_day">兒童節</string>
-     <string name="tw_youth_day">青年節</string>
-     <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
      <string name="unlock_string">OK</string>

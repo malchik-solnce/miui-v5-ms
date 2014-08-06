@@ -299,8 +299,8 @@
      <string name="deprecated_84" />
      <string name="deprecated_85" />
      <string name="deprecated_alarm_message_12_hour_formate" />
-     <string name="device_hongmi">Xiaomi Red</string>
-     <string name="device_xiaomi">Xiaomi</string>
+     <string name="device_hongmi">Redmi</string>
+     <string name="device_xiaomi">Mi Phone</string>
      <string name="double_seventh_day">Танабата</string>
      <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, "%1$s" остановлен для избежания утечки ресурсов</string>
@@ -485,6 +485,8 @@
      <string name="sim_unavailable">SIM-карта отсутствует</string>
      <string name="slight_cold">Осаму</string>
      <string name="slight_heat">Тепло</string>
+	 <string name="softap_notifif_title">Модем \"%s\" включен</string>
+     <string name="softap_notifif_summary">%d подключен</string>
      <string name="solar_calendar">Григорианский календарь</string>
      <string name="speaker">Динамик</string>
      <string name="spring_begins">Весна</string>

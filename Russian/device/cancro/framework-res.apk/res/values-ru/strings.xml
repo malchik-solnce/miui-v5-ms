@@ -31,7 +31,7 @@
      <string name="RuacMmi">Отклонение нежелательных звонков</string>
      <string name="SetupCallDefault">Ответить?</string>
      <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
-     <string name="VideoView_error_button">ОК</string>
+     <string name="VideoView_error_button">OK</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве</string>
      <string name="VideoView_error_text_unknown">Не удалось воспроизвести видео</string>
      <string name="VideoView_error_title">Ошибка</string>
@@ -155,7 +155,7 @@
      <string name="capital_off">ВЫКЛ</string>
      <string name="capital_on">ВКЛ</string>
      <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-     <string name="car_mode_disable_notification_title">Включен режим \"В автомобиле\"</string>
+     <string name="car_mode_disable_notification_title">Включен режим в автомобиле</string>
      <string name="cfTemplateForwarded">{0}: {1}</string>
      <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
      <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
@@ -229,11 +229,7 @@
      <string name="data_usage_warning_title">Осталось мало трафика</string>
      <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
      <string name="data_usage_wifi_limit_title">Передача данных через Wi-Fi отключена</string>
-     <!-- The count of MNPS does not match! Now: 6 must: 7
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: %b %-e, %Y, %-l:%M:%S %p -->
-     <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
+     <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
      <string name="date_picker_decrement_day_button">На день назад</string>
      <string name="date_picker_decrement_month_button">На месяц назад</string>
      <string name="date_picker_decrement_year_button">На год назад</string>
@@ -1399,7 +1395,7 @@ Attempts Remaining :"</string>
      <string name="throttle_warning_notification_title">Активная передача данных</string>
      <string name="throttled_notification_message">Нажми, чтобы узнать больше о мобильной передаче данных</string>
      <string name="throttled_notification_title">Превышен лимит на мобильные данные</string>
-     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
+     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
      <string name="time_picker_decrement_hour_button">На час назад</string>
      <string name="time_picker_decrement_minute_button">На минуту назад</string>
      <string name="time_picker_decrement_set_am_button">Установить время до полудня</string>
@@ -1550,4 +1546,5 @@ Attempts Remaining :"</string>
      <string name="year">г.</string>
      <string name="years">г.</string>
      <string name="yes">ОК</string>
+	 <string name="icu_abbrev_wday_month_day_no_year">EEEE, d MMMM</string>
 </resources>
