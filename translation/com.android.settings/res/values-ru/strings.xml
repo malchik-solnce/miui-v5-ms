@@ -2620,9 +2620,9 @@
      <string name="select_ssid_type_title">Повторный выбор SSID</string>
      <string name="select_subscription">Выберите подписку</string>
      <string name="selinux_status">Статус SELinux</string>
-     <string name="selinux_status_disabled">Отключено</string>
-     <string name="selinux_status_enforcing">Блокировка</string>
-     <string name="selinux_status_permissive">Только предупреждение</string>
+     <string name="selinux_status_disabled">Отключен</string>
+     <string name="selinux_status_permissive">Разрешающий</string>
+     <string name="selinux_status_enforcing">Принудительный</string>
      <string name="service_background_processes">%1$s свободно</string>
      <string name="service_client_name">Нажми, чтобы изменить %1$s</string>
      <string name="service_foreground_processes">%1$s занято</string>
