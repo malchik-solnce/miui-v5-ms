@@ -379,7 +379,7 @@
      <string name="folder_trash_name_en2">Удаленное сообщение</string>
      <string name="forward">Переслать</string>
      <string name="forward_attachment">Переслать</string>
-     <string name="forward_attribution">---------- Переадресованное сообщение ----------От: %1$s Дата: %2$s Тема: %3$ Кому: %4$s</string>
+     <string name="forward_attribution">--------- Пересылаемое письмо ---------&lt;br>От: %1$s&lt;br>Дата: %2$s&lt;br>Тема: %3$s&lt;br>Кому: %4$s&lt;br></string>
      <string name="forward_attribution_no_headers">---------- Пересылаемое сообщение ----------</string>
      <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
      <string name="forward_download_failed_title">Не удалось переслать вложение</string>

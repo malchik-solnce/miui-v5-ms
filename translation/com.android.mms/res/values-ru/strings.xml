@@ -158,8 +158,8 @@
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s.
 Загрузить их в текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
-     <string name="found_wild_messages">В облаке найдены сообщения с других SIM-карт. Хочешь загрузить их?</string>
-     <string name="found_wild_messages_title">Скачка сообщений</string>
+     <string name="found_wild_messages">В облаке найдены сообщения с других SIM-карт. %s загрузить их?</string>
+     <string name="found_wild_messages_title">Загрузка сообщений</string>
      <string name="from_label">От: </string>
      <string name="group_message">Групповое сообщение</string>
      <string name="group_message_failed_title">Не удалось отправить %d, повторить попытку?</string>

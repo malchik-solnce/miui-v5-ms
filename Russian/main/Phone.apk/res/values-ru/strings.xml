@@ -111,11 +111,8 @@
      <string name="bf_news_settings">Финансовые и деловые новости</string>
      <string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
      <string name="callFailed_congestion">Сеть занята</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
      <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа</string>
      <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа</string>
@@ -134,13 +131,12 @@
      <string name="callFailed_timedOut">Нет ответа, время ожидания истекло</string>
      <string name="callFailed_unobtainable_number">Недействительный номер</string>
      <string name="callFailed_userBusy">Линия занята</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
      <string name="call_assistant_miui">УПРОЩЕНИЕ ВЫЗОВА</string>
-     <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
+	 <string name="call_barring_sum">Настройки запрета вызовов</string>
+     <string name="call_forwarding_number_hint_miui">Пожалуйста, введи номер для пересылки</string>
      <string name="call_forwarding_settings">Переадресация вызовов</string>
      <string name="call_forwarding_settings_miui">Переадресация вызовов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_ind_services">Call Independent Services</string>
      <string name="call_lost">Вызов был утрачен</string>
      <string name="call_number">Кому:</string>
@@ -243,6 +239,7 @@
      <string name="cfnry_title_miui">Переслать, когда без ответа</string>
      <string name="cfu_title_miui">Всегда переадресовать</string>
      <string name="change_num">Обновить</string>
+	 <string name="change_password">Изменить пароль запрета</string>
      <string name="change_pin">Изменить PIN SIM-карты</string>
      <string name="change_pin2">Изменить PIN2</string>
      <string name="change_pin2_miui">Изменить PIN2</string>
@@ -250,7 +247,7 @@
      <string name="clir_choices_hide_number_miui">Скрыть номер</string>
      <string name="clir_choices_network_default_miui">Настройка сети</string>
      <string name="clir_choices_show_number_miui">Показать номер</string>
-     <string name="close_dialog">ОК</string>
+     <string name="close_dialog">OK</string>
      <string name="close_profile">Закрыть</string>
      <string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен, пожалуйста повторите,когда FDN отключен</string>
      <string name="command_error_generic_failure_miui">Не удалось завершить эту операцию, пожалуйста, повторите попытку позже</string>
@@ -273,7 +270,8 @@
      <string name="confirmPinLabel">Подтвердите новый PIN</string>
      <string name="confirm_delete_message_title_miui">Вы уверены, что хотите удалить выбранную региональную приставку?</string>
      <string name="confirm_delete_sim_entry_miui">Удалить выбранные контактов с SIM-карты (%d)?</string>
-     <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введите номер без кода страны</string>
+     <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введи номер без кода страны</string>
+	 <string name="confirm_password_label">Подтверди новый пароль</string>
      <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
      <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
      <string name="connect_disconnect_vibrate_none_miui">Отключена</string>
@@ -305,7 +303,7 @@
      <string name="current_areacode_miui">Код региона</string>
      <string name="current_areacode_sum_miui">Текущей код региона, или роуминг код региона, если вы в роуминге. Например: 010</string>
      <string name="current_areacode_sum_set_miui">Телефонный код текущего местоположения: %s</string>
-     <string name="cursorError">Cursor is not having proper data !!!</string>
+     <string name="cursorError">Курсор не имеет соответствующих данных!</string>
      <string name="custom_location_location_hint_miui">Имя</string>
      <string name="custom_location_location_no_item_miui">"Нажмите кнопку 'Добавить' для добавления приставок"</string>
      <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
@@ -314,6 +312,7 @@
      <string name="data_enable_summary">Включить мобильный интернет от оператора</string>
      <string name="data_enabled">Мобильный интрнет</string>
      <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается</string>
+	 <string name="deactivate_all">Отменить все</string>
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Код страны по умолчанию</string>
      <string name="default_contacts_countrycode_sum_miui">Задайте код страны по умолчанию: %s</string>
@@ -432,8 +431,9 @@
      <string name="enable_telocation_title_miui">Свойства номера</string>
      <string name="enforce_proximity_summary_miui">Предотвращение ошибки соединения, когда телефон в кармане брюк</string>
      <string name="enforce_proximity_title_miui">Датчик приближения</string>
-     <string name="enterName">Введите имя:</string>
-     <string name="enterNumber">Введите номер телефона:</string>
+     <string name="enterName">Введи имя:</string>
+     <string name="enterNumber">Введи номер телефона:</string>
+	 <string name="enter_callbarring_password">Введи пароль запрета вызовов(4 цифры)</string>
      <string name="enter_pin_text">PIN SIM-карты:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
      <string name="eo_disable">Вакансии отключены</string>
@@ -524,6 +524,7 @@
      <string name="invalidPuk2">Введите 8-значный код PUK2</string>
      <string name="invalid_new_pin2_miui">Новый PIN2 введен неверно. Введи новый PIN2 из 4~8 цифр.</string>
      <string name="invalid_new_pin_miui">Новый PIN введен неверно. Введи новый PIN2 от 4~8 цифр.</string>
+	 <string name="invalid_password">Введи пароль из 4 символов</string>
      <string name="invalid_pin2_miui">Неверный PIN2. Введи код PIN2, состоящий из 4~8 цифр.</string>
      <string name="invalid_pin_miui">Неверный PIN-код. Введи PIN-код, содержащий от 4 до 8 цифр.</string>
      <string name="invalid_puk2_miui">Неверный PUK2. Введи PUK2, состоящий из 8 цифр.</string>
@@ -574,6 +575,14 @@
      <string name="label_spdp">SIM service provider unlock PIN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_subscription">for Subscription</string>
+	 <string name="lable_all_incoming">Все входящие звонки</string>
+     <string name="lable_all_out_except">Исходящих международных вызовов, за исключением домашней PLMN</string>
+     <string name="lable_all_outgoing">Все исходящие звонки</string>
+     <string name="lable_all_outgoing_international">Международные исходящие звонки</string>
+	 <string name="lable_call_barring">Запрет вызовов</string>
+	 <string name="lable_disable">Отключен</string>
+     <string name="lable_enable">Включен</string>
+     <string name="lable_incoming_calls_except">Входящие вызовы в роуминге</string>
      <string name="lafs_disable">Расписание рейсов местного аэропорта отключено</string>
      <string name="lafs_enable">Расписание рейсов местного аэропорта включено</string>
      <string name="list_language_dtitle">Языки</string>
@@ -604,10 +613,11 @@
      <string name="messageCFU">Всегда переадресовывать вызов на этот номер</string>
      <string name="mhh_disable">Медицинские учреждения и больницы отключены</string>
      <string name="mhh_enable">Медицинские учреждения и больницы включены</string>
-     <string name="mismatchPin">Введенные коды PIN не совпадают. Повторите попытку.</string>
-     <string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повторите попытку</string>
-     <string name="mismatch_pin2_miui">Коды PIN2 не совпадают. Попробуйте еще раз.</string>
-     <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз.</string>
+     <string name="mismatchPin">Введенные коды PIN не совпадают. Повтори попытку.</string>
+     <string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повтори попытку</string>
+	 <string name="mismatch_password">Введенный пароль не совпадает. Попробуй еще раз.</string>
+     <string name="mismatch_pin2_miui">Коды PIN2 не совпадают. Попробуй еще раз.</string>
+     <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Попробуй еще раз.</string>
      <string name="missed_call_notify_five_times_miui">Пять раз</string>
      <string name="missed_call_notify_none_miui">Никогда</string>
      <string name="missed_call_notify_once_miui">Один раз</string>
@@ -629,13 +639,14 @@
      <string name="network_manage_settings">Настройки сети</string>
      <string name="network_message">Сообщение сети</string>
      <string name="network_query_error">Ошибка поиска сетей</string>
-     <string name="network_settings_sel_sub">Выберите подписку</string>
+     <string name="network_settings_sel_sub">Выбери подписку</string>
      <string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
      <string name="networks">Операторы связи</string>
      <string name="networks_title_miui">Оператор связи</string>
      <string name="newPin2Label">Новый PIN2</string>
      <string name="newPinLabel">Новый PIN</string>
-     <string name="new_cards_available">Доступна новая карта. Пожалуйста, настройте подписку.</string>
+     <string name="new_cards_available">Доступна новая карта. Пожалуйста, настрой подписку.</string>
+	 <string name="new_password_label">Новый пароль (4 цифры)</string>
      <string name="new_pin2_hint_miui">Новый PIN2</string>
      <string name="new_pin_hint_miui">Новый PIN-код</string>
      <string name="next_miui">Далее</string>
@@ -686,10 +697,10 @@
      <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="nw_unlock_success">SIM Network unlock successful.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="oldPin2Label">Прежний PIN2</string>
      <string name="oldPinLabel">Прежний PIN</string>
+	 <string name="old_password_label">Старый пароль (4 цифры)</string>
      <string name="old_pin2_hint_miui">Введите PIN2</string>
      <string name="old_pin_hint_miui">Текущий PIN-код</string>
      <string name="onHold">Ждет ответа</string>
@@ -748,6 +759,7 @@
 Повторите попытку или свяжитесь со службой поддержки."</string>
      <string name="other_settings">Другие настройки вызовов</string>
      <string name="other_settings_miui">РАЗНЫЕ НАСТРОЙКИ</string>
+	 <string name="password_changed">Пароль успешно изменен</string>
      <string name="password_title">Пароль</string>
      <string name="pause_prompt_no">Нет</string>
      <string name="pause_prompt_str">"Отправка тональных сигналов
@@ -1146,7 +1158,7 @@
      <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
      <string name="wild_prompt_str">Заменить универсальный символ на</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+	 <string name="wrong_password">Ошибка ввода пароля</string>
      <string name="xdivert_active">Active</string>
      <string name="xdivert_button">X-Divert Setting</string>
      <string name="xdivert_enternumber_error">Введите номер телефона для обоих подписок</string>
